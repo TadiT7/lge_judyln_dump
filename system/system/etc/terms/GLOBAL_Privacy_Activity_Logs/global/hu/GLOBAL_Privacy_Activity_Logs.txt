@@ -1,0 +1,63 @@
+﻿Adatvédelmi nyilatkozat a tevékenységi naplók használatával kapcsolatban
+
+Megjegyzés: A felhasználó az Adatvédelmi szabályzat elfogadásával felhatalmaz bennünket adatainak alább ismertetett módon történő felhasználására. Hozzájárulása önkéntes. Amennyiben azonban nem adja meg ezt a felhatalmazást, nem tudunk szolgáltatásokat nyújtani az Ön számára; Ebben az esetben az LG készülék-diagnosztikai jelentés-szolgáltatás („LG Szolgáltatás") bizonyos funkcióit nem fogja tudni használni. Hozzájárulásának feltételeihez bármikor hozzáférhet az LG Szolgáltatás alatt, és bármikor vissza is vonhatja azt a következő címre küldött üzenettel: mc.customer-service@lge.com
+
+1. Bevezető
+Az LG Electronics Inc. ("LGE" vagy "mi") elkötelezett abban, hogy megvédje azoknak a személyeknek vagy csoportoknak az információit, akik az LG Szolgáltatást használják. Az Adatvédelmi nyilatkozat meghatározza a szolgáltatások használata során általunk megszerzett adatok gyűjtésének, felhasználásának és megosztásának módját, és részletesen megszabja a következőket:
+- Milyen adatokat gyűjthet be Öntől az LGE vagy az LG Szolgáltatás;
+- Az LGE által gyűjtött információk felhasználása;
+- milyen esetekben osztja meg másokkal az információkat az LGE; és
+- Ön hogyan ellenőrizheti azt, hogy az LGE hogyan használja és osztja meg az Ön információit.
+
+Az LG Szolgáltatás hozzáférést biztosíthat szoftveralkalmazásokhoz, valamint kapcsolódási lehetőséget nyújtanak egyéb, harmadik személyek birtokában lévő és általuk elérhetővé tett szolgáltatásokhoz pl. operációs rendszerekhez és egyéb tartalmakhoz, valamint alkalmazások üzemeltetőihez. Ezek a harmadik személy által biztosított szolgáltatások nem tartoznak az Adatvédelmi szabályzat hatálya alá, és saját szabályzattal rendelkeznek, amely szabályozza a szolgáltatásukkal kapcsolatban felmerülő adatok gyűjtését, felhasználását, illetve megosztását. Arra bíztatjuk Önt, hogy olvassa el azokat a szabályzatokat. Az LGE nem felel sem erkölcsileg, sem jogilag az adott harmadik felek adatvédelmi gyakorlatáért.
+
+2. Az LGE milyen információkhoz jut hozzá?
+Az LGE a következő információkat fogja begyűjteni:
+① A mobileszköz állapota: a modell, a szoftververzió, az IMEI kód, sorozatszám, IMSI, a működési állapot, az akkumulátor állapota, a CPU/RAM/belső tárhely használata, az általános használati idő, hardver öndiagnosztizálás eredménye (Wi-Fi, BT, közelségérzékelő, fényérzékelő, ujjlenyomat érzékelő stb.)
+② A hálózat állapota: szolgáltatás állapota (hívás, adat), jelerősség, állomásadatok, hívásgyakoriság/idő
+③ Alkalmazások információi: a telepített és törölt alkalmazások listája, alkalmazásváltozat, mostanában használt alkalmazások, alkalmazás-használat gyakorisága/statisztikák 
+④ Mobiltelefon csatlakoztatási állapota: Wi-Fi, Bluetooth, GPS, fülhallgató, akkumulátortöltő, USB és SD-kártya csatlakoztatási állapotok
+⑤ Hibaadatok: lefagyott képernyő, nem szándékolt kikapcsolás, megszakadt hívások, alkalmazáshibák (végzetes, kivétel)
+
+3. Az LGE által gyűjtött információk felhasználása
+A gyűjtött adatokat olyan különböző célokra használjuk, mint:
+- a mobilkészülék azonosítása és diagnosztizálása;
+- ügyfélszolgálat biztosítása és szolgáltatás-előzmények kezelése; 
+- leküldéses üzenetek küldése; 
+- A minőség fejlesztése és az ügyfélelégedettség érdekében a szolgáltatás-/napló-/készülékelőzmények elemzése;
+
+A jelen Adatvédelmi nyilatkozattal összeegyeztethető célokra az Öntől kapott információkat, beleértve a személyes információkat is, kombinálhatjuk az Ön által számunkra más módon biztosított információkkal. 
+
+4. Adatok megosztása
+Általánosságban nem osztjuk meg harmadik személyekkel azokat az adatokat, amelyekhez az LG Szolgáltatás Ön által történő használatának eredményeképpen jutunk hozzá. Ennek ellenére, kérjük, ne feledje, hogy a következő esetekben kiadhatjuk az ilyen jellegű adatokat az alábbi entitások részére:
+- Partnerek és leányvállalatok. Az LGE a begyűjtés céljához szükséges mértékben megoszthatja a személyes és nem személyes információkat (beleértve a készülék információit is) a világszerte megtalálható társszervezeteivel és leányvállalataival. A ‘partner’ vagy ‘leányvállalat' olyan cégcsoportokra vonatkoznak, melyek az LG nevet használják, amelyek az LGE tulajdonában illetve irányítása alatt vannak, pl. LG CNS vagy LG Electronics U.S.A, INC.(„LGEUS");
+- Harmadik fél szolgáltatók. Az LGE által alvállalkoztatott harmadik fél szolgáltatók, akik az LGE nevében végzik tevékenységeiket, pl. az ügyfélszolgálatot biztosító vállalkozások;
+- Egyéb felek, ha a törvény megkívánja. Bírósági, más kormányzati vagy joghatósági megkeresésre, annak érdekében, hogy végrehajtsuk a törvény vagy jogszabály rendelkezéseit;
+- A vállalati tranzakcióban résztvevő további felek. Olyan vállalati eseménnyel kapcsolatban, mint a fúzió vagy az LGE üzletág (beleértve részleget vagy leányvállalatot) teljes vagy részleges értékesítése, amely esetén az LGE köteles megadni az információkat a lehetséges vevő és szakmai tanácsadói számára;
+- Szolgáltatásaink védelmét biztosító további felek. Annak érdekében, hogy megvédjük és óvjuk a jogainkat és tulajdonunkat, beleértve a jogi eljárás útján való jogérvényesítést is;
+- Egyéb felek, ha meg kell óvnunk bármely felhasználónk személyes biztonságát vagy tulajdonát. Annak érdekében, hogy megvédjük a felhasználóinkat vagy a közösség biztonságát és vagyontárgyait.
+
+A személyes adatai marketing célokra semmilyen körülmények között sem dolgozhatók fel vagy oszthatók meg külső felekkel.
+
+5. Külföldi adatátvitel
+Mi, a társvállalataink, leányvállalataink, és a beszállítóink a jelen Adatvédelmi nyilatkozatban körvonalazott bármely célra, az Ön készülékének használati helyétől eltérő országokban is, felhasználhatják azokat az LG Szolgáltatással kapcsolatban Ön által nyújtott információkat (beleértve a személyes információkat is). Ezen országok közül számos országban az adatvédelmi törvények nem biztosítják ugyanazt a védelmi szintet, mint az az ország, ahol Ön tartózkodik. Azonban, mielőtt továbbítanánk az Ön személyes információit, lépéseket teszünk annak érdekében, hogy az ilyen információk megkapják ugyanazt a színtű védelmet. A felhasználó az Adatvédelmi szabályzat elfogadásával kifejezetten hozzájárul ahhoz, hogy mi, üzleti partnereink és beszállítóink feldolgozzák adatait bármely országban, ideértve de nem korlátozva Koreára és az Amerikai Egyesült Államokra, ezzel az Adatvédelmi szabályzattal összhangban. 
+
+6. Mennyi ideig tárolja az LGE személyes adataimat?
+Minden szükséges lépést megteszünk annak érdekében, hogy mindaddig megőrizzük személyes adatait, amíg szükség lehet rájuk az LG Szolgáltatás biztosításához vagy a begyűjtés céljának teljesítéséhez, vagy ahogy azt a vonatkozó törvények előírják.
+
+7. Biztonság
+Ésszerű kereskedelmi erőfeszítések mellett óvjuk személyes adatainak bizalmas jellegét. Azonban, az internet felépítése, a folytonosan fejlődő technológia és a tőlünk független tényezők miatt nem mindig garantálhatjuk az Ön és a kiszolgálóink közötti kommunikáció titkos jellegét, és azt hogy kiszolgálóink esetében nem történik engedélyezetlen hozzáférés harmadik fél által, illetve biztonsági rendszer feltörése. Hibás átvitel, illetve harmadik fél engedélyezetlen vagy törvényellenes cselekedete esetében, mely következtében megtörténik személyes adatainak közzététele, minket semmilyen felelősség nem terhel.
+
+8. Gyermekek adatvédelme
+A gyermekek adatvédelme fontos a számunkra. Éppen ezért az LG Szolgáltatás nem irányul 14 éven aluliakra vagy adott joghatóság szerinti kiskorúakra, és nincs speciálisan úgy kialakítva, hogy vonzza a 14 éven aluliakat vagy adott joghatóság szerinti kiskorúakat. Nem gyűjtünk, illetve kezelünk továbbá szánt szándékkal személyes adatokat 14 év alatti felhasználókról. Ha tudomásunkra jut vagy értesítenek minket, hogy 14 éven aluli vagy adott joghatóság szerint kiskorú felhasználók adataihoz jutottunk hozzá, mi azonnal töröljük az ilyen személyes információkat.
+
+9. Az LGE Adatvédelmi nyilatkozat módosításai
+Jelen adatvédelmi szabályzatot az LGE időről időre frissítheti. Ha lényeges változtatást eszközlünk az Adatvédelmi nyilatkozat, akkor az LG webhelyén keresztül vagy más módon értesítjük Önt. Amennyiben nem járul hozzá a módosított adatvédelmi szabályokhoz, az LG Szolgáltatás korlátozódhat.
+
+10. Hozzáférés az Ön információihoz 
+Egyes joghatósági területeken jogában áll részleteket kérni arról, hogy az LGE milyen személyes adatokat gyűjt be és a személyes adatokkal kapcsolatos pontatlanságok helyesbítését kérheti, illetve törvényes okokból megtilthatja személyes adatainak feldolgozását. Ha a törvény megengedi, az ilyen szolgáltatásért kis mértékű díjat számolhatunk fel. Kérjük, vegye figyelembe, hogy az ilyen kérések feldolgozását elutasíthatjuk, ha azok indokolatlanul sértőek, mások jogait sértik vagy kifejezetten nem praktikusak. Ha személyes adatai elérését, helyesbítését, törlését vagy a feldolgozás megszüntetését szeretné kérni, vegye fel velünk a kapcsolatot az mc.customer-service@lge.com címen.
+
+11. Kapcsolatfelvétel az LGE vállalattal az Adatvédelmi nyilatkozattal kapcsolatban
+Amennyiben bármilyen kérdése merülne fel ezzel az Adatvédelmi szabályzattal kapcsolatban, kérjük, vegye fel velünk a kapcsolatot az [mc.customer-service@lge.com] címen.
+
+Utoljára frissítve: 2017. június 22.

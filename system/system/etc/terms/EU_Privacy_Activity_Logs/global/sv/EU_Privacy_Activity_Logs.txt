@@ -1,0 +1,79 @@
+﻿Sekretesspolicy för användning av aktivitetsloggar
+
+Den här sekretesspolicyn beskriver hur LGE får åtkomst till och använder din personliga information i kontexten för LG Device Diagnostics Report Services. Läs den noggrant innan du använder LG Device Diagnostics Report Services.
+
+1. Introduktion
+LG Electronics Inc. (”LGE” eller ”vi”) är angelägna om att skydda information som tillhör sådana individer och grupper som använder LG PC-/Mac-programvaran. Denna LG Device Diagnostics Report Services tillhandahåller en fjärranslutningstjänst (”tjänsterna”).
+Denna integritetspolicy anger hur vi samlar in, använder och delar information som vi inhämtar i anslutning till din användning av tjänsterna, och anger i synnerhet:
+
+– vilken information som LGE kan erhålla av dig
+– hur LGE använder den information som samlas in
+– När LGE delar informationen med andra; och
+– Hur du kan kontrollera LGE:s användning och delning av din information.
+
+Din enhet eller LG Device Diagnostics Report Services kan tillhandahålla åtkomst till programvara och länkar till andra tjänster som ägs och drivs av tredje parter, inklusive operativsystemleverantörer och andra innehålls- och programleverantörer. Dessa tjänster från tredje part omfattas inte av denna sekretesspolicy utan har egna policyer som gäller för insamling, användning och delning av information i anslutning till deras tjänster. Vi rekommenderar att du läser dessa policier. LGE ansvarar inte för sekretesspolicyn från sådana tredje parter.
+
+2. Vilken information samlar LGE in?
+Uppdateringscenter gör det möjligt för dig att göra LGE-mjukvaran och LGE-applikationerna uppdaterade.
+– Mobil enhetsstatus: Modell, mjukvaruversion, IMEI, serienummer, IMSI, strömstatus, batteristatus, CPU/RAM/intern lagringsanvändning, genomsnittlig användningstid, hårdvarusjälvdiagnosresultat (Wi-Fi, BT, närhetssensor, ljussensor, fingeravtryckssensor, etc.)
+– Nätverksstatus: Tjänstestatus (samtal, data), signalstyrka, stationsinformation, samtalsfrekvens/tid
+– Applikationsinformation: Listan över installerade och raderade appar, appversion, senast verkställda appar, appanvändningsfrekvens/statistik 
+– Anslutningsstatus för mobiltelefon: Wi-Fi, Bluetooth, GPS, hörlursuttag, batteriladdare, USB, och status för SD-kortanslutning
+– Felinformation: Fryst skärm, oavsiktliga avstängningar, frånkopplade samtal, programfel (kritiska, undantag)
+
+3. Hur använder LGE informationen som hämtas?
+Vi använder information som erhålls från din användning av tjänsterna i olika syften, t.ex. att:
+
+- För att identifiera och diagnostisera mobil enhet
+- För att utföra kundtjänster och hantera tjänstehistorik 
+- För att skicka push-meddelanden. 
+- För att analysera tjänst/loggar/enhetshistorik för förbättrad kvalitet och ökad kundnöjdhet
+
+Vi kan kombinera information som inhämtats via din användning av tjänsterna, däribland personuppgifter, med information som du tillhandahåller åt oss på andra sätt för ovanstående syften.
+
+Den juridiska grunden på vilken LGE förlitar sig på behandlar din personliga information typiskt på ett av följande sätt;
+
+– Avtal: där det krävs för att skapa ett avtal med dig;
+– Juridiska intressen: där det krävs i syfte för LGE eller en tredje parts juridiska affärsintressen. För LGE inkluderar detta intressen i egenskap av elektronisk produkttillverkare och tjänsteleverantör;
+– Samtycke: där du har valt att uppge det. Du har rätten att dra tillbaka ditt samtycke när som helst; eller
+– Juridiskt åtagande: där behandling krävs för efterlevnad av dina juridiska krav
+
+Informationen som ges i olika delavsnitt nedan indikerar vilka av de juridiska grunderna ovan som den vilar på i relation till andra kategorier av personlig information.
+
+4. Informationsdelning
+Filialer och dotterbolag. LGE kan dela personlig och icke personlig information med sina dotterbolag och filialer jorden runt i de syften som beskrivs i den här Sekretesspolicyn. Termen‘filialer’ eller ‘dotterbolag’ hänvisar till en grupp företag som kan använda LG:s namn eller som har gemensamt ägande eller kontroll, såsom LG CNS eller LG Electronics France S.A.R.L.
+
+Observera att vi kan dela ytterligare information med följande enheter:
+- Tjänsteleverantörer från tredje part. Vi kan dela din personliga information och icke-personliga information med tredjepartstjänsteleverantörer för att aktivera LG Device Diagnostics Report Service;
+
+Samtidigt som vi i allmänhet inte lämnar ut information till ytterligare tredje parter, ska du observera att i följande specifika fall kan vi lämna ut ytterligare information med följande enheter:
+- Andra parter när lagen kräver det. Enligt det som krävs för domstolsordern eller annan myndighet eller lagefterlevande myndigheter för att uppfylla den juridiska processen eller lagen;
+- Andra parter kopplade till företagstransaktioner. I anslutning till en företagshändelse, såsom en fusion eller försäljning av hela eller delar av LGE:s företag (inklusive en avdelning eller ett dotterbolag), där LGE kan behöva lämna ut information till en potentiell köpare och dess professionella rådgivare;
+- Andra parter när så krävs för att skydda våra tjänster. För att skydda och bevara våra rättigheter och vår egendom, inklusive genom juridiska processer:
+- Andra parter när det handlar om att skydda våra användares säkerhet eller egendom. För att skydda personlig säkerhet eller egendom för våra användare eller allmänheten.
+
+Under inga omständigheter ska din personliga information behandlas i marknadsföringssyfte och inte heller delas med tredje part i marknadsföringssyfte.
+
+5. Överföringar av personliga data
+Vi, våra filialer, dotterbolag och leverantörer kan använda information (inklusive din personliga information) i andra länder än där din enhet är placerad kopplat till att tillhandahålla dig LG Device Diagnostics Report Services och i andra syften som beskrivs i den här sekretesspolicyn. Dataskyddslagarna i många av dessa länder kan inte erbjuda samma grad av skydd som de i landet där du finns. Innan du överför din personliga information vidtar vi dock följande steg för att säkerställa att sådan information får samma skyddsnivå. För ytterligare information kring hur vi hanterar och skyddar din personliga Information, kontakta oss på mc.customer-service@lge.com. 
+
+6. Hur länge sparar LGE min personliga information?
+Vi sparar din personliga information så länge det behövs för att kunna tillhandahålla tjänsten eller i andra syften som anges i denna sekretesspolicy. Vi tillämpar kriterier för att fastställa lämplig sparandeperiod för olika kategorier av personlig information du tillhandahåller till oss. Exempelvis sparar vi information som är nödvändig för att skydda oss juridiskt, såsom information gällande avtal, under hela avtalets livslängd och upp till ett år senare. Efter den här perioden raderas det eller anonymiseras. I de fall där vi har samlat in personlig information baserad på ditt samtycke och vi inte har någon juridisk grund att fortsätta med behandlingen, om du i efterhand drar tillbaka ditt samtycke, kommer vi att radera din personliga information.
+Om du begär att din personliga information ska raderas permanent på grund av att den inte längre behövs, eller baserat på en invändning mot bearbetning eller krav på att bearbetningen är olaglig, har du tätt att söka förbud för bearbetninge under tiden vi verifierar begäran om raderingen.
+
+7. Säkerhet
+Vi använder kommersiellt skäliga ansträngningar för att skydda sekretessen och säkerheten i din personliga information. Inte desto mindre, på grund av utformningen av Internet, ständigt föränderlig teknik och andra faktorer som ligger bortom vår kontroll, kan vi inte garantera att kommunikationer mellan dig och våra servrar sker fritt från obehörig åtkomst från tredje part eller att vi inte utsätts för säkerhetsbrott. Vi tar inget ansvar för utlämning av personlig information på grund av fel i överföring eller obehörig eller olaglig aktivitet från tredje part.
+
+8. Skydda sekretessen för barn
+Det är viktigt för oss att skydda sekretessen för barn. Av den orsaken är ingen av våra tjänster riktad till eller utformad för att locka någon under 16 år eller den ålder som är i majoritet i relevant jurisdiktion. Vi samlar heller inte medvetet in eller sparar personlig information från användare under 16 år eller åldern hos majoriteten i relevant jurisdiktion. Om vi skulle få information om att vi har samlat in information från användare under 16 år eller majoriteten i relevant jurisdikation, kommer vi omedelbart att radera sådan personig information
+
+9. Ändringar i LGE:s sekretesspolicy
+Den här sekretesspolicyn kan uppdateras av LGE med jämna mellanrum. Om vi gör en betydande ändring i vår sekretesspolicy meddelar vi dig om uppdateringen, antingen via tjänsterna eller på något annat sätt. Du kan bli ombedd att uppmärksamma eller godkänna den reviderade sekretesspolicyn för att fortsätta använda tjänsterna.
+
+10. Få åtkomst till din information och dina rättigheter 
+I enlighet med vissa lagar i vissa jurisdiktioner kan det förekomma rättigheter att få åtkomst till, korrigering eller radering av, personlig information som LGE har om dig eller rätten att göra invändningar eller begränsa vissa typer av bearbetning av din personliga information (eller att dra tillbaka ditt samtycke till LGE-bearbetning), eller att ta emot ett maskinläsningsbart exemplar av din personliga information. Om det tillåts enligt lag tillämpas ibland en liten avgift för att erbjuda dig en sådan tjänst. Observera att vi kan neka till behandling av ditt ärende om det innebär oskäliga överträdelser, stör sekretessen för andra, eller är extremt opraktiskt (om det tillåts enligt tillämplig lag). För ytterligare information eller för att utöva någon av dessa rättigheter, kontakta oss på mc.customer-service@lge.com.
+
+11. Kontakta LGE angående denna sekretesspolicy
+Om du har några frågor eller kommentarer om denna sekretesspolicy eller behandlingen av dina personuppgifter av LGE, vänligen kontakta vår dataskyddspersonal på: dpo-eu@lge.com. Dessutom har du rätt att lämna ett klagomål till dataskyddsmyndigheten, även om vi uppmanar dig att först kontakta oss direkt för att lösa eventuella problem.
+
+Senast uppdaterad: 1 mars, 2018

@@ -1,0 +1,8 @@
+﻿Zustimmung zu den Sprachinformationen des Nutzers für die automatische Spracherkennung durch Google („ASR“) 
+
+Dieser Parking Assistant („Dienst“) verwendet Google ASR, eine Funktion von Google, Inc. („Google“), die es uns ermöglicht, eine Benutzersprachinformationen in Text zu konvertieren.
+Sprachinformationen für Ihre Nutzung des Dienstes werden an Google übertragen und dort gespeichert. Google wird diese Informationen verwenden, um Ihre Sprachinformationen in Textinformationen umzuwandeln und die Textinformationen an LGE zu übermitteln.
+Alle von ASR erfassten Informationen unterliegen den Datenschutzrichtlinien von Google, die unter (https://www.google.com/policies/privacy/) eingesehen werden können.
+Sie können die Verwendung von ASR deaktivieren, indem Sie diese Dienste im Menü "Optionen Menü - Rechtliche Hinweise" widerrufen.
+LGE erhebt und/oder verwendet niemals personenbezogene Informationen, einschließlich Benutzersprachinformationen, und verwendet ausschließlich persönlich nicht identifizierbare Informationen, wie z.B. Textinformationen, für den Dienst.
+Darüber hinaus wird LGE niemals (und wird es keiner dritten Partei erlauben) Textinformationen verwenden, um persönlich identifizierbare Informationen über Besucher dieses Dienstes zu verfolgen oder zu erfassen und wird Daten, die über diesen Dienst erfasst werden, mit keinen persönlich identifizierbaren Informationen aus einer beliebigen Quelle verknüpfen.

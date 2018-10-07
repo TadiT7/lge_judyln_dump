@@ -1,0 +1,3 @@
+﻿Praeguse asukohainfo kasutamine
+
+LGE võib kasutada seadmesse salevstatud asukohainfot (GPS, Wi-Fi ja mobiilsete kommunikatsioonivõrkude abil), et hankida infot seadme praeguse asukoha kohta. LGE salvestab “praegust asukohainfot" ainult sisemiselt, kasutaja seadmesse ja ei kogu, salvesta ega hoiusta infot oma serverites. Isegi kui annate ülaltoodule nõusoleku, pakutakse teenust ainult juhul, kui kasutaja lubab Google asukoha funktsiooni ja "praeguse asukohainfo" teenust saab igal ajal muuta iga teenuse, mis kasutab "praeguse asukoha infot" sätete menüüs.

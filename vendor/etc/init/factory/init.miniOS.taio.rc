@@ -1,0 +1,180 @@
+#################################################################
+# H3.0 TAIO executable process
+
+service taio_result /sbin/python /factory/minios/run.py apps.h30.h30_taio.result.taio_result
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_wifi /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_wifi
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_otg /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_otg
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_nfc /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_nfc
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_irrc /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_irrc normal
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_irrc1 /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_irrc hdmi
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_irrc2 /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_irrc end
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_irrc3 /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_irrc otg
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_sensor /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_sensor
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_ems_server /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_ems_server
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_audio /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_audio
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_cameramain /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_cameramain
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_cameravt /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_cameravt
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_camcorder /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_camcorder
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_led_display /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_led_display
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_vibrator /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_vibrator
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_touch_draw /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_touch_draw
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_hdmi /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.hdmi.taio_hdmi hdmi
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_oneseg /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.hdmi.taio_hdmi oneseg
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_appsport /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_appsport
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service taio_pen /sbin/python /factory/minios/run.py apps.h30.h30_taio.test.taio_pen
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service vi_camera_a /sbin/vi_camera_a
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service vi_camera_b /sbin/vi_camera_b
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service vi_camera_c /sbin/vi_camera_c
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service vi_camera_d /sbin/vi_camera_d
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+on property:taio.start=1
+    start taio_result

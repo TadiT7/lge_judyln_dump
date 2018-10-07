@@ -1,0 +1,63 @@
+﻿wkDatenschutzrichtlinie für die Verwendung von Aktivitätsprotokollen
+
+Hinweis: Indem Sie dieser Datenschutzrichtlinie zustimmen, erteilen Sie uns Ihre Erlaubnis, Ihre Daten gemäß den folgenden Beschreibungen zu benutzen. Ihr Einverständnis ist freiwillig. Wenn Sie jedoch nicht zustimmen, sind wir nicht in der Lage, Dienste für Sie zu erbringen; in diesem Fall können Sie bestimmte LG Device Diagnostics Report-Dienste nicht verwenden. Sie können die Bedingungen, deren Geltung Sie zugestimmt haben, jederzeit im LG-Dienst einsehen und Ihre Zustimmung jederzeit widerrufen, indem Sie eine entsprechende Nachricht an folgende Adresse senden: mc.customer-service@lge.com
+
+1. Einführung
+LG Electronics, Inc. („LGE“ oder „wir“) verpflichtet sich, für den Schutz der Informationen von Personen und Gruppen zu sorgen, welche den darin enthaltenen LG-Dienst verwenden. Diese Datenschutzrichtlinie legt dar, wie wir Informationen, die wir als Resultat der Benutzung der Dienste erhalten, erfassen, verwenden und weitergeben, insbesondere:
+- welche Daten LGE von Ihnen oder dem LG-Dienst möglicherweise erhält;
+- Wie LGE die erhaltenen Daten nutzt;
+- Wann LGE Daten an Dritte weitergibt; sowie
+- Wie Sie die Verwendung und die Weitergabe Ihrer Daten durch LGE kontrollieren können.
+
+Der LG-Dienst bietet einen möglichen Zugriff auf Softwareanwendungen und Links zu anderen Diensten, die Dritten gehören und von diesen betrieben werden, einschließlich Betriebssystemanbietern und weiteren Anbietern von Inhalten und Anwendungen. Diese Dienste von Drittanbietern fallen nicht in den Geltungsbereich dieser Datenschutzrichtlinie, sondern werden durch eigene Richtlinien geregelt, die für die Erfassung, Verwendung und Weitergabe von Informationen im Zusammenhang mit diesen Diensten gelten. Wir empfehlen Ihnen, diese Richtlinien zu lesen. LGE ist für die Datenschutzpraktiken von Dritten weder verantwortlich noch haftbar.
+
+2. Welche Informationen erhält LGE?
+LGE erfasst die folgenden Informationen:
+① Status des mobilen Geräts: Modell, Softwareversion, IMEI, Seriennummer, IMSI, Stromversorgungsstatus, Akkustatus, CPU/RAM/interne Speicherauslastung, durchschnittliche Nutzungsdauer, Hardware-Selbstdiagnoseergebnis (Wi-Fi, BT, Näherungssensor, Beleuchtungssensor, Fingerabdrucksensor, usw.)
+② Netzwerkstatus: Dienststatus (Anruf, Daten), Signalstärke, Stationsinformationen, Anrufhäufigkeit/-zeitpunkt
+③ Anwendungsinformationen: Die Liste der installierten und gelöschten Apps, App-Version, zuletzt ausgeführte Apps, Häufigkeit/Statistiken der App-Nutzung 
+④ Mobiltelefonverbindungsstatus: Wi-Fi-, Bluetooth-, GPS-, Ohrhörer-, Akkuladegerät-, USB- und Speicherkarten-Verbindungsstatus
+⑤ Fehlerinformationen: Eingefrorener Bildschirm, unbeabsichtigte Ausschaltungen, unterbrochene Anrufe, Anwendungsfehler (schwerer Ausnahmefehler)
+
+3. Wie verwendet LGE die erhaltenen Informationen?
+Die von Ihnen erhaltenen Informationen werden von uns für verschiedene Zwecke verwendet, einschließlich:
+- Zur Identifizierung und zur Diagnose eines Mobilgeräts
+- Um Kundendienste zu erbringen und den Dienstverlauf zu verwalten 
+- Um Push-Nachrichten zu senden 
+- Um Dienst-/Protokoll-/Geräteverlauf für eine verbesserte Qualität und Kundenzufriedenheit zu analysieren
+
+Informationen, die wir von Ihnen erhalten, einschließlich personenbezogener Daten, mit Informationen, die Sie uns auf andere Weise zur Verfügung stellen, können zu Zwecken, die mit dieser Datenschutzrichtlinie im Einklang stehen, von uns zusammengeführt werden. 
+
+4. Weitergabe von Informationen
+In der Regel teilen wir keine Informationen, die aus Ihrer Verwendung des LG-Dienstes herstammen, mit Drittanbietern. Bitte beachten Sie dennoch die folgenden Umstände, unter denen wir diese Daten an die folgenden Unternehmen weitergeben können:
+- Zweigniederlassungen und Tochtergesellschaften. LGE darf personenbezogene und nicht personenbezogene Informationen (einschließlich Geräteinformationen) an seine verbundenen Unternehmen und Tochtergesellschaften auf der ganzen Welt nur so lange weitergeben, wie dies für die Zwecke, für die sie erhoben wurden, erforderlich ist. Der Begriff „verbundene Unternehmen“ oder „Tochtergesellschaften“ bezieht sich auf Konzernunternehmen, die möglicherweise den LG Namen tragen oder ein gemeinsames Eigentum oder eine gemeinsame Steuerfunktion, wie z.B. LG CNS oder LG Electronics U.S.A., INC. („LGEUS“) haben;
+- Drittanbieter von Diensten. An Drittanbieter, an denen sich LGE für die Erfüllung von Kundenanfragen von Zeit zu Zeit für die Bereitstellung von Dienstleistungen in seinem Namen beteiligen kann;
+- Weitere Parteien, falls dies gesetzlich vorgeschrieben ist. Wenn dies durch gerichtliche Anordnung oder sonstigen Regierungs- oder Vollzugsbehörden erforderlich wird, um rechtlichen Verfahren oder dem Gesetz Genüge zu tun;
+- Weitere Parteien im Zusammenhang mit Unternehmenstransaktionen. Im Zusammenhang mit einem Ereignis des Unternehmens, etwa einer Verschmelzung oder dem Verkauf des ganzen oder Teile des Geschäftsbetriebes der LGE (einschl. dem einer Sparte oder einer Tochtergesellschaft), anlässlich dessen LGE einem potentiellen Käufer sowie dessen professionellen Beratern gegenüber gezwungen ist, Informationen bekannt zu geben;
+- Weitere Parteien, falls dies notwendig ist, um unsere Dienste zu schützen. Zum Schutz unserer Rechte und unseres Eigentums, dies auch auf gerichtlichem Wege;
+- Mit anderen Parteien, falls dies zu irgendeinem Schutz der persönlichen Sicherheit oder um das Eigentum unseres Benutzers zu schützen, notwendig ist. Um die persönliche Sicherheit oder das Eigentum unserer Benutzer oder der Öffentlichkeit zu schützen.
+
+Unter keinen Umständen dürfen Ihre personenbezogenen Informationen zu Marketingzwecken verarbeitet, oder mit Dritten für Werbezwecke geteilt werden.
+
+5. Datentransfer ins Ausland
+Wir, unsere verbundenen Unternehmen, Tochtergesellschaften und Lieferanten können Informationen (einschließlich Ihrer personenbezogenen Daten) in anderen Ländern im Zusammenhang mit der Bereitstellung unseres LG PC Suite-Dienstes und für weitere in dieser Datenschutzrichtlinie beschriebenen Zwecke verwenden, jedoch nicht in demjenigen, in dem sich Ihr Gerät befindet. Die Datenschutzgesetze vieler dieser Länder bieten möglicherweise nicht dasselbe Maß an Schutz wie das Land, in dem Sie sich befinden. Bevor wir jedoch Ihre personenbezogenen Daten weitergeben, werden wir Schritte unternehmen, die sicherstellen, dass diese Informationen den gleichen Schutz genießen. Durch Ihre Zustimmung zur vorliegenden Datenschutzrichtlinie erlauben Sie uns und unseren Geschäftspartnern sowie Zulieferern ausdrücklich, Ihre Daten gemäß dieser Datenschutzrichtlinie unter jeder beliebigen Gerichtsbarkeit zu verarbeiten, einschließlich und insbesondere in der Republik Korea oder in den Vereinigten Staaten von Amerika. 
+
+6. Wie lange bewahrt LGE meine personenbezogenen Informationen auf?
+Wir werden angemessene Maßnahmen ergreifen, um sicherzustellen, dass wir die Sie betreffenden personenbezogenen Daten so lange vorhalten, wie dies für unsere Erbringung des LG-Dienstes oder zur Erreichung des bei der Datenerhebung ursprünglich vorgesehenen Zwecks oder zur Erfüllung der Vorgaben der einschlägigen Gesetze erforderlich ist.
+
+7. Sicherheit
+Wir verwenden kommerziell angemessene Praktiken, um die Vertraulichkeit Ihrer personenbezogenen Informationen sicherzustellen. Dennoch können wir, aufgrund der Entwicklung des Internets, der sich ständig verändernden Technologien und aufgrund anderer Faktoren, die sich unserer Kontrolle entziehen, nicht garantieren, dass die Kommunikation zwischen Ihnen und unseren Servern von unautorisierten Zugriffen Dritter frei bleiben werden oder dass wir nicht Opfer von Sicherheitslücken werden. Wir übernehmen keine Verantwortung für das Bekanntwerden personenbezogener Informationen infolge von Übertragungsfehlern oder unautorisierten oder ungesetzlichen Handlungen durch Drittparteien.
+
+8. Der Schutz der Privatsphäre von Kindern
+Der Datenschutz bei Kindern ist uns wichtig. Aus diesem Grund richtet sich der LG-Dienst weder an Personen, die jünger als 14 Jahre alt sind oder in der jeweiligen Gerichtsbarkeit noch keine Volljährigkeit erreicht haben, noch ist er speziell darauf ausgerichtet, auf Personen unter 14 Jahren anziehend zu wirken. Auch erfassen und speichern wir wissentlich keine personenbezogenen Daten von Nutzern, die jünger als 14 sind. Sollten wir Kenntnis davon erhalten oder benachrichtigt werden, dass wir Informationen von Nutzern, die ein Alter unter 14 Jahren aufweisen oder unter der Volljährigkeit in der jeweiligen Gerichtsbarkeit erfasst haben, werden wir diese personenbezogenen Daten umgehend löschen.
+
+9. Änderungen der Datenschutzrichtlinien von LGE
+Diese Datenschutzrichtlinie kann von Zeit zu Zeit durch LGE aktualisiert werden. Sollten wir wesentliche Bestandteile unserer Datenschutzrichtlinie ändern, werden wir Sie über die LG-Website oder auf andere Weise auf den neuesten Stand bringen. Sollten Sie der aktualisierten Datenschutzrichtlinie Ihre Zustimmung verweigern, kann der LG-Dienst möglicherweise eingeschränkt sein.
+
+10. Zugriff auf Ihre Informationen
+Im Rahmen der Gesetze einiger Rechtsprechungen haben Sie das Recht darauf, Einzelheiten zu Ihren personenbezogenen Informationen anzufordern, die von LGE gesammelt werden. Sie dürfen dabei Ungenauigkeiten in Ihren personenbezogenen Informationen korrigieren lassen oder andernfalls, aus legitimen Gründen, der Verarbeitung Ihrer personenbezogenen Informationen widersprechen. Sofern gesetzlich zulässig kann Ihnen für diese Dienste eine geringe Gebühr in Rechnung gestellt werden. Bitte beachten Sie, dass wir die Bearbeitung Ihrer Anfragen ablehnen können, falls diese uns als in unangemessener Weise missbräuchlich erscheinen, die Privatsphäre anderer gefährden oder sich als äußerst unpraktisch herausstellen. Falls Sie eine Anfrage für einen Zugang, Berichtigung, Löschung und Widerspruch auf die Verarbeitung Ihrer personenbezogenen Informationen machen möchten, wenden Sie sich bitte an mc.customer-service@lge.com.
+
+11. Kontaktaufnahme mit LGE bezüglich dieser Datenschutzrichtlinie
+Wenn Sie weitere Fragen oder Anmerkungen zu dieser Datenschutzrichtlinie haben, dann kontaktieren Sie bitte mc.customer-service@lge.com.
+
+Zuletzt aktualisiert: 22. Juni 2017

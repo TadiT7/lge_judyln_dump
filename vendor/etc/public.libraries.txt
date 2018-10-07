@@ -1,0 +1,7 @@
+# For All Devices <- vendor/lge/system/core/rootdir/etc/public.libraries.lg.txt
+# Device <- 
+# Product <- 
+# Vendor(QCT/MTK) <- vendor/qcom/proprietary/common/config/public.libraries.txt
+libqti-perfd-client.so
+libadsprpc.so
+libsdsprpc.so

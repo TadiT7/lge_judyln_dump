@@ -1,0 +1,109 @@
+﻿Gizlilik ilkesi
+
+Bu Gizlilik ilkesi, LGE'nin Kişisel Bilginize Yazılım Güncelleme Servisi bağlamında nasıl erişip kullanacağını açıklamaktadır. Yazılım Güncelleştirme Hizmetini kullanmadan önce lütfen dikkatle okuyun.
+
+1.	Giriş
+("LGE" veya "biz"), LGE cep telefonlarını kullanan kişiler ve grupların bilgilerini korumaya son derece gayret ederiz. Bu Gizlilik ilkesi, LGE cep telefonundan nasıl bilgi topladığımızı, kullandığımızı ve paylaştığımızı belirtir ve özellikle şunları belirtir:
+-	FOTA Yazılım Güncellemelerine Genel Bakış;
+-	LGE’nin sizden alabileceği bilgiler;
+-	LGE’nin sizden elde ettiği bilgileri nasıl kullanacağı;
+-	LGE’nin başkalarıyla ne zaman bilgi paylaşacağı; 
+-	Kişisel verilerin yurtdışı transferleri
+-	LGE kişisel bilgilerimi ne kadar süreyle saklayacak?
+-	Güvenlik
+-	Reddetme veya Rızayı Geri Çekme Hakkı
+-	Çocukların Gizliliğini Korumak
+-	LGE'nin Gizlilik ilkesi'nda yapılan değişiklikler
+-	Bilgilerinize Erişme
+-	Bir Şikayet Oluşturma Hakkı; ve
+-	Bu Gizlilik ilkesi hakkında LGE ile bağlantı kurma
+
+Bu politika yalnızca Uzaktan-Yerleşik Yazılım (“FOTA”) prosesi (bir “Yazılım Güncellemesi”) ile LGE cep telefonunuzdan yerleşik yazılım güncellemesi için LGE tarafından toplanan bilgiler için geçerlidir. Bu politika, LGE tarafından sunulan mobil uygulamalar da dahil olmak üzere, LGE tarafından sağlanan diğer ürünler veya hizmetler için geçerli değildir. Bu politika, işletim sistemi sağlayıcıları, diğer içerik veya uygulama sağlayıcıları veya şebeke operatörünüz dahil üçüncü taraflar tarafından sunulan herhangi bir ürün veya hizmet için de geçerli değildir. Bu Gizlilik ilkesinın kapsamı dışındaki ürünler ve hizmetler için bilgiyi toplamak, kullanmak ve paylaşmak için kullandığı kendi politikaları vardır ve bu politikaları okumanızı öneririz. LGE üçüncü şahısların gizlilik uygulamalarından sorumlu veya yükümlü değildir.
+
+Yakın zamanda bu cep telefonunu satın aldıysanız, cep telefonunuzun düzgün şekilde çalıştığından emin olmak ve en güncel özellikler, fonksiyonlar ve güvenlik ayarlarına sahip olduğundan emin olmak için, kullanmadan önce bu Gizlilik ilkesinda açıklandığı gibi bir Yazılım Güncellemesi gerçekleştirmeniz gerekir. Herhangi bir sorunuz varsa, lütfen bu Politikada belirtildiği şekilde bizimle iletişime geçin.
+
+Bu Politika, incelemeniz için istediğiniz zaman [Ayarlar – Sistem – Telefon hakkında – Yasal bilgiler – LG Yazılımı için Yasal Belgeler – Gizlilik ilkesi] bölümünde mevcuttur.
+
+Bu Gizlilik ilkesi'nın herhangi bir çevirisi yerel gereklilikler için yapılır ve İngilizce ile İngilizce olmayan herhangi bir versiyon arasında bir uyuşmazlık olması durumunda, bu Politikanın İngilizce versiyonu, kendi yargı alanınızdaki geçerli yasaların izin verdiği ölçüde geçerli olacaktır.
+
+2.	FOTA Yazılım Güncellemelerine Genel Bakış
+Cep telefonunuzdaki LGE yerleşik yazılımda ("Yazılım") zaman zaman LGE tarafından sağlanan güncellemeler veya tamamlayıcılar gerektirebilir veya LGE, Yazılıma eklenti bileşenler sağlayabilir. Bir Yazılım Güncellemesi gerçekleştirmek, bu güncellemeleri, tamamlayıcıları veya ek bileşenleri sağlamak için cep telefonunuza yeni Yazılım yükleyecektir. Yazılım Güncellemeleri yeni özellikler veya işlevler ekleyebilir ve sınırlı durumlarda mevcut özellikleri veya işlevleri kaldırabilir. Yazılım Güncellemesini tamamladıktan sonra, Yazılımın önceki yüklü sürümünü kullanamayabilir ve geri yükleyemeyebilirsiniz. 
+
+Yazılım Güncelleme bir FOTA prosesi ile yapıldığı için, şebeke operatörünüze ve servis planınıza bağlı olarak, yeni Yazılımı bir hücresel ağ şebekesi üzerinden indirirseniz ek ücretlere yol açabilir. Yazılım Güncellemeleri için hücresel ağ verilerini kullanmaktan kaçınmak için, lütfen Ayarlar altındaki "Yalnızca Wi-Fi" seçeneğini seçin. 
+
+a.	Gelecekteki Yazılım Güncellemelerini yönetmek için seçenekleriniz
+Bu FOTA Gizlilik ilkesi'nı kabul ettiğinizde, cep telefonunuz zaman zaman yeni veya güncelleştirilmiş Yazılım varsa kontrol edecek ve kullanılabilir olduğunda yeni veya güncellenmiş Yazılımları otomatik olarak kuracaktır ("Otomatik olarak kontrol edin" işlevi). Yazılım kurduktan sonra, cep telefonunuzda bir açılır pencere uyarısı veya uyarı mesajı kullanarak sizi uyarırız. Yazılımı uygulamadan önce Yazılım Güncellemesini kabul etme veya reddetme seçeneğiniz olacaktır. Cep telefonunuz ayrıca, kurulan Yazılımı otomatik olarak gece yarısında yükleyecektir (“Otomatik güncellemeler" işlevi). "Otomatik olarak kontrol edin" ve "Otomatik güncellemeler" işlevlerini [Ayarlar – Sistem – Güncelleme Merkezi – Yazılım güncelleme – Fazlalık menüsünü – Ayarlar] bölümünden reddedebilirsiniz. Otomatik olarak kontrol edin etmeyi reddederseniz, gelecekte Yazılım Güncellemeleri gerçekleştirmekten vazgeçersiniz.
+Cep telefonunuz zaten kullanılıyorsa ve bir Yazılım Güncellemesi gerçekleştirmeyi reddederseniz, güncelleştirilmiş Yazılımı yüklememenizin, [cep telefonunuzun performansının düşmesi, yeni veya mevcut uygulamalarla olan uyumluluk sorunları veya cep telefonunuzun güvenliği ve özellikler ile ilgili diğer sorunlarla sonuçlanabileceğini lütfen unutmayın].
+
+b.	Acil Yazılım Güncellemeleri
+Koşullar gerektiriyorsa, meşru çıkarlarımız gerektirdiği şekilde, tek tek bildirimde bulunmaksızın veya izin talep etmeksizin ve geçerli cihaz ayarlarına bakmaksızın bir Yazılım Güncellemesi ("Acil Yazılım Güncellemesi") yapabiliriz. Acil bir Yazılım Güncellemesi gerektirebilecek durumlara örnek olarak, müşteri güvenliği veya veri güvenliği tehditleri veya hizmetlerin önemli ölçüde aksatılmasına neden olabilecek veya bu tür koşulların yakın olasılığına neden olabilecek operasyonel sorunlar dahildir.
+
+3.	LGE’nin sizden edinebileceği bilgiler
+Bir Yazılım Güncelleme gerçekleştirirken, LGE cep telefonunuzdan aşağıdaki bilgileri toplayabilir: Uluslararası mobil cihaz kimlik numarası (IMEI), seri numarası, cep telefonu modeli, yazılım ve / veya yerleşik yazılım sürümleri, telefon işletim sistemi, mobil ülke kodu (MCC), mobil ağ kodu (MNC), Google Bulut Mesajlaşma (GCM) tanımlayıcısı ve seçilen dil. Bu bilgiler, Yazılım Güncelleme işleminin bir parçası olarak otomatik olarak toplanır.
+
+Cep telefonunuza hücresel servisler sunma konusundaki rolümüzün bir parçası olarak IP adreslerini içeren sistem günlükleri de dahil olmak üzere operasyonel bilgiler toplarız. Bu bilgi otomatik olarak toplanır ve telefonun çalışması için gerekli bir bölümdür.
+
+4.	LGE, elde ettiği bilgileri nasıl kullanır?
+Sizden edinmiş olduğunuz bilgileri aşağıdakiler dahil olmak üzere çeşitli amaçlarla kullanırız:
+-	Yazılımın güncel olup olmadığını kontrol etmek, cep telefonunuzu doğrulamak ve uygun Yazılımı teslim etmek de dahil olmak üzere Yazılım Güncelleştirmesini (Acil Yazılım Güncellemeleri dâhil) gerçekleştirmek; 
+-	[Sınırlı Ürün Garantimiz] kapsamındaki yükümlülüklerimizi teyit etmek;
+-	Güvenlik sorunlarına karşılık olarak cep telefonu güvenlik servisleri ve acil durum bildirimleri ile ilgili bildirimler sağlamak;
+-	Haklarımızı ve mülkiyetimizi hukuki işlemler yoluyla da dahil olmak üzere korumak ve savunmak;
+-	Mevzuatsal gerekliliklere uymak; ve
+-	Sunduğumuz ürünleri ve hizmetleri analiz etmek, gözden geçirmek ve geliştirmek.
+
+LGE'nin kişisel bilgilerinizi işlemek için kullanacağı yasal dayanak, genellikle aşağıdakilerden biridir;
+-	Sözleşme: Sizinle bir sözleşme yapma zorunluluğu olan yerlerde;
+-	Meşru çıkarlar: LGE'nin veya üçüncü bir tarafın meşru iş çıkarlarının gerektirdiği durumlarda. LGE için bu, bir tüketici elektroniği ürünleri üreticisi ve servis sağlayıcısı olarak çıkarlarını da içerecektir;
+-	Rızanız: bunları sağlamayı rızanızla seçtiğiniz durumlardır. İstediğiniz zaman rızanızı geri çekme hakkına sahipsiniz; veya
+-	Yasal zorunluluk: işlemenin yasal yükümlülüklerimize uymak için gerekli olduğu durumlar
+
+Müşterilerin ihtiyaçlarını daha iyi anlamak, sunduğumuz müşteri hizmetleri, ürün ve hizmetlerimizi iyileştirmek ve pazar araştırması ve analizi için bir Yazılım Güncellemesi sırasında ve cep telefonunun çalışması sırasında toplanan toplu istatistiksel verileri de kullanabiliriz. Bu tür toplu istatistiksel veriler, gerçek kişileri tanımlayan ya da ilişkilendirilebilen bilgileri içermez.
+
+5.	LGE ne zaman başkalarıyla bilgi paylaşımında bulunur
+Genellikle, Yazılım Güncellemesi sırasında, gerçek kişileri tanımlayan ya da bu kişilere atfedilebilen bilgileri üçüncü şahıslarla paylaşmayız. Yine de, lütfen üçüncü taraflarla bu tür bilgileri paylaşabileceğimiz aşağıdaki şu durumların farkında olun:
+
+-	İştirakler ve Bağlı Ortaklıklar. LGE, şahsi bilgileri ve kişisel olmayan bilgileri (cep telefonu bilgileri de dahil olmak üzere) dünyadaki kendi iştirakleri ve bağlı ortaklıkları ile, yalnızca toplandığı amaçlar için gerekli olduğu sürece paylaşabilir. ‘İştirakler' veya 'bağlı ortaklıklar' terimi, LG adını kullanan ya da LG CNS veya LG Electronics U.S.A, Inc. gibi ortak mülkiyet veya kontrol yetkisine sahip olan grup şirketlerini ifade eder;
+-	Üçüncü Şahıs Hizmet Sağlayıcıları. LGE'nin müşteri hizmetleri taleplerini yerine getirmek gibi zaman zaman kendi adına hizmet sunmak için birlikte çalışabileceği üçüncü şahıs satıcılara;
+-	Kanunla İstenildiğinde Diğer Taraflar. Yasal süreç veya kanunlara uymak için mahkeme kararı veya diğer hükümet veya kolluk kuvvetleri tarafından istenildiği gibi;
+-	Kurumsal İşlemlerle Bağlantılı Diğer Taraflar. LGE'nin faaliyetlerinin tamamının veya bir kısmının (bir bölümü veya bağlı ortaklığı dahil olmak üzere) birleşmesi, yeniden yapılandırılması, satışı veya devri gibi kurumsal bir etkinlikle bağlantılı olarak LGE'nin potansiyel bir alıcıya ve profesyonel danışmanlarına bilgi ifşa etmesi gerektiğinde;
+-	Hizmetimizi Korumamız Gerektiğinde Diğer Taraflar. Sözleşmesel haklarımızı uygulamak için yükümlülüğe karşı önlemler almak, şüpheli veya fiili yasadışı faaliyetleri araştırmak veya üçüncü taraf istemlerine veya iddialarını araştırmak veya karşı kendimizi savunmak için; veya
+-	Diğer Taraflar, Müşterilerimizin Herhangi bir Kişisel Güvenlik veya Mülkiyetlerini Korumamız Gerektiğinde. Müşterilerimizin veya halkın haklarını, kişisel güvenliğini veya mülkiyetini korumak için.
+
+Hiçbir koşulda Yazılım Güncellemesi sırasında toplanan kişisel bilgileriniz rızanız olmaksızın pazarlama amacıyla işlenmez veya pazarlama amacıyla rızanız olmadan üçüncü taraflarla paylaşılmaz.
+
+6.	Kişisel verilerin transferleri
+İştiraklerimiz, bağlı şirketlerimiz ve servis sağlayıcılarımız, kişisel bilgilerinizi, bu Gizlilik ilkesinda açıklanan amaçlar için cep telefonunuzun bulunduğu ülkeler dışındaki ülkelerde kullanabiliriz. Bazı ülkelerde veri koruma yasaları, bulunduğunuz ülkedeki koruma önlemleri ile aynı seviyede olmayabilir. Bununla birlikte, kişisel bilgilerinizi aktarmadan önce, bu bilgilerin, alıcı ülke veya yargı bölgesinde aynı seviyede koruma sağlanmasını sağlamak için gerekli adımları atacağız. Bu Gizlilik ilkesi'nı kabul ederek, sınırlamalar olmaksızın dahil olmak üzere, bulunduğunuz ülkenin kanunlarına veya yasalarına göre geçerli yasaların kişisel bilgilerin korunması için aynı seviyede olmayabileceği Kore Cumhuriyeti ya da Amerika Birleşik Devletleri de dahil olmak üzere ülkede veya bölgede kişisel bilgilerinizin işlenmesini açıkça onaylamış olursunuz. 
+
+7.	LGE kişisel bilgilerimi ne kadar süreyle saklayacak?
+Kişisel bilgilerinizi, toplandığı amaç için veya yürürlükteki yasalar uyarınca gerekli olduğu sürece sakladığımızdan emin olmak için makul adımları atacağız. 
+Kişisel bilgilerinizin artık gerekli olmadığı veya işlemeye itirazınız veya işlemenin yasalara aykırı olduğunu iddia etmeniz ile silinmesini talep ederseniz, silme isteğinizi doğrulama sürecinde işleme kısıtlaması isteme hakkına sahipsiniz.
+
+8.	Güvenlik
+Kişisel bilgilerin yanlışlıkla kayıplara, yetkisiz erişime, kullanıma, değiştirilmeye ve açıklanmaya karşı korunması için ticari olarak makul çabalar gösteriyoruz ve genel kabul görmüş endüstri veri uygulamalarını takip ediyoruz. Yine de, İnternetin tasarımı, sürekli değişen teknoloji ve kontrolümüz dışındaki diğer faktörler nedeniyle sizinle sunucularımız arasındaki iletişimlerin üçüncü şahısların yetkisiz erişimine tamamen engelli olacağını veya güvenlik ihlallerine maruz kalmayacağımızı garanti edemiyoruz. İletimdeki hatalar veya üçüncü şahısların yetkisiz veya kanunsuz eylemlerinden dolayı kişisel bilgilerin ifşa etmesinden dolayı hiçbir sorumluluk kabul etmiyoruz.
+
+9.	Onayı Reddetme veya Onayı Geri Çekme Hakkı
+Geçerli yerel yasalar uyarınca, bu Gizlilik ilkesi'nı kabul etmeyi reddetme, rızayı geri çekme hakkını saklı tutuyor olabilirsiniz veya sizin hakkınızdaki kişisel bilgiler elde edip işlememize son vermemizi talep edebilirsiniz. Sahip olabileceğiniz bu hakları kullanabilmeniz için lütfen bu Politikada belirtildiği şekilde bizimle iletişime geçin, isteğinize en kısa zamanda cevap vereceğiz. 
+Buna ek olarak, yukarıda açıklanan şekilde cep telefonunuzdaki "Otomatik olarak kontrol edin" ve "Otomatik güncellemeler" işlevlerini devre dışı bırakarak kişisel bilgilerinizin artık toplanmasına izin vermemeyi isteyebilirsiniz. Bu işlevlere [Ayarlar – Sistem – Güncelleme Merkezi – Yazılım güncelleme – Fazlalık menüsünü – Ayarlar] bölümünden erişilebilir. 
+Bununla birlikte, lütfen Otomatik olarak kontrol edin ve Otomatik güncellemeler işlevlerini devre dışı bırakırsanız, bu durum kısmen veya tamamen cep telefonunuzun veya hizmetlerin çalışmasını etkileyebilir veya sınırlandırabilir. Yukarıda açıklandığı gibi bilgilerin toplanması ve kullanılması ,cep telefonunuzun en iyi şekilde çalışması için gereklidir. 
+
+Reddetme işlemi veya reddetme hakkınızla ilgili sorularınız varsa lütfen lgecsvc@lge.com adresinden bize ulaşın.
+
+10.	Çocukların Gizliliğini Korumak
+Çocukların gizliliğini korumak bizim için önemlidir. Bu nedenle, cep telefonunuz geçerli yerel yasalar tarafından tanımlandığı şekliyle çocuklara yönelik değildir ve çocuklardan bilerek kişisel bilgiler toplama veya kişisel bilgiler tutma işlemi yapmayız. Ebeveyn onayının doğrulanması olmadan bir çocuğun bilgilerini topladığımızı öğrenirsek veya bu konuda bildirim alırsak, böyle toplanmış kişisel bilgileri derhal sileriz.
+
+11.	LGE'nin Gizlilik ilkesi'nda yapılan değişiklikler
+Bu Gizlilik ilkesi LGE tarafından zaman zaman güncellenebilir. Gizlilik Politikamızda önemli bir değişiklik yaparsak, aşağıdaki tarihi güncelleyerek ve gelecekteki bir Yazılım Güncelleştirmesinin parçası olarak gözden geçirmeniz için değiştirilmiş Gizlilik ilkesinı sağlayarak size bildireceğiz.
+
+12.	Bilgilerinize Erişme 
+LGE'nin topladığı kişisel bilgileriniz hakkında kişisel bilgilerinize erişmek, düzeltmek veya silmek için bilgi talep etme hakkınız vardır. Bununla birlikte, lütfen bu bilgileri saklamamızın yürürlükteki yasalar uyarınca gerekli olması durumunda kişisel bilgilerinizi değiştirememizin veya silmemizin mümkün olmadığını unutmayın. Kanunlar tarafından izin verilirse, size bu tür bir hizmet sunmak için küçük bir ücret tahsil edilebilir. Sebepsiz yere zorlayıcı olmanız, başkalarının gizliliğini tehlikeye atmanız veya son derece pratik olmayan bir tavırda olmanız halinde isteğinizi yerine getirmemeyi tercih edebileceğimizi unutmayın. Buna ek olarak, kişisel bilgilerinizin güncellenmesi veya silinmesi, cep telefonunuzun veya servislerinizin çalışmasını etkileyebilir veya kısıtlayabilir. 
+
+Kişisel bilgilerinize erişmek, düzeltmek veya silmek için bir talepte bulunmak isterseniz lütfen lgecsvc@lge.com adresinden bizimle iletişime geçin.
+
+13.	Şikayette Bulunma Hakkı
+AB'deki yürürlükteki yerel yasalar uyarınca, ilgili denetim makamı vasıtasıyla, kişisel verilerinizin işlenmesine ilişkin şikayette bulunma hakkına sahipsiniz. Şikayet etme hakkına veya LGE ile şikayet oluşturmaya ilişkin daha fazla bilgi için lgecsvc@lge.com adresinden bizimle iletişime geçin. 
+
+14.	Bu Gizlilik ilkesi hakkında LGE ile bağlantı kurma
+Bu Gizlilik ilkesiyla ilgili herhangi bir sorunuz veya yorumunuz varsa, lgecsvc@lge.com adresinden bize mail atın.
+
+Son güncelleme: 01 Kasım 2017

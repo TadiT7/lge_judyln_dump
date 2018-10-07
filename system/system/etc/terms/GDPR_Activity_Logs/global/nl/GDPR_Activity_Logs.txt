@@ -1,0 +1,27 @@
+﻿Activiteitlogboeken
+
+Voor het verbeteren van de algehele gebruikerservaring en het verbeteren van de foutoplossing van het toestel, worden Activiteitlogboeken gegenereerd en opgeslagen op uw mobiele toestel van LGE. 
+
+De logboeken bevatten de volgende informatie: 
+- Status mobiel toestel: Model, softwareversie, IMEI, uniek identificatienummer, IMSI, voedingsstatus, batterijstatus, gebruik van CPU/RAM/interne opslag, gemiddelde gebruikstijd, resultaat zelfdiagnose hardware (Wi-Fi, BT, afstandssensor, verlichtingssensor, vingerafdruksensor, enz.) 
+- Netwerkstatus
+- Informatie over de toepassing, hoeveelheden/statistieken van toepassingsgebruik
+- Verbindingsstatus van uw mobiele toestel
+- Foutinformatie: Vastgelopen scherm, onbedoelde uitschakelingen, verbroken oproepen, toepassingsfouten
+- Instelling mobiel toestel
+
+Activiteitlogboeken worden exclusief opgeslagen op uw toestel en worden niet door de lucht overgedragen aan LGE of enige derde, tenzij anderszins overeengekomen via een afzonderlijke overeenkomst.
+De informatie-items die worden geopend door LGE, kunnen individueel of in samengevoegde vorm worden gebruikt. LGE gebruikt de informatie voor een beter inzicht in de behoeften van onze klanten, voor het verbeteren van onze klantenservice en de producten en services die wij aanbieden. Met de informatie van het Activiteitslogboek kan LGE bijvoorbeeld netwerkproblemen, verbindingsproblemen en batterijproblemen onderzoeken en oplossen. 
+
+LGE kan de informatie van het Activiteitslogboek delen met de volgende derden:
+- aangesloten ondernemingen en dochterondernemingen (d.w.z. bedrijven die LGE regelen, die worden geregeld door LGE of die onder gemeenschappelijk eigendom of controle vallen van LGE); en
+- agenten en serviceproviders die zijn gebonden door vertrouwelijkheidsverplichtingen en die de informatie alleen namens LGE gebruiken voor het leveren van de gevraagde producten en services, of anderszins voor het voldoen aan een contractuele verplichting aan u.
+
+LGE is niet verantwoordelijk of aansprakelijk voor de privacypraktijken van derden.
+
+LGE zal tevens vragen om het verzamelen van informatie van het Activiteitslogboek bij het gebruik van de LGE After Service(A/S) of Revisieservice. U wordt op het moment van het gebruik van deze services afzonderlijk gevraagd.
+
+Hoewel de informatie van het Aktivitetslog wordt gegenereerd in uw toestel ongeacht of u heir wel of niet mee instemt, zal LG dergelijke informatie niet openen tenzij u klikt op "Ok", of als u later akkoord gaat in een afzonderlijke overeenkomst. Als u niet wilt dat LGE de informatie van uw Activiteitslogboek opent, kunt u op elk gewenst moment onze toegang tot de informatie van uw Activiteitslogboek blokkeren vanuit de instellingen [Instellingen – Systeem – Over het toestel – Activiteitlogboeken]. Voor een inzicht in de manier waarop LGE over het algemeen omgaat met uw informatie, inclusief de informatie van het Activiteitslogboek, raadpleegt u ons privacybeleid in [Instellingen – Systeem – Over het toestel – Juridische informatie – Juridische documenten voor LG-software – Privacybeleid].
+
+Elke vertaling van dit document van Activiteitlogboeken wordt uitgevoerd voor lokale vereisten en in het geval van een discrepantie tussen de Engelse en de niet-Engelse versie, zal de Engelse versie van dit document van Activiteitlogboeken overheersen, voor zover maximaal toegestaan door de lokale wet in uw jurisdictie.
+

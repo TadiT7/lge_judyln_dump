@@ -1,0 +1,3 @@
+﻿Uporaba informacij o trenutni lokaciji
+
+LGE lahko uporablja informacije o lokaciji, ki so shranjene na napravi (s pomočjo GPS, Wi-Fi in mobilnih komunikacijskih omrežij) da bi pridobil »trenutne informacije o lokaciji« naprave. LGE shranjuje »informacije o trenutni lokaciji« samo interno na napravi uporabnika in ne zbira, shranjuje ali skladišči informacij na svojih strežnikih. Tudi če se strinjate z zgoraj navedenim, bo storitev zagotovljena samo, če uporabnik omogoči funkcijo lokacije Google, uporaba storitve »informacij o trenutni lokaciji« pa se lahko spremeni kadar koli v meniju nastavitev vsake storitve, ki uporablja »informacije o trenutni lokaciji«.

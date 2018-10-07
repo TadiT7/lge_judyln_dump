@@ -1,0 +1,63 @@
+﻿Dasar Privasi untuk menggunakan log aktiviti
+
+Perhatian: Dengan memberikan persetujuan terhadap Dasar Privasi ini, anda memberi kami kebenaran untuk menggunakan data anda seperti yang diterangkan di sini. Persetujuan anda adalah secara sukarela. Walau bagaimanapun, jika anda tidak memberikan persetujuan, kami tidak akan dapat memberikan perkhidmatan kepada anda; dalam keadaan ini, anda tidak boleh menggunakan Perkhidmatan Laporan Diagnosis Peranti LG ("Peranti LG"). Anda boleh mendapatkan syarat-syarat bagi persetujuan anda pada bila-bila masa dalam Perkhidmatan LG dan boleh membatalkan persetujuan anda pada bila-bila masa dengan menghantar mesej ke: mc.customer-service@lge.com 
+
+1. Pengenalan
+LG Electronics Inc. (“LGE” atau “kami”) komited untuk melindungi maklumat individu dan kumpulan yang menggunakan Perkhidmatan LG yang terdapat di dalamnya. Dasar Privasi ini menetapkan cara kami mengumpulkan, menggunakan dan berkongsi maklumat yang kami peroleh hasil daripada penggunaan perkhidmatan dan, terutamanya, menetapkan:
+- Jenis maklumat yang boleh LGE peroleh daripada anda atau Perkhidmatan LG;
+- Cara LGE menggunakan maklumat yang diperoleh;
+- Waktu LGE berkongsi maklumat dengan pihak lain; dan
+- Cara anda boleh mengawal penggunaan dan perkongsian maklumat anda.
+
+Perkhidmatan LG boleh memberikan akses kepada aplikasi perisian dan pautan ke perkhidmatan lain yang dimiliki dan dikendalikan oleh pihak ketiga, termasuk pembekal sistem pengendalian serta pembekal kandungan dan aplikasi yang lain. Perkhidmatan pihak ketiga ini adalah di luar skop Dasar Privasi ini dan mempunyai dasar mereka sendiri yang digunakan untuk pengumpulan, penggunaan dan perkongsian maklumat berhubung dengan perkhidmatan mereka. Kami menggalakkan anda membaca dasar tersebut. LGE tidak bertanggungjawab terhadap amalan privasi pihak ketiga tersebut.
+
+2. Apakah maklumat yang LGE peroleh?
+LGE akan mengumpulkan maklumat berikut:
+① Status peranti mudah alih: Model, versi perisian, IMEI, nombor siri, IMSI, status kuasa, status bateri, CPU/RAM/penggunaan storan dalaman, masa penggunaan purata, keputusan diagnosis kendiri perkakasan (Wi-Fi, BT, pengesan kehampiran, pengesan pencahayaan, pengesan cap jari dan sebagainya)
+② Status rangkaian: Status perkhidmatan (panggilan, data), kekuatan isyarat, maklumat stesen, kekerapan/masa panggilan
+③ Maklumat aplikasi: Senarai aplikasi yang dipasang dan dipadamkan, versi aplikasi, aplikasi yang dilaksanakan baru-baru ini, kekerapan/statistik penggunaan aplikasi 
+④ Status sambungan telefon bimbit: Status sambungan Wi-Fi, Bluetooth, GPS, jek telinga, pengecas bateri, USB dan Kad SD
+⑤ Maklumat ralat: Skrin beku, penutupan tidak sengaja, panggilan terputus, ralat aplikasi (maut, pengecualian)
+
+3. Bagaimanakah LGE menggunakan maklumat yang diperoleh?
+Kami menggunakan maklumat yang diperoleh daripada anda untuk pelbagai tujuan, termasuk:
+- Untuk mengenal pasti dan mendiagnosis peranti mudah alih
+- Untuk melaksanakan perkhidmatan pelanggan dan mengurus sejarah perkhidmatan 
+- Untuk menghantar mesej tolak 
+- Untuk menganalisis sejarah perkhidmatan/log/peranti bagi kualiti dan kepuasan pelanggan yang dipertingkat
+
+Kami boleh menggabungkan maklumat yang diperoleh daripada anda, termasuk maklumat peribadi, dengan maklumat yang anda berikan kepada kami melalui cara lain, bagi tujuan yang selaras dengan Dasar Privasi ini. 
+
+4. Perkongsian Maklumat
+Secara umumnya, kami tidak berkongsi dengan pihak ketiga maklumat yang kami terima hasil daripada anda menggunakan Perkhidmatan LG. Namun begitu, harap maklum bahawa terdapat keadaan berikut yang menyebabkan kami boleh berkongsi maklumat tersebut dengan entiti berikut:
+- Ahli Gabungan dan Subsidiari. LGE boleh berkongsi maklumat peribadi dan maklumat bukan peribadi (termasuk maklumat peranti) dengan ahli gabungan dan subsidiari mereka di seluruh dunia hanya selagi diperlukan untuk tujuan maklumat dikumpulkan. Istilah 'ahli gabungan' atau 'subsidiari' merujuk kepada syarikat kumpulan yang boleh menggunakan nama LG atau mempunyai pemilikan atau kawalan bersama seperti LG CNS atau LG Electronics U.S.A.,INC.("LGEUS");
+- Pembekal Perkhidmatan Pihak Ketiga. Kepada vendor pihak ketiga yang LGE mungkin berhubung untuk memberikan perkhidmatan bagi pihak mereka dari masa ke masa, seperti memenuhi permintaan perkhidmatan pelanggan;
+- Pihak Lain Apabila Dikehendaki oleh Undang-undang. Seperti yang dikehendaki oleh perintah mahkamah atau pihak berkuasa kerajaan atau penguatkuasaan undang-undang yang lain untuk mematuhi proses perundangan atau undang-undang;
+- Pihak Lain yang Berhubung dengan Urus Niaga Korporat. Berhubung dengan peristiwa korporat, seperti penggabungan atau penjualan semua atau sebahagian daripada perniagaan LGE (termasuk bahagian atau subsidiari), yang menyebabkan kemungkinan LGE perlu mendedahkan maklumat kepada pembeli yang berpotensi dan penasihat profesional mereka;
+- Pihak Lain Apabila Perlu untuk Melindungi Perkhidmatan Kami. Untuk melindungi dan mempertahankan hak dan harta kami, termasuk dengan cara prosiding undang-undang;
+- Pihak Lain Apabila Bertujuan untuk Melindungi Keselamatan atau Harta Peribadi Pengguna Kami. Untuk melindungi keselamatan atau harta peribadi pengguna kami atau orang awam.
+
+Dalam apa-apa jua keadaan, maklumat peribadi anda tidak akan diproses bagi tujuan pemasaran dan tidak akan dikongsi dengan pihak ketiga bagi tujuan pemasaran.
+
+5. Pemindahan Luar Negara
+Kami, ahli gabungan, subsidiari dan pembekal kami boleh menggunakan maklumat (termasuk maklumat peribadi anda) di negara selain tempat peranti anda berada, berhubung dengan usaha memberikan Perkhidmatan LG kepada anda dan apa-apa tujuan lain yang digariskan dalam Dasar Privasi ini. Undang-undang perlindungan data di kebanyakan negara ini mungkin tidak menawarkan tahap perlindungan yang sama seperti di negara anda berada. Tetapi, sebelum memindahkan maklumat peribadi anda, kami akan mengambil langkah untuk memastikan maklumat tersebut akan diberikan tahap perlindungan yang sama. Dengan bersetuju terhadap Dasar Privasi ini, anda menyatakan persetujuan kepada kami serta sekutu perniagaan dan pembekal kami untuk memproses data anda di mana-mana bidang kuasa, termasuk, tanpa had, Republik Korea atau Amerika Syarikat menurut Dasar Privasi ini. 
+
+6. Berapa lamakah LGE akan menyimpan maklumat peribadi saya?
+Kami akan mengambil langkah yang sewajarnya untuk memastikan bahawa kami menyimpan maklumat peribadi anda selagi perlu untuk kami menyediakan Perkhidmatan LG kepada anda atau bagi tujuan maklumat dikumpulkan, atau seperti yang dikehendaki oleh undang-undang berkaitan.
+
+7. Keselamatan
+Kami menggunakan usaha yang sewajarnya secara komersial untuk melindungi kerahsiaan maklumat peribadi anda. Namun begitu, disebabkan oleh reka bentuk Internet, teknologi yang sentiasa berubah, serta faktor lain yang di luar kawalan kami, kami tidak dapat menjamin bahawa komunikasi antara anda dan pelayan kami akan bebas daripada akses tanpa kebenaran oleh pihak ketiga atau kami tidak akan tertakluk pada pelanggaran keselamatan. Kami tidak bertanggungjawab terhadap pendedahan maklumat peribadi disebabkan oleh ralat dalam pemindahan atau tindakan tanpa kebenaran atau menyalahi undang-undang oleh pihak ketiga.
+
+8. Melindungi Privasi Kanak-kanak
+Melindungi privasi kanak-kanak adalah penting bagi kami. Oleh sebab itu, Perkhidmatan LG tidak ditujukan untuk sesiapa yang berumur kurang daripada 14 tahun atau umur dewasa di bidang kuasa berkaitan dan tidak distrukturkan secara khusus untuk menarik sesiapa yang berumur kurang daripada 14 tahun. Kami juga tidak mengumpulkan atau menyimpan secara sengaja maklumat peribadi daripada pengguna yang berumur kurang daripada 14 tahun. Sekiranya kami mendapat tahu atau diberitahu bahawa kami telah mengumpulkan maklumat daripada pengguna yang berumur kurang daripada 14 tahun atau umur dewasa dalam bidang kuasa yang berkaitan, kami akan segera memadam maklumat peribadi tersebut.
+
+9. Perubahan pada Dasar Privasi LGE
+Dasar Privasi ini boleh dikemas kini oleh LGE dari masa ke masa. Jika kami membuat perubahan yang penting pada Dasar Privasi kami, kami akan memberitahu anda melalui laman web LG atau cara lain. Jika anda tidak memberikan persetujuan terhadap dasar privasi yang dikemas kini, Perkhidmatan LG boleh dihadkan.
+
+10. Mengakses Maklumat Anda 
+Di bawah sesetengah bidang kuasa, anda berhak meminta butiran tentang maklumat peribadi anda yang LGE kumpulkan dan membetulkan ketidaktepatan dalam maklumat peribadi anda atau sebaliknya menentang, bagi tujuan yang sah, pemprosesan maklumat peribadi anda. Jika dibenarkan oleh undang-undang, sedikit bayaran akan dikenakan untuk menyediakan perkhidmatan tersebut kepada anda. Harap maklum bahawa kami boleh menolak untuk memproses permintaan anda jika permintaan itu disalah guna secara tidak wajar, membahayakan privasi pihak lain atau sangat tidak praktis. Jika anda ingin membuat permintaan untuk mengakses, membetulkan, membatalkan atau menentang pemprosesan maklumat peribadi anda, sila hubungi kami di mc.customer-service@lge.com.
+
+11. Menghubungi LGE tentang Dasar Privasi ini
+Jika anda mempunyai sebarang soalan atau komen tentang Dasar Privasi ini, sila hubungi mc.customer-service@lge.com.
+
+Kemas kini terakhir: 22 Jun 2017

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<config>
+    <!-- These are the exception packages for vibrator service. -->
+    <!-- ex. <vibrator-whitelisted-app package="com.lge.sts" />                             // Add a common exceptionPackage  -->
+    <!-- ex. <vibrator-whitelisted-app package="com.lge.sts" operator="LGU" />              // Add a exceptionPackage for operator  -->
+    <!-- ex. <vibrator-whitelisted-app package="com.lge.sts" country="KR" />                // Add a exceptionPackage for country  -->
+    <!-- ex. <vibrator-whitelisted-app package="com.lge.sts" operator="LGU" country="KR" /> // Add a exceptionPackage for operator and(&&) country  -->
+    <vibrator-whitelisted-app package="com.nttdocomo.android.areamail" operator="DCM" />
+    <vibrator-whitelisted-app package="jp.co.nttdocomo.lcsapp" operator="DCM" />
+    <vibrator-whitelisted-app package="jp.co.nttdocomo.lcsappsub" operator="DCM" />
+    <vibrator-whitelisted-app package="com.android.cellbroadcastreceiver" operator="GLOBAL" />
+    <vibrator-whitelisted-app package="com.android.cellbroadcastreceiver" operator="OPEN" />
+    <vibrator-whitelisted-app package="com.android.cellbroadcastreceiver" region="SCA" />
+</config>

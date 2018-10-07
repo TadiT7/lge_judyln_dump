@@ -1,0 +1,63 @@
+﻿Kebijakan Privasi untuk menggunakan log aktivitas
+
+Catatan: Dengan menyetujui Kebijakan Privasi ini, Anda memberi kami izin untuk menggunakan data Anda sebagaimana dijelaskan di sini. Persetujuan Anda bersifat sukarela. Namun, jika Anda tidak memberi persetujuan, kami tidak akan dapat menyediakan layanan kepada Anda; dalam hal ini, Anda tidak dapat menggunakan Layanan Laporan Diagnostik Perangkat LG ("Layanan LG") tertentu. Anda dapat mengambil ketentuan persetujuan Anda kapan saja di Layanan LG dan dapat mencabut persetujuan Anda kapan saja dengan mengirim pesan ke: mc.customer-service@lge.com
+
+1. Pendahuluan
+LG Electronics Inc. (“LGE” atau “we”) berkomitmen melindungi informasi dari orang-orang dan kelompok yang menggunakan Layanan LG yang terkandung di dalamnya. Kebijakan Privasi ini mengatur bagaimana kami mengumpulkan, menggunakan, dan membagikan informasi yang kami peroleh sebagai hasil dari penggunaan layanan oleh Anda dan, khususnya, mengatur:
+- Informasi apa yang dapat diperoleh LGE dari Anda atau Layanan LG;
+- Cara LGE menggunakan informasi yang diperolehnya;
+- Kapan LGE berbagi informasi dengan orang lain; dan
+- Cara Anda dapat mengontrol penggunaan dan berbagi informasi Anda oleh LGE.
+
+Layanan LG dapat memberikan akses ke aplikasi perangkat lunak dan tautan ke layanan lain yang dimiliki dan dioperasikan oleh pihak ketiga termasuk penyedia sistem operasi serta penyedia konten dan aplikasi lain. Layanan pihak ketiga ini berada di luar ruang lingkup Kebijakan Privasi ini dan memiliki kebijakan sendiri yang berlaku untuk pengumpulan, penggunaan, dan berbagi informasi sehubungan dengan layanan mereka. Kami mendorong Anda untuk membaca kebijakan tersebut. LGE tidak bertanggung jawab atau berkewajiban atas praktik privasi pihak ketiga tersebut.
+
+2. Informasi apa yang diperoleh LGE?
+LGE akan mengumpulkan informasi berikut:
+① Status perangkat seluler: Model, versi perangkat lunak, IMEI, nomor seri, IMSI, status daya, status baterai, CPU/RAM/penggunaan penyimpanan internal, waktu penggunaan rata-rata, hasil diagnosis mandiri perangkat keras (Wi-Fi, BT, sensor jarak, sensor pencahayaan, sensor sidik jari, dll.)
+② Network status: Status layanan (panggilan, data), kekuatan sinyal, informasi stasiun, frekuensi/waktu panggilan
+③ Informasi aplikasi: Daftar aplikasi yang diinstal dan dihapus, versi aplikasi, aplikasi yang baru saja dijalankan, frekuensi/statistik penggunaan aplikasi 
+④ Status koneksi ponsel: Wi-Fi, Bluetooth, GPS, ear-jack, pengisi daya baterai, USB, dan status koneksi Kartu SD
+⑤ Informasi kesalahan: Layar yang berhenti beroperasi, daya mati secara tiba-tiba, panggilan terputus, kesalahan aplikasi (fatal, pengecualian)
+
+3. Bagaimana LGE akan menggunakan informasi yang diperolehnya;
+Kami menggunakan informasi yang diperoleh dari Anda untuk berbagai tujuan, termasuk:
+- Mengidentifikasi dan mendiagnosis perangkat seluler
+- Melakukan layanan pelanggan dan mengelola riwayat layanan 
+- Mengirim pesan push 
+- Untuk menganalisis riwayat layanan/log/perangkat untuk meningkatkan kualitas dan kepuasan pelanggan
+
+Kami dapat menggabungkan informasi yang diperoleh dari Anda, termasuk informasi pribadi, dengan informasi yang Anda berikan kepada kami dengan cara lain, untuk tujuan yang konsisten dengan Kebijakan Privasi ini. 
+
+4. Berbagi Informasi
+Kami pada umumnya, tidak berbagi dengan pihak ketiga terkait informasi yang kami terima sebagai hasil dari Anda menggunakan Layanan LG. Namun demikian, harap perhatikan keadaan berikut yang kami dapat berbagi informasi tersebut dengan entitas berikut ini:
+- Afiliasi dan Anak Perusahaan. LGE dapat berbagi informasi pribadi dan informasi non-pribadi (termasuk infomasi perangkat) dengan afiliasi dan anak perusahaannya di seluruh dunia hanya selama diperlukan untuk tujuan pengumpulannya. Istilah 'afiliasi' atau 'anak perusahaan' merujuk pada perusahaan grup yang mungkin menggunakan nama LG atau yang bersama-sama memiliki atau mengontrol, misalnya LG CNS atau LG Electronics U.S.A.,INC.("LGEUS");
+- Penyedia Layanan Pihak Ketiga. Kepada vendor pihak ketiga yang mungkin bekerja sama dengan LGE untuk menyediakan layanan atas namanya dari waktu ke waktu, seperti untuk memenuhi permintaan layanan pelanggan;
+- Pihak Lain Saat Diwajibkan oleh Hukum. Sebagaimana diwajibkan oleh perintah pengadilan atau otoritas penegak hukum atau pemerintah lainnya untuk mematuhi proses legal atau hukum;
+- Pihak Lain sehubungan dengan Transaksi Korporat. Sehubungan dengan peristiwa korporat, seperti merger atau penjualan semua atau sebagian bisnis LGE (termasuk divisi atau anak perusahaan), yang LGE mungkin perlu mengungkapkan informasi kepada calon pembeli dan penasihat profesionalnya;
+- Pihak Lain Saat Perlu Melindungi Layanan Kami. Untuk melindungi dan membela hak dan properti kami, termasuk melalui proses hukum;
+- Pihak Lain Saat Melindungi Keamanan atau Properti Pribadi Pengguna Kami. Untuk melindungi keamanan atau properti pribadi pengguna kami atau publik.
+
+Dalam situasi apa pun informasi pribadi Anda tidak boleh diproses untuk tujuan pemasaran, atau dibagikan dengan pihak ketiga untuk tujuan pemasaran.
+
+5. Transfer ke/dari Luar Negeri
+Kami, afiliasi, anak perusahaan, dan pemasok kami dapat menggunakan informasi (termasuk informasi pribadi Anda) di negara-negara selain tempat perangkat Anda berada sehubungan dengan penyediaan Layanan LG untuk Anda dan tujuan lain apa pun yang disebutkan dalam Kebijakan Privasi ini. Undang-undang perlindungan data di banyak negara ini mungkin tidak menawarkan tingkat perlindungan yang sama seperti di negara tempat Anda berada. Namun, sebelum mentransfer informasi pribadi Anda, kami akan mengambil langkah-langkah untuk memastikan bahwa informasi tersebut akan diberi tingkat perlindungan yang sama. Dengan menyetujui Kebijakan Privasi ini maka Anda secara tegas mengizinkan kami dan rekan bisnis serta pemasok kami untuk memproses data Anda di wilayah hukum mana pun, termasuk, tanpa batasan, Republik Korea atau Amerika Serikat sesuai dengan Kebijakan Privasi ini. 
+
+6. Berapa lama LGE akan menyimpan informasi pribadi saya?
+Kami akan mengambil langkah-langkah yang wajar untuk memastikan bahwa kami menyimpan informasi pribadi Anda selama diperlukan bagi kami untuk menyediakan Layanan LG atau untuk tujuan pengumpulannya, atau sebagaimana diwajibkan oleh hukum yang berlaku.
+
+7. Keamanan
+Kami menggunakan upaya yang wajar secara komersial untuk menjaga kerahasiaan informasi pribadi Anda. Namun demikian, karena desain Internet, teknologi yang selalu berubah, dan faktor lain di luar kendali kami, kami tidak dapat menjamin bahwa komunikasi antara Anda dan server kami akan bebas dari akses tidak sah oleh pihak ketiga atau bahwa kami tidak akan mengalami pelanggaran keamanan. Kami tidak menerima tanggung jawab apa pun atas pengungkapan informasi pribadi akibat kesalahan dalam transmisi atau tindakan pihak ketiga yang tidak sah atau melanggar hukum.
+
+8. Melindungi Privasi Anak-anak
+Melindungi privasi anak-anak adalah penting bagi kami. Oleh karena itu, Layanan LG tidak ditujukan bagi siapa pun yang berusia di bawah 14 tahun atau usia dewasa di yurisdiksi yang relevan dan tidak didesain secara khusus untuk menarik orang yang berusia di bawah 14 tahun. Kami juga tidak secara sadar mengumpulkan atau mengelola informasi pribadi dari pengguna yang berusia di bawah 14 tahun. Jika kami mengetahui atau diberi tahu bahwa kami telah mengumpulkan informasi dari pengguna berusia di bawah 14 tahun atau usia mayoritas di yurisdiksi yang relevan, kami akan segera menghapus informasi pribadi tersebut.
+
+9. Perubahan pada Kebijakan Privasi LGE
+Kebijakan Privasi ini dapat diperbarui oleh LGE dari waktu ke waktu. Jika kami membuat perubahan materi pada Kebijakan Privasi kami, kami akan memberi tahu Anda melalui situs web LG atau cara lain. Jika Anda tidak menyetujui kebijakan privasi yang diperbarui, Layanan LG dapat dibatasi.
+
+10. Mengakses Informasi Anda 
+Berdasarkan undang-undang dari beberapa yurisdiksi, Anda berhak meminta perincian tentang informasi pribadi Anda yang dikumpulkan LGE dan untuk memperbaiki ketidakakuratan dalam informasi pribadi Anda atau sebaliknya menentang, untuk tujuan yang sah, pemrosesan informasi pribadi Anda. Jika diperbolehkan oleh hukum, dapat dikenai biaya yang sedikit untuk menyediakan layanan tersebut kepada Anda. Harap perhatikan bahwa kami dapat menolak untuk memproses permintaan Anda jika permintaan tersebut secara tidak masuk akal melecehkan, membahayakan privasi orang lain, atau sangat tidak praktis. Jika Anda ingin mengajukan permintaan untuk mengakses, memperbaiki, membatalkan atau menentang pemrosesan informasi pribadi Anda, silakan hubungi kami di mc.customer-service@lge.com.
+
+11. Menghubungi LGE tentang Kebijakan Privasi ini
+Jika Anda memiliki pertanyaan atau komentar tentang Kebijakan Privasi ini, silakan hubungi mc.customer-service@lge.com.
+
+Terakhir kali diperbarui: 22 Juni 2017

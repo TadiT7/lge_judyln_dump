@@ -1,0 +1,37 @@
+on early-init
+    # for factory library
+    symlink /system/vendor/firmware /vendor/firmware
+    symlink /system/vendor/lib /vendor/lib
+    symlink /system/vendor/lib64 /vendor/lib64
+    symlink /system/vendor/etc /vendor/etc
+    symlink /system/vendor/bin /vendor/bin
+
+on post-fs-data
+    # To use /sdcard path
+    symlink /data/media/0 /mnt/user/0/primary
+
+# FACTORY DELETE
+on property:sys.lge.factory_delete=1
+    start chcon_keystore
+    start chcon_vold
+    start rm_encrypt_prop
+    start factory_delete
+
+on property:sys.lge.factory_delete=2
+    factory_delete
+    setprop sys.lge.factory_delete 0
+
+service chcon_keystore /system/bin/sh /init.factory.minios.chcon_keystore.sh
+    disabled
+    oneshot
+    seclabel u:r:keystore:s0
+
+service chcon_vold /system/bin/sh /init.factory.minios.chcon_vold.sh
+    disabled
+    oneshot
+    seclabel u:r:vold:s0
+
+service factory_delete /sbin/factory_delete
+    disabled
+    oneshot
+    seclabel u:r:installd:s0

@@ -1,0 +1,8 @@
+﻿Piekrišana lietotāja balss informācijas izmantošanai „Google” automātiskai runas atpazīšanai („ASR”) 
+
+Šis Novietošanas stāvvietā Parking Assistant („Pakalpojums”) izmanto „Google, Inc.” („Google”) nodrošināto funkciju „Google ASR”, kas mums ļauj balsi pārveidot par tekstu.
+Balss informācija, kas ir nepieciešama, lai jūs varētu izmantot šo pakalpojumu, tiks pārsūtīta „Google”, kas to saglabās. „Google” izmantos šo informāciju, lai pārveidotu jūsu balss informāciju par teksta informāciju, un nosūtīs teksta informāciju uz „LGE”.
+Uz ASR ievācamo informāciju attiecas „Google” Konfidencialitātes politika, kas ir atrodama vietnē (https://www.google.com/policies/privacy/).
+Jūs varat deaktivēt ASR izmantošanu, atsakoties no pakalpojumiem sadaļā „Opciju izvēlne - Juridiskā informācija”.
+„LGE” nekādā gadījumā nevāc un/vai neizmanto nekādu personisko informāciju, tostarp lietotāja balss informāciju, un šim pakalpojumam izmanto tikai personu neidentificējošu informāciju, piemēram teksta informāciju.
+Turklāt „LGE” nekad neizmantos (un neļaus to darīt trešām personām) teksta informāciju, lai izsekotu vai vāktu šā pakalpojuma apmeklētāju personu identificējošu informāciju, kā arī nesasaistīs nekādus datus, kas ir ievākti saistībā ar šo pakalpojumu, ar personu identificējošu informāciju, kas iegūta no jebkāda avota.

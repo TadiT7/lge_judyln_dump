@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Added Zawgyi Font Family.
+-->
+<familyset version="22">
+    <family lang="und-Zwgy" variant="zawgyi">
+        <font weight="400" style="normal">LG_Myanmar.ttf</font>
+    </family>
+</familyset>

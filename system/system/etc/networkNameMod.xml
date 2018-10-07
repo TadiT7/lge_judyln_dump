@@ -1,0 +1,188 @@
+<requirements>
+    <!--LGP_UMTS_NWNAME_TELE2_SPN_HARD_CODING-->
+    <requirement>
+        <condition spn="null" serviceState="0" operatorNumeric="24007"/>
+        <correction spn="Tele2"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_TELENOR_HU_SPN_HARD_CODING-->
+    <requirement>
+        <condition spn="pannon;Pannon" serviceState="0"/>
+        <correction spn="Telenor HU"/>
+    </requirement>
+    <requirement>
+        <condition plmn="H pannon" serviceState="0"/>
+        <correction plmn="Telenor HU"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_ERONET_SPN_HARD_CODE-->
+    <requirement>
+        <condition spn="HT ERONET" serviceState="0"/>
+        <correction spn="ERONET"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_TELENOR_DK_SPN_HARD_CODING-->
+    <requirement>
+        <condition plmn="Sonofon" serviceState="0" operatorNumeric="23802"/>
+        <correction plmn="Telenor DK"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_DEBITEL_SPN_HARD_CODING-->
+    <requirement>
+        <condition spn="debitel;mobilcom debitel" serviceState="0"/>
+        <correction spn="mobilcom-debitel"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_TELSTRA_DISPLAY_TO_TELSTRA_IN_H3G_REGISTERED-->
+    <requirement>
+        <condition networkOperator="50506" serviceState="0" operatorNumeric="50501" operator="TEL" country="AU"/>
+        <correction plmn="Telstra"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_DEBITEL_DISPLAY_SPN_AND_NET_NAME-->
+    <requirement>
+        <condition spn="mobilcom-debitel;mobilcom debitel" serviceState="0" operatorNumeric="26202;26203;26207"/>
+        <correction showSpn="true" showPlmn="true"/>
+    </requirement>
+    <requirement>
+        <condition spn="BITE" operatorNumeric="24705"/>
+        <correction spn="LV BITE"/>
+    </requirement>
+    <requirement>
+        <condition spn="Tele2" operatorNumeric="24803"/>
+        <correction spn="EE TELE2"/>
+    </requirement>
+    <requirement>
+        <condition spn="EMT" operatorNumeric="24801"/>
+        <correction spn="EE EMT"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_UK_NATIONAL_ROAMING_OPL_PNN_DISPLAY-->
+    <requirement>
+        <condition spn="null" operatorNumeric="24801" networkOperator="24801"/>
+        <correction spn="EE EMT" showSpn="true" showPlmn="false"/>
+    </requirement>
+    <requirement>
+        <condition networkOperator="23430;23431;23432;23433;23434" serviceState="0" operatorNumeric="23430;23431;23432;23433;23434" />
+        <correction showSpn="false" showPlmn="true"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_ONLY_SPN_DISPLAY_IN_3SE,_3GIS-->
+    <requirement>
+        <condition serviceState="0" roaming="false" operatorNumeric="24002"/>
+        <correction showSpn="true" showPlmn="false"/>
+    </requirement>
+    <!--SPN_EXCEPTION_CODE_FOR_TMO_PL-->
+    <requirement>
+        <condition spn="ERA;Era" serviceState="0" operatorNumeric="26002"/>
+        <correction spn="T-Mobile.pl"/>
+    </requirement>
+    <!--SPN_EXCEPTION_CODE_FOR_BYTEL-->
+    <requirement>
+        <condition serviceState="0" operatorNumeric="20820"/>
+        <correction spn="Bouygues Telecom"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_TIM_BR_SKIP_CHECKING_EONS_ONS-->
+    <requirement>
+        <condition operator="TIM" country="BR" serviceState="0"/>
+        <correction plmn="LONG_NAME"/>
+    </requirement>
+    <requirement>
+        <condition plmn="null"/>
+        <correction plmn="LONG_NAME"/>
+    </requirement>
+    <!-- LGP_UMTS_NWNAME_BPL_MOBILE_SPN -->
+    <requirement>
+        <condition mcc="404;405" spn="BPL Mobile" serviceState="0"/>
+        <correction spn="Loop Mobile"/>
+    </requirement>
+    <!-- LGP_UMTS_NWNAME_UNINOR_SPN -->
+    <requirement>
+        <condition mcc="404;405" spn="UNINOR" serviceState="0"/>
+        <correction spn="Uninor"/>
+    </requirement>
+    <!-- LGP_UMTS_NWNAME_GLOBE_SPN -->
+    <requirement>
+        <condition mcc="515" spn="GLOBE" serviceState="0"/>
+        <correction spn="Globe"/>
+    </requirement>
+    <!-- LGP_UMTS_NWNAME_DTAC_SPN -->
+    <requirement>
+        <condition mcc="520" spn="DTAC" serviceState="0"/>
+        <correction spn="dtac"/>
+    </requirement>
+    <!-- LGP_UMTS_NWNAME_BATELCO_SPN -->
+    <requirement>
+        <condition showSpn="false" mcc="426" serviceState="0" roaming="true" showPlmn="true" operatorNumeric="42601"/>
+        <correction showSpn="true" spn="Batelco"/>
+    </requirement>
+    <!-- LGP_UMTS_NWNAME_TLEKOMSA_SPN -->
+    <requirement>
+        <condition spn="8.ta" serviceState="0" operatorNumeric="65502"/>
+        <correction spn="TelkomSA"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_AIRTEL_SPN-->
+    <requirement>
+        <condition mcc="405;404" spn="Airtel" serviceState="0"/>
+        <correction spn="airtel"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_VODAFONE_HUTCH_SPN-->
+    <requirement>
+        <condition mcc="404;405" spn="Vodafone;HUTCH" serviceState="0"/>
+        <correction spn="Vodafone IN"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_RULE_THAILAND-->
+    <requirement>
+        <condition networkOperator="52099" imsi="5200019;5200020" serviceState="0"/>
+        <correction showSpn="true" showPlmn="true"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_THAILAND_MY_SPN-->
+    <requirement>
+        <condition mcc="520" imsi="5200019" serviceState="0"/>
+        <correction spn="my"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_THAILAND_TRUE_H_SPN-->
+    <requirement>
+        <condition mcc="520" imsi="5200020" serviceState="0"/>
+        <correction spn="TRUE-H"/>
+    </requirement>
+    <!-- LGP_UMTS_NWNAME_DISPLAY_RULE -->
+    <requirement>
+        <condition networkOperator="65501" serviceState="0" roaming="true" operatorNumeric="65507"/>
+        <correction showSpn="true" showPlmn="false"/>
+    </requirement>
+    <!-- LGP_UMTS_NWNAME_DISPLAY_RULE -->
+    <requirement>
+        <condition serviceState="0" roaming="true" operatorNumeric="42601" showSpn="false" showPlmn="true"/>
+        <correction showSpn="true"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_MOVISTAR_PLMN-->
+    <requirement>
+        <condition plmn="movistar" networkOperator="732123" serviceState="0" operatorNumeric="26207"/>
+        <correction plmn="COL Movistar"/>
+    </requirement>
+    <!--LGP_UMTS_NWNAME_TELEKOM.RO_DISPLAY_RULE-->
+    <requirement>
+        <condition showSpn="true" plmn="TELEKOM.RO" networkOperator="22606;22610" spn="TELEKOM.RO" serviceState="0" showPlmn="true" operatorNumeric="22603"/>
+        <correction showSpn="false" showPlmn="true"/>
+    </requirement>
+    <!--LGP_UMTS_MTK_NAS_NWNAME_TELENOR_SE-->
+    <requirement>
+        <condition networkOperator="24004;24024" serviceState="0" operatorNumeric="24008"/>
+        <correction showSpn="true" showPlmn="false"/>
+    </requirement>
+    <!--LGP_UMTS_MTK_NAS_NWNAME_YOIGO_SPN-->
+    <requirement>
+        <condition serviceState="0" networkOperator="21404" operatorNumeric="21404"/>
+        <correction showSpn="true" showPlmn="false"/>
+    </requirement>
+    <!--LGE_CHANGE_S, [Net_Patch_2052][CALL_FRW][GLOBAL], 2015-11-17, Telenet roaming hub plmn display {-->
+    <requirement>
+        <condition mcc="206" mnc="05" networkMcc="204;262;270;208" roaming="true" showSpn="true" showPlmn="true" />
+        <correction showSpn="false" showPlmn="true"/>
+    </requirement>
+    <requirement>
+        <condition mcc="206" mnc="01" imsi="2060188" networkMcc="204;262;270;208" roaming="true" showSpn="true" showPlmn="true" />
+        <correction showSpn="false" showPlmn="true"/>
+    </requirement>
+    <!--LGE_CHANGE_E, [Net_Patch_2052][CALL_FRW][GLOBAL], 2015-11-17, Telenet roaming hub plmn display }-->
+    <!--LGP_UMTS_NWNAME_RULE_INDOSAT-->
+    <requirement>
+        <condition serviceState="0" networkOperator="51001" operatorNumeric="51001" plmn="INDOSATOOREDOO" showSpn="true"/>
+        <correction showSpn="false" showPlmn="true"/>
+    </requirement>
+    
+
+</requirements>

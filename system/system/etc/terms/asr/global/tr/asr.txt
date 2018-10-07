@@ -1,0 +1,8 @@
+﻿Google Otomatik Ses Tanıma (“ASR”) için kullanıcı ses bilgilerini kullanım izni 
+
+Bu Parking Assistant hizmeti (“Hizmet”) için, Google, Inc. (“Google”) tarafından sunulan bir özellik olan Google ASR kullanılmakta olup, şirket olarak bize kullanıcı sesini metne dönüştürme olanağı sunulur.
+Bu Hizmeti kullanmanız için, ses bilgileri Google'a aktarılacak ve Google tarafından saklanacaktır. Google, ses bilgilerinizi metin bilgisine dönüştürmek amacıyla bu bilgileri kullanacak ve metin bilgisini LGE'ye aktaracaktır.
+ASR tarafından toplanan her türlü bilgi (https://www.google.com/policies/privacy/) adresinde bulunan Google’ın Gizlilik İlkesi ile yönetilir.
+ASR hizmetini devre dışı bırakmak için, "Seçenekler menüsü - Yasal bilgiler" e gidin.
+LGE, kullanıcı ses bilgileri dahil olmak üzere, hiçbir zaman kişisel bilgileri toplamaz ve/veya kullanmaz ve Hizmet için yalnızca metin bilgileri gibi kişisel olarak tanımlanamayan bilgileri kullanır.
+Ayrıca, LGE hiçbir zaman bu Hizmeti ziyaret edenlerin Kişisel Olarak Tanımlanabilir Bilgilerini izlemek ya da toplamak üzere metin bilgilerini kullanmayacak (ve üçüncü tarafların kullanmasına izin vermeyecek) ve bu Hizmet'ten elde edilen hiçbir veriyi herhangi bir kaynaktan elde edilen kişisel olarak tanımlanabilir bilgi ile ilişkilendirmeyecektir.

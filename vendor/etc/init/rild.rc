@@ -1,0 +1,5 @@
+service ril-daemon /vendor/bin/hw/rild
+    class main
+    user radio
+    group radio cache inet misc audio log readproc wakelock net_raw diag oem_2901 oem_2950
+    capabilities BLOCK_SUSPEND NET_ADMIN NET_RAW

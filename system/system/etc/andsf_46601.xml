@@ -1,0 +1,208 @@
+<!--
+1. IMS Apn : ims
+   > IWLAN & Cellular
+
+-->
+
+<ANDSF>
+  <Name>IWLAN and Quality(466/01 TWN-FET)</Name>
+  <ISRP>
+    <Node>
+      <ForServiceBased>
+<!--  ================ims================ -->
+
+<!-- WiFi Not available && LTE Good case -->
+        <MAPCON_WIFI_X_LTE_O_LTEGOOD>
+          <APN>ims</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <WiFiThreshold>
+                    <WiFiAvailable>0</WiFiAvailable>
+                  </WiFiThreshold>
+                  <LTEThreshold>
+                    <LTEAvailable>1</LTEAvailable>
+                    <LTERSRPHigh>-112</LTERSRPHigh>
+                  </LTEThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <RoutingRule>
+            <Node>
+              <AccessTechnology>1</AccessTechnology>
+              <AccessNetworkPriority>1</AccessNetworkPriority>
+            </Node>
+          </RoutingRule>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>1</RulePriority>
+        </MAPCON_WIFI_X_LTE_O_LTEGOOD>
+
+        <MAPCON_WIFI_O_WIFIGOOD_LTE_X>
+         <APN>ims</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <WiFiThreshold>
+                    <WiFiAvailable>1</WiFiAvailable>
+                    <WiFiRSSIHigh>-70</WiFiRSSIHigh>
+                  </WiFiThreshold>
+                  <LTEThreshold>
+                    <LTEAvailable>0</LTEAvailable>
+                  </LTEThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <RoutingRule>
+            <Node>
+              <AccessTechnology>3</AccessTechnology>
+              <AccessNetworkPriority>1</AccessNetworkPriority>
+            </Node>
+          </RoutingRule>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>2</RulePriority>
+       </MAPCON_WIFI_O_WIFIGOOD_LTE_X>
+
+<!-- WiFi Bad && LTE Good case -->
+        <MAPCON_WIFI_O_WIFIBAD_LTE_O_LTEGOOD>
+          <APN>ims</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <LTEThreshold>
+                    <LTERSRPHigh>-112</LTERSRPHigh>
+                    <LTEAvailable>1</LTEAvailable>
+                  </LTEThreshold>
+                  <WiFiThreshold>
+                    <WiFiRSSILow>-80</WiFiRSSILow>
+                    <WiFiAvailable>1</WiFiAvailable>
+                  </WiFiThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <RoutingRule>
+            <Node>
+              <AccessTechnology>1</AccessTechnology>
+              <AccessNetworkPriority>1</AccessNetworkPriority>
+            </Node>
+          </RoutingRule>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>3</RulePriority>
+        </MAPCON_WIFI_O_WIFIBAD_LTE_O_LTEGOOD>
+
+<!-- WiFi Good && LTE Bad case -->
+       <MAPCON_WIFI_O_WIFIGOOD_LTE_O_LTEBAD>
+          <APN>ims</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <WiFiThreshold>
+                    <WiFiRSSIHigh>-70</WiFiRSSIHigh>
+                    <WiFiAvailable>1</WiFiAvailable>
+                  </WiFiThreshold>
+                  <LTEThreshold>
+                    <LTERSRPLow>-117</LTERSRPLow>
+                    <LTEAvailable>1</LTEAvailable>
+                  </LTEThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <RoutingRule>
+            <Node>
+              <AccessTechnology>3</AccessTechnology>
+              <AccessNetworkPriority>1</AccessNetworkPriority>
+            </Node>
+          </RoutingRule>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>4</RulePriority>
+        </MAPCON_WIFI_O_WIFIGOOD_LTE_O_LTEBAD>
+
+<!-- WiFi Good && LTE Good case -->
+    <MAPCON_WIFI_O_WIFIGOOD_LTE_O_LTEGOOD>
+          <APN>ims</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <LTEThreshold>
+                    <LTERSRPHigh>-112</LTERSRPHigh>
+                    <LTEAvailable>1</LTEAvailable>
+                  </LTEThreshold>
+                  <WiFiThreshold>
+                    <WiFiRSSIHigh>-70</WiFiRSSIHigh>
+                    <WiFiAvailable>1</WiFiAvailable>
+                  </WiFiThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <RoutingRule>
+            <Node>
+              <AccessTechnology>3</AccessTechnology>
+              <AccessNetworkPriority>1</AccessNetworkPriority>
+            </Node>
+            <Node>
+              <AccessTechnology>1</AccessTechnology>
+              <AccessNetworkPriority>1</AccessNetworkPriority>
+            </Node>
+          </RoutingRule>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>5</RulePriority>
+        </MAPCON_WIFI_O_WIFIGOOD_LTE_O_LTEGOOD>
+
+<!-- WiFi Bad && LTE Not available case -->
+        <MAPCON_WIFI_O_WIFIBAD_LTE_X>
+          <APN>ims</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <LTEThreshold>
+                    <LTEAvailable>0</LTEAvailable>
+                  </LTEThreshold>
+                  <WiFiThreshold>
+                    <WiFiRSSILow>-80</WiFiRSSILow>
+                    <WiFiAvailable>1</WiFiAvailable>
+                  </WiFiThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>6</RulePriority>
+        </MAPCON_WIFI_O_WIFIBAD_LTE_X>
+
+<!-- WiFi Bad && LTE Bad case -->
+        <MAPCON_WIFI_O_WIFIBAD_LTE_O_LTEBAD>
+          <APN>ims</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <LTEThreshold>
+                    <LTERSRPLow>-117</LTERSRPLow>
+                    <LTEAvailable>1</LTEAvailable>
+                  </LTEThreshold>
+                  <WiFiThreshold>
+                    <WiFiRSSILow>-80</WiFiRSSILow>
+                    <WiFiAvailable>1</WiFiAvailable>
+                  </WiFiThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>7</RulePriority>
+        </MAPCON_WIFI_O_WIFIBAD_LTE_O_LTEBAD>
+    </ForServiceBased>
+    </Node>
+  </ISRP>
+</ANDSF>
+

@@ -1,0 +1,14 @@
+# 2015-10-12 protocol-iwlan@lge.com LGP_DATA_IWLAN
+on post-fs-data
+    mkdir /data/ipsec 0700 root root
+    mkdir /data/ipsec/cacerts 0700 root root
+    mkdir /data/ipsec/wo 0600 root root
+    mkdir /dev/net/ 0700 root root
+
+service ipsecd /system/bin/ipsecd
+    class late_start
+    socket wod_action stream 660 root radio
+    socket wod_sim stream 660 root radio
+    socket wod_ipsec stream 660 root system
+    user root
+    group root system log inet radio net_admin

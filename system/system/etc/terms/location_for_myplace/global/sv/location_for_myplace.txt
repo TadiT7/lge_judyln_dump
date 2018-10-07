@@ -1,0 +1,6 @@
+﻿Användning av aktuell platsinformation för Mina platser
+
+Denna Mina platser-tjänst ("Tjänsten") använder platsinformation från användarens enhet för att analysera mönstret för platser där användaren har varit under längre tid och för att erbjuda funktionen för automatisk identifiering av en sådan plats, eller att tillåta användaren att manuellt utse en plats som "Mina platser"(t.ex. hem, arbetsplats). Fortsatt mönsteranalys kan automatiskt ändra platsen för den tidigare tilldelade platsen. 
+Genom den här Tjänsten används platsinformation (basmottagarstation (BTS), GPS, Wi-Fi, nätverkspositioner (NLP)) som lagrats på användarens enhet, LG Electronics Inc.(LGE) samlar aldrig in eller använder användarens platsinformation utan använder och lagrar den bara på användarenheten.
+Den här Tjänsten startar automatiskt identifiering av platser där användaren har varit under en längre tid med början då användaren godkänner användning av den aktuella platsinformationen för användarens enhet och fortsätter om inte användaren stoppar användning av Tjänsten genom att stänga av motsvarande funktionsalternativ.
+LGE kommer dock att använda den aktuella platsinformationen för användaren om den aktiveras i alternativet för användning av Google-platstjänst på enheten.

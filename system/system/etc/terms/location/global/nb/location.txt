@@ -1,0 +1,3 @@
+﻿Bruk av gjeldende plasseringsinformasjon
+
+LGE kan bruke plasseringsinformasjon lagret på enheten (ved hjelp av GPS, Wi-Fi og mobilkommunikasjonsnettverk) for å hente inn «gjeldende plasseringsinformasjon» på enheten. LGE lagrer bare «gjeldende plasseringsinformasjon» internt på brukerens enhet og samler ikke inn eller lagrer informasjonen på serverne. Selv om du godtar det ovennevnte, blir tjenesten kun gitt når brukeren aktiverer Google-plasseringsfunksjonen, og bruk av tjenesten «gjeldende plasseringsinformasjon» kan til enhver tid endres under innstillingsmenyen for hver tjeneste som bruker «gjeldende plasseringsinformasjon».

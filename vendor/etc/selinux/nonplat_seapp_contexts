@@ -1,0 +1,54 @@
+user=_app seinfo=lg_release name=com.android.gallery3d domain=platform_app type=app_data_file
+user=_app seinfo=media name=com.android.mms domain=platform_app type=app_data_file
+user=_app seinfo=media name=com.lge.acms domain=platform_app type=app_data_file
+user=_app seinfo=platform name=com.android.mms domain=platform_app type=app_data_file
+user=_app seinfo=platform name=com.android.systemui domain=platform_app type=app_data_file
+user=_app seinfo=platform name=com.android.systemui:screenshot domain=platform_app type=app_data_file
+user=_app seinfo=platform name=com.lge.launcher2 domain=platform_app type=app_data_file
+user=_app seinfo=platform name=com.lge.lgsf.bluetooth domain=platform_app type=app_data_file
+user=_app seinfo=platform name=com.lge.oneseg domain=priv_app type=app_data_file
+user=_app seinfo=platform name=com.lge.rctprovider domain=platform_app type=app_data_file
+user=_app seinfo=platform name=com.lge.sepolicyupdater domain=platform_app type=app_data_file
+user=_app seinfo=platform name=com.lge.vragent domain=platform_app type=app_data_file
+user=_app seinfo=release name=com.android.gallery3d domain=platform_app type=app_data_file
+user=_app seinfo=shared name=android.process.acore domain=platform_app type=app_data_file
+user=_app seinfo=shared name=com.android.contacts domain=platform_app type=app_data_file
+user=_app seinfo=shared name=com.lge.email domain=platform_app type=app_data_file
+user=_app seinfo=shared name=com.lge.exchange domain=platform_app type=app_data_file
+user=oem_2907 seinfo=platform domain=platform_app type=app_data_file
+user=oem_2905 seinfo=platform domain=platform_app type=app_data_file
+user=oem_4014 seinfo=platform name=com.nttdocomo.android.felicaremotelock domain=nfc type=nfc_data_file
+user=oem_2904 seinfo=platform name=com.lge.imsvt domain=platform_app type=app_data_file
+user=oem_5000 seinfo=platform name=com.lge.lgdmsclient domain=platform_app type=app_data_file
+user=oem_5000 seinfo=platform name=com.redbend.vdmc domain=platform_app type=app_data_file
+user=oem_4001 seinfo=platform name=com.lge.drmservice domain=platform_app type=app_data_file
+user=oem_2500 seinfo=platform name=com.lge.nfclock domain=nfc type=nfc_data_file
+user=oem_2903 seinfo=platform domain=platform_app type=app_data_file
+user=system seinfo=platform name=com.lge.art domain=system_app type=art_data_file
+user=system seinfo=platform name=com.lge.bnr domain=system_app type=bnr_data_file
+user=system seinfo=platform name=com.lge.lgdmsclient domain=system_app type=system_app_data_file
+user=system seinfo=platform name=com.lge.lginstallservies domain=system_app type=system_app_data_file
+user=system seinfo=platform name=com.lge.qmemoplus domain=system_app type=app_data_file
+user=system seinfo=platform name=com.lge.sync domain=system_app type=app_data_file
+user=system seinfo=platform name=com.lge.systemserver domain=system_app type=system_app_data_file
+user=system seinfo=platform name=com.uei.lg.quicksetsdk.irblaster domain=priv_app type=app_data_file
+user=system seinfo=platform name=com.uei.lg.quicksetsdk.lite domain=priv_app type=app_data_file
+user=system seinfo=platform name=com.wsandroid.suite.lge domain=priv_app type=app_data_file
+user=_app seinfo=platform name=com.gd.mobicore.pa domain=mobicore_app type=app_data_file levelFrom=user
+user=_app seinfo=attiqi name=com.att.iqi domain=attiqi_app type=attiqi_app_data_file
+user=_app seinfo=verizon name=com.verizon.obdm domain=obdm_app type=app_data_file levelFrom=all
+user=oem_2971 seinfo=platform domain=platform_app type=app_data_file
+user=gps domain=location_app type=location_app_data_file
+user=system seinfo=platform name=com.qualcomm.services.location domain=location_app type=location_app_data_file
+user=system seinfo=platform name=com.qualcomm.location.XT domain=location_app type=location_app_data_file
+user=system seinfo=platform name=com.qualcomm.qti.auth.fidocryptoservice domain=qsee_svc_app type=qsee_svc_app_data_file
+user=system seinfo=platform name=com.qualcomm.qti.securemsm.mdtp.MdtpService domain=mdtpservice_app type=mdtp_svc_app_data_file
+user=system seinfo=platform name=com.qualcomm.qti.qdma domain=qdma_app type=qdma_app_data_file
+user=_app seinfo=platform name=com.qualcomm.timeservice domain=timeservice_app type=app_data_file levelFrom=all
+user=system seinfo=platform name=com.qualcomm.qti.logkit domain=qti_logkit_app type=system_app_data_file
+user=system seinfo=platform name=.imshelperservice domain=imshelper_app type=imshelper_app_data_file
+user=system seinfo=platform name=com.qualcomm.qti.poweroffalarm domain=poweroffalarm_app type=system_app_data_file
+user=_app seinfo=ssgapp domain=ssg_app name=com.qualcomm.qti.qms.service.connectionsecurity type=app_data_file levelFrom=all
+user=_app seinfo=ssgapp domain=ssg_app name=com.qualcomm.qti.qms.service.telemetry type=app_data_file levelFrom=all
+user=_app seinfo=ssgapp domain=ssg_app name=com.qualcomm.qti.qms.service.credentials type=app_data_file levelFrom=all
+user=_app seinfo=platform name=org.simalliance.openmobileapi.service:remote domain=platform_app type=app_data_file

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<app-list version="180330">
+  <app-array mode="0">
+    <package name="com.android.contacts" />
+    <package name="com.android.incallui" />
+    <package name="com.android.calendar" />
+    <package name="com.lge.videostudio" />
+    <package name="com.otp.lg" />
+  </app-array>
+  <app-array mode="1">
+    <package name="com.android.chrome" />
+    <package name="com.android.gallery3d" />
+    <package name="com.google.android.youtube" />
+  </app-array>
+</app-list>

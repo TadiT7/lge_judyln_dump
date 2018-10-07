@@ -1,0 +1,108 @@
+Privatumo Politika
+
+Šioje Privatumo politikoje nurodoma kaip „LGE“ gauna prieigą prie jūsų asmeninės informacijos ir ją naudoja Programinės įrangos atnaujinimų paslaugos kontekste. Prašome atidžiai ją perskaityti prieš naudojantis Programinės įrangos atnaujinimų paslauga.
+
+1.	Įvadas
+„LG Electronics Inc.“ (toliau – „LGE“ arba „mes“) yra įsipareigojusi saugoti „LGE“ mobiliuosius telefonus naudojančių asmenų ir grupių informaciją. Šioje Privatumo politikoje nurodoma kaip mes renkame, naudojame ir dalinamės iš jūsų „LGE“ mobiliojo telefono gaunama informacija ir joje konkrečiai išdėstyta:
+-	„FOTA“ programinės įrangos atnaujinimų apžvalga;
+-	Informacija, kurią „LGE“ gali iš jūsų gauti;
+-	Kaip „LGE“ naudoja gautą informaciją;
+-	Kada „LGE“ dalinasi informacija su kitais; 
+-	Asmeninių duomenų perdavimas į užsienį
+-	Kaip ilgai „LGE“ saugos mano asmeninę informaciją?
+-	Saugumas
+-	Teisė atsisakyti sutikimo arba jį panaikinti
+-	Vaikų privatumo apsauga
+-	„LGE“ Privatumo politikos pakeitimai
+-	Prieiga prie jūsų informacijos
+-	Teisė pareikšti skundą; ir
+-	Susisiekimas su „LGE“ dėl šios Privatumo politikos
+
+Ši Privatumo politika taikoma tik „LGE“ iš jūsų „LGE“ mobiliojo telefono surinktai informacijai siekiant atlikti belaidį aparatinės programinės įrangos atnaujinimą procesą (Firmaware Over-the-Air arba „FOTA“) (toliau – „Programinės įrangos atnaujinimas“). Ši Politika netaikoma jokiems kitiems „LGE“ produktams ar paslaugoms, įsk. „LGE“ siūlomas ar teikimas mobiliąsias programas. Ši Politika netaikoma jokiems trečiųjų šalių siūlomiems produktams ar paslaugoms, įskaitant operacinių sistemų tiekėjus, kito turinio ir programų tiekėjus ar jūsų tinklo operatorių. Tokiems produktams ir paslaugoms ši Privatumo politika netaikoma ir jiems taikomos atskiros jų informacijos rinkimą, naudojimą ir dalinimąsi nurodančios privatumo politikos. Rekomenduojame tokias politikas perskaityti. „LGE“ neatsako ir neprisiima atsakomybės už trečiųjų šalių privatumo praktiką.
+
+Jei neseniai įsigijote šį mobilųjį telefoną, prieš naudojantis reikia atlikti jo programinės įrangos atnaujinimą kaip nurodyta šioje Privatumo politikoje siekiant užtikrinti kad mobilusis telefonas tinkamai veiktų ir jame būtų naujausios mūsų funkcijos ir saugos nustatymai. Jei turite kokių nors klausimų, prašome su mumis susisiekti kaip nurodyta šioje Politikoje.
+
+Šią Privatumo politiką galima bet kada peržiūrėti [Nustatymai – Sistema – Apie telefoną – Teisinė informacija – Teisiniai „LG“ programinės įrangos dokumentai – Privatumo politika].
+
+Bet kokie šios Privatumo politikos vertimai atliekami dėl vietos reikalavimų ir esant neatitikimams tarp versijos anglų ir bet kokios versijos ne anglų kalba, viršesne laikoma Politikos versija anglų kalba, tiek, kiek to nedraudžia taikomi jurisdikcijos, kuriai priklausote, įstatymai.
+
+2.	„FOTA“ programinės įrangos atnaujinimų apžvalga
+Laikas nuo laiko jūsų mobiliojo telefono „LGE“ aparatinę programinę įrangą („Programinė įranga“) gali reikėti atnaujinti arba papildyti „LGE“ teikiamais papildymais, arba „LGE“ gali teikti papildomus Programinės įrangos komponentus. Siekiant teikti tokius atnaujinimus, papildymus ar papildomus komponentus atliekant Programinės įrangos atnaujinimą jūsų mobiliajame telefone įdiegiama nauja Programinė įranga. Su Programinės įrangos atnaujinimu gali būti pridedama naujų funkcijų ar ypatybių, retais atvejais gali būti pašalinamos esamos funkcijos ar ypatybės. Atlikus Programinės įrangos atnaujinimą gali būti negalima naudoti ar atkurti anksčiau įdiegtos Programinės įrangos versijos. 
+
+Kadangi Programinės įrangos atnaujinimas atliekamas naudojant „FOTA“ procesą, atsisiunčiant naują Programinę įrangą mobiliuoju tinklu gali būti taikomi papildomi mokesčiai, priklausomai nuo jūsų tinklo operatoriaus ir paslaugų plano. Jei norite išvengti bet kokio mobiliojo tinklo duomenų naudojimo Programinės įrangos atnaujinimams, prašome Nustatymuose pasirinkti pasirinktį „Tik „Wi-Fi““. 
+
+a.	Jūsų pasirinktys tvarkant būsimus Programinės įrangos atnaujinimus
+Kai įjungta funkcija „Automatinis tikrinimas“, jūsų mobilusis telefonas laikas nuo laiko ieškos naujos ar atnaujintos Programinės įrangos ir automatiškai įdiegs naują ar atnaujintą Programinę įrangą kai ji pasiekiama (funkcija „Automatinis tikrinimas“). Programinę įrangą įdiegus mes jums pranešime iškylančiu pranešimu ar pranešimo žinute jūsų mobiliajame telefone. Galėsite rinktis ar sutiki ar nesutikti su Programinės įrangos atnaujinimu prieš pritaikant Programinės įrangos atnaujinimą. Jūsų mobilusis telefonas taip pat automatiškai vidurnaktį pritaikys įdiegtą Programinės Įrangos atnaujinimą (funkcija „Automatiniai atnaujinimai“). Šias „Automatinis tikrinimas“ ir „Automatiniai atnaujinimai“ funkcijas galite išjungti [Nustatymai – Sistema – Atnaujinimų centras – Programinės įrangos atnaujinimas – Papildomo meniu – Nustatymai].  Išjungus Automatinį tikrinimą nuo to laiko atsisakote atlikti būsimus Programinės įrangos atnaujinimus.
+Prašome atkreipti dėmesį kad jei jūsų mobilusis telefonas jau naudojamas ir atsisakote atlikti Programinės įrangos atnaujinimą, atnaujintos Programinės įrangos neįdiegimas gali sukelti [jūsų mobiliojo telefono veikimo charakteristikų pablogėjimą, suderinamumo su naujomis ar esamomis programomis problemas, ir kitas su jūsų mobiliojo telefono funkcijomis ar sauga susijusias problemas].
+
+Be to, taip pat galite atšaukti savo sutikimą dėl tolesnio asmeninės informacijos rinkimo išjungdami pirmiau aprašytas savo mobiliojo telefono funkcijas „Automatinis tikrinimas“ ir „Automatiniai atnaujinimai“. Šias funkcijas galima pasiekti [Nustatymai – Sistema – Atnaujinimų centras – Programinės įrangos atnaujinimas – Papildomo meniu – Nustatymai]. Vis dėl to, prašome atminti, kad išjungus funkcijas „Automatinis tikrinimas“ ir „Automatiniai atnaujinimai“ tai gali turėti įtakos arba iš dalies arba visiškai apriboti jūsų naudojimąsi mobiliuoju telefonu ar paslaugomis. Pirmiau aprašyto duomenų naudojimo ir rinkimo reikia siekiant užtikrinti optimalias jūsų mobiliojo telefono veikimo charakteristikas. 
+
+Jei turite kokių nors klausimų dėl jūsų teisės atsisakyti arba kaip panaikinti sutikimą, susisiekite su mumis el. pašto adresu mc.customer-service@lge.com.
+
+b.	Skubūs programinės įrangos atnaujinimai
+Jei reikia dėl susiklosčiusių aplinkybių, galime Programinės įrangos atnaujinimą atlikti pagal teisėtus savo interesus jums nepranešdami ir neprašydami sutikimo, nepaisant esamų mobiliojo įrenginio nustatymų („Skubus programinės įrangos atnaujinimas“). Skubaus programinės įrangos atnaujinimo poreikio aplinkybių pavyzdžiais galima laikyti pavojus klientų ar duomenų saugumui, veikimo klaidas, kurios gali sukelti rimtus paslaugų sutrikimus, arba neišvengiamą tokių aplinkybių tikimybę.
+
+3.	Informacija, kurią „LGE“ gali iš jūsų gauti
+Atliekant Programinės įrangos atnaujinimą „LGE“ gali rinkti toliau nurodytą jūsų mobiliojo telefono informaciją: Tarptautinio mobiliojo ryšio įrangos identifikatoriaus (IMEI), serijos numerio, mobiliojo telefono modelio, programinės ir/ar aparatinės programinės įrangos versijų, telefono operacinės sistemos, mobiliojo šalies kodo (MCC), mobiliojo tinklo kodo (MNC), „Google“ debesies žinučių sistemos (GCM) identifikatoriaus ir pasirinktos kalbos informaciją. Tokia informacija renkama automatiškai kaip Programinės įrangos atnaujinimo atlikimo proceso dalis.
+
+Atlikdami savo mobiliųjų paslaugų teikimo į jūsų mobilųjį telefoną vaidmenį mes rinksime įrenginio veikimo informaciją, įsk. sistemos žurnalus su IP adresais. Tokia informacija renkama automatiškai ir jos reikia norint užtikrinti dalį jūsų telefono veikimo proceso.
+
+4.	Kaip „LGE“ naudos gautą informaciją?
+Gautą informaciją naudojame įvairiais tikslais, įskaitant:
+-	Siekiant atlikti Programinės įrangos atnaujinimą (Įskaitant Skubius programinės įrangos atnaujinimus), įsk. tikrinimą ar veikia naujausia Programinės įrangos versija, autentifikuoti jūsų mobilųjį telefoną ir siųsti tinkamą Programinę įrangą; 
+-	Patvirtinti mūsų įsipareigojimus pagal [mūsų ribotą produkto garantiją];
+-	Teikti su mobiliojo telefono saugos paslaugomis susijusius pranešimus ir skubius pranešimus dėl saugos problemų;
+-	Saugoti ar ginti mūsų teises ir nuosavybę, įsk. teisminio proceso metu;
+-	Siekiant laikytis teisės aktų reikalavimų; ir
+-	Analizuoti, peržiūrėti ir gerinti mūsų siūlomus produktus ir paslaugas.
+
+„LGE“ apdorojant jūsų asmeninę informaciją įprastai remsis vienu iš toliau nurodytų teisinių pagrindų;
+-	Sutartis: kai reikia su jumis sudaryti sutartį;
+-	Teisėti interesai: kai to reikia dėl teisėtų „LGE“ ar trečiosios šalies verslo interesų. „LGE“ atveju tai apima jos, kaip elektronikos produktų gamintojos ir paslaugų tiekėjos interesus;
+-	Sutikimas: kai pasirinkote jį suteikti. Turite teisė savo sutikimą atsiimti bet kuriuo metu; arba
+-	Teisinis įsipareigojimas: kai duomenis apdoroti reikia siekiant laikytis teisės aktų nuostatų.
+
+Mes taip pat galime sujungti statistinius Programinės įrangos atnaujinimo ir mobiliojo telefono veikimo metu surinktus duomenis siekiant geriau suprasti klientų poreikius, gerinti klientų aptarnavimą ir mūsų siūlomas paslaugas, ar atlikti rinkos tyrimus ar analitiką. Tokiuose sujungtuose statistiniuose duomenyse nėra identifikacijos duomenų, ar duomenų, kuriuos galima priskirti fiziniams asmenims.
+
+5.	Kada „LGE“ dalinasi informacija su kitais
+Mes įprastai su trečiosiomis šalimis nesidaliname Programinės įrangos atnaujinimo metu surinkta informacija arba informacija, kurią galima priskirti fiziniams asmenims. 
+
+Nepaisant to, prašome atkreipti dėmesį, kad toliau nurodytais atvejais galime dalintis tokia informacija su tokiomis trečiosioms šalimis:
+
+-	Filialai ir dukterinės įmonės. „LGE“ gali dalintis asmenine ir neasmenine informacija (įsk. mobiliojo telefono informaciją) su savo filialais ir dukterinėmis įmonėmis visame pasaulyje tik tiek, kiek reikia tikslais, kuriais ji buvo renkama. Terminai „filialai“ ir „dukterinės įmonės“ reiškia grupės įmones, kurios gali naudoti „LG“ pavadinimą arba gali būti bendrai valdomos (tokios kaip „LG CNS“ ar „LG Electronics U.S.A., Inc.“);
+-	Trečiųjų šalių paslaugų tiekėjai. Trečiosios šalys, su kuriomis „LGE“ gali bendradarbiauti siekiant laikas nuo laiko teikti paslaugas jos vardu, pavyzdžiui, siekiant įvykdyti klientų aptarnavimo užklausas;
+
+Nors mes įprastai nesidaliname informacija su kitomis trečiosiomis šalimis, prašome atkreipti dėmesį, kad toliau nurodytais konkrečiais atvejais galime dalintis informacija su toliau nurodytais subjektais;
+-	Kitos šalys kai reikalaujama pagal įstatymų nuostatas. Jei reikalaujama teismo įsakymu ar to reikalauja kitos vyriausybinės ar teisėsaugos institucijos siekiant laikytis teisminio proceso ar įstatymų;
+-	Kitos su įmonių sandoriais susijusios šalys. Verslo sandorio, tokio kaip susijungimo, restruktūrizavimo ar viso ar dalies „LGE“ verslo (įskaitant padalinio ar dukterinės įmonės) pardavimo ar perdavimo atveju, kai „LGE“ gali reikėti atskleisti informaciją potencialiam pirkėjui ar jo profesionaliems patarėjams;
+-	Kitos šalys kai to reikia siekiant apsaugoti mūsų paslaugas. Siekiant vykdyti mūsų sutartines teises, imtis atsargumo priemonių dėl atsakomybės, tirti įtariamą ar faktinę neteistą veiklą, arba tirti ar ginti mus nuo trečiųjų šalių reikalavimų ir įtarimų; arba
+-	Kitos šalys kai to reikia siekiant užtikrinti bet kokių mūsų klientų asmeninį saugumą ar turto apsaugą. Siekiant ginti mūsų klientų ar visuomenės teises, užtikrinti saugumą ar jų turto apsaugą.
+
+Jūsų asmeninė Programinės įrangos atnaujinimo metu surinkta informacija jokiais atvejais be jūsų sutikimo nebus apdorojama rinkodaros tikslais, ja taip pat be jūsų sutikimo nebus dalinamasi su trečiųjų šalių tiekėjais rinkodaros tikslais.
+
+6.	Asmeninių duomenų perdavimas
+Mes, mūsų filialai, dukterinės įmonės ir paslaugų tiekėjai galime naudoti jūsų asmeninę informaciją kitose šalyse, nei yra jūsų mobilusis telefonas, šioje Privatumo politikoje nurodytais tikslais. Kai kurių šalių duomenų apsaugos įstatymai gali nesuteikti tokio apsaugos lygio, kaip galiojantys šalyje, kuriose esate. Vis dėl to, prieš perduodami jūsų asmeninę informaciją, imsimės priemonių siekdami užtikrinti, kad tokiai informacijai gavėjo šalyje ar jurisdikcijoje būtų taikomas toks pat apsaugos lygis. 
+
+7.	Kaip ilgai „LGE“ saugos mano asmeninę informaciją?
+Mes jūsų asmeninę informaciją saugosime tol, kol mums jos reikės siekiant jums teikti Programą ar kitais šioje Privatumo politikoje nurodytais tikslais. Skirtingoms jūsų mums suteiktos asmeninės informacijos kategorijoms taikome kriterijus, pagal kuriuos nustatomas tinkamas saugojimo laikotarpis. 
+Įmonei ypač svarbu rinkti ir naudoti asmeninę informacija siekiant teikti programinės įrangos atnaujinimo paslaugas. Prašome atkreipti dėmesį, kad nesutikus su informacijos rinkimu daugelio paslaugos dalių naudojimas/teikimas gali būti apribotas. Mes renkame ir naudojame asmeninę informacijos subjekto informaciją. Mes taip pat ją laikome kol įvykdomas tokio rinkimo ir naudojimo tikslas. Taigi labai svarbu kad jūsų naudojimosi paslauga laikotarpiu Įmonė laikytų ir naudotų asmeninę informaciją.
+Jei norite kad jūsų asmeninė informacija būtų ištrinta nes ji nebereikalinga, arba prieštaraujate informacijos apdorojimui ar manote kad apdorojimas yra neteisėtas, turite teisę reikalauti kad apdorojimas būtų apribotas kol patvirtinime jūsų prašymą ištrinti informaciją.
+
+8.	Saugumas
+Mes dedame komerciškai pagrįstas pastangas siekdami užtikrinti jūsų asmeninės informacijos konfidencialumą ir apsaugą. Vis dėl to, dėl interneto dizaino, nuolat nesikeičiančio technologijų ir kitų veiksnių, kurių valdyti negalime, negalime garantuoti, kad tarp jūsų ir mūsų serverių vykstanti komunikacija bus visada apsaugota nuo trečiųjų šalių prieigos ar kad nebus mūsų sistemų saugumo pažeidimų. Neprisiimame jokios atsakomybės dėl asmeninės informacijos atskleidimo dėl klaidų perdavimo metu ar neįgaliotos ar neteisėtos trečiųjų šalių prieigos.
+
+9. Vaikų privatumo apsauga
+Mums svarbu vaikų privatumo apsauga. Dėl šios priežasties jokios mūsų paslaugos nėra skirtos pritraukti jaunesnius, nei 16 metų amžiaus ar pilnametystės amžiaus atitinkamoje jurisdikcijoje nesulaukusius asmenis. Mes taip pat sąmoningai nerenkame ir nelaikome jaunesnių, nei 16 metų amžiaus ar pilnametystės amžiaus atitinkamoje jurisdikcijoje nesulaukusių asmenų asmeninės informacijos. Mums sužinojus, kad surinkome jaunesnių, nei 16 metų amžiaus ar pilnametystės amžiaus atitinkamoje jurisdikcijoje nesulaukusių naudotojų informaciją, mes nedelsdami tokią informaciją ištrinsime.
+
+10. „LGE“ Privatumo politikos pakeitimai
+„LGE“ šią Privatumo politiką gali laikas nuo laiko atnaujinti. Atlikus esminį Privatumo politikos pakeitimą, mes jus informuosime per jūsų mobilųjį įrenginį ar kitomis priemonėmis. Norint tęsti naudojimąsi Programinės įrangos atnaujinimų paslaugomis jums gali reikėti pakeistą Privatumo politiką patvirtinti arba su ja sutikti.
+
+11. Prieiga prie jūsų informacijos ir jūsų teisės
+Pagal kai kuriose jurisdikcijose galiojančius įstatymus galite turėti teisę prašyti prieigos prie „LGE“ turimos jūsų asmeninės informacijos, jos ištaisymo ar ištrynimo, arba teisę prieštarauti ar apriboti tam tikrus jūsų asmeninės informacijos apdorojimo būdus (ar panaikinti savo sutikimą su „LGE“ apdorojimu), arba gauti mašininiu būdu skaitomą jūsų asmeninės informacijos kopiją. Jei leidžia įstatymas, tokių paslaugų teikimas gali būti apmokestinamas nedideliu mokesčiu. Prašome atkreipti dėmesį kad mes galime atsisakyti apdoroti jūsų užklausas jei jomis nepagrįstai piktnaudžiaujama, dėl jų kyla pavojus kitų asmenų privatumui, ar jos itin nepraktiškos (kai tai leidžia taikomų įstatymų nuostatos). Norėdami gauti daugiau informacijos arba pasinaudoti bet kuriomis iš šių teisių, susisiekite su mumis el. pašto adresu mc.customer-service@lge.com.
+
+12. Susisiekimas su „LGE“ dėl šios Privatumo politikos
+Jei turite kokių nors su šia privatumo politika ar „LGE“ jūsų asmeninių duomenų apdorojimu susijusių klausimų ar komentarų, prašome su „LG Electronics Inc.“ susisiekti el. pašto adresu mc.customer-service@lge.com. Turite teisę pareikšti skundą duomenų apsaugos institucijoms, tačiau mes raginame sprendžiant bet kokias problemas pirmiausiai su mumis susisiekti tiesiogiai.
+
+Paskutinis atnaujinimas: 2017 m. gruodžio 1 d.
+
+

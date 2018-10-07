@@ -1,0 +1,186 @@
+#################################################################
+# MFTS executable process
+
+service mfts_mainlist /sbin/python /factory/minios/run.py apps.mfts.mainlist.mfts_mainlist
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_led_disp /sbin/python /factory/minios/run.py apps.mfts.led_display.mfts_led_display
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_key_sensor /sbin/python /factory/minios/run.py apps.mfts.key_sensor.mfts_key_sensor
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_earjack /sbin/python /factory/minios/run.py apps.mfts.earjack.mfts_earjack
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_touch_auto /sbin/python /factory/minios/run.py apps.mfts.touch_auto.mfts_touch_auto
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_touch_draw /sbin/python /factory/minios/run.py apps.mfts.touch_draw.mfts_touch_draw
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_spk /sbin/python /factory/minios/run.py apps.mfts.spk.mfts_spk
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_rcv /sbin/python /factory/minios/run.py apps.mfts.rcv.mfts_rcv
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_compass /sbin/python /factory/minios/run.py apps.mfts.compass.mfts_compass
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_video /sbin/python /factory/minios/run.py apps.mfts.video.mfts_video
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_auto_det /sbin/python /factory/minios/run.py apps.mfts.auto_detect.mfts_auto_detect
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_mic_record /sbin/python /factory/minios/run.py apps.mfts.mic_record.mfts_mic_record
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_display /sbin/python /factory/minios/run.py apps.mfts.display.mfts_display
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_nfc_felica /sbin/python /factory/minios/run.py apps.mfts.nfc_felica.mfts_nfc_felica
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_cam_main /sbin/python /factory/minios/run.py apps.mfts.cam_main.mfts_cam_main
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_cam_vt /sbin/python /factory/minios/run.py apps.mfts.cam_vt.mfts_cam_vt
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_irrc_irda /sbin/python /factory/minios/run.py apps.mfts.irrc_irda.mfts_irrc_irda
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_mura /sbin/python /factory/minios/run.py apps.mfts.mura.mfts_mura
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_video_long /sbin/python /factory/minios/run.py apps.mfts.video_long.mfts_video_long
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_display_ic /sbin/python /factory/minios/run.py apps.mfts.display_ic.mfts_display_ic
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_display_ic /sbin/python /factory/minios/run.py apps.mfts.display_ic.mfts_display_ic
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_video_short /sbin/python /factory/minios/run.py apps.mfts.video_short.mfts_video_short
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_poled_disp /sbin/python /factory/minios/run.py apps.mfts.poled_display.mfts_poled_display
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0

@@ -1,0 +1,6 @@
+﻿Esamos vietos informacijos naudojimas „Mano vietos“ paslaugai
+
+Ši Mano vietos paslauga (toliau – „Paslauga“) naudoja naudotojo įrenginio vietos informaciją siekiant analizuoti vietų, kuriose naudotojas praleidžia daug laiko, modelį ir teikti funkcijas automatiškai atpažįstant tokią vietą, arba leidžia naudotojui rankiniu būdu nustatyti vietą kaip „Mano vietos“ (pvz., namų, darbo vietą). Tęsiama modelio analizė gali automatiškai pakeisti anksčiau nustatytą vietą. 
+Nors ši Paslauga naudoja naudotojo įrenginyje saugomą vietos informaciją (bazinių perdavimo stočių (BTS), GPS, „Wi-Fi“, tinklo padėčių (NLP)), „LG Electronics Inc.“ (toliau – „LGE“) niekada nerenka ir nenaudoja naudotojo vietos informacijos ir naudoja ir saugo ją tik naudotojo įrenginyje.
+Ši Paslauga pradeda automatiškai atpažinti vietas, kuriose naudotojas praleidžia daug laiko, nuo momento kai naudotojas duoda savo sutikimą naudoti esamą naudotojo įrenginio buvimo vietą ir tęsia naudojimą nebent naudotojas sustabdo Paslaugos naudojimą išjungdamas atitinkamą funkcijos pasirinktį.
+Vis dėl to, „LGE“ esamos naudotojo vietos informaciją naudos tik jei naudotojas įjungs pasirinktį naudoti įrenginio „Google“ vietovės paslaugą.

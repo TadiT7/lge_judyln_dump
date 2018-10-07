@@ -1,0 +1,3 @@
+﻿Joriy joylashuv ma'lumotlaridan foydalanish
+
+LGE qurilmaning "joriy joylashuv ma'lumotlarini" olish uchun qurilmaga saqlangan joylashuv ma'lumotlaridan foydalanishi mumkin (using GPS, Wi-Fi va mobil aloqa tarmoqlaridan foydalangan holda). LGE "joriy joylashuv ma'lumotlarini" foydalanuvchi qurilmasiga saqlaydi va bunday ma'lumotlarni o'z serverlarida to'plamaydi yoki saqlamaydi. Hattoki siz yuqoridagilarga rozi bo'lsangiz ham xizmat faqat foydalanuvchi Google joylashuv funksiyasini yoqib qo'yganda ko'rsatiladi va "joriy joylashuv ma'lumotlari" xizmati "joriy joylashuv ma'lumotlaridan" foydalanuvchi har bir xizmat sozlamalari menyusi orqali istalgan vaqtda o'zgartirilishi mumkin.

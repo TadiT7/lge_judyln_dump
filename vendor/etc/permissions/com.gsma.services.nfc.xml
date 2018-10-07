@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.gsma.services.nfc"
+            file="/system/framework/com.gsma.services.nfc.jar"/>
+</permissions>

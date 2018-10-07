@@ -1,0 +1,65 @@
+﻿Polityka prywatności dotycząca dzienników aktywności
+
+Uwaga: Wyrażając zgodę na przestrzeganie niniejszej Polityki ochrony prywatności, użytkownik zezwala firmie LGE na wykorzystywanie jego danych w sposób opisany poniżej. Wyrażenie zgody przez użytkownika jest dobrowolne. Jeśli jednak użytkownik nie wyrazi takiej zgody, firma LGE nie będzie mogła świadczyć usług na rzecz użytkownika, co z kolei oznacza niemożność korzystania przez użytkownika z określonych usług przedstawiania raportów diagnostycznych dotyczących urządzenia LG (dalej „usługa LG”). Użytkownik może w dowolnym momencie zapoznać się z warunkami korzystania z usługi LG i cofnąć zgodę, przesyłając wiadomość e-mail na adres:
+
+mc.customer-service@lge.com
+
+1. Wstęp
+Firma LG Electronics Inc. (dalej „LGE” lub „my”) podejmuje wszelkich starań w celu ochrony informacji osób lub grup korzystających z usługi LG. Niniejsza Polityka ochrony prywatności określa sposób, w jaki firma LGE gromadzi, wykorzystuje i udostępnia informacje pozyskane w wyniku korzystania przez użytkownika z usług, a w szczególności określa:
+- Jakie informacje firma LGE może uzyskać od użytkownika lub z usługi LG,
+- Sposoby wykorzystywania pozyskiwanych informacji,
+- Kiedy firma LGE udostępnia uzyskane informacje innym podmiotom,
+- Jak klient może kontrolować przetwarzanie i udostępnianie informacji przez firmę LGE.
+
+Usługa LG oferuje dostęp do aplikacji oraz odnośniki do innych usług, których właścicielami i administratorami są firmy trzecie, w tym dostawcy systemów operacyjnych i innego rodzaju treści oraz dostawcy aplikacji. Usługi oferowane przez strony trzecie nie są przedmiotem niniejszej polityki prywatności. Sposoby gromadzenia, przetwarzania i udostępniania danych uzyskanych w związku z nimi opisują odnoszące się do nich polityki prywatności. Koniecznie się z nimi zapoznaj. Firma LGE nie ponosi żadnej odpowiedzialności za to, w jaki sposób inne firmy chronią Twoją prywatność.
+
+2. Jakie informacje uzyskuje firma LGE?
+Firma LGE zbiera następujące informacje:
+① Stan urządzenia mobilnego, model, wersja oprogramowania, IMEI, numer seryjny, IMSI, stan zasilania, stan baterii, wykorzystanie pamięci CPU/RAM/wewnętrznej, przeciętny czas użytkowania, wynik diagnostyki sprzętu (Wi-Fi, BT, czujnik zbliżeniowy, czujnik podświetlenia, czujnik dotykowy, itp.),
+② Status sieci: stan usługi (połączenie, dane), siła sygnału, informacje o stacji, częstotliwość/czas rozmów,
+③ Informacje o aplikacji: lista zainstalowanych i usuniętych aplikacji, wersje aplikacji, ostatnio wykonane aplikacje, statystyki dotyczące użycia aplikacji / częstotliwość użycia, 
+④ Stan połączenie telefonu komórkowego: stany połączenia — Wi-Fi, Bluetooth, GPS, słuchawka douszna, ładowarka baterii, USB i karta SD,
+⑤ Informacja o błędzie: zawieszony ekran, niespodziewane wyłączenia, rozłączone połączenia, błędy aplikacji (awarie, wyjątki).
+
+3. Jak firma LGE przetwarza uzyskane informacje?
+Informacje pozyskane od użytkownika wykorzystujemy w różnych celach, w tym do:
+- Identyfikacji i diagnozowania urządzenia przenośnego,
+- Świadczenia usług na rzecz klienta i zarządzania historią usług, 
+- Przesyłania wiadomości typu push, 
+- Analizowania historii usług/rejestrów/urządzenia w celu zwiększania jakości i satysfakcji klienta,
+
+Firma LGE może połączyć informacje pozyskiwane od klienta w tym dane osobowe, z informacjami przekazywanymi przez użytkownika w inny sposób w celach zgodnych z niniejszą polityką prywatności. 
+
+4. Udostępnianie informacji
+Co do zasady firma LGE nie udostępnia firmom trzecim informacji pozyskiwanych za pośrednictwem korzystania przez użytkownika z usługi LG. Należy jednak pamiętać, iż w poniższych przypadkach firma LGE może udostępnić takie informacje następującym podmiotom:
+- Podmioty stowarzyszone i zależne Firma LGE może udostępnić dane osobowe i nieosobowe (w tym informacje o urządzeniu) swoim jednostkom zależnym i stowarzyszonym na całym świecie tylko tak długo, jak jest to koniecznie dla celów, na potrzeby których zostały one zgromadzone. Termin „spółki stowarzyszone” lub „spółki zależne” odnosi się do spółek Grupy, które mogą posługiwać się nazwą LG bądź mieć wspólnego właściciela lub znajdować się pod wspólną kontrolą LG, takich jak LG CNS lub LG Electronics U.S.A.,INC.(„LGEUS”).
+- Zewnętrznym dostawcom usług. Firma LGE może udostępnić informacje firmom trzecim świadczącym usługi w jej imieniu, np. w celu udzielenia odpowiedzi na zgłoszenia serwisowe użytkownika;
+- Inne strony (w przypadku obowiązku prawnego) W zakresie, w którym jest to wymagane przez postanowienie sądu lub innego urzędu państwowego czy też organu ścigania, w celu spełnienia wymogów procedury prawnej bądź obowiązujących przepisów prawa.
+- Inne strony w związku z transakcjami korporacyjnymi W związku ze zdarzeniami biznesowymi, takimi jak fuzja lub sprzedaż całości lub części firmy LGE (obejmuje oddziały i podmioty zależne), jeśli firma LGE jest zobowiązana ujawnić informacje potencjalnemu kupcowi i jego oficjalnym doradcom.
+- Inne strony, gdy jest to konieczne do ochrony naszych usług. W związku z ochroną praw i własności firmy obejmującą również użycie środków prawnych.
+- Inne strony (w związku z ochroną bezpieczeństwa osobistego i własności użytkowników). W celu ochrony bezpieczeństwa osobistego lub własności użytkowników lub społeczeństwa.
+
+Twoje dane osobowe nie będą przetwarzane w celach marketingowych ani udostępniane stronom trzecim w takich celach.
+
+5. Przekazywanie informacji za granicę
+Firma LGE, jej podmioty stowarzyszone, podmioty zależne, a także dostawcy, mogą przetwarzać informacje (włącznie z danymi osobowymi) w krajach innych niż kraj, w którym znajduje się urządzenie, w celu dostarczania usługi LG oraz w innych celach nakreślonych w Zasady zachowania poufności informacji. Prawo dotyczące ochrony danych w wielu krajach może gwarantować niższy poziom ochrony niż prawo kraju, w którym się znajdujesz. Gwarantujemy, że przed przekazaniem Twoich danych osobowych podejmiemy kroki mające na celu zagwarantowanie takiego samego poziomu ochrony informacji. Wyrażając zgodę na przestrzeganie niniejszej Polityki ochrony prywatności użytkownik wyraża wyraźną zgodę na przetwarzanie swoich danych przez firmę LGE, jej jednostki zależne i stowarzyszone oraz jej dostawców w dowolnej jurysdykcji, w tym między innymi na terenie Korei Południowej lub Stanów Zjednoczonych, zgodnie z niniejszą Polityką ochrony prywatności. 
+
+6. Jak długo firma LGE przechowuje dane osobowe Użytkownika?
+Firma podejmie stosowne kroki, aby zagwarantować, że dane osobowe użytkownika będą przechowywane przez firmę tak długo, jak jest to konieczne w celu zapewnienia użytkownikowi usługi LG lub w celu, w którym były one zgromadzone, czy też zgodnie z wymogami stosownego prawa.
+
+7. Zabezpieczenia
+Firma LGE podejmuje wszelkie uzasadnione z handlowego punktu widzenia kroki w celu zapewnienia ochrony prywatności danych osobowych użytkownika. Jednak z uwagi na strukturę internetu, stały postęp technologiczny i inne czynniki pozostające poza naszą kontrolą, nie jesteśmy w stanie zagwarantować, że komunikacja pomiędzy użytkownikiem a naszymi serwerami będzie wolna od nieuprawnionego dostępu osób trzecich lub że LGE nie padnie ofiarą naruszeń zabezpieczeń. Nie bierzemy żadnej odpowiedzialności za przypadki ujawnienia informacji osobistych wskutek błędów w transmisji czy nieuprawnionych bądź niedozwolonych działań osób trzecich.
+
+8. Ochrona prywatności dzieci
+Ochrona prywatności dzieci jest dla nas niezwykle ważną kwestią. Dlatego usługa usługa LG jest dostępna wyłącznie dla osób, które ukończyły 14. rok życia lub osiągnęły wiek dojrzałości w danej jurysdykcji. Usługa nie jest skierowana do osób, które nie ukończyły 14. roku życia. Firma LGE nie gromadzi ani świadomie nie przechowuje danych osobowych osób poniżej 14. roku życia. W przypadku uzyskania przez firmę LGE informacji, że zostały przez nią zgromadzone dane osobowe użytkowników poniżej 14 roku życia lub poniżej wieku pełnoletniości na mocy prawa w odpowiedniej jurysdykcji, firma LGE niezwłocznie dokona usunięcia takich informacji.
+
+9. Zmiany w Polityce Prywatności firmy LGE
+Firma LGE będzie okresowo zmieniała niniejszą politykę prywatności. Jeśli wprowadzimy istotne zmiany w Zasady zachowania poufności informacji, powiadomimy Cię za pośrednictwem strony internetowej LG lub w inny sposób. Jeśli Użytkownik nie wyraża zgody na modyfikacje wprowadzone do Polityki Prywatności, może nie uzyskać pełnego dostępu do usługi LG.
+
+10. Dostęp do danych użytkownika
+Na mocy prawa obowiązującego w niektórych jurysdykcjach Użytkownik może zażądać szczegółowych informacji dotyczących swoich danych osobowych gromadzonych przez firmę LGE, a także skorygować nieścisłości w swoich danych osobowych lub w inny sposób sprzeciwić się, w celach zgodnych z prawem, przetwarzaniu swoich danych osobowych. Za takie usługi może zostać naliczona drobna opłata, jeśli prawo tego nie zakazuje. Należy pamiętać, że firma LGE może odmówić użytkownikowi przetwarzania jego wniosków w przypadku obraźliwego zachowania użytkownika, naruszania przez niego prywatności innych osób lub w przypadku gdy takie działanie będzie wysoce niepraktyczne. Aby złożyć wniosek o uzyskanie dostępu do swoich danych osobowych, możliwość ich korekty, anulowania lub wyrażenie braku zgody na przetwarzanie swoich danych osobowych, należy skontaktować się z firmą, mc.customer-service@lge.com.
+
+11. Kontakt z firmą LGE w sprawie niniejszej Polityki Prywatności
+W przypadku jakichkolwiek pytań lub uwag związanych z niniejszą Polityką ochrony prywatności prosimy o kontakt pod adresem mc.customer-service@lge.com.
+
+Ostatnia aktualizacja: 22 czerwca 2017

@@ -1,0 +1,109 @@
+﻿Politik om beskyttelse af personlige oplysninger
+
+Denne politik om beskyttelse af personlige oplysninger beskriver, hvordan LGE får adgang til dine personlige oplysninger i forbindelse med softwareopdateringstjeneste. Læs den nøje, inden du bruger softwareopdateringstjenesten.
+
+1.	Indledning
+LG Electronics Inc. ("LGE" eller "vi") er forpligtet til at beskytte oplysningerne tilhørende de personer og grupper, der bruger LGE-mobiltelefoner. Denne politik om beskyttelse af personlige oplysninger fastsætter, hvordan vi indsamler, bruger og deler oplysninger, som vi indsamler som følge af din brug af LGE-mobiltelefonen, og den fastsætter især:
+-	Oversigt over FOTA-softwareopdateringer;
+-	Oplysninger, som LGE kan indsamle fra dig;
+-	Hvordan LGE bruger oplysningerne, som den indsamler;
+-	Hvornår LGE deler oplysninger med andre; 
+-	Udlandsoverførsel af personlige oplysninger
+-	Hvor længe opbevarer LGE mine personlige oplysninger?
+-	Sikkerhed
+-	Ret til at nægte eller tilbagetrække samtykket
+-	Beskyttelse af børnenes privatliv
+-	Ændringer på LGE's politik om beskyttelse af personlige oplysninger
+-	Adgang til dine oplysninger
+-	Ret til at indgive en klage; og
+-	Kontakt med LGE om denne politik om beskyttelse af personlige oplysninger
+
+Denne politik gælder kun for oplysninger, der indsamles af LGE fra din LGE-mobiltelefon, for at udføre en firmwareopdatering via en FOTA-proces (Firmware Over-the-Air el. firmware over luften) (en "softwareopdatering"). Denne politik gælder ikke for alle andre LGE-produkter eller -tjenester, herunder mobilapps, der er tilbudt eller leveret af LGE. Denne politik gælder heller ikke for alle produkter eller tjenester, der er tilbudt af tredjeparter, herunder udbydere af operativsystemer, andre udbydere af indhold eller applikationer eller din netværksudbyder. Produkter og tjenester, der ikke er omfattet af denne politik om beskyttelse af personlige oplysninger, har deres egne politikker, der gælder for indsamling, brug og deling af oplysninger, og vi opfordrer dig til at læse disse politikker. LGE er ikke ansvarlig eller erstatningspligtig for tredjeparters beskyttelse af personlige oplysninger.
+
+Hvis du for nylig har købt denne mobiltelefon, er det nødvendigt før brug af samme at udføre en softwareopdatering som beskrevet i denne politik om beskyttelse af personlige oplysninger for at sikre, at mobiltelefonen fungerer korrekt og har de mest opdaterede funktioner, funktions- og sikkerhedsindstillinger. Kontakt os som beskrevet i denne politik, hvis du har spørgsmål.
+
+Du kan læse denne politik til enhver tid i [Indstillinger – System – Om telefonen – Juridiske oplysninger – Juridiske dokumenter vedrørende LG Software – Politik om beskyttelse af personlige oplysninger].
+
+Enhver oversættelse af denne politik om beskyttelse af personlige oplysninger gøres ifølge lokale krav, og i tilfælde af en forskel mellem den engelske version og en version på et andet sprog, har den engelske version af denne politik om beskyttelse af personlige oplysninger forrang i den maksimale udstrækning, der er tilladt i henhold til gældende lovgivning i din retskreds.
+
+2.	Oversigt over FOTA-softwareopdateringer
+LGE-firmwaren på mobiltelefonen ("softwaren") kan af og til kræve opdateringer eller tillæg, der leveres af LGE, eller LGE kan levere tilføjelseskomponenter til softwaren. En softwareopdatering installerer ny software på mobiltelefonen for at levere disse opdateringer, tillæg eller tilføjelseskomponenter. Softwareopdateringer kan tilføje nye egenskaber eller funktioner og kan i begrænsede tilfælde fjerne eksisterede egenskaber eller funktioner. Når du har fuldført softwareopdateringen, kan du ikke længere bruge eller gå tilbage til den tidligere installerede version af softwaren. 
+
+Da softwareopdateringen udføres via en FOTA-proces, opkræves der muligvis yderligere gebyrer, hvis du henter ny software over et mobilnetværk, alt efter din netværksudbyder og dit tjenesteabonnement. Hvis du vil undgå enhver brug af mobilnetværksdata til softwareopdateringer, skal du vælge indstillingen "Kun wi-fi" i Indstillinger. 
+
+a.	Dine indstillinger til styring af fremtidige softwareopdateringer
+Når du giver dit samtykke til denne politik om beskyttelse af personlige oplysninger vedr. FOTA, søger mobiltelefonen af og til efter ny eller opdateret software og installerer automatisk ny eller opdateret software, når den er tilgængelig (funktionen "Tjek automatisk"). Efter at softwaren er installeret, giver vi besked til dig ved hjælp af en pop op-besked eller en meddelelse på mobiltelefonen. Du kan acceptere eller afvise softwareopdateringen, før du anvender softwaren. Mobiltelefonen anvender også den installerede software ved midnat (funktionen "Automatiske opdateringer"). Du kan afvise disse funktioner "Tjek automatisk" og "Automatiske opdateringer" i [Indstillinger – System – Opdateringscenter – Software opdatering – Overløbsmenuen – Indstillinger]. Hvis du afviser funktionen Tjek automatisk, afviser du effektivt fremtidige softwareopdateringer.
+Hvis mobiltelefonen allerede er i brug, og du afviser at udføre en softwareopdatering, bedes du lægge mærke til, at manglende installation af opdateret software kan medføre [forringelse af mobiltelefonens ydelse samt kompatibilitetsproblemer med nye eller eksisterende apps og andre problemer med mobiltelefonens funktioner eller sikkerhed].
+
+b.	Påtrængende softwareopdateringer
+Hvis det er nødvendigt på grund af omstændighederne, kan vi udføre en softwareopdatering i henhold til vores legitime interesser uden at sende enkelte beskeder eller søge samtykke, og uanset aktuelle enhedsindstillinger (en "påtrængende softwareopdatering"). Blandt eksempler på omstændigheder, der kan kræve en påtrængende softwareopdatering, er trusler mod kunde- eller datasikkerhed eller driftsmæssige problemer, der kan resultere i betydelig afbrydelse af tjenester, eller umiddelbar risiko for sådanne omstændigheder.
+
+3.	Oplysninger, som LGE kan indsamle fra dig
+LGE kan ved udførelse af en softwareopdatering indsamle følgende oplysninger fra din mobiltelefon: International identitet for mobilstationsudstyr (Mobile Equipment Identity (IMEI)), serienummer, mobiltelefonens model, software- og/eller firmwareversioner, telefonens operativsystem, mobil landekode (MCC), mobil netværkskode (MNC), GCM-identifikation (Google Cloud Messaging (GCM)) og valgt sprog. Disse oplysninger indsamles automatisk som en del af processen for udførelse af en softwareopdatering.
+
+Som en del af vores rolle i forbindelse med levering af mobiltjenester til din mobiltelefon indsamler vi driftsmæssige oplysninger, herunder systemlogge med IP-adresser. Disse oplysninger indsamles automatisk, som er en nødvendig del af telefonens drift.
+
+4.	Hvordan bruger LGE de oplysninger, den indsamler?
+Vi bruger oplysninger, der er indsamlet fra dig, til adskillige formål, herunder:
+-	For at udføre softwareopdateringen (herunder evt. påtrængende softwareopdateringer), herunder for at kontrollere, om softwaren er opdateret, godkende mobiltelefonen og levere den passende software; 
+-	For at bekræfte vores forpligtelser i forbindelse med [vores begrænsede produktgaranti];
+-	For at sende beskeder vedrørende mobiltelefonens sikkerhedstjenester og nødbeskeder som reaktion på sikkerhedsproblemer;
+-	For at beskytte og forsvare vores rettigheder og ejendom, bl.a. ad rettens vej;
+-	For at opfylde lovkrav; og
+-	For at analysere, gennemgå og forbedre de produkter og tjenester, vi tilbyder.
+
+Retsgrundlaget, som LGE afhænger af for at behandle dine personlige oplysninger, bliver typisk et af følgende;
+-	Kontrakt: Hvor det er nødvendigt at indgå en kontrakt med dig;
+-	Legitime interesser: Hvor det er nødvendigt til LGE's formål eller til en tredjeparts legitime forretningsmæssige interesser. For LGE omfatter dette dens interesser som producent og tjenesteudbyder af elektroniske produkter;
+-	Samtykke: Hvor du har valgt at give det. Du har til enhver tid ret til at tilbagetrække dit samtykke; eller
+-	Juridisk forpligtelse: Hvor behandlingen er nødvendig for at opfylde vores juridiske forpligtelser
+
+Vi kan også bruge sammenfattede statistiske data, der er indsamlet under en softwareopdatering og under mobiltelefonens drift, til bedre at forstå vores kunders behov, forbedre vores kundepleje og de produkter og tjenester, som vi tilbyder, og til markedsundersøgelse og -analyse. Sådanne sammenfattede statistiske data indeholder ikke oplysninger, der identificerer eller kan tilskrives fysiske personer.
+
+5.	Hvornår LGE deler oplysninger med andre
+Vi deler som regel ikke de oplysninger, som vi indsamler under softwareopdateringer, og som identificerer eller kan tilskrives fysiske personer, med tredjeparter. Du skal dog være opmærksom på følgende omstændigheder, hvor vi kan dele sådanne oplysninger med følgende tredjeparter:
+
+-	Tilsluttede virksomheder og datterselskaber. LGE kan kun dele personlige og ikke-personlige oplysninger (herunder oplysninger om mobiltelefonen) med dens tilsluttede virksomheder og datterselskaber i hele verden, så længe det er nødvendigt til de formål, de blev indsamlet til. Begrebet 'tilsluttede virksomheder' eller 'datterselskaber' henviser til virksomheder i koncernen, der kan bruge navnet LG, eller som har fælles ejerskab eller kontrol, som f.eks. LG CNS eller LG Electronics U.S.A., Inc.;
+-	Eksterne tjenesteudbydere. Med eksterne leverandører, som LGE af og til kan gøre brug af for at levere tjenester på dens vegne, som f.eks. for at opfylde tjenesteanmodninger fra kunder;
+-	Andre parter, når det er påkrævet i henhold til lovgivningen. Som påkrævet ved retskendelse eller af andre regerings- eller retshåndhævende myndigheder for at opfylde en retlig proces eller lov;
+-	Andre parter i forbindelse med selskabsretlige transaktioner. I forbindelse med en selskabsbegivenhed, som f.eks. en fusion, omstrukturering, salget eller overførslen af alle eller en del af LGE's forretning (herunder en division eller et datterselskab), hvor LGE kan have behov for at videregive oplysninger til en potentiel køber og dens konsulenter;
+-	Andre parter, når det er nødvendigt for at beskytte vores tjeneste. For at håndhæve vores kontraktlige rettigheder mod ansvar, undersøge mistænkte eller faktiske ulovlige aktiviteter, eller for at undersøge eller forsvare os mod en tredjeparts krav eller beskyldninger; eller
+-	Andre parter, når det er med henblik på at beskytte vores kunders personlige sikkerhed eller ejendom. For at beskytte vores forbrugeres eller offentlighedens rettigheder, personlige sikkerhed eller ejendom.
+
+Under ingen omstændigheder bliver dine personlige oplysninger under softwareopdateringen behandlet til marketingformål uden dit samtykke eller delt med tredjeparter til marketingformål uden dit samtykke.
+
+6.	Overførsel af personlige oplysninger
+Vi, vores tilsluttede virksomheder, datterselskaber og tjenesteudbydere kan bruge dine personlige oplysninger i andre lande end, hvor mobiltelefonen befinder sig, til de formål, der er beskrevet i denne politik om beskyttelse af personlige oplysninger. Love om databeskyttelse i nogle lande giver måske ikke det samme beskyttelsesniveau som dem i landet, hvor du befinder dig. Inden vi overfører dine personlige oplysninger, træffer vi dog foranstaltninger for at sikre, at sådanne oplysninger får det samme beskyttelsesniveau i modtagelseslandet eller -retskredsen. Ved at acceptere denne politik om beskyttelse af personlige oplysninger giver du udtrykkeligt dit samtykke til, at dine personlige oplysninger behandles i lande eller retskredse, hvor den gældende lovgivning måske ikke giver det samme beskyttelsesniveau til personlige oplysninger som lovgivningen i landet eller retskredsen, hvor du befinder dig, herunder, med uden begrænsning til, Republikken Korea eller USA, i henhold til denne politik om beskyttelse af personlige oplysninger. 
+
+7.	Hvor længe opbevarer LGE mine personlige oplysninger?
+Vi træffer rimelige foranstaltninger for at sikre, at vi opbevarer dine personlige oplysninger, så længe det er nødvendigt til det formål, de blev indsamlet til, eller som foreskrevet ved gældende lovgivning. 
+Hvis du anmoder om at slette dine personlige oplysninger, fordi der ikke længere er behov for dem, eller på grundlag af en indsigelse mod behandlingen eller et krav på, at behandlingen er ulovlig, har du ret til at søge, at behandlingen begrænses, mens vi bekræfter din anmodning om sletning.
+
+8.	Sikkerhed
+Vi bruger kommercielt rimelige bestræbelser og følger generelt accepteret datapraksis for at beskytte dine personlige oplysninger mod utilsigtet tab og mod uautoriseret adgang, brug, ændring og videregivelse. Dog kan vi på grund af internettets design, de konstante forandringer i den teknologiske verden og andre faktorer uden for vores kontrol ikke garantere, at kommunikationen mellem dig og vores servere bliver fri for uautoriseret adgang fra tredjeparter, eller at vi ikke bliver udsat for sikkerhedsbrud. Vi påtager os intet ansvar for videregivelse af personlige oplysninger på grund af fejl i overførsel eller tredjeparters uautoriserede eller ulovlige handlinger.
+
+9.	Ret til at nægte eller tilbagetrække samtykke
+Du kan i henhold til gældende lokal lovgivning have ret til at nægte dig at give dit samtykke til denne politik om beskyttelse af personlige oplysninger, at tilbagetrække dit samtykke eller på en anden måde at anmode om, at vi holder op med at håndtere personlige oplysninger om dig. For at udøve sådanne rettigheder, som du måtte have, skal du kontakte os som angivet i denne politik, og vi vil svare på din anmodning snarest muligt. 
+Derudover kan du tilbagetrække dit samtykke til yderligere indsamling af dine personlige oplysninger ved at deaktivere funktionerne "Tjek automatisk" og "Automatiske opdateringer" på mobiltelefonen som beskrevet herover. Du kan få adgang til disse funktioner i [Indstillinger – System – Opdateringscenter – Software opdatering – Overløbsmenuen – Indstillinger].
+Du skal dog forstå, at hvis du deaktiverer funktionerne Tjek automatisk og Automatiske opdateringer, kan det delvis eller i sin helhed påvirke eller begrænse mobiltelefonens drift eller tjenester. Indsamling og brug af oplysningerne, som beskrevet herover, er nødvendig for mobiltelefonens optimale drift. 
+
+Hvis du har spørgsmål om din ret til at nægte dig eller om, hvordan du tilbagetrækker dit samtykke, skal du kontakte os på lgecsvc@lge.com
+
+10.	Beskyttelse af børnenes privatliv
+Det er vigtigt for os at beskytte børnenes privatliv. Mobiltelefonen er af den grund ikke beregnet for børn, som defineret i henhold til gældende lokal lovgivning, og vi hverken indsamler eller opbevarer bevidst personlige oplysninger fra børn. Hvis vi bliver bekendt med eller underrettet om, at vi har indsamlet oplysninger fra et barn, uden at forældrenes samtykke er bekræftet, sletter vi øjeblikkeligt sådanne personlige oplysninger.
+
+11.	Ændringer på LGE's politik om beskyttelse af personlige oplysninger
+LGE kan opdatere denne politik om beskyttelse af personlige oplysninger fra tid til anden. Hvis vi foretager en materiel ændring på vores politik om beskyttelse af personlige oplysninger, giver vi dig besked herom ved at opdatere datoen herunder og ved at levere den ændrede politik om beskyttelse af personlige oplysninger, så du kan læse den som en del af en fremtidig softwareopdatering.
+
+12.	Adgang til dine oplysninger 
+Du har ret til at anmode om nærmere oplysninger om dine personlige oplysninger, som LGE indsamler, for at få indsigt i, berigtige eller slette personlige oplysninger. Du bedes dog forstå, at vi kan måske ikke ændre eller slette dine personlige oplysninger, hvis vi i henhold til gældende lovgivning er forpligtede til at opbevare disse oplysninger. Hvis det er tilladt i henhold til lovgivningen, kan vi opkræve et lille gebyr for at yde sådan en tjenesteydelse til dig. Læg mærke til, at vi kan afvise at behandle dine anmodninger, hvis de er urimelige, truer andres privatlivs fred eller er yderst upraktiske. Derudover kan opdatering eller sletning af personlige oplysninger påvirke eller begrænse mobiltelefonens eller tjenesternes drift. 
+
+Hvis du vil fremsætte en anmodning om at få indsigt i, berigtige eller slette dine personlige oplysninger, skal du kontakte os på lgecsvc@lge.com
+
+13.	Ret til at indgive en klage
+Du har i henhold til gældende lokal lovgivning i EU ret til at indgive en klage i forbindelse med behandling af dine personlige oplysninger med den relevante tilsynsmyndighed. Kontakt os på lgecsvc@lge.com for yderligere oplysninger om din ret til at indgive en klage eller for at indgive en klage hos LGE. 
+
+14.	Kontakt med LGE om denne politik om beskyttelse af personlige oplysninger
+Hvis du har spørgsmål eller kommentarer om denne politik om beskyttelse af personlige oplysninger, kan du kontakte os via mail på lgecsvc@lge.com.
+
+Sidst opdateret: 1. nov. 2017

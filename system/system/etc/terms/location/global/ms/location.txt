@@ -1,0 +1,3 @@
+﻿Penggunaan maklumat lokasi semasa
+
+LGE boleh menggunakan maklumat lokasi yang disimpan pada peranti (menggunakan GPS, Wi-Fi dan rangkaian komunikasi mudah alih) untuk mendapatkan “maklumat lokasi semasa” peranti.  LGE hanya menyimpan “maklumat lokasi semasa” secara dalaman pada peranti pengguna dan tidak mengumpulkan, menyimpan atau menempatkan maklumat tersebut pada pelayannya. Walaupun anda bersetuju dengan perkara di atas, perkhidmatan ini diberikan hanya apabila pengguna mendayakan fungsi lokasi Google dan penggunaan perkhidmatan “maklumat lokasi semasa” boleh diubah pada bila-bila masa di bawah menu tetapan setiap perkhidmatan yang menggunakan “maklumat lokasi semasa”.

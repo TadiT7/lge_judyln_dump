@@ -1,0 +1,23 @@
+﻿Historiques des activités
+
+Afin d’améliorer l’expérience globale de l’utilisateur et faciliter la résolution des problèmes sur l’appareil, des historiques d’activités sont générés et stockés sur votre appareil mobile LGE. Ces historiques sont stockés exclusivement sur votre appareil et ne sont pas transférés à LGE ou à une autre tierce partie sans accord distinct et explicite. 
+
+Ces historiques comprennent les informations suivantes : 
+- état de l’appareil mobile : modèle, version du logiciel, IMEI, numéro exclusif d’identification, IMSI, état de l’alimentation, état de la batterie, utilisation des CPU/RAM/stockage interne, durée moyenne d’utilisation, résultats des autodiagnostics du matériel (Wi-Fi, BT, capteur de proximité, capteur d’éclairage, capteur d’empreintes digitales, etc.) 
+- état du réseau
+- informations sur l’application, décompte/statistiques d’utilisations de l’application
+- état de la connexion de votre appareil mobile
+- informations sur les erreurs : écran figé, extinctions non voulues, appels déconnectés, erreurs d’application
+- paramétrage de l’appareil mobile
+
+Les informations auxquelles LGE a accès peuvent être exploitées de manière individuelle ou agrégée. LGE utilise ces informations pour mieux cerner les besoins de nos clients, améliorer notre service clientèle ainsi que les produits et services que nous proposons. Ainsi, les informations des historiques d’activités permettent à LGE d’enquêter sur les erreurs réseau, les problèmes de connexion et les problèmes de batterie, et d’y remédier. 
+
+En cliquant sur Je suis d’accord, vous autorisez LGE et certaines tierces parties intervenant pour le compte de LGE (décrites ci-après) à accéder et utiliser les informations des historiques d’activités générés par votre appareil. LGE peut être amené à communiquer les informations des historiques d’activités aux tierces parties suivantes :
+- affiliés et filiales (c’est-à-dire des sociétés qui contrôlent LGE ou sont contrôlées par lui, ou ont en commun un contrôle ou une appartenance avec LGE)
+- agents et prestataires de services qui sont liés par des obligations de confidentialité et qui exploitent les informations uniquement pour le compte de LGE ou pour livrer des produits ou services, ou, d’une autre manière, pour remplir une obligation contractuelle envers vous
+LGE ne saurait être tenu responsable des pratiques de ces tierces parties en matière de confidentialité.
+LGE demandera également à collecter les informations des historiques d’activités lorsque vous utiliserez son After Service (A/S) ou son service de remise à neuf. Au moment de recourir à ces services, il vous sera demandé à chaque fois si vous êtes d’accord pour que soient collectés vos historiques d’activités.
+Bien que ces historiques soient générés sur votre appareil, que vous ayez ou non donné votre accord, tant que vous n’aurez pas cliqué sur J’accepte, LG ne pourra pas accéder à ces informations. Si vous ne souhaitez pas que LGE accède à vos historiques des activités, vous pouvez à tout moment bloquer notre accès à ces informations. Il vous suffit pour cela d’aller dans les paramètres [Paramètres – Système – À propos du téléphone – Historiques des activités]. Pour vous aider à comprendre comment, de manière générale, nous gérons vos informations, nous vous invitons à consulter notre politique de confidentialité dans [Paramètres – Système – À propos du téléphone – Informations légales – Conditions générales pour les logiciels LG – Politique de confidentialité].
+
+Les traductions du présent document consacré aux historiques d’activités ne sont effectuées que pour répondre aux besoins locaux. Dans le cas où il y aurait divergence entre la version anglaise de ce document et une autre version, c’est la version anglaise qui prévaudrait, dans la mesure où le permet la législation en vigueur dans votre juridiction.
+

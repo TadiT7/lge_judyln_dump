@@ -1,0 +1,16 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Mon May 21 22:51:23 KST 2018
+ro.bootimage.build.date.utc=1526910683
+ro.bootimage.build.fingerprint=lge/judyln_lao_com/judyln:8.0.0/OPR1.170623.032/1814122512cdb:user/release-keys
+persist.sys.usb.config=none
+

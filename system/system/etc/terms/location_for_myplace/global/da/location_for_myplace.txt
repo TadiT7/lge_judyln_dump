@@ -1,0 +1,6 @@
+﻿Brug af oplysninger om aktuel placering til Mine steder
+
+Denne Mine steder-service ("service") bruger placeringsoplysningerne på brugerens enhed til at analysere placeringsmønstret for de placeringer, hvor brugeren har opholdt sig i længere tid. På denne måde genkendes disse placeringer automatisk, og brugeren kan også manuelt vælge en placering og angive den som "Mine steder" (f.eks. hjem, arbejdsplads). Senere analyse af mønstret kan automatisk ændre placeringen for en tidligere valgt placering. 
+Selvom denne service bruger placeringsoplysninger (base transceiver station(BTS), GPS, Wi-Fi, netværkspositioner )(NLP)) gemt på brugerens enhed, indsamler eller bruger LG Electronics Inc. (LGE) aldrig brugeroplysninger og bruger op gemmer kun på brugerens enhed.
+Denne service starter automatisk med at genkende de steder, brugeren har opholdt sig i en længere tidsperiode, og den starter, når brugeren indvilger i at bruge vedkommendes aktuelle placeringsoplysninger, og fortsætter, indtil brugeren stopper brugen af servicen ved at slukke for selvsamme funktion.
+LGE bruger dog kun brugerens aktuelle placeringsoplysninger, hvis brugeren aktiverer enhedens Google-placeringsservice.

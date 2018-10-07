@@ -1,0 +1,110 @@
+﻿Kebijakan Privasi
+
+Kebijakan Privasi ini menjelaskan cara LGE memperoleh akses dan menggunakan informasi pribadi Anda dalam konteks Layanan Pembaruan Perangkat Lunak. Silakan baca secara cermat sebelum menggunakan Layanan Pembaruan Perangkat Lunak.
+
+1.	Pendahuluan
+LG Electronics Inc. (“LGE” atau “kami”) berkomitmen untuk melindungi informasi orang-orang dan kelompok yang menggunakan ponsel LGE. Kebijakan Privasi ini menjelaskan cara kami mengumpulkan, menggunakan, dan berbagi informasi yang kami kumpulkan dari ponsel LGE Anda dan, khususnya, menjelaskan:
+-	Gambaran Sekilas Tentang Pembaruan Perangkat Lunak FOTA;
+-	Informasi yang dapat diperoleh LGE dari Anda;
+-	Bagaimana LGE menggunakan informasi yang diperolehnya;
+-	Kapan LGE berbagi informasi dengan pihak lain;
+-	Transfer data pribadi ke luar negeri
+-	Berapa lama LGE akan menyimpan informasi pribadi saya?
+-	Keamanan
+-	Hak untuk Menolak atau Menarik Persetujuan
+-	Melindungi Privasi Anak-anak
+-	Perubahan pada Kebijakan Privasi LGE
+-	Mengakses Informasi Anda
+-	Hak untuk Mengajukan Keluhan; dan
+-	Menghubungi LGE terkait Kebijakan Privasi ini
+
+Kebijakan ini hanya berlaku untuk informasi yang dikumpulkan oleh LGE dari ponsel LGE Anda untuk melakukan pembaruan firmware lewat proses Firmware Over-the-Air (“FOTA”) (“Pembaruan Perangkat Lunak”). Kebijakan ini tidak berlaku untuk produk atau layanan LGE lainnya, termasuk aplikasi seluler yang ditawarkan atau disediakan oleh LGE. Kebijakan ini juga tidak berlaku untuk produk atau layanan apa pun yang ditawarkan oleh pihak ketiga, termasuk penyedia sistem operasi, penyedia konten atau aplikasi lain, atau operator jaringan Anda. Produk dan layanan di luar cakupan Kebijakan Privasi ini memiliki kebijakan sendiri yang berlaku untuk pengumpulan, penggunaan, dan berbagi informasi, dan kami menganjurkan agar Anda membaca kebijakan tersebut. LGE tidak bertanggung jawab atau berkewajiban atas praktik privasi pihak ketiga.
+
+Jika Anda baru saja membeli ponsel ini, perlu kiranya melakukan Pembaruan Perangkat Lunak seperti yang dijelaskan dalam Kebijakan Privasi ini sebelum digunakan, untuk memastikan bahwa ponsel Anda berfungsi dengan benar serta memiliki fitur, fungsi, dan pengaturan keamanan terkini. Jika Anda memiliki pertanyaan, silakan hubungi kami sebagaimana diatur dalam Kebijakan ini.
+
+Kebijakan ini dapat Anda tinjau kapan saja di [Pengaturan – Sistem – Tentang ponsel – Informasi hukum – Dokumen Hukum untuk Perangkat Lunak LG – Kebijakan privasi].
+
+Semua terjemahan Kebijakan Privasi ini dilakukan untuk persyaratan setempat dan apabila terdapat perbedaan antara versi bahasa Inggris dan versi non-Inggris, maka versi bahasa Inggris Kebijakan inilah yang akan berlaku, sejauh tidak dilarang oleh hukum setempat dalam yurisdiksi Anda
+
+2.	Gambaran Sekilas Tentang Pembaruan Perangkat Lunak FOTA
+Seiring berjalannya waktu, firmware LGE di ponsel Anda (“Perangkat Lunak”) mungkin memerlukan pembaruan atau pelengkap yang disediakan oleh LGE, atau LGE mungkin menyediakan komponen tambahan pada Perangkat Lunak tersebut. Dengan melakukan Pembaruan Perangkat Lunak maka akan memasang Perangkat Lunak baru di ponsel Anda untuk menyediakan pembaruan, pelengkap, atau komponen tambahan ini. Pembaruan Perangkat Lunak dapat menambah fitur atau fungsi baru dan, dalam kasus tertentu, dapat menghapus fitur atau fungsi yang sudah ada. Setelah menyelesaikan Pembaruan Perangkat Lunak, Anda mungkin tidak lagi menggunakan dan tidak dapat kembali ke versi Perangkat Lunak yang terpasang sebelumnya.
+
+Karena Pembaruan Perangkat Lunak dilakukan lewat proses FOTA, mungkin dikenai biaya tambahan jika Anda mengunduh Perangkat Lunak baru melalui jaringan seluler, tergantung pada operator jaringan dan paket layanan Anda. Jika Anda ingin menghindari penggunaan data jaringan seluler untuk Pembaruan Perangkat Lunak, pilih opsi “Wi-Fi saja" di Pengaturan. 
+
+a.	Opsi Anda untuk mengelola Pembaruan Perangkat Lunak di masa mendatang
+Bila Anda menyetujui Kebijakan Privasi FOTA ini, ponsel Anda akan memeriksa Perangkat Lunak baru atau yang diperbarui seiring berjalannya waktu dan secara otomatis memasang Perangkat Lunak baru atau yang diperbarui bila tersedia (fungsi “Periksa secara otomatis”). Setelah Perangkat Lunak tersebut dipasang, kami akan mengingatkan Anda untuk menggunakan pemberitahuan sembul atau pesan notifikasi di ponsel Anda. Anda akan memiliki opsi untuk menerima atau menolak Pembaruan Perangkat Lunak sebelum menerapkan Perangkat Lunak. Ponsel Anda juga secara otomatis akan menerapkan Perangkat Lunak yang dipasang pada tengah malam (fungsi “Pembaruan otomatis”). Anda dapat menolak fungsi “Periksa secara otomatis” dan “Pembaruan otomatis” ini di [Pengaturan – Sistem – Pusat Pembaruan – Pembaruan Perangkat Lunak – Menu melimpah – Pengaturan]. Jika Anda menolak Periksa secara otomatis maka Anda akan secara efektif menolak untuk melakukan Pembaruan Perangkat Lunak di masa mendatang.
+Jika ponsel Anda sedang dalam penggunaan dan Anda menolak untuk melakukan Pembaruan Perangkat Lunak, harap diperhatikan bahwa kegagalan memasang Perangkat Lunak yang diperbarui dapat mengakibatkan [penurunan kinerja ponsel Anda, masalah kompatibilitas dengan aplikasi baru atau yang sudah ada, dan masalah lainnya pada fitur atau keamanan ponsel Anda].
+
+b.	Pembaruan Perangkat Lunak yang Mendesak
+Jika situasi mengharuskan, kami dapat melakukan Pembaruan Perangkat Lunak sesuai dengan kepentingan sah kami, tanpa memberikan pemberitahuan atau meminta persetujuan kepada masing-masing orang, dan terlepas dari pengaturan perangkat saat ini (“Pembaruan Perangkat Lunak yang Mendesak"). Contoh situasi yang mungkin memerlukan Pembaruan Perangkat Lunak yang Mendesak di antaranya yaitu adanya ancaman terhadap keamanan pelanggan atau keamanan data, atau masalah operasional yang dapat menyebabkan gangguan layanan yang signifikan, atau kemungkinan yang mendekati situasi semacam itu.
+
+3.	Informasi yang dapat diperoleh LGE dari Anda
+Dalam melakukan Pembaruan Perangkat Lunak, LGE dapat mengumpulkan informasi berikut dari ponsel Anda: Identitas Perangkat Seluler Internasional (IMEI), nomor seri, model ponsel, versi perangkat lunak dan/atau firmware, sistem operasi ponsel, kode negara seluler (MCC), kode jaringan seluler (MNC), pengenal Google Cloud Messaging (GCM) dan bahasa yang dipilih. Informasi ini dikumpulkan secara otomatis sebagai bagian dari proses melakukan Pembaruan Perangkat Lunak.
+
+Sebagai bagian dari peran kami dalam menyediakan layanan seluler ke ponsel Anda, kami akan mengumpulkan informasi operasional, termasuk log sistem beserta alamat IP. Informasi ini dikumpulkan secara otomatis dan merupakan bagian penting dari pengoperasian ponsel.
+
+4.	Bagaimana LGE menggunakan informasi yang diperolehnya?
+Kami menggunakan informasi yang diperoleh dari Anda untuk berbagai keperluan, di antaranya:
+-	Melakukan Pembaruan Perangkat Lunak (termasuk Pembaruan Perangkat Lunak yang Mendesak), termasuk untuk memeriksa apakah Perangkat Lunak sudah terkini atau belum, untuk mengotentikasi ponsel Anda, dan untuk menyediakan Perangkat Lunak yang sesuai;
+-	Mempertegas kewajiban kami berdasarkan [Garansi Produk Terbatas kami];
+-	Menyediakan pemberitahuan yang berkaitan dengan layanan keamanan ponsel dan pemberitahuan darurat untuk menanggapi masalah keamanan;
+-	Melindungi dan membela hak dan kepemilikan kami, termasuk melalui proses hukum;
+-	Memenuhi persyaratan peraturan; dan
+-	Menganalisis, meninjau, dan memperbaiki produk dan layanan yang kami tawarkan.
+
+Dasar hukum yang akan diandalkan oleh LGE untuk memproses informasi pribadi Anda biasanya yaitu salah satu dari berikut ini;
+-	Kontrak: jika perlu mengadakan kontrak dengan Anda;
+-	Kepentingan yang sah: bilamana perlu untuk tujuan LGE atau kepentingan bisnis pihak ketiga yang sah. Bagi LGE, hal ini akan mencakup kepentingannya sebagai produsen produk elektronik dan penyedia layanan untuk konsumen;
+-	Persetujuan: bila Anda telah memilih untuk menyediakannya. Anda memiliki hak untuk menarik persetujuan Anda kapan saja; atau
+-	Kewajiban hukum: bila pemrosesan diperlukan untuk memenuhi kewajiban hukum kami
+
+Kami juga dapat menggunakan data statistik kumpulan yang dikumpulkan selama Pembaruan Perangkat Lunak berlangsung dan selama pengoperasian ponsel untuk lebih memahami kebutuhan pelanggan kami, memperbaiki layanan pelanggan, serta produk dan layanan yang kami tawarkan, dan untuk kepentingan riset dan analisis pasar. Data statistik kumpulan tersebut tidak berisi informasi yang mengidentifikasi atau mungkin dikaitkan dengan individu.
+
+5.	Kapan LGE berbagi informasi dengan pihak lain
+Kami umumnya tidak berbagi informasi yang kami kumpulkan selama Pembaruan Perangkat Lunak berlangsung kepada pihak ketiga, yang mengidentifikasi atau mungkin dikaitkan dengan individu. Namun, perlu diketahui situasi berikut yang kami dapat berbagi informasi tersebut dengan pihak ketiga berikut ini:
+
+-	Afiliasi dan Anak Perusahaan. LGE dapat berbagi informasi pribadi dan informasi non-pribadi (termasuk informasi ponsel) dengan afiliasi dan anak perusahaannya di seluruh dunia hanya selama diperlukan untuk tujuan pengumpulannya. Istilah ‘afiliasi’ atau ‘anak perusahaan’ mengacu pada perusahaan grup yang mungkin menggunakan nama LG atau yang mempunyai kepemilikan atau kendali bersama, seperti LG CNS atau LG Electronics U.S.A., Inc.;
+-	Penyedia Layanan Pihak Ketiga. Kepada vendor pihak ketiga yang LGE dapat terlibat dengannya untuk memberikan layanan atas namanya dari waktu ke waktu, seperti untuk memenuhi permintaan layanan pelanggan;
+-	Pihak Lain Bila Diperlukan oleh Hukum. Sesuai yang dipersyaratkan oleh perintah pengadilan atau otoritas pemerintah atau penegak hukum lainnya untuk mematuhi proses legal atau hukum;
+-	Pihak Lain dalam Hubungan dengan Transaksi Korporasi. Dalam hubungannya dengan aktivitas perusahaan, seperti merger, restrukturisasi, penjualan, atau pengalihan semua atau sebagian bisnis LGE (termasuk divisi atau anak perusahaan), yang mungkin perlu bagi LGE untuk mengungkapkan informasi kepada calon pembeli dan penasihat profesionalnya;
+-	Pihak Lain Saat Diperlukan untuk Melindungi Layanan Kami. Untuk menegakkan hak kontrak kita, berhati-hatilah terhadap pertanggungjawaban, aktivitas ilegal hasil dugaan penyelidikan atau yang sebenarnya, atau untuk menyelidiki atau membela diri terhadap klaim atau tuduhan pihak ketiga; atau
+-	Pihak Lain untuk Melindungi Keamanan atau Kepemilikan Pribadi Pelanggan Kami. Untuk melindungi hak, keamanan dan kepemilikan pribadi pelanggan kami atau publik.
+
+Dalam situasi apa pun, informasi pribadi Anda yang dikumpulkan selama Pembaruan Perangkat Lunak berlangsung tidak boleh diproses untuk tujuan pemasaran tanpa persetujuan Anda, atau berbagi dengan pihak ketiga untuk tujuan pemasaran tanpa persetujuan Anda.
+
+6.	Transfer data pribadi
+Kami, afiliasi, anak perusahaan, dan penyedia layanan kami dapat menggunakan informasi pribadi Anda di negara selain tempat ponsel Anda berada, untuk tujuan yang dijelaskan dalam Kebijakan Privasi ini. Hukum perlindungan data di beberapa negara mungkin tidak menawarkan tingkat perlindungan yang sama seperti di negara tempat Anda berada. Namun, sebelum mentransfer informasi pribadi Anda, kami akan mengambil langkah-langkah untuk memastikan bahwa informasi semacam itu akan diberikan tingkat perlindungan yang sama di negara atau yurisdiksi penerima. Dengan menyetujui Kebijakan Privasi ini berarti Anda secara tegas menyetujui pemrosesan informasi pribadi Anda di negara atau yurisdiksi jika undang-undang yang berlaku mungkin tidak memberikan tingkat perlindungan informasi pribadi yang sama seperti hukum negara atau yurisdiksi tempat Anda berada, termasuk, tetapi tidak terbatas, Republik Korea atau Amerika Serikat, sesuai dengan Kebijakan Privasi ini. 
+
+7.	Berapa lama LGE akan menyimpan informasi pribadi saya?
+Kami akan mengambil langkah-langkah yang wajar untuk memastikan bahwa kami menyimpan informasi pribadi Anda selama diperlukan untuk tujuan pengumpulannya, atau sesuai dengan hukum yang berlaku.
+Jika Anda meminta penghapusan informasi pribadi Anda karena tidak diperlukan lagi, atau berdasarkan keberatan terhadap pemrosesan atau klaim bahwa pemrosesan tersebut melanggar hukum, Anda berhak untuk mengajukan larangan pemrosesan sementara kami memverifikasi permintaan penghapusan dari Anda.
+
+8.	Keamanan
+Kami menggunakan upaya yang wajar secara komersial dan mengikuti praktik data industri yang berlaku umum untuk melindungi informasi pribadi Anda dari kehilangan yang tidak disengaja dan dari akses, penggunaan, perubahan, dan pengungkapan yang tidak sah. Namun demikian, karena desain Internet, teknologi yang selalu berubah, dan faktor lain yang berada di luar kendali kami, kami tidak dapat menjamin bahwa komunikasi antara Anda dan server kami akan bebas dari akses yang tidak sah oleh pihak ketiga atau bahwa kami tidak akan mengalami pelanggaran keamanan. Kami tidak bertanggung jawab atas pengungkapan informasi pribadi akibat kesalahan dalam pengiriman atau tindakan pihak ketiga yang tidak sah atau melanggar hukum.
+
+9.	Hak untuk Menolak atau Menarik Persetujuan
+Berdasarkan hukum setempat yang berlaku, Anda mungkin memiliki hak untuk menolak memberi persetujuan atas Kebijakan Privasi ini, menarik persetujuan atau meminta agar kami berhenti menangani informasi pribadi tentang Anda. Untuk menggunakan hak-hak yang mungkin Anda miliki, hubungi kami sebagaimana diatur dalam Kebijakan ini, dan kami akan menanggapi permintaan Anda sesegera mungkin. 
+Selain itu, Anda dapat menarik persetujuan atas pengumpulan informasi pribadi Anda lebih lanjut dengan menonaktifkan fungsi “Periksa secara otomatis” dan “Pembaruan otomatis” pada ponsel Anda, seperti yang dijelaskan di atas. Fungsi ini dapat diakses di [Pengaturan – Sistem – Pusat Pembaruan – Pembaruan Perangkat Lunak – Menu melimpah – Pengaturan].
+Namun, harap dipahami bahwa jika Anda menonaktifkan fungsi Periksa secara otomatis dan Pembaruan otomatis, hal tersebut dapat memengaruhi atau membatasi operasi ponsel Anda atau layanan, sebagian atau secara keseluruhan. 
+Pengumpulan dan penggunaan informasi, seperti yang dijelaskan di atas, diperlukan agar ponsel Anda dapat beroperasi secara optimal. 
+
+Jika Anda memiliki pertanyaan tentang hak Anda untuk menolak atau cara menarik persetujuan, silakan hubungi kami di lgecsvc@lge.com
+
+10.	Melindungi Privasi Anak-anak
+Melindungi privasi anak merupakan hal yang penting bagi kami. Oleh karena itu, ponsel Anda tidak ditujukan untuk anak-anak seperti yang ditentukan oleh hukum setempat yang berlaku, dan kami tidak mengumpulkan atau menyimpan informasi pribadi dari anak-anak secara sengaja. Jika kami mengetahui atau diberi tahu bahwa kami telah mengumpulkan informasi dari seorang anak tanpa verifikasi persetujuan orang tua maka kami akan segera menghapus informasi pribadi tersebut.
+
+11.	Perubahan pada Kebijakan Privasi LGE
+Kebijakan Privasi ini dapat diperbarui oleh LGE seiring berjalannya waktu. Jika kami melakukan perubahan materi terhadap Kebijakan Privasi kami, kami akan memberi tahu Anda dengan memperbarui tanggal di bawah ini dan dengan menyediakan Kebijakan Privasi yang telah dimodifikasi untuk Anda tinjau sebagai bagian dari Pembaruan Perangkat Lunak di masa mendatang.
+
+12.	Mengakses Informasi Anda 
+Anda berhak meminta perincian tentang informasi pribadi Anda yang dikumpulkan oleh LGE untuk mengakses, memperbaiki, atau menghapus informasi pribadi Anda. Namun, harap dipahami bahwa kami mungkin tidak dapat mengubah atau menghapus informasi pribadi Anda jika kami diwajibkan mempertahankan informasi tersebut berdasarkan hukum yang berlaku. Jika tidak dilarang oleh hukum, mungkin dikenai biaya yang sedikit agar dapat menyediakan layanan tersebut untuk Anda. Harap diperhatikan bahwa kami dapat menolak untuk memproses permintaan Anda jika permintaan tersebut bersifat pelanggaran yang tidak wajar, membahayakan privasi orang lain, atau sangat tidak praktis. Selain itu, memperbarui atau menghapus informasi pribadi dapat memengaruhi atau membatasi pengoperasian ponsel Anda atau layanan. 
+
+Jika Anda ingin mengajukan permintaan untuk mengakses, memperbaiki, atau menghapus informasi pribadi Anda, silakan hubungi kami di lgecsvc@lge.com
+
+13.	Hak untuk Mengajukan Keluhan
+Berdasarkan hukum setempat yang berlaku di Uni Eropa, Anda memiliki hak untuk mengajukan keluhan sehubungan dengan pemrosesan data pribadi Anda kepada otoritas pengawas yang relevan. Untuk informasi selengkapnya tentang hak Anda untuk mengajukan keluhan atau keberatan kepada LGE, silakan hubungi kami di lgecsvc@lge.com. 
+
+14.	Menghubungi LGE terkait Kebijakan Privasi ini
+Jika Anda memiliki pertanyaan atau komentar tentang Kebijakan Privasi ini, silakan hubungi kami melalui email di lgecsvc@lge.com.
+
+Terakhir diperbarui: 1 Nov.2017

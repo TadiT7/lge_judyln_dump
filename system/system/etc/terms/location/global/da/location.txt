@@ -1,0 +1,3 @@
+﻿Brug af oplysninger om aktuel lokation
+
+LGE kan bruge placeringsoplysninger gemt på enheden (ved hjælp af GPS, Wi-Fi, og mobil kommunikationsnetværkhed) til at få “oplysninger om aktuel placering” for enheden. LGE gemmer kun “oplysninger om aktuel placering” internt på brugerens enhed og indsamler, gemmer eller opbevarer ikke oplysninger på sine servere. Selv hvis du indvilger i alt det ovenstående, ydes servicen kun, når brugeren aktiverer Google-lokationsfunktionen, og brug af “oplysninger om aktuel placering”-servicen kan skiftes når som helst i indstillinger for hver service, som anvender “oplysninger om aktuel placering”.

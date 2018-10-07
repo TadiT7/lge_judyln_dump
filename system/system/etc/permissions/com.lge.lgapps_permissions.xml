@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+
+    <!-- Whitelist of LG services that are currently exempted
+         from O+ background service restriction. -->
+    <allow-lg-bg-service package="com.lge.cic.eden.service" />
+    <allow-lg-bg-service package="com.lge.ia.task.smartsetting" />
+    <allow-lg-bg-service package="com.lge.ia.apprecommend" />
+    <allow-lg-bg-service package="com.lge.lifetracker" />
+    <allow-lg-bg-service package="com.lge.music" />
+    <allow-lg-bg-service package="com.lge.camera" />
+    <allow-lg-bg-service package="com.android.contacts" />
+    <allow-lg-bg-service package="com.android.providers.contacts" />
+    <allow-lg-bg-service package="com.lge.onehandcontroller" />
+    <allow-lg-bg-service package="com.lge.phonemanagement" />
+    <allow-lg-bg-service package="com.lge.springcleaning" />
+    <allow-lg-bg-service package="com.lge.ia.task.smartcare" />
+    <allow-lg-bg-service package="com.lge.gestureanswering" />
+    <allow-lg-bg-service package="com.lge.appbox.client" />
+    <allow-lg-bg-service package="com.lge.smartsharepush" />
+    <allow-lg-bg-service package="com.lge.gallery.collagewallpaper" />
+    <allow-lg-bg-service package="com.lge.tdmb" />
+    <allow-lg-bg-service package="com.lge.networksettings" />
+    <allow-lg-bg-service package="com.lge.fmradio.appwidget" />
+    <allow-lg-bg-service package="com.lge.fmradio" />
+    <allow-lg-bg-service package="com.lge.briefing" />
+    <allow-lg-bg-service package="com.lge.gallery.contentservice" />
+    <allow-lg-bg-service package="com.lge.autosimlockservice" />
+    <allow-lg-bg-service package="com.lge.lgassistant.VoiceAssistantService" />
+
+    <!-- These are the packages that are white-listed to be able to
+         run background location without throttling. -->
+    <allow-unthrottled-location package="com.lge.sizechangable.weather.platform" />
+
+
+    <!-- These are the packages that are granted permission
+         to access the notifications by default. -->
+    <default-enabled-notification-listener-app package="com.lge.coneshortcut"
+            class="com.lge.coneshortcut.NotificationListener" />
+    <default-enabled-notification-listener-app package="com.lge.easyhome"
+            class="com.lge.easyhome.notification.NotificationListener" />
+
+</permissions>

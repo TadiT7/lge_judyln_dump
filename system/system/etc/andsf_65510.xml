@@ -1,0 +1,115 @@
+<!--
+1. IMS Apn : ims
+   > IWLAN (Quality)
+===============================================================
+     WIFI-Available              RSSI         RESULT
+===============================================================
+           X                                   NONE
+           O(no cellular)                      WIFI
+           O                    -70High        WIFI
+           O                    -85Low         NONE
+===============================================================
+
+-->
+
+<ANDSF>
+  <Name>IWLAN and Quality(655/10 ZA-MTN)</Name>
+  <ISRP>
+    <Node>
+      <ForServiceBased>
+<!--  ================IMS================ -->
+        <MAPCON_WIFI_X>
+          <APN>IMS</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <WiFiThreshold>
+                    <WiFiAvailable>0</WiFiAvailable>
+                  </WiFiThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>1</RulePriority>
+        </MAPCON_WIFI_X>
+
+        <MAPCON_WIFI_O_n_CELLULAR_X>
+          <APN>IMS</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <GSMThreshold>
+                    <GSMAvailable>0</GSMAvailable>
+                  </GSMThreshold>
+                  <UMTSThreshold>
+                    <UMTSAvailable>0</UMTSAvailable>
+                  </UMTSThreshold>
+                  <LTEThreshold>
+                    <LTEAvailable>0</LTEAvailable>
+                  </LTEThreshold>
+                  <WiFiThreshold>
+                    <WiFiAvailable>1</WiFiAvailable>
+                  </WiFiThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <RoutingRule>
+            <Node>
+              <AccessTechnology>3</AccessTechnology>
+              <AccessNetworkPriority>1</AccessNetworkPriority>
+            </Node>
+          </RoutingRule>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>2</RulePriority>
+        </MAPCON_WIFI_O_n_CELLULAR_X>
+
+        <MAPCON_WIFI_GOOD>
+          <APN>IMS</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <WiFiThreshold>
+                    <WiFiRSSIHigh>-75</WiFiRSSIHigh>
+                    <WiFiAvailable>1</WiFiAvailable>
+                  </WiFiThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <RoutingRule>
+            <Node>
+              <AccessTechnology>3</AccessTechnology>
+              <AccessNetworkPriority>1</AccessNetworkPriority>
+            </Node>
+          </RoutingRule>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>3</RulePriority>
+        </MAPCON_WIFI_GOOD>
+
+        <MAPCON_WIFI_BAD>
+          <APN>IMS</APN>
+          <RoutingCriteria>
+            <Node>
+              <OPSpecificRANValidityCondition>
+                <ThresholdConditions>
+                  <WiFiThreshold>
+                    <WiFiRSSILow>-82</WiFiRSSILow>
+                    <WiFiAvailable>1</WiFiAvailable>
+                  </WiFiThreshold>
+                </ThresholdConditions>
+              </OPSpecificRANValidityCondition>
+            </Node>
+          </RoutingCriteria>
+          <IsAPIOverride>1</IsAPIOverride>
+          <RulePriority>4</RulePriority>
+        </MAPCON_WIFI_BAD>
+      </ForServiceBased>
+    </Node>
+  </ISRP>
+</ANDSF>
+

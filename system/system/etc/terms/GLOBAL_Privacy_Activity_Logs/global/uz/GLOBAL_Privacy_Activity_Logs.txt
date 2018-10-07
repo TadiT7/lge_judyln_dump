@@ -1,0 +1,63 @@
+﻿Harakatlar jurnallaridan foydalanish uchun maxfiylik siyosati
+
+Eslatma: Ushbu Maxfiylik siyosatiga rozilik bildirish orqali siz bizga ma'lumotlaringizdan bu yerda bayon qilingani kabi foydalanishimizga ruxsat berasiz. Sizning roziligingiz ixtiyoriydir. Biroq agar siz rozi bo‘lmasangiz, biz sizga xizmatlarni taqdim eta olmaymiz; bunday hollarda siz ma’lum LG Device Diagnostics Report xizmatlaridan ("LG Xizmati") foydalana olmaysiz. Siz o'z roziligingiz shartlarini istalgan vaqtda LG Xizmatida olishingiz va o'z roziligingizni quyidagiga xabar yuborish orqali istalgan vaqtda bekor qilishingiz mumkin: mc.customer-service@lge.com 
+
+1. Kirish
+LG Electronics Inc. (“LGE” yoki “biz”) LG Xizmatidan foydalanuvchi jismoniy shaxslar va guruhlarning ma’lumotlarini himoya qilishga intiladi. Mazkur Maxfiylik siyosati sizning xizmatlardan foydalanishingiz natijasida olinadigan ma’lumotlarni qanday yig‘ishimiz, ishlatishimiz va almashinishimizni aniqlaydi va xususan quyidagilarni belgilab beradi:
+- LGE sizdan yoki LG Xizmatidan qanday ma’lumotlarni olishi mumkin;
+- LGE olingan ma’lumotlardan qanday foydalanadi?
+- LGE ma’lumotlarni boshqalar bilan qachon baham ko‘rishi; va
+- LGEning sizning ma’lumotlaringizdan foydalanishi va ularni tarqatishini siz qanday boshqarishingiz mumkinligi.
+
+LG Xizmati dasturiy ta’minot ilovasiga kirish bilan ta'minlaydi va boshqalar, jumladan, operatsion tizim ta'minotchilari va boshqa tarkiblar hamda Ilova ta'minotchilari tomonidan egalik qilinadigan boshqa xizmatlarga ulanadi. Bunday uchinchi xizmatlar ushbu Maxfiylik siyosati bilan qamrab olinmaydi va ular o‘zlarining xizmatlari bilan bog‘liq ravishda ma’lumotlarning to‘planishi va baham ko‘rilishiga nisbatan qo‘llaniluvchi o‘z siyosatlariga ega hisoblanadi. Biz sizga o‘sha siyosatlarni o‘qib chiqishni tavsiya qilamiz. LGE uchinchi tomonlarning maxfiylik amaliyotlari uchun javobgarlikni yoki mas’uliyatni o‘z zimmasiga olmaydi.
+
+2. LGE qanday ma’lumotlarni oladi?
+LGE quyidagi ma’lumotlarni to‘playdi:
+① Mobil qurilma holati: Modeli, dasturiy ta’minot versiyasi, IMEI raqami, seriya raqami, IMSI raqami, quvvat holati, batareyka holati, Protsessor/Tezkor xotira/Ichki xotiradan foydalanilishi, o‘rtacha foydalanish vaqti, apparat vositalarning o‘z-ozini tashxislash natijasi (Wi-Fi, BT, yaqinlik sensori, yoritilganlik sensori, barmoq izi sensori va hok.)
+② Tarmoq holati: Xizmat holati (qo‘ng‘iroq, ma’lumotlar), signal kuchi, stantsiya ma’lumotlari, qo‘ng‘iroq chastotasi/vaqti
+③ Ilovalar to‘g‘risidagi ma’lumotlar: O‘rnatilgan va o‘chirilgan ma’lumotlar ro‘yxati, ilova versiyasi, yaqinda bajartirilgan ilovalar, ilovadan foydalanish chastotasi/statistika  
+④ Mobil telefonning ulanish holati: Wi-Fi, Bluetooth, GPS, naushnik, batareyka zaryadlagichi, USB va SD karta ulanish holatlari
+⑤ Xatolik to‘g‘risidagi ma’lumotlar: Qotib qolgan ekran, to‘satdan o‘chib qolishlar, qo‘ng‘iroqlarning uzilib qolishi, ilova xatolari (o‘ta jiddiy, istisnoli)
+
+3. LGE olingan ma’lumotlardan qanday foydalanadi?
+Biz sizdan olgan ma’lumotlardan turli maqsadlarda, jumladan quyidagilar uchun foydalanamiz:
+- Mobil qurilmani tanib olish va tashxislash
+- Mijozlarga xizmat ko‘rsatishlarni amalga oshirishs va xizmatlar tarixini boshqarish 
+- Push xabarlarini yuborish 
+- Yaxshilangan sifat va mijozlarning xizmatlarimizdan qoniqishlariga erishish uchun xizmat/jurnallar/qurilma tarixini tahlil qilish
+
+Biz sizdan olgan ma’lumotlarni, jumladan, shaxsiy ma’lumotlarni siz bizga boshqa vositalar orqali taqdim etgan ma’lumotlar bilan ushbu Maxfiylik siyosatiga mos bo‘lgan maqsadlar uchun birlashtirishimiz mumkin. 
+
+4. Ma’lumotlarni ulashish
+Biz, odatda, LG Xizmatidan foydalanishingiz davomida to‘plangan ma’lumotlaringizni uchinchi tomon bilan baham ko‘rmaymiz. Shunday bo‘lsa-da, bunday ma’lumotlarni boshqalar bilan baham ko‘rishimiz mumkin bo‘lgan quyidagi hollarni yodda tuting:
+- Filiallar va sho‘ba kompaniyalar. LGE shaxsiy ma’lumotlar va shaxsiy bo‘lmagan ma’lumotlarni (jumladan qurilma ma’lumotlari) butun dunyo bo‘ylab o‘z filiallari va sho‘ba kompaniyalari bilan faqat ular to‘planishidan ko‘zlangan maqsadlarga erishish uchun talab qilingan vaqt davomida baham ko‘rishishi mumkin. “Filiallar” yoki “sho‘ba kompaniyalar” atamasi LG nomidan foydalanadigan yoki LG CNS yoki LG CNS yoki LG Electronics U.S.A.,INC kompaniyalari kabi umumiy egalik yoki boshqarish huquqiga ega kompaniyalar guruhiga nisbatan qo‘llaniladi ("LGEUS");
+- Tashqi xizmat ta’minotchilari. LGE vaqti-vaqti bilan o‘zi nomidan xizmatlar ko‘rsatish, jumladan mijozlarning xizmatlarga bo‘lgan talablarini ado qilish uchun jalb qilishi mumkin bo‘lgan tashqi xizmat ta’minotchilariga;
+- Qonun talabiga binoan boshqa tomonlarga. Sud jarayoniga yoki qonun talablariga rioya qilish maqsadida sud yoki boshqa huquqni muhofaza qilish organlarining qaroriga ko‘ra;
+- Korporativ bitimlar bilan bog‘liq boshqa tomonlarga. LGE o‘z biznesini (shuningdek, uning bir bo‘linmasi yoki filialini) to‘liq yoki qisman birlashtirish yoxud sotish kabi korporativ hodisalar munosabati bilan sotib olish imkoniyatiga ega bo‘lgan xaridor yoki uning professional maslahatchilari uchun ma’lumotlarni oshkor qilish zaruriyati tug‘ilganda;
+- Xizmatimizni himoya qilish zarur bo‘lganda boshqa tomonlarga. O‘z huquqlarimiz va mulklarimizni himoya qilish va muhofaza qilish, jumladan, huquqiy yo‘llar bilan himoya qilish uchun;
+- Biror foydalanuvchimizning shaxsiy xavfsizligini yoki mulkini himoya qilish maqsadida boshqa tomonlarga. Foydalanuvchilarimiz yok jamiyatning shaxsiy xavfsizligi va mulkini muhofaza qilish uchun.
+
+Shaxsiy ma'lumotingiz marketing maqsadlarida qo'llanilmaydi yoki uchinchi taraf tomonidan umumiy foydalanilmaydi.
+
+5. Xorijiy o‘tkazmalar
+Biz, filiallarimiz, sho‘ba kompaniyalarimiz va ta’minotchilarimiz ma’lumotlaringizdan (jumladan, shaxsiy ma’lumotlaringiz ham) sizga LG Xizmatimizni taqdim etish hamda ushbu Maxfiylik siyosatida ta’kidlangan boshqa maqsadlar bilan bog‘liq ravishda qurilma joylashgan mamlakatdan boshqa mamlakatlarda ham foydalanilishi mumkin. Bu mamlakatlarning aksariyatida axborot xavfsizligi to‘g‘risidagi qonunlar siz joylashgan mamlakatdagi qonunlar darajasidagidek himoya bilan ta’minlangan bo‘lmasligii mumkin. Biroq shaxsiy ma’lumotlaringizni o‘tkazishdan oldin biz ushbu ma’lumotlarga nisbatan bir xil himoya darajasi qo‘llanilishini kafolatlash uchun choralarni ko‘ramiz. Ushbu Maxfiylik siyosatiga rozilik bildirish orqali siz bizga, biznes hamkorlarimizga va ta’minotchilarimizga ma’lumotlaringizni istalgan yurisdiksiyada, jumladan, Koreya Respublikasi yoki Amerika Qo‘shma Shtatlarida ushbu Maxfiylik siyosatiga muvofiq holda qayta ishlashlariga o‘z roziligingizni bildirasiz. 
+
+6. LGE sizning shaxsiy ma’lumotlaringizni qancha muddat saqlaydi?
+Sizga LG Xizmatini ko‘rsatishimiz yoki ma’lumotlarning olinish maqsadlari uchun yoki tegishli qonun hujjatlari talab qilganidek zarur bo‘ladigan muddat sizning shaxsiy ma’lumotlaringizni saqlash uchun barcha ehtiyot choralarini ko‘ramiz.
+
+7. Xavfsizlik
+Biz shaxsiy ma’lumotlaringizni himoya qilish uchun tijoriy jihatdan oqilona chora-tadbirlarni ko‘ramiz. Shunday bo'lsada, doimiy o'zgarib boruvchi texnologiya bo'lgan internetning loyihalanishi va nazoratimizdan tashqarida bo'lgan boshqa omillar tufayli biz siz bilan serverlarimiz o'rtasidagi aloqaning boshqalar tomonidan ruxsatsiz kirishlardan holi bo'lishi yoki xavfsizlik buzilishlariga yo'l qo'ymasligimiz to'g'risida hech qanday kafolat bera olmaymiz. Biz o'tkazishdagi xatolar yoki boshqalarning ruxsatsiz yoki noqonuniy harakatlari tufayli shaxsiy ma'lumotlarning oshkor qilinishi uchun hech qanday javobgarlikni o'z zimmamizga olmaymiz.
+
+8. Bolalarning shaxsiy ma’lumotlarini himoya qilish
+Bolalarning shaxsiy ma’lumotlarini himoya qilish biz uchun juda muhim. Shu sababli LG Xizmati 14 yoshdan kichik bo‘lganlar yoki tegishli yurisdiksiyaga ko‘ra balog‘at yoshiga to‘lmaganlar uchun mo‘ljallanmagan va u aynan 14 yoshdan kichik bo‘lganlarni jalb qiladigan tarzda tuzilmagan. Biz, shuningdek, bila turib 14 yoshdan kichik bo‘lgan foydalanuvchilardan shaxsiy ma’lumotlarni to‘plamaymiz va saqlamaymiz. Agar 14 yoshdan kichik yoki muayyan yurisdiksiyaga asosan balog'atgan yetmagan yoshdagi shaxslar haqida ma'lumot yiqqanimizni bilib qolsak yoki shu haqda bizga xabari berilsa, biz darhol bunday ma'lumotni yo'q qilamiz.
+
+9. LGE maxfiylik siyosatiga o‘zgartirish kiritish
+Ushbu Maxfiylik siyosati LGE tomonidan vaqti-vaqti bilan yangilab turilishi mumkin. Agar biz Maxfiylik siyosatimizga biror moddiy o‘zgartirish kiritadigan bo‘lsak, bu haqda LG veb-sayti yoki boshqa vositalar orqali sizni xabardor qilamiz. Agar yangilangan maxfiylik siyosatiga rozilik bildirmasangiz, LG Xizmatidan foydalanish imkoniyatingiz cheklanishi mumkin.
+
+10. Ma'lumotingizga kirish 
+Ayrim yurisdiksiya qonunlariga ko‘ra, siz LGE to‘playdigan shaxsiy ma’lumotlaringiz yuzasidan tafsilotlarni talab qilish hamda shaxsiy ma’lumotlaringizdagi xatoliklarni tuzatish yoki aksincha, qonuniy maqsadlarda shaxsiy ma’lumotlaringizni qayta ishlashga qarshilik bildirishingiz mumkin. Qonun tomonidan ruxsat berilsa, o‘sha xizmat uchun sizdan oz miqdorda to‘lov olinishi ham mumkin. Agar talablaringiz asossiz, haqoratomuz, boshqalarning maxfiyligiga tahdid qiluvchi yoki imkonsiz bo‘lsa, talablaringizni inkor qilishimiz mumkinligini unutmang. Agar shaxsiy ma’lumotlaringizga kirish, tuzatish, bekor qilishni yoki ularni qayta ishlashga qarshilik bildirmoqchi bo‘lsangiz, mc.customer-service@lge.com e-pochtasi orqali biz bilan bog‘laning.
+
+11. Ushbu Maxfiylik siyosati borasida LGE bilan bog‘lanish
+Agar sizda ushbu Maxfiylik siyosati to'g'risida qandaydir savollar yoki fikr-mulohazalar mavjud bo'lsa, mc.customer-service@lge.com orqali murojaat qiling.
+
+So‘nggi yangilanish: 22 iyun 2017 yil

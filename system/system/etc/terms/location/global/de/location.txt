@@ -1,0 +1,3 @@
+﻿Verwendung aktueller Standortinformationen
+
+LGE kann Standortinformationen, die auf dem Gerät gespeichert sind (unter Verwendung von GPS, Wi-Fi und Mobilfunknetzen), dazu verwenden, um die „aktuellen Standortinformationen“ des Geräts zu erhalten. LGE speichert die „aktuellen Standortinformationen“ ausschließlich intern auf dem Gerät des Benutzers und erfasst, speichert oder sichert keine dieser Informationen auf seinen Servern. Selbst wenn Sie dem oben genannten zustimmen, wird eine Bereitstellung des Dienstes nur erfolgen, wenn der Benutzer die Google-Standortfunktion aktiviert, wobei die Verwendung des Dienstes „aktuelle Standortinformationen“ jederzeit im Einstellungsmenü eines jeden Dienstes geändert werden kann, der „aktuell“ verwendet wird.

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Configure>
+    <!--
+    OPEN_IL ( Open / Israel )
+    -->
+    <Config operator="" country="IL" device="">
+    </Config>
+    <!--
+    ORI_IL( /Israel)
+    -->
+    <Config operator="ORI" country="IL" device="">
+        <DefaultOnOffType> offp2p </DefaultOnOffType>
+    </Config>
+</Configure>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Configure>
+    <!--
+    OPT_AU(Optus / Australia)
+    -->
+    <Config operator="" country="AU" device="">
+    </Config>
+    <!-- Telstra / Australia -->
+    <Config operator="TEL" country="AU" device="">
+        <DefaultOnOffType> offp2p </DefaultOnOffType>
+        <AccessControlEnable> false </AccessControlEnable>
+        <HostCardEmulationScenario> config, na, na, na </HostCardEmulationScenario>
+    </Config>
+    <Config operator="OPEN" country="AU" device="">
+        <DefaultOnOffType targetdevice="jagnm"> offp2p </DefaultOnOffType>
+        <DefaultOnOffType targetdevice="p1|g2"> open </DefaultOnOffType>
+    </Config>
+</Configure>

@@ -1,0 +1,68 @@
+﻿Política de privacidad para el uso de registros de actividad
+
+Aviso: Al aceptar esta política de privacidad, usted brinda su consentimiento para el uso de sus datos según se describe aquí. Su consentimiento es voluntario. Sin embargo, si no acepta no podremos prestarle el servicio, en este caso no podrá usar ciertos Servicios de Informe de Diagnóstico del Dispositivo LG ("Servicio de LG"). Usted puede recuperar los términos de su consentimiento en cualquier momento en el Servicio LG y puede modificar su consentimiento cuando lo desee enviando un mensaje a: mc.customer- service@lge.com
+
+1. Introducción
+LG Electronics Inc. ("LGE" o "nosotros") se compromete a proteger la información de aquellas personas y grupos que utilizan el Servicio de LG que aquí se incluye. Esta política de privacidad establece cómo recopilamos, usamos y compartimos la información que recopilamos de su teléfono móvil LGE y, en particular, establece:
+- Qué información LGE puede obtener de usted o de LG Service
+- Cómo utiliza LGE la información que obtiene;
+- Cuando LGE comparte información con otros y,
+- Cómo puede usted controlar el modo en que LGE usa y comparte su información.
+
+LG Service puede proporcionar acceso a aplicaciones de software y enlaces a otros servicios que pertenecen y son operados por terceros, incluidos los proveedores de sistema operativo y otros contenidos y proveedores de aplicaciones. Estos servicios de terceros están fuera del alcance de esta Política de privacidad y tienen sus propias políticas que aplican a la recopilación, el uso y el intercambio de información, y le recomendamos que lea esas políticas. Le recomendamos que lea esas políticas. LGE no es responsable de las prácticas de privacidad de dichos terceros.
+
+2. ¿Qué información obtiene LGE?
+LGE recopilará la siguiente información:
+① Estado del dispositivo móvil: Modelo, versión de software, IMEI, número de serie, IMSI, estado de energía, estado de la batería, uso de CPU / RAM / memoria interna, tiempo de uso promedio, resultado de autodiagnóstico de hardware (Wi-Fi, BT, sensor de proximidad, sensor de iluminación, sensor de huella dactilar etc.)
+② Estado de la red: Estado del servicio (llamada, datos), potencia de la señal, información de la estación, frecuencia / tiempo de la llamada
+③ Información de la aplicación: La lista de aplicaciones instaladas y eliminadas, la versión de la aplicación, las aplicaciones ejecutadas recientemente, la frecuencia /estadísticas de uso de la aplicación
+④ Estado de conexión del teléfono móvil: Wi-Fi, Bluetooth, GPS, toma de auriculares, cargador de batería, USB y SD estados de conexión de la tarjeta
+⑤ Información de error: Pantalla congelada, apagados involuntarios, llamadas desconectadas, errores de aplicación (fatal, excepción)
+
+3. ¿Cómo utilizará LGE la información que obtiene?
+Utilizamos la información que obtenemos de usted para diversos fines, que incluyen:
+- Para identificar y diagnosticar dispositivos móviles
+- Para realizar servicios al cliente y administrar el historial de servicio
+- Para enviar mensajes push
+- Para analizar el historial de servicios / registros / dispositivos para mejorar la calidad y la satisfacción del cliente
+
+Podemos combinar la información obtenida de usted, incluida la información personal, con la información que nos proporcione por otros medios, para los fines consistentes con esta Política de privacidad.
+
+4. Intercambio de información
+Generalmente, no compartimos con terceros la información que recibimos como resultado del uso de LG Service. No obstante, tenga en cuenta las siguientes circunstancias en las que podemos compartir dicha información con las siguientes entidades:
+- Filiales y Subsidiarias LGE puede compartir información personal e información no personal 
+(Incluida la información del dispositivo) con sus filiales y subsidiarias en todo el mundo solo mientras sea necesario para los fines para los que fue recopilada. El término 'filiales' o 'subsidiarias' se refiere a compañías del grupo que pueden estar usando el nombre de LG o que tienen propiedad o control común como LG CNS o LG Electronics U.S.A., INC. ("LGEUS");
+- Proveedores de servicios de terceros A los proveedores de terceros que LGE puede contratar para proporcionar servicios en su nombre de vez en cuando, como para cumplir con las solicitudes de servicio al cliente;
+- Otras partes cuando lo exija la ley Según lo requiera una orden judicial u otra autoridad gubernamental o policial para cumplir con el proceso legal o la ley;
+- Otras partes relacionadas con Transacciones Corporativas En relación con un evento corporativo, como una fusión o venta de todo o parte del negocio de LGE (incluido el de una división o subsidiaria), donde LGE puede necesitar divulgar información a un posible comprador y sus asesores profesionales;
+- Otras partes cuando sea necesario proteger nuestro servicio Para proteger y defender a nuestros
+derechos y propiedad, incluso a través de procedimientos legales;
+- Otras partes cuando se trata de proteger la seguridad o propiedad de cualquiera de nuestros usuarios Para proteger la seguridad personal o la propiedad de nuestros usuarios o el público.
+
+Bajo ninguna circunstancia se procesará su información personal con fines de comercialización, ni se compartirá con terceros con fines de comercialización.
+
+5. Transferencias en el exterior
+Nosotros, nuestras filiales, subsidiarias y proveedores podemos utilizar información (incluida su información personal) en países distintos a aquel donde se encuentra localizado su dispositivo en relación con la prestación de nuestro Servicio de LG y cualquier otro fin descrito en esta Política de privacidad. Las leyes de protección de datos en muchos de estos países pueden no ofrecer el mismo nivel de protección que aquellas del país donde se encuentra. Sin embargo, antes de transferir su información personal, tomaremos medidas para garantizar que dicha información tenga el mismo nivel de protección. Al aceptar esta Política de Privacidad, usted acepta expresamente que nosotros y nuestros socios comerciales y proveedores procesen sus datos en cualquier jurisdicción, incluyendo, sin limitación, la República de Corea o los Estados Unidos de conformidad con esta Política de Privacidad.
+
+6. ¿Cuánto tiempo guardará LGE mi información personal?
+Tomaremos medidas razonables para garantizarle que conservaremos su información personal durante el tiempo que sea necesario para poder proporcionarle LG Service o para el propósito para el que fue recopilada, o según lo exijan las leyes aplicables.
+
+7. Seguridad
+Haremos todo lo que sea razonablemente posible para salvaguardar la confidencialidad de su información personal. Sin embargo, debido al diseño de Internet, la tecnología en constante cambio y otros factores fuera de nuestro control, no podemos garantizar que las comunicaciones entre usted y nuestros servidores estén libres de acceso no autorizado por parte de terceros o que no estaremos sujetos a brechas de seguridad. No aceptamos ninguna responsabilidad por la divulgación de información personal debido a errores en la transmisión o actos no autorizados o ilegales de terceros. 
+
+8. Proteger la privacidad de los niños
+Proteger la privacidad de los niños es importante para nosotros. Por ese motivo, LG Service no está dirigido a personas menores de 14 años ni a la mayoría de edad en la jurisdicción correspondiente y no está estructurado específicamente para atraer a menores de 14 años. Tampoco recopilamos o conservamos información personal de usuarios menores de 14 años. Si llega a nuestros oídos o recibimos una notificación de que hemos recopilado información de usuarios menores de 14 años o mayores de edad en la jurisdicción correspondiente, eliminaremos dicha información rápidamente. 
+
+9. Cambios a la política de privacidad de LGE 
+
+Esta política de privacidad puede ser actualizada por LGE de vez en cuando. Si realizamos un cambio importante en nuestra Política de privacidad, lo actualizaremos a través del sitio web de LG u otros medios. Si no acepta la política de privacidad actualizada, LG Service puede verse restringido.
+
+10. Acceso a su información
+Conforme a las leyes de algunas jurisdicciones, tiene derecho a solicitar detalles sobre su información personal que LGE recopila y a corregir imprecisiones en su información personal o bien oponerse, para fines legítimos, al procesamiento de su información personal. Si lo permiten las leyes, se le puede cobrar una pequeña tarifa por proporcionarle dicho servicio. Por favor, tenga en cuenta de que podemos negarnos a procesar sus solicitudes si son irracionalmente abusivas, ponen en peligro la privacidad de los demás o son extremadamente poco prácticas. Si desea hacer una solicitud para acceder, rectificar, cancelar u oponerse al procesamiento de su información personal, por favor contáctenos algecsvc@lge.com
+
+11. Contacto con LGE sobre esta Política de Privacidad
+Si tiene alguna pregunta o comentario sobre esta Política de privacidad, contáctenos por correo electrónico a mc.customer-service@lge.com.
+
+Última actualización: Jun 22, 2017
+
+

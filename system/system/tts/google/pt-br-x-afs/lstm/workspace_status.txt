@@ -1,0 +1,22 @@
+BUILD_USERNAME koan-build-fuse
+BUILD_HOSTNAME lgl76
+BUILD_DIRECTORY /export/hda3/borglet/remote_hdd_fs_dirs/rabbit-prod.general_bq-alloc.koan-build-fuse.24.87259198386.14b334fb3717c109/mount/tmpfs/rabbit/workspaces/speech-tts-builder/56a3d46e8a5ec307c5cadf98c53b5a0a/google3
+BUILD_EMBED_LABEL 
+BUILD_BLAZE_RELEASE release blaze-2017.12.11-2 (mainline @178531801)
+WORKSPACE_STATUS_COMMAND_ARGUMENT /export/hda3/borglet/remote_hdd_fs_dirs/rabbit-prod.general_bq-alloc.koan-build-fuse.24.87259198386.14b334fb3717c109/mount/tmpfs/rabbit/workspaces/speech-tts-builder/56a3d46e8a5ec307c5cadf98c53b5a0a/tempfile-lgl76-aeb6f700-45276-4db08a4f30d782-5616dbe658324_embed_changelist_
+VERIFIABLE 0
+BUILD_CLIENT_MINT_STATUS 1
+BUILD_DEPOT_PATH //depot/google3
+BUILD_USERNAME speech-tts-builder
+BUILD_ID b959048b-495c-4e22-95a7-4e9e0d3b27b9
+BUILDRABBIT_TASK_BNS /bns/lg/borg/lg/bns/koan-build-fuse/rabbit-prod.general_bq-worker/24
+SRCFSD_TASK_BNS /bns/lg/borg/lg/bns/koan-build-fuse/rabbit-prod.general_bq-srcfsd/24
+OBJFSD_TASK_BNS /bns/lg/borg/lg/bns/koan-build-fuse/rabbit-prod.general_bq-objfsd/24
+BUILD_WORKER_VERSION buildrabbit-worker_20171218_0_RC00
+BUILDRABBIT_BLAZE_BINARY_PATH /export/hda3/borglet/remote_hdd_fs_dirs/rabbit-prod.general_bq-alloc.koan-build-fuse.24.87259198386.14b334fb3717c109/mount/tmpfs/rabbit/workspaces/speech-tts-builder/56a3d46e8a5ec307c5cadf98c53b5a0a/READONLY/google3/tools/blaze
+SOURCE_URI googlefile:/google_src/components/180286652/google3
+BASE_CHANGELIST 180286652
+BUILD_CHANGELIST 180286652
+BUILD_BASELINE_CHANGELIST 180286652
+BUILD_VERSION_MAP map 180286652 default { // } import buildenv/11788;
+BUILD_REQUEST_ID bbq-39f2efaa-9b29-4165-9cdb-bc08e2689910

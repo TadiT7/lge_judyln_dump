@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<solution name="mfnr">
+	<cameraID id="0">
+        <numFrame range="3,5">3</numFrame>
+        <numFrame range="5,12">4</numFrame>
+        <numFrame range="12,14">5</numFrame>
+        <numFrame range="14,19">5</numFrame>
+        <numFrame range="19,24">5</numFrame>
+        <numFrame range="24,30">5</numFrame>
+        <numFrame range="30,36">5</numFrame>
+        <numFrame range="36,100">5</numFrame>
+	</cameraID>
+	<cameraID id="1">
+		<numFrame range="3,6">3</numFrame>
+		<numFrame range="6,10">4</numFrame>
+		<numFrame range="10,14">5</numFrame>
+		<numFrame range="14,19">5</numFrame>
+		<numFrame range="19,24">5</numFrame>
+		<numFrame range="24,100">5</numFrame>
+	</cameraID>
+	<cameraID id="2">
+		<numFrame range="3,6">3</numFrame>
+		<numFrame range="6,12">4</numFrame>
+		<numFrame range="12,16">5</numFrame>
+		<numFrame range="16,20">5</numFrame>
+		<numFrame range="20,24">5</numFrame>
+		<numFrame range="24,100">5</numFrame>
+	</cameraID>
+</solution>

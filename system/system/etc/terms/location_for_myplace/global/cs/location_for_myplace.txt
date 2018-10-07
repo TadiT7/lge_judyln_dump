@@ -1,0 +1,6 @@
+﻿Použití aktuálních informací o poloze pro Moje místa
+
+Tato služba Moje místa ("Služba") používá informace o poloze zařízení uživatele k analýze vzorce míst, ve kterých uživatel pobývá delší dobu, a poskytuje funkci automatického rozpoznání takového místa nebo umožňuje uživateli manuálně označit místo jako "Moje místa" (např. doma, pracoviště). Probíhající analýza vzorce může automaticky měnit lokaci dříve nastaveného místa.
+Přestože tato služba používá informace o poloze uložené v uživatelově zařízení (základnová stanice (BTS), GPS, Wi-Fi, síťové pozice (NLP)), společnost LG Electronics Inc. (LGE) nikdy neshromažďuje a nepoužívá informace o místě uživatele a pouze používá a ukládá do uživatelova zařízení.
+Tato služba spustí automatické rozpoznávání míst, kde uživatel zůstává po delší dobu, v okamžiku, kdy uživatel souhlasí s používáním aktuálních informací o poloze uživatelova zařízení a pokračuje, dokud uživatel nepřestane službu používat vypnutím odpovídající funkce.
+Společnost LGE však bude používat aktuální informace o poloze uživatele pouze tehdy, pokud uživatel zapne možnost používat službu Google lokace zařízení.

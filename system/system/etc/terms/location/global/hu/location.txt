@@ -1,0 +1,3 @@
+﻿Az aktuális tartózkodási hely adatainak használata
+
+Az LGE felhasználhatja a készüléken (GPS, Wi-Fi és mobil kommunikációs hálózatok segítségével) elmentett tartózkodási hely adatait, hogy hozzájusson a készülék „aktuális tartózkodási helyének adataihoz”. Az LGE csak a felhasználó készülékén belül menti el az „aktuális tartózkodási hely” adatait, és nem gyűjti, menti és tárolja a szerverein. Még ha Ön bele is egyezik a fentiekbe, a szolgáltatás akkor is csak akkor áll rendelkezésre, ha a felhasználó bekapcsolja a Google tartózkodási hely funkciót. Az „aktuális tartózkodási hely adatai” elnevezésű szolgáltatás használata módosítható bármikor minden olyan szolgáltatás beállítási menüjében, amely használja az „aktuális tartózkodási hely adatait”.

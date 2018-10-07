@@ -1,0 +1,3 @@
+﻿Penggunaan informasi lokasi saat ini
+
+LGE dapat menggunakan informasi lokasi yang tersimpan pada perangkat (menggunakan GPS, Wi-Fi, dan jaringan komunikasi seluler) untuk mendapatkan “informasi lokasi saat ini” perangkat. LGE hanya menyimpan “informasi lokasi saat ini” secara internal pada perangkat pengguna dan tidak mengumpulkan, menyimpan, atau menaruh informasi di server-nya. Meskipun Anda setuju dengan hal di atas, layanan ini diberikan hanya bila pengguna mengaktifkan fungsi lokasi Google, dan penggunaan layanan “informasi lokasi saat ini” dapat diubah kapan saja dengan menggunakan menu pengaturan masing-masing layanan yang menggunakan “informasi lokasi saat ini”.

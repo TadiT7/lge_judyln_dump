@@ -1,0 +1,28 @@
+
+on property:ro.boot.laf=SNIFF && property:ro.minios.bootstart=1
+    stop midd
+    setprop ro.factorytest 2
+    start factory_sniff
+
+service factory_sniff /sbin/factory_sniff
+    class core
+    user root
+    group root
+    disabled
+    seclabel u:r:recovery:s0
+
+service minios3_ble /sbin/minios_ble
+    class main
+    user root
+    group root system
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service w_mid /sbin/w_mid
+    class main
+    user root
+    group root
+    disabled
+    oneshot
+    seclabel u:r:minios_services:s0

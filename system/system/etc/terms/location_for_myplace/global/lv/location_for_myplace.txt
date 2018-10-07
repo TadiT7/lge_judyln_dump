@@ -1,0 +1,6 @@
+﻿Informācijas par pašreizējo atrašanās vietu izmantošana pakalpojumam „Manas vietas”
+
+Pakalpojums „Manas vietas” („Pakalpojums”) izmanto informāciju par lietotāja ierīces atrašanās vietu, lai analizētu atrašanās vietas, kurās lietotājs ir ilgstoši uzturējies, un nodrošinātu šādu vietu automātiskās atpazīšanas funkciju vai ļautu lietotājam manuāli apzīmēt atrašanās vietu kā „Manas vietas” (piemēram, mājas, darba vieta). Turpinot vietu analīzi, funkcija var automātiski mainīt atrašanās vietu iepriekš apzīmētai atrašanās vietai.
+Neskatoties uz to, ka šis pakalpojums izmanto lietotāja ierīcē saglabāto informāciju (bāzes uztveršanas-raidīšanas stacija (BTS), GPS, Wi-Fi, tīkla pozīcijas (NLP)), „LG Electronics Inc.” („LGE”) nekādā gadījumā nevāks un neizmantos informāciju par lietotāja atrašanās vietu, šo informāciju saglabās un izmantos tikai lietotāja ierīcē.
+Šis pakalpojums ieslēdzas automātiski, kad tiek atpazīta vieta, kurā lietotājs ir ilgstoši uzturējies, sākot ar brīdi, kad lietotājs piekrīt informācijas par lietotāja ierīces pašreizējo atrašanās vietu izmantošanai, un tas turpinās līdz brīdim, kad lietotājs pārtrauc šā pakalpojuma izmantošanu, izslēdzot atbilstošās funkcijas opciju.
+Taču „LGE” izmantos informāciju par lietotāja pašreizējo atrašanās vietu tikai tad, ja lietotājs ierīcē ieslēgs „Google” atrašanās vietas noteikšanas pakalpojuma opciju.

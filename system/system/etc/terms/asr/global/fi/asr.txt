@@ -1,0 +1,8 @@
+﻿Hyväksyntä käyttää äänitietoja Google Automatic Speech Recognition (“ASR”) -toimintoa varten 
+
+Tämä Parking Assistant -palvelu (“Palvelu”) käyttää Google ASR -toimintoa, toiminto, joka on Google, Inc. (“Google”) toimittama, joka mahdollistaa meidän muuntavan äänen tekstiksi.
+Äänitiedot käyttäessäsi Palvelua, lähetetään Googlelle ja tallennetaan tämän toimesta. Google käyttää näitä tietoja muuntaakseen äänitiedot tekstitiedoiksi ja lähettää tekstitiedot LGE:lle.
+Kaikki ASR:n keräämät tiedot, toteutetaan Googlen tietosuojamenettelyn puitteissa, joka on luettavissa osoitteessa (https://www.google.com/policies/privacy/).
+Voit valita poistaa ASR:n aktivoinnin poistamalla palvelut kohdassa “Valinnat-valikko - Juridiset tiedot”.
+LGE ei koskaan kerää ja/tai käytä mitään henkilökohtaisia tietoja, mukaan lukien käyttäjän äänitiedot ja käyttää Palvelua varten vain ei-henkilökohtaisesti tunnistettavia tietoja kuten tekstit.
+Lisäksi, LGE ei koskaan (eikä salli yhdenkään kolmannen osapuolen) käyttävän tekstitietoja jäljittääkseen tai kerätäkseen mitään henkilökohtaisesti tunnistettavia tietoja kävijöistä Palvelussa, eikä liitä mitään tästä Palvelusta kerättyjä tietoja minkään henkilökohtaisesti tunnistettavan tiedon kanssa mistään lähteestä.

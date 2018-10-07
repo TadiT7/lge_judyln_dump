@@ -1,0 +1,109 @@
+﻿Adatvédelmi nyilatkozat
+
+Az Adatvédelmi nyilatkozat szabályozza az LGE hozzáférését az Ön személyes adataihoz, és azok felhasználását a Szoftverfrissítés szolgáltatás keretén belül. A Szoftverfrissítés szolgáltatás használata előtt olvassa el figyelmesen az Adatvédelmi nyilatkozatot.
+
+1.	Bevezetés
+Az LG Electronics Inc. („LGE” vagy „mi”) elkötelezett az LGE mobiltelefonokat használó egyének és csoportok adatvédelme mellett. Az Adatvédelmi nyilatkozat szabályozza az LGE mobiltelefonnal kapcsolatos információgyűjtést, információhasználatot és információ megosztást, különös figyelemmel az alábbiakra:
+-	a FOTA szoftverfrissítés áttekintése;
+-	az LGE által gyűjtött személyes adatok;
+-	az LGE által gyűjtött információk felhasználása;
+-	amikor az LGE információkat oszt meg másokkal; 
+-	a személyes adatok átvitele külföldre
+-	a személyes adatok LGE által történő tárolásának időtartama
+-	biztonság:
+-	a hozzájárulás elutasítása vagy visszavonása
+-	a gyermekekkel kapcsolatos információk bizalmasságának biztosítása
+-	az LGE Adatvédelmi nyilatkozatának módosítása
+-	a hozzáférés az Ön információihoz
+-	a panaszbenyújtás joga és
+-	kapcsolatfelvétel az LGE-vel az Adatvédelmi nyilatkozatot illetően
+
+Ez az Adatvédelmi nyilatkozat kizárólag azokra az információkra vonatkozik, melyeket az LGE az Ön mobiltelefonjáról gyűjt a belső vezérlőprogram frissítésének céljából a Firmware Over-the-Air („FOTA”) eljárás alkalmazásával („Szoftverfrissítés”). Ez az Adatvédelmi nyilatkozat nem vonatkozik bármelyik egyéb LGE termékre és szolgáltatásra, többek között az LGE mobilalkalmazásokra sem. Továbbá, az Adatvédelmi nyilatkozat nem vonatkozik a harmadik felek által szolgáltatott termékekre és szolgáltatásokra, többek között az operációs rendszerek és a további tartalmakat és alkalmazások szolgáltatóira, vagy mobilszolgáltatójára. A termékeket és szolgáltatásokat, melyekre ez az Adatvédelmi szerződés nem vonatkozik, saját adatvédelmi szerződés vonatkozik, mely külön szabályozza az adatgyűjtést, az adatfeldolgozást és az adatmegosztást. Kérjük, olvassa el azokat az adatvédelmi nyilatkozatokat. A harmadik felek adatvédelmi nyilatkozatainak esetében az LGE-z nem terheli semmilyen felelősség vagy kötelezettség.
+
+Amennyiben mobiltelefonját nemrég vásárolta, használat előtt kérjük frissítse a szoftvert az Adatvédelmi nyilatkozatban foglalt utasítások szerint, így biztosítva mobiltelefonja megfelelő működését, és a legújabb funkciók és biztonsági beállítások használatát. További információkért kérjük, forduljon hozzánk, az Adatvédelmi nyilatkozatban említett elérhetőségeket használva.
+
+Az Adatvédelmi nyilatkozatot bármikor megtekintheti itt: [Beállítások – Rendszer – A telefonról – Jogi információk – Az LG alkalmazások hivatalos dokumentumai – Adatvédelmi nyilatkozat].
+
+A jelen Adatvédelmi nyilatkozat lefordítása a helyi követelmények teljesítésének céljából történt. Amennyiben különbségek merülnek fel az angol és a ,más nyelvű irt változatok között, az angol nyelvű változat kerül alkalmazásra, amennyiben országának törvénye ezt nem szabályozza másképp.
+
+2.	A FOTA szoftverfrissítés áttekintése
+Időnként szükséges lehet a mobiltelefonjára telepített LGE belső vezérlőprogram (a „szoftver”) frissítése vagy kiegészítése, illetve az LGE bővítményeket is telepíthet a szoftverhez. A frissítések, kiegészítések és bővítmények telepítéséhez kérjük, használja a Szoftverfrissítés funkciót. Frissítéskor a szoftver további elemekkel és funkciókkal bővülhet, melyek adott esetekben eltávolíthatnak bizonyos meglévő elemeket vagy funkciókat. A szoftverfrissítést követően a szoftver korábbi verziójának használata, vagy a visszatérés a korábbi verzióhoz nem lehetséges. 
+
+A szoftverfrissítés FOTA eljárás alkalmazásával történik. Emiatt többleköltség merülhet fel, amennyiben az új szoftvert a mobilhálózaton keresztül tölti le. A többletköltség függ szolgáltatójától és előfizetésétől. Amennyiben szoftverfrissítéskor szeretné kizárni a mobilhálózat használatát, kérjük nyissa meg a Beállítások menüt és jelölje ki a „Csakis Wi-Fi” opciót. 
+
+a.	A szoftverfrissítési lehetőségek kezelése
+Amennyiben elfogadja ezt a FOTA Adatvédelmi nyilatkozatot, mobiltelefonja időnként új szoftvert ill. új szoftverfrissítéseket keres, melyeket automatikusan telepit amikor ezek elérhetővé válnak (az „Ellenőrizze automatikusan” funkció). A szoftver frissítését követően előugró értesítéseket vagy üzenetet küldünk mobiltelefonjára. Szoftvertelepítés előtt Ön elfogadhatja vagy elutasíthatja a szoftverfrissítést. A letöltött szoftvert telefonja automatikusan telepíti éjfélkor („Automatikus frissítés” funkció). Az „Ellenőrizze automatikusan” és az „Automatikus frissítés” funkciók elutasítása: [Beállítások – Rendszer – Frissítési/App központ – Szoftverfrissítés – Átfedés menü – Beállítások].  Az Ellenőrizze automatikusan funkció elutasítása egyenlő az utólagos szoftverfrissítések elutasításával.
+Kérjük, ne feledje hogy a már használatban lévő telefonok esetében a szoftverfrissítés elutasítása [a mobiltelefon teljesítményének csökkenését, kompatibilitási problémákat az új vagy már meglévő alkalmazásokkal és egyéb hasonló és biztonsági problémákat okozhat].
+
+b.	Sürgős szoftvertelepítés
+Amennyiben a kialakult helyzet megköveteli, fenntartjuk a jogot a szoftverfrissítésre saját érdekeink védelmének céljából, anélkül, hogy erről értesítést küldenénk és akár az Ön beleegyezésének hiányában is, az eszköz beállításaitól függetlenül („Sürgős szoftverfrissítés”). A sürgős szoftverfrissítést megkövetelő helyzetek: ügyfeleink biztonságának vagy az adatbiztonság veszélyeztetése, vagy olyan működési zavarok, melyek a szolgáltatások megszakítását vagy egyéb hasonló problémákat okozhatnak.
+
+3.	Az LGE által gyűjtött személyes adatok
+Szoftverfrissítés céljából az LGE mobiltelefonjáról  olya információkat gyűjthet, mint: a mobileszköz nemzetközi azonosítószáma (IMEI), a sorozatszám, a mobiltelefon modell, a szoftver és/vagy a belső vezérlőprogram verziója, a telefon operációs rendszere, a mobileszköz országos kódja (MCC), a mobilhálózat kódja (MNC), a Google Cloud Messaging (GCM) azonosító és a kiválasztott nyelv. Ezeket az adatokat automatikusan gyűjtjük, szoftverfrissítés céljából.
+
+A mobilszolgáltatások biztosításának céljából a mobileszköz használatával kapcsolatos információkat is gyűjtjük, többek között a rendszernaplókat és az IP címeket. Ezeket az adatokat automatikusan gyűjtjük és ezek szükségesek a telefon működéséhez.
+
+4.	Az LGE által gyűjtött információk felhasználása;
+A gyűjtött adatokat olyan különböző célokra használjuk, mint:
+-	a szoftverfrissítés (bármilyen sürgős szoftverfrissítés is), a szoftver megfelelő verziójának ellenőrzése, a mobiltelefon azonosítása és a megfelelő szoftver szolgáltatása; 
+-	a [Korlátozott termékgarancia] biztosítása;
+-	a mobiltelefonra vonatkozó biztonsági szolgáltatásokkal kapcsolatos értesítések és a sürgősségi értesítések közlése a biztonsági problémák megoldásának céljából;
+-	jogaink és tulajdonunk védelme, akár jogi úton is;
+-	a szabályok és előírások betartása és
+-	a szolgáltatott termékek és szolgáltatások elemzése, áttekintése és fejlesztése.
+
+A személyi adatok feldolgozását az LGE az alábbi előírások alapján és betartásával végzi;
+-	a szerződés: amennyiben szükséges egy szerződés aláírása;
+-	jogos érdekek: amennyiben szükséges az LGE vagy a harmadik fél érdekeinek érvényesítéséhez. Ebben az esetben az LGE érdekeit mint fogyasztói elektromos készülékeket és különböző szolgáltatásokat nyújtó vállalat érvényesíti.
+-	a hozzájárulás: amennyiben Ön hozzájárulását adta. Hozzájárulását bármikor visszavonhatja, vagy
+-	a jogi kötelezettségek: amennyiben a feldolgozás jogi okokból szükséges
+
+Ugyanakkor fenntartjuk a jogot arra, hogy a szoftverfrissítés és a mobiltelefon használata következtében gyűjtött statisztikai adatokat felhasználjuk arra, hogy jobban megértsük ügyfeleink szükségeit, hogy fejlesszük szolgáltatásinkat és termékeinket, piackutatáshoz és különböző elemzésekhez. Az ilyen jellegű adatok nem használhatók természetes személyek azonosítására, illetve nem rendelhetők természetes személyekhez.
+
+5.	Amikor az LGE információkat oszt meg másokkal
+Általában, a szoftverfrissítés közben gyűjtött adatokat nem osztjuk meg harmadik felekkel, amennyiben az adott adatok felhasználhatók természetes személyek azonosítására, illetve hozzárendelhetők természetes személyekhez. Továbbá, adódhatnak olyan helyzetek, amikor adatokat osztunk meg az alábbi harmadik felekkel:
+
+-	Partnerek és leányvállalatok Az LGE jogosult személyes és nem személyes jellegű adatok (pl. információk a mobiltelefonról megosztására nemzetközi partnereivel és leányvállalataival, azonban csakis a gyűjtés céljának kivitelezésére. A ‘partner’ vagy ‘leányvállalat'  olyan cégcsoportokra vonatkoznak, melyek az LG nevet használják, amelyek az LGE tulajdonában illetve irányítása alatt vannak, pl. LG CNS vagy LG Electronics U.S.A., Inc.;
+-	Harmadik fél szolgáltatók Az LGE által alvállalkoztatott harmadik fél szolgáltatók, akik az LGE nevében végzik tevékenységeiket, pl. az ügyfélszolgálatot biztosító vállalkozások;
+-	További felek a törvényes előírásoknak megfelelően. Amennyiben az LGE vállalatot bírósági ítélet vagy törvényes előírás kötelezi; a törvényes eljárások és előírások betartásának céljából;
+-	A vállalati tranzakcióban résztvevő további felek. A vállalatot érintő események esetében, pl. az LGE vállalatainak (részlegeinek vagy leányvállalatainak) egyesülése, átalakítása, eladása vagy átruházása, teljesen vagy részben, mely esetekben az LGE jogosult az adatok közlésére a vásárló és a szaktanácsadók részére.
+-	Szolgáltatásaink védelmét biztosító további felek. Szerződéses jogaink érvényesítésének céljából meghozzunk a szükséges intézkedéseket, nyomozunk a gyanús vagy törvényellenes esetekben, védekezünk a harmadik felek által benyújtott panaszokkal és állításokkal szemben; vagy
+-	További felek, amennyiben szükséges a saját biztonságunk vagy ügyfeleink biztonságának és a különböző tulajdonok védelme. Ügyfeleink és a közönség jogainak, biztonságának és tulajdonának védelme.
+
+A szoftverfrissítés közben gyűjtött személyes adatokat csakis az Ön hozzájárulásával használjuk fel és osztjuk meg harmadik felekkel reklám céljából.
+
+6.	A személyes adatok átvitele
+Az LGE, partnereink, leányvállalataink és szolgáltatóink jogosultak az Ön személyes adatainak használatára külföldön is, azonban csakis a jelen Adatvédelmi nyilatkozat keretein belül. Bizonyos országokban az adatvédelmi törvények és szabályok kevésbé szigorúak, mint az Ön országában. Azonban, mielőtt átvisszük személyes adatait, mindent megteszünk annak érdekében, hogy biztosítsuk az Ön országa által előirt adatvédelmi szintet. Amennyiben elfogadja ezt az Adatvédelmi nyilatkozatot Ön hozzájárul ahhoz, hogy személyes adatait olyan országokban dolgozzuk fel, melyek adatvédelmi törvényei és szabályzatai kevésbé szigorúak, mint abban az országban, amelyben Ön tartózkodik. Ilyen ország például Dél-Korea, vagy az Amerikai Egyesült Államok. Azonban ebben az esetben is betartjuk az Adatvédelmi nyilatkozat előírásait. 
+
+7.	A személyes adatok LGE által történő tárolásának időtartama
+Mindent megteszünk annak érdekében, hogy személyes adatait csakis a gyűjtés céljának eléréséig, illetve a törvényes előírásokban meghatározott időszak végéig tároljuk. 
+Amennyiben személyes adatainak törlésért igényli, arra hivatkozva, hogy azok további tárolása nem szükséges illetve amennyiben ellenzi azoknak a feldolgozását vagy a feldolgozást törvényellenesnek tartja és emiatt panaszt nyújt be, Ön jogosult az adatfeldolgozás korlátozásának szorgalmazására, miközben, mi ellenőrizzük az adatok törlésére vonatkozó kérelmét.
+
+8.	Biztonság
+Mindent megteszünk annak érdekében, hogy elkerüljük személyes adatainak elvesztését, illetve a nem engedélyezett hozzáférést, felhasználást, módosítást és közzétételt. Azonban, az internet felépítése, a folytonosan fejlődő technológia és a tőlünk független tényezők miatt nem mindig garantálhatjuk az Ön és a kiszolgálóink közötti kommunikáció titkos jellegét, és azt hogy kiszolgálóink esetében nem történik engedélyezetlen hozzáférés harmadik fél által, illetve biztonsági rendszer feltörése. Hibás átvitel, illetve harmadik fél engedélyezetlen vagy törvényellenes cselekedete esetében, mely következtében megtörténik személyes adatainak közzététele, minket semmilyen felelősség nem terhel.
+
+9.	A hozzájárulás elutasítása vagy visszavonása
+A törvényes előírások értelmében Ön elutasíthatja az Adatvédelmi nyilatkozat elfogadását, visszavonhatja hozzájárulását és szorgalmazhatja, személyes adatai feldolgozásának megszüntetését. Az ilyen jellegű jogok érvényesítéséhez kérjük, forduljon hozzánk az Adatvédelmi nyilatkozatban említett lehetőségeken keresztül, és mi a lehető leggyorsabban válaszolunk. 
+Ugyanakkor Ön jogosult a személyes adatok további feldolgozása beszüntetésének szorgalmazására. E célból kapcsolja ki mobiltelefonja fentebb említett „Ellenőrizze automatikusan” és „Automatikus frissítés” funkcióit. A hozzáférés ezekhez a funkciókhoz: [Beállítások – Rendszer – Frissítési/App központ – Szoftverfrissítés – Átfedés menü – Beállítások]. 
+Kérjük, ne feledje, hogy az Ellenőrizze automatikusan és az Automatikus frissítés funkciók kikapcsolása korlátozhatja, részben vagy teljesen, mobiltelefonja és a szolgáltatások működését. Az említett adatgyűjtés és adatfelhasználás szükséges a mobiltelefon optimalizált működésének biztosításához. 
+
+A hozzájárulási illetve a visszavonási joggal kapcsolatos további információkért kérjük, forduljon hozzánk: lgecsvc@lge.com
+
+10.	A gyermekekkel kapcsolatos információk bizalmasságának biztosítása
+Számunkra fontos a gyermekek adatainak védelme. Ezért, a nemzeti törvényes előírások értelmében a mobiltelefont nem gyermekek számára gyártottuk és nem gyűjtünk és nem tárolunk szándékosan gyermekektől gyűjtött adatokat. Amennyiben tudomásunkra jut, illetve értesülünk arról, hogy gyermekektől szülői hozzájárulás hiányában gyűjtöttünk adatokat, az adott személyes adatokat azonnal töröljük.
+
+11.	Az LGE Adatvédelmi nyilatkozatának módosítása
+Az Adatvédelmi nyilatkozatot az LGE időnként módosíthatja. Amennyiben módosítottuk az Adatvédelmi nyilatkozatot, ezt úgy közöljük, hogy a legközelebbii szoftverfrissítéskor elküldjük Önnek  a módosított Adatvédelmi nyilatkozatot és frissítjük az Adatvédelmi nyilatkozat alján lévő dátumot.
+
+12.	A hozzáférés az Ön információihoz 
+Ön jogosult részletes információkat kérni azokról a személyes adatokról, melyeket az LGE azért gyűjt, hogy hozzáférhessen személyes adataihoz, hogy módosítsa vagy hogy törölje azokat. Kérjük, ne feledje, hogy amennyiben az adattárolásra vonatkozó törvényes előírások tiltják, mi személyes adatait nem módosítjuk és nem töröljük. Az ilyen jellegű szolgáltatások esetében egy kisebb összeg megfizetésére szólítjuk fel ügyfeleinket, azonban kizárólag a törvényes előírások keretei között. Kérjük, ne feledje, hogy fenntartjuk a jogot kérelmének elutasítására, amennyiben kérelme indokolatlanul sértő, nem praktikus és veszélyezteti a többi ügyfél adatának védelmét. Továbbá, a személyes adatok frissítése vagy törlése befolyásolhatja vagy korlátozhatja a mobiltelefon és a szolgáltatások működését. 
+
+Amennyiben szorgalmazni óhajtja a hozzáférést a személyes adatokhoz, illetne a személyes adatok módosítását vagy törlését, kérjük, forduljon hozzánk lgecsvc@lge.com
+
+13.	A panaszbenyújtás joga
+Az EU-s törvények előírásainak értelmében Ön jogosult panaszt tenni a személyes adatok feldolgozásával kapcsolatban, azonban ebben az esetben szükséges az együtt működés a megfelelő hatósággal. A panasztétellel kapcsolatos további információkért, illetve panasztétel céljából kérjük, forduljon az LGE-hez: lgecsvc@lge.com. 
+
+14.	Kapcsolatfelvétel az LGE-vel az Adatvédelmi nyilatkozatot illetően
+További információkért és megjegyzésekért az Adatvédelmi nyilatkozattal kapcsolatban kérjük forduljon hozzánk: lgecsvc@lge.com.
+
+Utolsó frissítés: 2017. november 01.

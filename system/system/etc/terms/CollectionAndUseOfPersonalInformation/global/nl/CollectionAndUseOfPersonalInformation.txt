@@ -1,0 +1,109 @@
+﻿Privacybeleid
+
+Dit Privacybeleid omschrijft hoe LGE toegang verkrijgt tot en uw persoonlijke informatie gebruikt in de context van Service van Software-updates. Lees het aandachtig voorafgaand aan het gebruik van de Service van Software-updates.
+
+1.	Inleiding
+LG Electronics Inc. (“LGE” of “wij”) zet zich in voor het beschermen van de informatie van de individuen die mobiele telefoons van LGE gebruiken. Dit Privacybeleid zet uiteen hoe wij informatie die wij verzamelen van uw mobiele telefoon van LGE, verzamelen, gebruiken en delen, en zet in het bijzonder uiteen:
+-	Overzicht van FOTA-software-updates;
+-	Informatie die LGE van u kan verkrijgen;
+-	Hoe LGE de verkregen informatie gebruikt;
+-	Wanneer LGE informatie deelt met anderen; 
+-	Buitenlandse overdrachten van persoonlijke gegevens
+-	Hoe lang bewaart LGE mijn persoonlijke informatie?
+-	Beveiliging
+-	Recht op weigeren of intrekken van toestemming
+-	De privacy van kinderen beschermen
+-	Wijzigingen aan het Privacybeleid van LGE
+-	Toegang tot uw informatie
+-	Recht om een klacht in te dienen; en
+-	Contact opnemen met LGE over dit Privacybeleid
+
+Dit Beleid is alleen van toepassing op informatie die wordt verzameld door LGE van uw mobiele telefoon van LGE voor het uitvoeren van een update van firmware via een Firmware Over-the-Air (“FOTA”)-proces (een “Software-update”). Dit Beleid is niet van toepassing op enige andere producten of services van LGE, inclusief mobiele apps die worden aangeboden of verstrekt door LGE. Dit Beleid is niet van toepassing op enige producten of services die worden aangeboden door derden, inclusief aanbieders van besturingssystemen, andere aanbieders van inhoud of toepassingen of uw netwerkaanbieder. Producten en services buiten het toepassingsgebied van dit Privacybeleid kennen hun eigen beleid dat van toepassing is op het verzamelen, gebruiken en delen van informatie, en wij moedigen u aan om dat beleid te lezen. LGE is niet verantwoordelijk of aansprakelijk voor de privacypraktijken van derden.
+
+Als u deze mobiele telefoon recentelijk hebt aangeschaft, is het nodig om voorafgaand aan gebruik een Software-update uit te voeren als omschreven in dit Privacybeleid, om ervoor te zorgen dat uw mobiele telefoon goed functioneert en onze meest geactualiseerde functies, functionaliteit en beveiligingsinstellingen heeft. Neem bij enige vragen contact met ons op via de in dit Beleid verstrekte gegevens.
+
+Dit Beleid kan op enig moment door u worden bekeken via [Instellingen – Systeem – Over het toestel – Juridische informatie – Juridische documenten voor LG-software – Privacybeleid].
+
+Elke vertaling van dit Privacybeleid wordt uitgevoerd voor lokale vereisten en in het geval van een discrepantie tussen de Engelse en de niet-Engelse versie, zal de Engelse versie van dit Beleid overheersen, voor zover maximaal toegestaan door toepasselijk recht in uw jurisdictie.
+
+2.	Overzicht van FOTA-software-updates
+Van tijd tot tijd kan de LGE-firmware op uw mobiele telefoon (de “Software”) updates of aanvullingen vereisen die worden verstrekt door LGE, of LGE kan extra componenten voor de Software bieden. Door het uitvoeren van een Software-update wordt nieuwe Software geïnstalleerd op uw mobiele telefoon voor het leveren van deze updates, aanvullingen of extra componenten. Software-updates kunnen nieuwe kenmerken of functies toevoegen en kunnen, in beperkte gevallen, bestaande kenmerken of functies verwijderen. Na het uitvoeren van de Software-update mag u de vorige geïnstalleerde versie van de Software niet meer gebruiken en kunt u hier niet meer naar terug gaan. 
+
+Omdat de Software-update wordt uitgevoerd via een FOTA-proces, kunnen aanvullen de kosten in rekening worden gebracht als u nieuwe Software downloadt via een mobiel netwerk, afhankelijk van uw netwerkaanbieder en service-abonnement. Als u het gebruik van mobiele netwerkdata voor Software-updates wilt vermijden, selecteert u de optie “alleen Wi-Fi” onder Instellingen. 
+
+a.	Uw opties voor het beheren van toekomstige Software-updates
+Wanneer u instemt met dit FOTA-privacybeleid, controleert uw mobiele telefoon van tijd tot tijd op nieuwe of bijgewerkte Software en installeert automatisch nieuwe of bijgewerkte Software wanneer dit beschikbaar is (functie “Automatische controle”). Nadat de Software is geïnstalleerd, waarschuwen wij u met gebruik van een pop-upmelding of een notificatiebericht op uw mobiele telefoon. U hebt de mogelijkheid om de Software-update te accepteren of te weigeren voorafgaand aan het toepassen van de Software. Uw mobiele telefoon zal de geïnstalleerde Software tevens automatisch toepassen om middernacht (“functie Automatische updates”). U kunt deze functies “Automatische controle” en “Automatische updates” weigeren bij [Instellingen - Systeem - Update Center - Software-update - Het overstromingsmenu - Instellingen].  Als u Automatische controle weigert, weigert u effectief het uitvoeren van toekomstige Software-updates.
+Als uw mobiele telefoon reeds wordt gebruikt en u weigert om een Software-update uit te voeren, dan moet u eraan denken dat het niet installeren van bijgewerkte Software kan leiden tot [vermindering van prestaties van uw mobiele telefoon, compatibiliteitsproblemen met nieuwe of bestaande apps, en andere problemen met functies of beveiliging van uw mobiele telefoon].
+
+b.	Urgente Software-updates
+Als de omstandigheden dit vereisen, kunnen wij een Software-update uitvoeren overeenkomstig onze legitieme belangen, zonder individuele notificatie te geven of te vragen om instemming, en ongeacht de huidige toestelinstellingen (een “Urgente Software-update”). Voorbeelden van omstandigheden die een Urgente Software-update kunnen vereisen, zijn onder andere bedreigingen van de klantveiligheid of databeveiliging, of operationele problemen die kunnen leiden tot aanzienlijke verstoring van services, of dreigende kans op dergelijke omstandigheden.
+
+3.	Informatie die LGE van u kan verkrijgen
+Bij het uitvoeren van een Software-update kan LGE de volgende informatie van uw mobiele telefoon verzamelen: International Mobile Equipment Identity (IMEI), serienummer, model van mobiele telefoon, software- en/of firmwareversies, besturingssysteem van telefoon, mobiele landencode (MCC), mobiele netwerkcode (MNC), Google Cloud Messaging (GCM)-identificatie en geselecteerde taal. Deze informatie wordt automatisch verzameld als onderdeel van het proces van het uitvoeren van een Software-update.
+
+Als onderdeel van onze rol in het bieden van mobiele services aan uw mobiele telefoon, verzamelen wij operationele informatie, inclusief systeemlogboeken met IP-adressen. Deze informatie wordt automatisch verzameld en het is een noodzakelijk onderdeel van de werking van de telefoon.
+
+4.	Hoe zal LGE de verkregen informatie gebruiken?
+Wij gebruiken van u verkregen informatie voor diverse doeleinden, inclusief:
+-	Voor het uitvoeren van de Software-update (inclusief enige urgente Software-updates), inclusief om te controleren of de Software up-to-date is, om uw mobiele telefoon te authenticeren en om de juiste Software te leveren; 
+-	Voor het bevestigen van onze verplichtingen onder [onze Beperkte productgarantie];
+-	Voor het bieden van notificaties met betrekking tot beveiligingsservices voor mobiele telefoon en noodnotificaties als reactie op veiligheidsproblemen.
+-	Voor het beschermen en verdedigen van onze rechten en eigendom, inclusief via juridische procedures;
+-	Om te voldoen aan reglementaire vereisten; en
+-	Voor het analyseren, controleren en verbeteren van de producten en services die wij aanbieden.
+
+De wettelijke basis waarop LGE vertrouwt voor het verwerken van uw persoonlijke informatie, is normaliter een van het volgende;
+-	Contract: wanneer het nodig is om een contract met u aan te gaan;
+-	Legitieme belangen: waar het nodig is voor de doeleinden van LGE of de legitieme zakelijke belangen van een derde. Voor LGE omvat dit haar belangen als fabrikant van elektronische consumentenproducten en serviceprovider.
+-	Instemming: wanneer u ervoor hebt gekozen om dit te geven. U hebt het recht om uw instemming op enig moment in te trekken; of
+-	Wettelijke verplichting: wanneer de verwerking noodzakelijk is voor naleving van onze wettelijke verplichtingen
+
+Wij kunnen tevens samengevoegde statistische gegevens die werden verzameld tijdens een Software-update en tijdens werking van de mobiele telefoon, gebruiken voor een beter inzicht in de behoeften van onze klanten, voor het verbeteren van onze klantenservice en producten en services die wij aanbieden, en voor marktonderzoek en analyse. Dergelijke samengevoegde statistische gegevens bevatten geen informatie die natuurlijke personen identificeert of die hieraan kan worden toegeschreven.
+
+5.	Wanneer LGE informatie deelt met anderen
+De informatie die wij verzamelen tijdens de Software-update die natuurlijke personen identificeert of hieraan kan worden toegeschreven, delen wij over het algemeen niet met derden. Wees desalniettemin bewust van de volgende omstandigheden waarin wij dergelijke informatie kunnen delen met de volgende derden:
+
+-	Aangesloten ondernemingen en dochterondernemingen. LGE kan persoonlijke informatie en niet-persoonlijke informatie (inclusief informatie van de mobiele telefoon) delen met haar aangesloten ondernemingen en dochterondernemingen over de hele wereld, alleen voor zo lang als nodig is voor de doeleinden waarvoor het werd verzameld. De term ‘aangesloten ondernemingen’ of ‘dochterondernemingen’ verwijst naar groepsbedrijven die de LG-naam kunnen gebruiken of die gemeenschappelijk eigendom of zeggenschap hebben, zoals LG CNS of LG Electronics U.S.A., Inc.;
+-	Externe serviceproviders. Aan externe leveranciers die LGE kan betrekken om namens haar van tijd tot tijd services te verlenen, zoals het voldoen aan verzoeken van klantenservice;
+-	Overige partijen wanneer wettelijk verplicht. Als vereist door een gerechtelijk bevel of andere overheids- of wetshandhavingsinstanties om te voldoen aan een juridisch proces of wetgeving;
+-	Overige partijen in verband met zakelijke transacties. In verband met een bedrijfsevenement, zoals een fusie, herstructurering, verkoop of overdracht van het gehele of een deel van het bedrijf van LGE (inclusief dat van een divisie of dochteronderneming), waarbij LGE informatie kan moeten onthullen aan een potentiële koper en haar professionele adviseurs;
+-	Overige partijen wanneer het nodig is om onze service te beschermen. Voor het doen gelden van onze contractuele rechten, nemen van voorzorgsmaatregelen tegen aansprakelijkheid, onderzoeken van vermoedelijke of feitelijke illegale activiteiten, of voor het onderzoeken of onszelf verdedigen tegen claims of beschuldigingen van derden; of
+-	Overige partijen wanneer dit gaat om het beschermen van de persoonlijke veiligheid of eigendommen van enige van onze klanten. Voor het beschermen van de rechten, persoonlijke veiligheid of eigendom van onze klanten of het publiek.
+
+In geen geval zal uw persoonlijke informatie die is verzameld tijdens de Software-update, zonder uw instemming worden verwerkt voor marketingdoeleinden, en ook niet zonder uw instemming worden gedeeld met derden voor marketingdoeleinden.
+
+6.	Overdrachten van persoonlijke gegevens
+Wij, onze aangesloten ondernemingen, dochterondernemingen en serviceproviders kunnen uw persoonlijke informatie gebruiken in andere landen dan waar uw mobiele telefoon zich bevindt, voor de doeleinden als omschreven in dit Privacybeleid. Wetten inzake gegevensbescherming in sommige landen bieden wellicht niet dezelfde mate van bescherming als die in het land waar u zich bevindt. Voorafgaand aan het overdragen van uw persoonlijke informatie nemen wij echter stappen om ervoor te zorgen dat dergelijke informatie dezelfde mate van bescherming krijgt in het land  of de jurisdictie van ontvangst. Door akkoord te gaan met dit Privacybeleid stemt u expliciet in met de verwerking van uw persoonlijke informatie in landen of jurisdicties waar toepasselijke wetgeving wellicht niet dezelfde mate van bescherming van persoonlijke informatie biedt als de wetgeving van het land of de jurisdictie waar u zich bevindt, inclusief en zonder beperking de Republiek Korea of de Verenigde Staten, in overeenstemming met dit Privacybeleid. 
+
+7.	Hoe lang bewaart LGE mijn persoonlijke informatie?
+Wij zullen redelijke stappen ondernemen om ervoor te zorgen dat wij uw persoonlijke informatie zo lang als nodig is voor het doeleinde waarvoor het werd verzameld, of als vereist door toepasselijke wetgeving, bewaren. 
+Als u vraagt om wissen van uw persoonlijke informatie omdat het niet meer nodig is, of gebaseerd op een bezwaar op de verwerking of een claim dat de verwerking onwettig is, hebt u het recht om te streven naar de beperking van verwerking terwijl wij uw verzoek om wissen verifiëren.
+
+8.	Beveiliging
+Wij leveren redelijke commerciële inspanningen en volgen algemeen geaccepteerde gegevenspraktijken in de sector voor het beveiligen van uw persoonlijke informatie tegen onbedoeld verlies door onbevoegde toegang, gebruik, wijziging en onthulling. Desalniettemin kunnen wij, vanwege het ontwerp van het internet, steeds veranderende technologie en andere factoren buiten onze controle, niet garanderen dat communicatie tussen u en onze servers vrij is van onbevoegde toegang door derden of dat wij niet onderhevig zijn aan beveiligingsinbreuken. Wij nemen geen verantwoordelijkheid voor de onthulling van persoonlijke informatie vanwege fouten bij verzending of onbevoegde of onwettige handelingen van derden.
+
+9.	Recht op weigeren of intrekken van toestemming
+Onder toepasselijke lokale wetgeving kunt u het recht hebben om de instemming met dit Privacybeleid te weigeren, om de instemming in te trekken of om anderszins te verzoeken dat wij het behandelen van persoonlijke informatie over u stopzetten. Voor het uitoefenen van enige dergelijke rechten die u kunt hebben, neemt u contact met ons op via de in dit Beleid verstrekte gegevens, en wij reageren zo spoedig mogelijk op uw verzoek. 
+U kunt bovendien uw instemming intrekken voor het verder verzamelen van uw persoonlijke informatie door het uitschakelen van de functies “Automatische controle” en “Automatische updates” op uw mobiele telefoon, die hierboven worden omschreven. Deze functies kunnen worden geopend via [Instellingen - Systeem - Update Center - Software-update - Het overstromingsmenu - Instellingen]. 
+U moet echte begrijpen dat, als u de functies Automatische controle en Automatische updates uitschakelt, dit de werking van uw mobiele telefoon of services, geheel of gedeeltelijk, kan beïnvloeden of beperken. Het verzamelen en gebruiken van de informatie, zoals hierboven omschreven, is noodzakelijk voor de optimale werking van uw mobiele telefoon. 
+
+Bij vragen over uw recht om instemming te weigeren of in te trekken, neemt u contact met ons op via lgecsvc@lge.com
+
+10.	De privacy van kinderen beschermen
+Het beschermen van de privacy van kinderen is belangrijk voor ons. Om die reden is uw mobiele telefoon niet bedoeld voor kinderen als gedefinieerd door toepasselijke lokale wetgeving, en wij verzamelen of onderhouden niet bewust informatie van kinderen. Als wij erachter komen dat wij informatie van een kind hebben verzameld zonder verificatie van ouderlijke toestemming, dan verwijderen wij dergelijke persoonlijke informatie direct.
+
+11.	Wijzigingen aan het Privacybeleid van LGE
+Dit Privacybeleid kan van tijd tot tijd worden bijgewerkt door LGE. Als wij een materiële wijziging aanbrengen aan ons Privacybeleid, laten wij u dit weten door het bijwerken van de onderstaande datum en door het verstrekken van een aangepast Privacybeleid zodat u dit kunt doornemen als onderdeel van een toekomstige Software-update.
+
+12.	Toegang tot uw informatie 
+U hebt het recht om details aan te vragen over uw persoonlijke informatie die LGE verzamelt voor het openen, corrigeren of verwijderen van uw persoonlijke informatie. Begrijp echter wel dat wij uw persoonlijke informatie wellicht niet kunnen wijzigen of verwijderen als wij onder toepasselijke wetgeving vereist zijn om die informatie aan te houden. Indien wettelijk toegestaan kan een kleine vergoeding om u een dergelijke service te bieden, in rekening worden gebracht. Denk eraan dat wij kunnen weigeren om uw verzoeken te verwerken als deze onredelijk onrechtmatig zijn, de privacy van anderen in gevaar brengen of uiterst onpraktisch zijn. Bovendien kan het bijwerken of verwijderen van persoonlijke informatie de werking van uw mobiele telefoon of services beïnvloeden of beperken. 
+
+Als u een verzoek wilt doen voor het openen, corrigeren of verwijderen van uw persoonlijke informatie, neemt u contact met ons op via lgecsvc@lge.com
+
+13.	Recht om een klacht in te dienen
+Onder toepasselijke lokale wetgeving in de EU hebt u het recht om een klacht in te dienen met betrekking tot de verwerking van uw persoonlijke gegevens bij de desbetreffende toezichtsautoriteit. Voor meer informatie over uw recht op het indienen van een klacht bij LGE, neemt u contact met ons op via lgecsvc@lge.com. 
+
+14.	Contact opnemen met LGE over dit Privacybeleid
+Bij vragen of opmerkingen over dit Privaybeleid kunt u via e-mail contact met ons opnemen op lgecsvc@lge.com.
+
+Laatst bijgewerkt: 01 nov 2017

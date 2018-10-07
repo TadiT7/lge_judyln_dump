@@ -1,0 +1,105 @@
+Politika ochrany súkromia
+
+Táto Politika ochrany súkromia opisuje, ako spoločnosť LGE získava prístup a používa vaše osobné údaje v prípade služby Aktualizácie softvéru. Pred používaním služby Aktualizácie softvéru si ju pozorne prečítajte.
+
+1.	Úvod
+Spoločnosť LG Electronics Inc. („LGE“ alebo „my“) sa zaväzuje chrániť údaje o jednotlivcoch a skupinách používajúcich mobilné telefóny LGE. Táto Politika ochrany súkromia ustanovuje, akým spôsobom zhromažďujeme, používame a zdieľame údaje zhromaždené z vášho mobilného telefónu LGE a konkrétne ustanovuje:
+-	prehľad Aktualizácií softvéru FOTA;
+-	údaje, ktoré môže spoločnosť LGE o vás získavať;
+-	ako spoločnosť LGE získané údaje používa;
+-	kedy spoločnosť LGE zdieľa údaje s inými; 
+-	prenos osobných údajov do zahraničia;
+-	Ako bude spoločnosť LGE moje osobné údaje uchovávať?
+-	zabezpečenie;
+-	právo na odmietnutie alebo odvolanie súhlasu;
+-	ochrana súkromia detí;
+-	zmeny v Politike ochrany súkromia spoločnosti LGE;
+-	získanie prístupu k vašim údajom;
+-	právo na podanie sťažnosti; a
+-	kontaktovanie spoločnosti LGE ohľadne Politiky ochrany súkromia.
+
+Táto Politika sa vzťahuje na údaje zhromažďované spoločnosťou LGE z vášho mobilného telefónu značky LGE na vykonanie aktualizácie firmvéru prostredníctvom procesu Firmware Over-the-Air („FOTA“) („Aktualizácia softvéru“). Táto Politika sa nevzťahuje na žiadne ďalšie produkty alebo služby spoločnosti LGE vrátane mobilných aplikácií, ktoré ponúka a poskytuje spoločnosť LGE. Táto Politika sa nevzťahuje ani na žiadne produkty alebo služby ponúkané tretími stranami, vrátane poskytovateľov operačného systému, poskytovateľov obsahu alebo aplikácií ani sieťového operátora. Na produkty a služby mimo rozsahu tejto Politiky ochrany súkromia sa vzťahujú ich vlastné politiky o zhromažďovaní, používaní a zdieľaní údajov a odporúčame vám, aby ste si tieto politiky prečítali. Spoločnosť LGE nie je zodpovedná ani viazaná politikami ochrany súkromia tretích strán.
+
+Ak ste si nedávno zakúpili tento mobilný telefón, je potrebné vykonať Aktualizáciu softvéru podľa tejto Politiky ochrany súkromia ešte pred použitím, aby bolo zabezpečené správne fungovanie funkcií mobilného telefónu a boli vám poskytnuté najaktuálnejšie charakteristiky, funkcie a nastavenia zabezpečenia. Ak máte akékoľvek otázky, kontaktujte nás podľa údajov v tejto Politike.
+
+Túto Politiku si môžete kedykoľvek pozrieť v ponuke [Nastavenia – Systém – Informácie o telefóne – Právne informácie – Právne dokumenty pre softvér LG – Politika ochrany súkromia].
+
+Všetky preklady tejto Politiky ochrany súkromia boli vykonané kvôli miestnym požiadavkám a v prípade nezrovnalosti medzi anglickou a akoukoľvek neanglickou verziou bude platiť anglická verzia tejto Politiky, a to do maximálneho rozsahu povoleného platným právom v rámci vašej právomoci.
+
+2.	Prehľad aktualizácií softvéru FOTA
+Firmvér LGE vo vašom mobilnom telefóne („Softvér“) môže občas vyžadovať nainštalovanie aktualizácií alebo doplnkov poskytovaných spoločnosťou LGE alebo spoločnosť LGE môže k Softvéru poskytovať doplnkové súčasti. Vykonaním Aktualizácie softvéru sa do vášho mobilného telefónu nainštaluje nový Softvér poskytujúci tieto aktualizácie, doplnky a doplnkové súčasti. Aktualizácie softvéru môžu pridať nové charakteristiky alebo funkcie a v obmedzených prípadoch odobrať existujúce charakteristiky alebo funkcie. Po dokončení Aktualizácie softvéru nebudete môcť už naďalej používať ani sa vrátiť k predtým nainštalovanej verzii softvéru. 
+
+Pretože Aktualizácia softvéru sa realizuje procesom FOTA, pri sťahovaní nového Softvéru cez mobilnú sieť sa môžu v závislosti od vášho sieťového operátora a balíka služieb účtovať ďalšie poplatky. Ak chcete v prípade Aktualizácií softvéru zabrániť používaniu údajov mobilnej siete, v ponuke Nastavenia zvoľte možnosť „Len Wi-Fi sieť“. 
+
+a.	Vaše možnosti na správu ďalších Aktualizácií softvéru
+Ak zapnete funkciu „Automatická kontrola“ , váš mobilný telefón občas vyhľadá nový alebo aktualizovaný Softvér a dostupný nový alebo aktualizovaný Softvér automaticky stiahne (funkcia „Automatická kontrola“). Po nainštalovaní Softvéru vás upozorníme pomocou automaticky zobrazeného oznámenia alebo správy s oznámením vo vašom mobilnom telefóne. Pred použitím Softvéru sa môžete rozhodnúť, či chcete Aktualizáciu softvéru prijať alebo odmietnuť. Váš mobilný telefón o polnoci automaticky použije nainštalovaný Softvér (funkcia „Automatické aktualizácie“). Použitie funkcií „Automatická kontrola“ a „Automatické aktualizácie“ môžete vypnúť v ponuke [Nastavenia – Systém – Centrum aktualizácií – Aktualizácia softvéru – Ponuky pretečenia – Nastavenia]. Ak vypnete použitie funkcie Automatická kontrola, účinne odmietnete vykonanie budúcich Aktualizácií softvéru.
+Ak už svoj mobilný telefón používate a odmietnete vykonanie Aktualizácie softvéru, uvedomte si, že opomenutie nainštalovať aktualizovaný Softvér môže spôsobiť [zhoršenie fungovania vášho mobilného telefónu, problémy s kompatibilitou s novými alebo existujúcimi aplikáciami a ďalšie problémy s charakteristikami alebo zabezpečením vášho mobilného telefónu].
+
+Okrem toho môžete súhlas s ďalším zhromažďovaním vašich osobných údajov odvolať vypnutím funkcie „Automatická kontrola“ a „Automatické aktualizácie“ vo svojom mobilnom telefóne, čo je opísané vyššie. K týmto funkciám získate prístup v ponuke [Nastavenia – Systém – Centrum aktualizácií – Aktualizácia softvéru – Ponuky pretečenia – Nastavenia]. 
+Avšak uvedomte si, že ak vypnete funkciu Automatická kontrola a Automatické aktualizácie, môže to mať vplyv alebo to môže obmedziť prevádzku vášho mobilného telefónu alebo služieb, čiastočne alebo úplne. Zhromažďovanie a používanie údajov, ako je opísané vyššie, je potrebné na optimálnu prevádzku vášho mobilného telefónu. 
+	
+Ak máte otázky o svojom práve odmietnutia alebo ako odvolať súhlas, kontaktujte nás na adrese mc.customer-service@lge.com.
+
+b.	Naliehavé aktualizácie softvéru
+Ak to vyžadujú okolnosti, môžeme vykonať Aktualizáciu softvéru podľa našich oprávnených záujmov, bez poskytnutia samostatného oznámenia alebo požiadania o súhlas, a bez ohľadu na aktuálne nastavenia zariadenia („Naliehavá aktualizácia softvéru“). Príklady okolností, ktoré vyžadujú vykonanie Naliehavej aktualizácie softvéru, zahŕňajú ohrozenie bezpečnosti zákazníka alebo zabezpečenia údajov, alebo prevádzkové problémy, ktoré môžu spôsobiť prerušenie poskytovania služieb či bezprostrednú pravdepodobnosť vzniku takýchto okolností.
+
+3.	Údaje, ktoré môže spoločnosť LGE o vás získavať
+Pri vykonávaní Aktualizácie softvéru môže spoločnosť LGE z vášho mobilného telefónu zhromažďovať nasledujúce údaje: medzinárodné identifikačné číslo mobilného zariadenia (IMEI), sériové číslo, model mobilného telefónu, verzie softvéru a/alebo firmvéru, operačný systém telefónu, kód krajiny (MCC), kód mobilného operátora (MNC), identifikátor služby Google Cloud Messaging (GCM) a zvolený jazyk. Tieto údaje sa zhromažďujú automaticky ako súčasť procesu vykonania Aktualizácie softvéru.
+
+Ako súčasť našej úlohy pri poskytovaní mobilných služieb pre váš mobilný telefón budeme zhromažďovať prevádzkové údaje vrátane systémových denníkov s adresami IP. Tieto údaje budú zhromažďované automaticky a ide o potrebnú súčasť prevádzky telefónu.
+
+4.	Ako spoločnosť LGE získané údaje použije?
+Od vás získané údaje používame na rôzne účely vrátane:
+-	vykonávania Aktualizácie softvéru (vrátane všetkých Naliehavých aktualizácií softvéru) vrátane kontroly aktuálnosti vášho Softvéru, overenia vášho mobilného telefónu a poskytovania správneho Softvéru; 
+-	potvrdenia našich povinností vyplývajúcich z [našej obmedzenej záruky na produkt];
+-	poskytovania oznámení o službách zabezpečenia mobilného telefónu a tiesňových oznámení v rámci reagovania na bezpečnostné problémy;
+-	ochrany a obrany našich práv a majetku vrátane využitia súdnych konaní;
+-	dodržiavania regulačných požiadaviek;
+-	analyzovania, revidovania a zlepšovania nami ponúkaných produktov a služieb.
+
+Právny základ, na základe ktorého bude spoločnosť LGE spracovávať vaše osobné údaje, bude zvyčajne jeden z nasledovných:
+-	zmluva: ak je potrebné uzavrieť s vami zmluvu;
+-	oprávnené záujmy: ak je to potrebné na účely spoločnosti LGE alebo pre oprávnené firemné záujmy tretej strany. V prípade spoločnosti LGE to bude zahŕňať jej záujmy ako výrobcu produktov spotrebnej elektroniky a poskytovateľa služieb.
+-	súhlas: ak sa rozhodnete udeliť ho. Máte právo svoj súhlas kedykoľvek odvolať; alebo
+-	právna povinnosť: kedy je spracovanie potrebné na dodržanie našich právnych povinností.
+
+Môžeme taktiež používať súhrnné štatistické údaje zhromaždené počas Aktualizácie softvéru a počas prevádzky mobilného telefónu na lepšie pochopenie potrieb zákazníkov, na zlepšenie našej starostlivosti o zákazníkov a nami ponúkaných produktov a služieb a na prieskum trhu a analýzu. Takéto súhrnné štatistické údaje neobsahujú údaje, ktoré identifikujú vašu osobu, ani údaje, ktoré možno priradiť fyzickým osobám.
+
+5.	Kedy spoločnosť LGE zdieľa údaje s inými
+Vo všeobecnosti nezdieľame s tretími stranami údaje zhromažďované počas Aktualizácie softvéru, ktoré identifikujú alebo môžu byť priradené fyzickým osobám. Aj napriek tomu vás upozorňujeme o nasledujúcich okolnostiach, kedy môžeme tieto údaje zdieľať s nasledujúcimi tretími stranami:
+
+-	Sesterské a dcérske spoločnosti. Spoločnosť LGE môže zdieľať osobné údaje a neosobné údaje (vrátane informácií o mobilnom telefóne) so svojimi sesterskými a dcérskymi spoločnosťami po celom svete len tak dlho, ako je to potrebné na účely ich zhromažďovania. Výraz „sesterské spoločnosti“ alebo „dcérske spoločnosti“ uvádza skupinu spoločností, ktoré môžu používať názov LG, alebo ktoré majú rovnakého vlastníka alebo ovládajúci subjekt, ako je LG CNS alebo LG Electronics U.S.A., Inc.;
+-	Externí poskytovatelia služieb. Externí dodávatelia, ktorých môže spoločnosť LGE občas zapojiť do poskytovania služieb v jej mene, napríklad na splnenie požiadaviek služieb zákazníkom;
+
+Aj ak vo všeobecnosti údaje nezdieľame zo žiadnymi ďalšími tretími stranami, uvedomte si, že v nasledujúcich špecifických prípadoch môžeme údaje zdieľať s nasledujúcimi subjektmi:
+-	Iné strany, ak to požaduje zákon. Podľa požiadaviek súdneho príkazu alebo iných vládnych či policajných orgánov s cieľom dodržať právny proces alebo zákon;
+-	Iné strany v súvislosti s firemnými transakciami. V súvislosti s firemnou udalosťou, ako je zlúčenie, reštrukturalizácia, predaj alebo prevod všetkých alebo časti firemných aktivít spoločnosti LGE (vrátane aktivít divízie či dcérskej spoločnosti), kedy spoločnosť LGE musí zverejniť údaje potenciálnemu kupujúcemu a odborným poradcom;
+-	Iné strany, ak to je potrebné na ochranu našich služieb. Na presadenie našich zmluvných práv, prijatie opatrení proti zodpovednosti, vyšetrenie podozrivých či naozaj nezákonných činností alebo na vyšetrenie alebo obranu našej spoločnosti pred nárokmi a tvrdeniami tretích strán; alebo
+-	Iné strany, ak ide o ochranu osobnej bezpečnosti alebo majetku ktoréhokoľvek z našich zákazníkov. S cieľom chrániť práva, osobnú bezpečnosť alebo majetok našich zákazníkov alebo verejnosti.
+
+Vaše osobné údaje zhromažďované počas Aktualizácie softvéru nebudú za žiadnych okolností bez vášho súhlasu spracované na marketingové účely, ani bez vášho súhlasu nebudú na marketingové účely zdieľané s tretími stranami.
+
+6.	Prenos osobných údajov
+My, naše sesterské spoločnosti, dcérske spoločnosti a poskytovatelia služieb môžu vaše osobné údaje používať v krajinách, kde sa váš mobilný telefón nachádza, a to na účely opísané v tejto Politike ochrany súkromia. Zákony o ochrane osobných údajov v niektorých krajinách nemusia poskytovať rovnaký stupeň zabezpečenia ako v krajine, kde sa nachádzate. Avšak pred prenosom vašich osobných údajov podnikneme kroky, aby sa na tieto údaje vzťahoval rovnaký stupeň zabezpečenia v prijímajúcej krajine či právomoci.
+
+7.	Ako bude spoločnosť LGE moje osobné údaje uchovávať?
+Vaše osobné údaje budeme uchovávať, kým to bude pre nás potrebne na poskytovanie Aplikácie alebo na iné účely stanovené v tejto Politika ochrany súkromia. Používame kritériá na stanovenie vhodného odkladu pre rôzne kategórie vami poskytnutých osobných údajov.
+Pre spoločnosť je dôležité, aby zhromažďovala a používala osobné údaje na poskytovanie služieb aktualizácií softvéru. Uvedomte si, že ak nebudete súhlasiť so zhromažďovaním, používanie/poskytovanie mnohých častí služby môže byť obmedzené. Zhromažďujeme a používame osobné údaje od subjektu poskytujúceho údaje. Taktiež ich uchovávame až do splnenia účelu takéhoto zhromažďovania. Preto spoločnosť principiálne používa a ukladá osobné údaje počas lehoty používania služby.
+Ak požiadate o vymazanie svojich osobných údajov, pretože už to nie je viac potrebné, alebo na základe námietky na spracovávanie alebo vyhlásenia, že spracovávanie nie je zákonné, máte právo požiadať o obmedzenie spracúvania, kým overíme vašu požiadavku na vymazanie.
+
+8.	Zabezpečenie
+Využívame komerčne primerané snahy na zaistenie dôvernosti a zabezpečenia vašich osobných údajov. Avšak kvôli štruktúre internetu, stále sa meniacim technológiám a iným faktorom mimo nášho dosahu nemôžeme zaručiť, že komunikácia medzi vami a našimi servermi bude bez neoprávneného prístupu tretích strán, alebo že sa nestaneme cieľom narušení bezpečnosti. Nepreberáme akúkoľvek zodpovednosť za zverejnenie osobných údajov kvôli chybám pri prenose alebo neoprávneným či nezákonným konaniam tretích strán.
+
+9.	Ochrana súkromia detí
+Ochrana súkromia detí je pre nás dôležitá. Kvôli tomu nie je žiadna naša Služba smerovaná ani nie je štruktúrovaná tak, aby bola zaujímavá pre kohokoľvek do veku 16 rokov alebo do veku plnoletosti v príslušnej právomoci. Taktiež vedome nezhromažďujeme ani neuchovávame osobné údaje používateľov do veku 16 rokov alebo do veku plnoletosti v príslušnej právomoci. Ak sa dozvieme alebo budeme upozornení, že sme zhromažďovali údaje od používateľov do veku 16 rokov alebo do veku plnoletosti v príslušnej právomoci, takéto osobné údaje promptne odstránime.
+
+10.	Zmeny v Politika ochrany súkromia spoločnosti LGE
+Spoločnosť LGE môže túto Politiku ochrany súkromia občas aktualizovať. Ak v rámci našej Politika ochrany súkromia súkromia vykonáme závažné zmeny, aktualizáciu vykonáme prostredníctvom vášho mobilného zariadenia alebo iných prostriedkov. Môžeme od vás požadovať potvrdenie alebo súhlas s revidovanou Politikou ochrany súkromia, aby ste mohli služby Aktualizácie softvéru.
+
+11.	Získanie prístupu k vašim údajom a vaše práva
+Podľa zákonov niektorých právomocí môžete mať právo požiadať o získanie prístupu, opravu alebo vymazanie svojich osobných údajov, ktoré spoločnosť LGE o vás uchováva, môžete mať právo namietať alebo obmedziť určité typy spracovávania vašich osobných údajov (alebo odvolať váš súhlas so spracovávaním spoločnosťou LGE) alebo získať strojovo čitateľnú kópiu vašich osobných údajov. Ak to povoľuje zákon, za poskytnutie tejto služby môžeme účtovať malý poplatok. Uvedomte si, že môžeme odmietnuť spracovanie vašej požiadavky, ak je bezdôvodne hanlivá, poškodzuje ochranu súkromia iných alebo je extrémne nepraktická (ak to povoľuje platný zákon). Ďalšie informácie o uplatňovaní ktoréhokoľvek z týchto práv získate na adrese mc.customer-service@lge.com.
+
+12.	Kontaktovanie spoločnosti LGE ohľadne tejto Politika ochrany súkromia súkromia
+Ak máte otázky alebo pripomienky k tejto Politika ochrany súkromia a spracovávaní vašich osobných údajov spoločnosťou LGE, napíšte na adresu spoločnosti LG Electronics Inc.: mc.customer-service@lge.com. Taktiež máte pravo na podanie sťažnosti orgánu pre ochranu osobných údajov, hoci vás nabádame, aby ste najprv kontaktovali priamo nás, aby sme akékoľvek obavy mohli vyriešiť.
+	
+Naposledy aktualizované: 1. december 2017

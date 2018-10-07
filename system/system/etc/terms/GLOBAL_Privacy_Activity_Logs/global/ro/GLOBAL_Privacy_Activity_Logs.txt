@@ -1,0 +1,63 @@
+﻿Politica de confidenţialitate privind utilizarea jurnalelor de activităţi
+
+Notă: Prin acceptarea acestei Politici de confidenţialitate ne oferiţi permisiunea de a utiliza datele dvs., precum descris în continuare. Acordul dvs. este voluntar. În cazul în care nu ne acordaţi consimţământul, furnizarea serviciilor nu va fi posibilă; în acest caz utilizarea anumitor servicii LG de diagnosticare a dispozitivelor („LG Service") nu va fi posibilă. Termenii acordului pot fi vizualizaţi oricând în Serviciul LG, acordul putând fi revocat oricând prin trimiterea unui mesaj la adresa: mc.customer-service@lge.com 
+
+1. Introducere
+LG Electronics Inc. („LGE” sau „noi”) este dedicată protejării informaţiilor persoanelor şi grupurilor, care folosesc Serviciile LG. Această Politică de confidenţialitate stabileşte modul în care colectăm, utilizăm şi divulgăm informaţiile pe care le obţinem ca urmare a utilizării serviciilor de către dvs. şi, în special, stabileşte:
+- informaţiile care pot fi colectate de LGE de la dvs. sau prin Servicile LG.;
+- modurile în care LGE foloseşte informaţiile obţinute;
+- ocaziile cu care LGE partajează informaţii cu alte entităţi şi
+- posibilităţile de verificare a modurilor în care LGE foloseşte şi partajează informaţiile dvs.
+
+Serviciile LG oferă acces la aplicaţia software şi se conectează cu alte servicii deţinute şi exploatate de terţe părţi, inclusiv de către furnizorii sistemului de operare şi alţi furnizori de conţinut şi de aplicaţii. Serviciile furnizate de entităţi terţe nu sunt supuse prevederilor prezentei Politici de confidenţialitate, fiind supuse propriilor politici referitoare la colectarea, utilizarea şi partajarea informaţiilor, legate de serviciile în cauză. Vă recomandăm citirea acestor politici. LGE este exonerat de orice obligaţii şi răspundere, care derivă din practicile terţelor părţi privind asigurarea confidenţialităţii.
+
+2. Care sunt informaţiile colectate de LGE?
+LGE va colecta următoarele iinformaţii:.
+① Starea dispozitivului mobil: modelul, versiunea software, numărul IMEI, numărul serial, IMSI, alimentarea, starea bateriei, CPU/RAM /spaţiul intern de stocare utilizat, durata medie de utilizare, rezultatele autodiagnosticării a hardware-ului (Wi-Fi, BT, senzorul de proximitate, senzorul de lumină, senzorul de amprentă, etc.)
+② Starea reţelei: starea serviciului (apeluri, date), puterea semnalului, informaţii despre staţie, frecvenţa/durata apelurilor
+③ Informaţii despre aplicaţii: lista aplicaţiilor instalate şi şterse, versiunea aplicaţiilor, aplicaţiile utilizate recent, frecvenţa/statistica utilizării aplicaţiilor 
+④ Starea conexiunii telefonului mobil: Wi-Fi, Bluetooth, GPS, mufa pentru conectare căşti, gradul de încărcare al bateriei, starea conexiunilor USB şi a cartelei SD
+⑤ Informaţii despre erori: ecran îngheţat, opriri neintenţionate, apeluri întrerupte, erori la aplecaţii (erori fatale excepţii)
+
+3. Modurile în care LGE folosite informaţiile obţinute
+Informaţiile colectate de la dvs. sunt utilizate în diferite scopuri, inclusiv:
+- pentru identificarea şi diagnosticarea dispozitivului mobil
+- prestarea serviciilor către clienţi şi gestionarea istoricului de servicii 
+- trimiterea de mesaje tip push 
+- analizarea serviciilor/jurnalelor/istoricului dispozitivelor în scopul îmbunătăţirii calităţii şi a gradului de satisfacţie a clienţilor
+
+Suntem îndreptăţiţi la combinarea informaţiilor obţinute de la dvs., inclusiv a informaţiilor personale furnizate către noi prin alte mijloace, însă doar în limitele prezentei Politici de confidenţialitate. 
+
+4. Partajarea informaţiilor
+În general, nu partajăm informaţiile primite în urma utilizării Serviciilor LG. Cu toate acestea, vă rugăm să fiţi conştienţi de următoarele situaţii în care am putea partaja aceste informaţii cu următoarele entităţi:
+- Entităţile afiliate şi subunităţile. LGE este îndreptăţit la partajarea informaţiilor cu caracter personal şi nepersonal (inclusiv informaţii legate de dispozitivul mobil) cu entităţile afiliate şi cu subunităţile sale, indiferent de locaţia acestora, însă doar în limita în care aceste informaţii sunt folosite în scopurile pentru care au fost colectate. Termenul de ‘entitate afiliată’ sau ‘subunitate’ se referă la grupuri de firme care folosesc denumirea LG sau care au caracter de proprietar sau de membru, precum LG CNS sauLG Electronics U.S.A.,INC.("LGEUS");
+- Furnizori terţi Către entităţi terţe contractate de LGE în scopul de furniza uneori servicii în numele său, de exemplu servicii de asistare clienţi;
+- Alte entităţi, dacă este obligatoriu prin lege. Dacă acest fapt este impus prin decizii ale instanţelor de judecată, de guvern sau de alte autorităţi competente, în scopul îndeplinirii procedurilor şi prevederilor legale;
+- Alte entităţi implicate în tranzacţiile dintre societăţile comerciale. În cazul unor evenimente legate de diferite societăţi comerciale, cum sunt fuzionările sau vânzările parţiale sau totale ale activităţilor LGE (inclusiv vânzarea sau transferarea unei divizii sau subunităţi) - în asemenea cazuri este posibil ca LGE să fie obligat la divulgarea de informaţii către cumpărătorul potenţial şi către consilierii profesionali ai acestuia;
+- Alte părţi în scopul protejării serviciilor noastre. În scopul protejării şi apărării drepturilor şi proprietăţilor noastre, inclusiv prin mijloace legale;
+- Alte părţi, în scopul protejării clienţilor noştri sau a proprietăţii noastre. În scopul asigurării securităţii personale sau a proprietăţilor utilizatorilor noştri sau a celor publice.
+
+Informaţiile dvs. personale nu vor fi folosite sub nicio formă în scopuri publicitare şi nu vor fi partajate în astfel de scopuri cu entităţi terţe.
+
+5. Transferuri în străinătate
+Noi, entităţile noastre afiliate, subunităţile noastre şi furnizorii noştri sunt(em) îndreptăţiţi (îndreptăţite) la folosirea de informaţii (inclusiv informaţiile dvs. personale) şi în alte ţări, decât cele în care dispozitivul dvs. este utilizat, în scopul furnizării Serviciului LG şi în scopurile definite în prezenta Politică de confidenţialitate. Este posibil, ca în anumite ţări, legislaţia privind protecţia datelor să nu fie la fel de severă ca legislaţia aferentă aplicabilă în ţara dvs. Însă, premergător transferării informaţiilor dvs. personale vom implementa toate măsurile necesare, în scopul asigurării faptului că informaţiile dvs. personale sunt protejate cu aceeaşi stricteţe. Prin acceptarea acestei Politici de confidenţialitate sunteţi de acord în mod expres cu procesarea datelor dvs. de către noi şi asociaţii noştri în orice jurisdicţie, inclusiv, fără limitare, în Republica Coreea şi Statele Unite ale Americii în conformitate cu această Politică de confidenţialitate. 
+
+6. Cât timp păstrează LGE informaţiile mele personale?
+Vom lua măsuri rezonabile pentru a ne asigura că păstrăm informaţiile dvs. personale cât timp este necesar pentru a vă furniza Serviciile LG sau pentru scopul în care au fost colectate sau după cum necesită legislaţia în vigoare.
+
+7. Securitatea
+Luăm toate măsurile comerciale posibile pentru a proteja confidenţialitatea informaţiilor dvs. personale. Cu toate acestea, din cauza structurii internetului, a tehnologiei expuse la modificări continue şi din cauza altor evenimente asupra cărora nu avem control, nu putem garanta protecţia împotriva accesului neautorizat de către terţe părţi a comunicării dvs. cu serverele noastre, sau faptul că securitatea acestor comunicări nu este viciată. Suntem exoneraţi de orice răspundere în cazul dezvăluirii informaţiilor personale cauzate de erori survenite pe durata transmiterii, a activităţilor neautorizate sau a activităţilor ilegale comise de terţe părţi.
+
+8. Asigurarea confidenţialităţii informaţiilor copiilor
+Asigurarea confidenţialităţii informaţiilor copiilor este importantă pentru noi. Din acest motiv, Serviciul LG nu este destinat persoanelor care nu au împlinit vârsta de 14 ani sau care sunt minore, conform prevederilor legale ale ţării în care serviciul este utilizat. Scopul serviciului Centrul de actualizări nu este destinat utilizării de către persoanele sub vârsta de 14 ani. De asemenea, nu colectăm sau păstrăm în cunoştinţă de cauză informaţii personale de la utilizatorii cu vârsta sub 14 ani. În cazul în care, aflăm sau suntem notificaţi în legătură cu faptul că am colecţionat informaţii de la o persoană care nu a împlinit vârsta de 14 ani sau care este minoră conform prevederilor legale aplicabile, vom şterge imediat informaţiile personale în cauză.
+
+9. Modificările aduse Politica de confidenţialitate LGE
+Este posibil, ca LGE să actualizeze din când în când prezenta Politica de confidenţialitate. Dacă efectuăm o modificare substanţială în Politica noastră de confidenţialitate, vă vom înştiinţa prin intermediul paginii noastre web sau prin alte mijloace. Dacă nu sunteţi de acord cu politica de confidenţialitate actualizată, este posibil ca Serviciul LG să funcţioneze restricţionat.
+
+10. Accesarea informaţiilor dvs. 
+În conformitate cu anumite jurisdicţii, aveţi dreptul de a solicita detalii despre informaţiile dvs. personale pe care le colectează LGE şi de a corecta erorile din informaţiile dvs. personale sau vă puteţi opune, în scopuri legitime, procesării informaţiilor dvs. personale. În limita permisă de lege, este posibilă perceperea unei mici sume pentru furnizarea acestui serviciu. Vă rugăm să reţineţi că putem refuza procesarea solicitărilor dvs. în cazul în care acestea sunt abuzive în mod nejustificat, periclitează confidenţialitatea altora sau sunt extrem de nepractice. Dacă doriţi să faceţi o solicitare pentru accesul, rectificarea, anularea sau opunerea cu privire la prelucrarea informaţiilor dvs. personale, vă rugăm să mc.customer-service@lge.com.
+
+11. Contactarea LGE în legătură cu această Politică de confidenţialitate
+Dacă aveţi întrebări sau comentarii cu privire la această Politică de confidenţialitate, vă rugăm contactaţi-le la adresa mc.customer-service@lge.com.
+
+Data ultimei actualizări: 22 iunie 2017

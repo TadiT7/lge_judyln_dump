@@ -1,0 +1,22 @@
+﻿Registros de atividades
+
+Registros de atividades são gerados e armazenados em seu dispositivo móvel LGE, a fim de melhorar a experiência do usuário e aumentar a resolução de problemas do dispositivo. Os Registros de atividades ficam armazenados exclusivamente em seu dispositivo e não são transferíveis via tecnologia OTA (Over-the-Air) para a LGE ou terceiros, salvo acordo em contrário entre as partes separado.
+
+Os registros incluem as seguintes informações, como: 
+- Status do dispositivo móvel: Modelo, versão do software, IMEI, número único de identificação, IMSI, status de energia, status da bateria, uso de CPU/RAM/armazenamento interno, tempo médio de uso, resultado de autodiagnostico de hardware (Wi-Fi, sensor de proximidade, sensor de iluminação, sensor de impressão digital, etc.) 
+- Status de rede
+- Informações sobre o aplicativo, utilização/estáticas de uso do aplicativo
+- Status da conexão do seu dispositivo móvel
+- Informações de erro: tela congelada, desligamentos indesejados, chamadas desconectadas e erros de aplicativos
+- Configuração do desportivo móvel
+
+As informações obtidas pela LGE podem ser usadas individualmente ou combinadas. A LGE utiliza tais informação para compreender melhor as necessidades dos seus clientes, melhorar o atendimento ao cliente, produtos e serviços que oferecidos. Por exemplo, as informações do Registro de Atividades possibilitam que a LGE descubra e corrija erros de rede, problemas de conexão e problemas de bateria.
+
+Ao clicar em “concordar”, você concorda em permitir que a LGE e terceiros atuem em nome da LGE (conforme descrito abaixo), acesse e utilize as informações do Registro de Atividades gerados pelo seu dispositivo. A LGE pode compartilhar as informações do Registro de Atividades com os seguintes terceiros:
+- Afiliados e subsidiários (empresas que controlam, são controladas ou estão sob propriedade comum ou controladas com LGE); e
+- Agentes e prestadores de serviços vinculados por obrigações de confidencialidade e que utilizam a informação apenas em nome da LGE ou entregar produtos e serviços solicitados ou cumprir qualquer obrigação contratual.
+A LGE não é responsável pelas práticas de privacidade de terceiros. 
+A LGE também irar coletar as informações sobre o Registro de Atividades quando você estiver usando o LGE A/S (After Service) ou o Serviço de Restauração. Você será solicitado separadamente ao utilizar esses serviços, independentemente de você concordar.
+Embora a informação sobre o Registro de Atividades seja gerada no seu dispositivo, mesmo que você não tenha concedido, a menos que você tenha clicado em "concordar", a LG irá acessará tais informações. Caso não deseja que a LGE acesse as informações do Registro de Atividades, você pode, a qualquer momento, bloquear nosso acesso a todas as informações geradas pelo Registro de Atividades em: [Ajustes – Sistema – Sobre o telefone – Registros de atividadess]. Para entender melhor a política de gerenciamento de informações da LG, incluindo informações sobre o Registro de Atividades, consulte nossa política de privacidade em [Ajustes – Sistema – Sobre o telefone – Informações legais – Documentos legais para Software LG – Política de privacidade].
+Qualquer tradução do documento de Registros de atividades será feita para os requisitos locais e, no caso de discrepância entre o inglês e quaisquer versões em outros idiomas, a versão em inglês deste documento deverá prevalecer, na medida em que não é proibido pela lei local na sua jurisdição.
+

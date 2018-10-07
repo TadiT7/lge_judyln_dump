@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<profiles>
+    <!-- Default -->
+    <profile>
+        <siminfo mcc="" mnc="" country="" operator=""/>
+        <item name="nfc_default"> yes </item>
+        </profile>
+
+    <!-- AL : Albania -->
+    <profile>
+        <siminfo mcc="276" mnc="XX" country="Albania" operator="Albania"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="276" mnc="02" country="Albania" operator="Vodafone"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+    <!-- AT : Austria -->
+    <profile>
+        <siminfo mcc="232" mnc="XX" country="Austria" operator="Austria"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetoperator="H3G"> no </item>
+        <item name="nfc_default" targetoperator="ORG"> no </item>
+        <item name="nfc_default" targetdevice="vee7e" targetoperator="TMO"> no </item>
+        <item name="nfc_default" targetdevice="g2m" targetoperator="H3G"> yes </item>
+        <item name="nfc_default" targetdevice="g3" targetoperator="H3G"> yes </item>
+        <item name="nfc_default" targetdevice="w5n" targetoperator="H3G"> yes </item>
+        </profile>
+    <profile>
+        <siminfo mcc="232" mnc="01" country="Austria" operator="A1"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+    <!-- BE : Belgium -->
+    <profile>
+        <siminfo mcc="206" mnc="XX" country="Belgium" operator="Belgium"/>
+        <item name="nfc_default" targetdevice="w5n" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="g2m" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="l9ii" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="jagnm" targetoperator="VDF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="206" mnc="01" country="Belgium" operator="Proximus"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+    <!-- CY : Cyprus -->
+    <profile>
+        <siminfo mcc="280" mnc="XX" country="Cyprus" operator="Cyprus"/>
+        <item name="nfc_default" targetdevice="w5n" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="g2m" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="l9ii" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="jagnm" targetoperator="VDF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="280" mnc="01" country="Cyprus" operator="Cytamobile-Vodafone"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+    <!-- FR : France -->
+    <profile>
+        <siminfo mcc="208" mnc="XX" country="France" operator="France"/>
+        <item name="nfc_default" targetoperator="NRJ"> no </item>
+        <item name="nfc_default" targetoperator="VDF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="208" mnc="10" country="France" operator="SFR"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+    <!-- RE : France Reunion -->
+    <profile>
+        <siminfo mcc="647" mnc="XX" country="France Reunion" operator="SRF"/>
+        <item name="nfc_default" targetdevice="geehrc" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="jagnm" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="g2" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="g3" targetoperator="VDF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="647" mnc="10" country="France Reunion" operator="SFR Reunion"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+    <!-- DE : Germany -->
+    <profile>
+        <siminfo mcc="262" mnc="XX" country="Germany" operator="Germany"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="262" mnc="02" country="Germany" operator="Vodafone"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+    <!-- GR : Greece-->
+    <profile>
+        <siminfo mcc="202" mnc="XX" country="Greece" operator="Greece"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="202" mnc="05" country="Greece" operator="Vodafone"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+    <!-- HU : Hungary -->
+    <profile>
+        <siminfo mcc="216" mnc="XX" country="Hungary" operator="Hungary"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="216" mnc="70" country="Hungary" operator="Vodafone"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+    <!-- IS : Iceland -->
+    <profile>
+        <siminfo mcc="274" mnc="XX" country="Iceland" operator="Iceland"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="w5n" targetoperator="VDF"> yes </item>
+        <item name="nfc_default" targetdevice="g2m" targetoperator="VDF"> yes </item>
+        </profile>
+    <!-- MT : Malta -->
+    <profile>
+        <siminfo mcc="278" mnc="01" country="Malta" operator="Vodafone"/>
+        <item name="nfc_default" targetoperator="VDF"> yes </item> <!-- VDF_Global -->
+        </profile>
+    <!-- NL : Netherland -->
+    <profile>
+        <siminfo mcc="204" mnc="XX" country="Nederland" operator="Nederland"/>
+        <item name="nfc_default" targetoperator="TMO"> no </item>
+        </profile>
+    <!-- PL : Poland -->
+    <profile>
+        <siminfo mcc="260" mnc="XX" country="Poland" operator="Poland"/>
+        <item name="nfc_default" targetdevice="vee7e" targetoperator="P4P"> no </item>
+        </profile>
+    <!-- PT : Portugal -->
+    <profile>
+        <siminfo mcc="268" mnc="XX" country="Portugal" operator="Portugal"/>
+        <item name="nfc_default" targetdevice="g3" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="jagnm" targetoperator="VDF"> no </item>
+        </profile>
+    <!-- RO : Romania -->
+    <profile>
+        <siminfo mcc="226" mnc="XX" country="Romania" operator="Romania"/>
+        <item name="nfc_default" targetoperator="TMO"> no </item>
+        <item name="nfc_default" targetdevice="g2m" targetoperator="TMO"> yes </item>
+        <item name="nfc_default" targetdevice="g3" targetoperator="TMO"> yes </item>
+        <item name="nfc_default" targetdevice="jagnm" targetoperator="TMO"> yes </item>
+        </profile>
+    <!-- ES : Spain -->
+    <profile>
+        <siminfo mcc="214" mnc="XX" country="Spain" operator="Spain"/>
+        <item name="nfc_default" targetdevice="vee7e" targetoperator="YGS"> no </item>
+        <item name="nfc_default" targetdevice="vee7e" targetoperator="VDF"> yes </item>
+        <item name="nfc_default" targetdevice="g3" targetoperator="TLF"> no </item>
+        <item name="nfc_default" targetdevice="jagnm" targetoperator="TLF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="214" mnc="03" country="Spain" operator="Orange"/> <!-- Carrefour -->
+        <item name="nfc_default" targetoperator="ORG"> yes </item> <!-- ORG_Global -->
+        </profile>
+    <!-- SE : Sweden -->
+    <profile>
+        <siminfo mcc="240" mnc="XX" country="Sweden" operator="Sweden"/>
+        <item name="nfc_default" targetoperator="H3G"> no </item>
+        </profile>
+    <!-- TR : Turkey -->
+    <profile>
+        <siminfo mcc="286" mnc="XX" country="Turkey" operator="Turkey"/>
+        <item name="nfc_default" targetdevice="g3"> no </item>
+        <item name="nfc_default" targetdevice="geehrc"> no </item>
+        <item name="nfc_default" targetdevice="luv80ds"> no </item>
+        </profile>
+    <!-- South Africa -->
+    <profile>
+        <siminfo mcc="655" mnc="XX" country="South Africa" operator="South Africa"/>
+        <item name="nfc_default" targetdevice="w5n" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="g2m" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="l9ii" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="geehrc" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="jagnm" targetoperator="VDF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="655" mnc="01" country="South Africa" operator="Vodacom"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+    <!-- UK : United Kingdom -->
+    <profile>
+        <siminfo mcc="234" mnc="XX" country="United Kingdom" operator="United Kingdom"/>
+        <item name="nfc_default" targetdevice="w5n" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="g2m" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="l9ii" targetoperator="VDF"> no </item>
+        <item name="nfc_default" targetdevice="jagnm" targetoperator="VDF"> no </item>
+        </profile>
+    <profile>
+        <siminfo mcc="234" mnc="15" country="United Kingdom" operator="Vodafone"/>
+        <item name="nfc_default" targetoperator="VDF"> no </item> <!-- VDF_Global -->
+        </profile>
+</profiles>

@@ -1,0 +1,8 @@
+﻿Beleegyezés a felhasználó hangadatainak a Google Automatic Speech Recognition (későbbiekben csak „ASR”) általi felhasználására 
+
+A Parking Assistant szolgáltatás (későbbiekben csak „Szolgáltatás) azt a Google ASR funkciót használja, amelyet a Google, Inc. (későbbiekben csak „Google”) biztosít arra, hogy lehetővé tegye a számunkra a felhasználó hangjának szöveggé való átalakítását. 
+Ahhoz, hogy Ön használni tudja a Szolgáltatást, az Ön hangadatai a Google vállalathoz érkeznek be és ott lesznek tárolva. A Google az Ön hangadatainak szövegadatokká való átalakítására fogja használni ezeket az információkat, majd visszajuttatja a szövegadatokat az LGE vállalathoz.
+Az ASR által begyűjtött minden információ kezelését a Google azon adatvédelmi nyilatkozata szabályozza, amely a következő címen található: (https://www.google.com/policies/privacy/).
+Ha Ön úgy dönt, hogy kikapcsolja az ASR használatát, akkor a szolgáltatásokat a következőképpen szüntetheti meg: „Beállítások menü - Jogi információk”.
+Az LGE a Szolgáltatáshoz soha nem gyűjt be és/vagy nem használ semmilyen személyes információt, beleértve a felhasználó hangadatait is, és csak a személy beazonosítására nem alkalmas, szöveges információkat használ.
+Továbbá az LGE soha nem fogja (és külső félnek sem engedi) felhasználni a Szolgáltatás látogatóinak a hangadatait nyomonkövetésre vagy bármilyen személyazonosításra alkalmas információ begyűjtésére, és nem fog kapcsolatba hozni semmilyen, ezen Szolgáltatással begyűjtött adatot semmilyen, bármilyen más forrásból származó személyesen azonosítható információval.

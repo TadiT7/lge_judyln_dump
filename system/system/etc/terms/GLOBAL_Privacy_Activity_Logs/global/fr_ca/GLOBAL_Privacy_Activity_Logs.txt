@@ -1,0 +1,63 @@
+﻿Politique de confidentialité pour l’utilisation de journaux d'activités
+
+Remarque : En consentant à la présente Politique de confidentialité, vous nous autorisez à utiliser vos données dans les conditions décrites dans le présent document. Votre consentement est volontaire. Néanmoins, si vous ne nous accordez pas cette autorisation, nous ne pourrons pas vous fournir de prestations; dans ce cas, vous ne pouvez pas utiliser le Service LG Quick Help. Vous pouvez consultez les termes de votre consentement à tout moment dans le Service LG et vous pouvez révoquer ce consentement à tout moment en envoyant un message à l'adresse : mc.customer-privacy@lge.com. 
+
+1. Introduction
+LG Electronics, Inc. (« LGE » ou « nous ») s’engage à protéger les informations des personnes et des groupes qui utilisent le service LG Service, objet de la présente politique de confidentialité. La présente politique de confidentialité expose la manière dont nous collectons, exploitons et communiquons les informations que nous sommes amenés à collecter à la suite de votre utilisation des services, et en particulier :
+- Les informations que LGE est susceptible d’obtenir de vous ou de LG Service
+- La manière dont LGE exploite ces informations
+- Dans quelles circonstances LGE communique ces informations à d’autres
+- La manière dont vous pouvez contrôler l’exploitation et le partage que fait LGE de ces informations.
+
+Le Service LG donne accès à des applications logicielles et établit des liens avec d’autres services appartenant à et exploités par des tiers, fournisseurs de systèmes d’exploitation et autres fournisseurs de contenus et d’applications. Ces services tiers ne sont pas concernés par la présente politique de confidentialité et ils disposent de leurs propres politiques qui s’appliquent à la collecte, l’exploitation et la communication d’informations en relation avec leurs services. Nous vous encourageons à prendre connaissance de ces politiques. LGE ne saurait être tenu responsable des pratiques de ces tierces parties en matière de confidentialité.
+
+2. Les informations que LGE se procure
+LGE recueillera l’information suivante :
+① État de l'appareil mobile : Modèle, version du logiciel, IMEI, numéro de série, IMSI, état de l’alimentation, état de la batterie, utilisation du CPU/mémoire vive/stockage interne, temps d’utilisation moyenne, résultat d’auto-diagnostic du matériel informatique (Wi-Fi, BT, capteur de proximité, capteur d’illumination, capteur d’empreinte digitale, etc.)
+② État du réseau : État du service (appel, données), force du signal, information de la station, fréquence/heure de l’appel
+③ Information de l’application : La liste des applis installées et supprimées, version de l’appli, applis récemment exécutées, fréquence/statistiques d’utilisation de l’appli 
+④ État de connexion du téléphone mobile : États de connexion du Wi-Fi, Bluetooth, GPS, écouteurs pour oreille, chargeur de batterie, USB, et carte SD
+⑤ Information d’erreur : Écran gelé, hors tension imprévues, appels débranchés, erreurs d’applications (fatal, exception)
+
+3. Comment LGE va exploiter les informations ainsi obtenues?
+Nous utilisons à diverses fins les informations obtenues de vous :
+- Pour identifier et diagnostiquer l’appareil mobile
+- Pour effectuer les services clientèle et gérer l’historique du service 
+- Pour envoyer des messages push 
+- Pour analyser l’historique de service/journaux/appareil pour une qualité améliorée et la satisfaction de la clientèle
+
+Pour les fins en rapport avec la présente politique de confidentialité, nous pouvons être amenés à combiner les informations obtenues à partir de votre utilisation du service LG avec celles que vous nous communiquez par d’autres biais. 
+
+4. Communication des informations
+En règle générale, nous ne partageons pas avec des tiers les renseignements que nous obtenons dans le cadre de votre utilisation du Service LG. Néanmoins, veuillez noter que dans les circonstances suivantes, nous pouvons partager ces informations avec les entités suivantes :
+- Sociétés affiliées et filiales. LGE peut être amené à communiquer des informations personnelles et non personnelles (y compris concernant les appareils) à ses affiliés et filiales du monde entier uniquement dans la mesure où l’exigent les fins pour lesquelles ces informations ont été collectées. Les termes « sociétés affiliées » et « filiales » désignent des entreprises du groupe qui peuvent utiliser le nom LG ou dont LG a acquis la propriété ou le contrôle, telles que LG CNS ou LG Electronics U.S.A., INC (« LGEUS »);
+- Prestataires de services tiers. À des fournisseurs tiers auxquels LGE peut s'engager à fournir des services en son nom de temps en temps, comme remplir les demandes de service à la clientèle.
+- Autres parties dans le cadre d’obligations légales ou judiciaires. Lorsque nous y sommes obligés par une ordonnance de tribunal, une décision gouvernementale ou une injonction d’autorités judiciaires.
+- Autres parties en lien avec des opérations de notre entreprise. En lien avec un événement au niveau de notre entreprise (par exemple, une fusion, une vente ou un transfert de tout ou partie de l’activité de LGE, y compris celle d’une division ou d’une filiale), dans le cadre duquel LGE peut avoir besoin de divulguer des informations à un acheteur potentiel et à ses conseils.
+- Autres parties lorsqu’il est nécessaire de protéger notre service. Afin de protéger et défendre nos droits et notre propriété, y compris par voie judiciaire.
+- Autres parties lorsqu’il s’agit de protéger la sécurité personnelle ou la propriété de l’un de nos usagers. Afin de protéger les droits, la sécurité personnelle ou la propriété de nos usagers ou du public.
+
+En aucun cas, vos informations personnelles collectées ne seront exploitées à des fins de marketing ni communiquées à des tiers à des fins de marketing.
+
+5. Transferts à l’étranger
+Nous, nos affiliés, nos filiales et nos fournisseurs de services, dans le cadre de notre Service LG et aux fins décrites dans la présente politique de confidentialité, pourrons être amenés à utiliser vos informations (y compris vos informations personnelles) dans d’autres pays que celui où est situé votre appareil. Les lois régissant la protection des données dans un grand nombre de ces pays n’offrent pas forcément le même niveau de protection que celles en vigueur dans le pays où vous vous trouvez. Mais, avant de transférer vos informations personnelles, nous prendrons des mesures pour nous assurer que ces informations bénéficieront du même niveau de protection. En acceptant la présente Politique de confidentialité, vous nous autorisez expressément, nous et nos partenaires commerciaux et fournisseurs, à traiter vos données dans n'importe quelle juridiction, y compris sans toutefois s'y limiter, en République de Corée et aux États-Unis, conformément à la présente Politique de confidentialité. 
+
+6. Durée pendant laquelle LGE conserve vos informations personnelles
+Nous prendrons des mesures raisonnables pour conserver vos informations personnelles aussi longtemps que nécessaire pour vous fournir le Service LG, ou aux fins pour lesquelles elles ont été collectées, ou que l’exige la législation applicable.
+
+7. Sécurité
+Nous prenons des moyens commercialement raisonnables afin de protéger la confidentialité de vos renseignements personnels. Malgré cela, en raison de la nature même d’Internet, de l’évolution permanente de la technologie et d’autres facteurs indépendants de notre volonté, nous ne sommes pas en mesure de garantir que les communications entre nos serveurs et vous seront exempts d’accès non autorisé par des tiers ou que nous ne serons pas victimes de violations de la sécurité. Nous déclinons toute responsabilité pour la divulgation d’informations personnelles due à des erreurs dans la transmission ou à des actes non autorisés ou illégaux commis par des tiers.
+
+8. Protection de la confidentialité et de la vie privée des enfants
+Protéger la confidentialité et la vie privée des enfants est chose importante pour nous. Pour cette raison, le Service LG n’est pas conçu pour s’adresser à des personnes de moins de 14 ans ou d’un âge inférieur à l’âge légal de la majorité dans la juridiction concernée, et n'est pas structuré spécifiquement pour attirer quiconque est âgé de moins de 14 ans. De plus, nous ne recueillons pas sciemment ni ne conservons des renseignements personnels d’utilisateurs de moins de 14 ans. Si jamais nous découvrions ou étions avisés que nous avons collecté des informations concernant un mineur de moins de 14 ans ou d’un âge inférieur à l’âge légal de la majorité dans la juridiction concernée, nous détruirions immédiatement ces informations personnelles.
+
+9. Modifications de la politique de confidentialité de LGE
+La présente politique de confidentialité est susceptible d’être modifiée par LGE de temps à autre. En cas de modification majeure de notre politique de confidentialité, vous en serez averti via le site Web LG ou par d’autres moyens. Si vous n’acceptez pas la mise à jour de la politique de confidentialité, le Service LG peut être restreint.
+
+10. Accès à vos informations 
+En vertu des lois de certaines juridictions, vous avez le droit de demander des détails sur vos informations personnelles que LGE recueille, et de corriger toutes erreurs de vos informations personnelles, ou de vous opposer d'une autre manière, à des fins légitimes, au traitement de vos informations personnelles. Si la législation le permet, des frais modiques peuvent vous être facturés pour ce service. Veuillez noter que nous pouvons décliner refuser de traiter vos demandes si elles sont déraisonnablement abusives, mettent en péril la confidentialité d’autres personnes, ou sont extrêmement irréalisables. Si vous voulez effectuer une demande d’accès, de rectification, d’annulation ou d’opposition au traitement de vos renseignements personnels, veuillez nous contacter à mc.customer-service@lge.com.
+
+11. Contacter LGE à propos de la présente politique de confidentialité
+Si vous avez des questions ou des commentaires concernant la présente politique de confidentialité, veuillez envoyer un courriel à mc.customer-service@lge.com.
+
+Dernière mise à jour : 22 juin 2017

@@ -1,0 +1,63 @@
+﻿Pravilnik o zasebnosti za uporabo dnevnikov aktivnosti
+
+Opomba: S soglašanjem s tem pravilnikom o zasebnosti dovoljujete uporabo svojih podatkov, kot je opisano v tem dokumentu. Soglašate prostovoljno. Vendar če s temi pogoji ne soglašate, vam svojih storitev ne bomo mogli zagotoviti. V tem primeru ne boste mogli uporabljati storitev LG Device Diagnostics Report Services (LG Service). Pogoje za svoje soglasje lahko kadar koli pridobite v storitvi LG Service, soglasje pa lahko tudi kadar koli prekličete. tako da pošljete sporočilo na mc.customer-service@lge.com. 
+
+1. Uvod
+Družba LG Electronics Inc. (»LGE« ali »mi«) je predana zaščiti informacij tistih posameznikov in skupin, ki uporabljajo njeno storitev LG Service. Ta pravilnik o zasebnosti točno določa pridobivanje, uporabo in izmenjavo podatkov, ki jih pridobimo z vašo uporabo storitev, zlasti pa določa:
+- katere podatke lahko od vas ali storitve LG Service pridobi LGE;
+- kako družba LGE uporablja informacije, ki jih pridobi;
+- kdaj daje družba LGE informacije v skupno rabo z drugimi in,
+- kako lahko nadzorujete način, na katerega družba LGE uporablja informacije in jih daje v skupno rabo.
+
+Storitev LG Service omogoča dostop do programske aplikacije in povezav do drugih storitev, ki so v lasti in jih upravljajo tretje osebe, vključno s ponudniki operacijskih sistemov ter drugih vsebin in aplikacij. Te storitve tretjih strank ne sodijo v obseg tega pravilnika o varovanju zasebnosti in imajo lastne pravilnike, ki se tičejo zbiranja, uporabe ter dajanja informacij v skupno rabo, v povezavi s storitvami, ki jih zagotavljajo te stranke. Svetujemo vam, da si preberete te pravilnike. Družba LGE ni odgovorna ali zavezana k praksam zasebnosti takih tretjih strank.
+
+2. Katere informacije pridobi družba LGE?
+Družba LGE bo zbirala naslednje podatke:
+① Stanje mobilne naprave: model, različica programske opreme, IMEI, serijska številka, IMSI, stanje napajanja, stanje baterije, uporaba CPU/RAM/notranjega pomnilnika, povprečni čas uporabe, rezultat samodiagnosticiranja strojne opreme (Wi-Fi, BT, bližinsko tipalo, tipalo osvetlitve, tipalo prstnega odtisa, itd.)
+② Stanje omrežja: stanje storitve (klic, podatki), jakost signala, informacije o postaji, frekvenca/čas klicev
+③ Informacije o aplikacijah: Seznam nameščenih in izbrisanih aplikacij, različica aplikacije, nedavno uporabljane aplikacije, frekvenca/statistika uporabe aplikacij 
+④ Stanje povezave mobilnega telefona: Stanja povezav Wi-Fi, Bluetooth, GPS, vtiča za slušalke, polnilnika baterij, USB in kartice SD
+⑤ Podatki o napakah: zamrznjen zaslon, neidentificirane prekinitve napajanja, prekinjeni klici, napake aplikacij (usodne, izjeme)
+
+3. Kako družba LGE uporablja informacije, ki jih pridobi?
+Informacije, ki jih dobimo od vas, uporabljamo za različne namene, vključno s/z:
+- Za identifikacijo in diagnostiko mobilne naprave
+- Za izvajanje storitev za stranke in vodenje zgodovine storitev 
+- Za pošiljanje potisnih sporočil 
+- Za analizo storitev/dnevnikov/zgodovine naprave za višjo kakovost in zadovoljstvo stranke
+
+Podatke, ki jih dobimo od vas, vključno z osebnimi podatki, lahko kombiniramo s podatki, ki nam jih zagotovite na druge načine, ter jih uporabimo za namene, ki so skladni s tem pravilnikom. 
+
+4. Dajanje informacij v skupno rabo
+Podatkov, ki jih pridobimo med vašo uporabo storitve LG Service, običajno ne izmenjujemo s tretjimi osebami. Kljub temu bodite pozorni na naslednje okoliščine, v katerih lahko z naslednjimi osebami takšne podatke tudi izmenjamo:
+- Podružnice in hčerinska podjetja. Družba LGE lahko da osebne in neosebne informacije (vključno s podatki o napravi) v skupno rabo s svojimi podružnicami in hčerinskimi podjetji po vsem svetu, dokler je to potrebno za namene, za katere so bili podatki zbrani. Izraza »podružnice« in »hčerinske družbe« se nanaša na skupino podjetij, ki lahko uporabljajo ime LG, ali imajo skupno lastništvo oziroma nadzor nad znamkami, kot sta LG CNS ali LG Electronics U.S.A.,INC.(»LGEUS«).
+- Tretji ponudniki storitev. Tretji ponudniki storitev, s katerimi lahko družba LGE občasno sodeluje za ponujanje storitev v lastnem imenu, kot na primer za izpolnjevanje zahtev za storitve za stranke.
+- Druge stranke, kadar tako zahteva zakon. Kot to zahteva sodni nalog ali drugi vladni oziroma policijski organi.
+- Druge stranke v povezavi s transakcijami med družbami. V povezavi z dogodkom, ki se tiče družbe, kot so združitev, prodaja celotnega podjetja LGE ali njegovega dela (vključno s poslovanjem oddelka ali hčerinske družbe), pri čemer mora družba LGE morebitnemu kupcu in njegovim strokovnim svetovalcem razkriti informacije.
+- Druge stranke, kadar je potrebno zaščititi našo storitev. Za zaščito naših pravic in lastnine, kar vključuje pravne postopke.
+- Druge stranke, kadar je potrebna zaščita osebne varnosti ali lastnine našega uporabnika v kakršni koli obliki. Da bi se zaščitilo osebno varnost ali lastnino naših uporabnikov oziroma javnosti.
+
+Vaših osebnih informacij ne bomo pod nobenimi pogoji uporabljali za namene trženja ali jih dali v skupno rabo s tretjimi strankami za namene trženja.
+
+5. Prenosi v tujino
+Naša družba, naše podružnice in dobavitelji lahko uporabljajo informacije (vključno z vašimi osebnimi informacijami) v državah, ki niso država, kjer uporabljate svojo napravo, da bi se vam zagotovilo vašo storitev LG Service in za kakršen koli drug namen, ki je opisan v tem pravilniku o varovanju zasebnosti. Zakoni za zaščito podatkov v mnogih od teh držav morda ne zagotavljajo iste stopnje zaščite kot v državi, kjer se nahajate. Vendar bomo pred prenosom vaših osebnih podatkov izvedli korake, s katerimi se bo zagotovilo, da bodo imeli taki podatki isto stopnjo zaščite. Ko se strinjate s tem pravilnikom o zasebnosti, nam in našim poslovnim partnerjem ter dobaviteljem dajete izključno pravico do obdelave vaših podatkov v kateri koli jurisdikciji, vključno in neomejeno, skladno s tem pravilnikom o zasebnosti, v Republiki Koreji ali Združenih državah Amerike. 
+
+6. Kako dolgo bo družba LGE hranila moje osebne podatke?
+S smiselnimi ukrepi bomo poskrbeli, da bodo vaši osebni podatki pri nas le tako dolgo, kolikor je potrebno, da vam zagotovimo storitev LG Service ali v namen, za katerega smo podatke pridobili, oziroma kolikor zahteva veljavna zakonodaja.
+
+7. Varnost
+Na komercialno razumen način si prizadevamo zavarovati zaupnost vaših osebnih podatkov. Kljub temu zaradi zasnove interneta, vedno spreminjajoče se tehnologije in drugih dejavnikov, ki niso pod našim nadzorom, ne moremo zagotoviti, da komunikacije med vami in našimi strežniki ne bodo izpostavljene nepooblaščenemu dostopanju tretjih strank ali da ne bo prišlo do dogodkov kršenja varnosti. Za razkritje osebnih informacij zaradi napak pri prenosu ali nepooblaščenih dejanj tretjih strank ne sprejemamo nobene odgovornosti.
+
+8. Zaščita zasebnosti otrok
+Naši družbi je zaščita zasebnosti otrok pomembna. Storitev LG Service ni namenjena za nikogar do 14. leta starosti v zadevni sodni pristojnosti in ni posebej oblikovana, da bi pritegnila kogar koli do 14. leta starosti. Prav tako zavestno ne zbiramo oziroma hranimo osebnih podatkov o uporabnikih, mlajših od 14 let. Če izvemo ali naj obvestijo, da smo zbirali podatke uporabnikov, ki so mlajši od 14 let v zadevni sodni pristojnosti, bomo vse take osebne podatke takoj izbrisali.
+
+9. Spremembe pravilnika o varovanju zasebnosti družbe LGE
+Ta pravilnik o varovanju zasebnosti lahko družba LGE občasno posodablja. V primeru bistvene spremembe pravilnika o varovanju zasebnosti vas bomo o tem obvestili prek spletne strani LG ali kako drugače. Če se s posodobitvijo pravilnika ne boste strinjali, ne boste mogli uporabljati storitve LG Service.
+
+10. Dostopanje do vaših informacij 
+Skladno z zakonodajo nekaterih jurisdikcij imate pravico, da zahtevate podrobnosti vaših osebnih podatkov, ki jih zbira LGE, in popravite nepravilnosti glede vaših osebnih podatkov oziroma kako drugače, v pravne namene, nasprotujete obdelavi vaših osebnih podatkov. Če to omogoča zakon, se morda lahko za zagotavljanje take možnosti za vas obračuna majhno plačilo. Upoštevajte, da lahko obdelavo vaših zahtev zavrnemo, če so nerazumno žaljive, ogrožajo zasebnost drugih ali so izjemno nepraktične. Če nam želite poslati dopis glede dostopa, spremembe, preklica ali nasprotovanja obdelavi vaših osebnih podatkov, nam pišite na mc.customer-service@lge.com.
+
+11. Stik z družbo LGE v povezavi s tem pravilnikom o varovanju zasebnosti
+Če imate kakršna koli vprašanja ali komentarje o tem pravilniku o zasebnosti, nam pišite na naslov mc.customer-service@lge.com.
+
+Zadnja posodobitev: 22. jun. 2017

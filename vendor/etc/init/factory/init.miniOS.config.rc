@@ -1,0 +1,42 @@
+on post-fs
+    symlink /system/lib/libminios3_binder.so /vendor/factory_lib/libbinder.so
+    symlink /system/lib64/libminios3_binder.so /vendor/factory_lib64/libbinder.so
+
+on post-fs-data
+    # To use /sdcard path
+    symlink /data/media/0 /mnt/user/0/primary
+
+    # for mits ets
+    mkdir /data/ets 0777 system system
+
+    # for touch log saved
+    mkdir /data/touch 0777 system system
+
+    # for minios data
+    mkdir /data/minios 0777 root root
+
+# FACTORY DELETE
+on property:sys.lge.factory_delete=1
+    start chcon_keystore
+    start chcon_vold
+    start rm_encrypt_prop
+
+on property:sys.lge.factory_delete=2
+    factory_delete
+    setprop sys.lge.factory_delete 0
+
+service chcon_keystore /system/bin/sh /vendor/bin/init.factory.minios.chcon_keystore.sh
+    disabled
+    oneshot
+    seclabel u:r:keystore:s0
+
+service chcon_vold /system/bin/sh /vendor/bin/init.factory.minios.chcon_vold.sh
+    disabled
+    oneshot
+    seclabel u:r:vold:s0
+
+# enable & disable crash handler, rtb & trace event through property
+service service-crash_f /system/bin/sh /vendor/bin/init.miniOS.crash.sh
+    class main
+    disabled
+    oneshot

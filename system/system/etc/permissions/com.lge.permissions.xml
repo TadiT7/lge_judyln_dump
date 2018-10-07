@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+
+    <!-- For SDCard Encryption -->
+    <permission name="com.lge.permission.SDENCRYPTION">
+        <group gid="mount" />
+    </permission>
+
+    <!-- For SDP Service -->
+    <permission name="com.lge.permission.SDP">
+        <group gid="oem_4020" />
+    </permission>
+
+    <!-- For LG NFC service -->
+    <permission name="com.lge.permission.LGNFC">
+        <group gid="nfc" />
+    </permission>
+
+    <!-- For Bluetooth Factory Test -->
+    <permission name="com.lge.bluetooth.permission.BLUETOOTH_GROUP">
+        <group gid="bluetooth" />
+        <group gid="net_bt_stack" />
+    </permission>
+
+    <!-- For LG Wi-Fi service -->
+    <permission name="com.lge.permission.LGWIFI">
+        <group gid="dhcp" />
+        <group gid="wifi" />
+    </permission>
+
+    <!-- 	LGE_CHANGE_S, [IMS][soonwoo.hwang@lge.com], 20130809, klp_porting { -->
+    <permission name="com.lge.permission.IMS" >
+        <group gid="system" />
+        <group gid="radio" />
+        <group gid="inet" />
+        <group gid="net_admin" />
+        <group gid="audio" />
+        <group gid="camera" />
+        <group gid="media" />
+        <group gid="net_raw" />
+    </permission>
+    <!-- 	LGE_CHANGE_S, [IMS][soonwoo.hwang@lge.com], 20130809, klp_porting }  -->
+
+    <!-- For LG Keyguard -->
+    <permission name="com.lge.permission.KEYGUARD">
+        <group gid="oem_4004" />
+    </permission>
+
+    <!-- For LG kill-switch -->
+    <permission name="com.lge.permission.KILLSWITCH">
+        <group gid="oem_7001" />
+    </permission>
+
+    <!-- For LGDisplayManager -->
+    <permission name="com.lge.permission.ACCESS_GRAPHICS_FB">
+        <group gid="graphics" />
+    </permission>
+
+    <!-- Group that can read and write dev/qseecom files -->
+    <permission name="com.lge.permission.ACCESS_QSEECOM">
+        <group gid="drmrpc" />
+    </permission>
+
+    <permission name="com.lge.permission.LADDM" >
+        <group gid="radio" />
+    </permission>
+
+</permissions>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<Model>
+ <ModelName>GenericLG</ModelName>
+ <KeyMapping>
+  <Key index="0"  kcode="0x30">0</Key>
+  <Key index="1"  kcode="0x31">1</Key>
+  <Key index="2"  kcode="0x32">2</Key>
+  <Key index="3"  kcode="0x33">3</Key>
+  <Key index="4"  kcode="0x34">4</Key>
+  <Key index="5"  kcode="0x35">5</Key>
+  <Key index="6"  kcode="0x36">6</Key>
+  <Key index="7"  kcode="0x37">7</Key>
+  <Key index="8"  kcode="0x38">8</Key>
+  <Key index="9"  kcode="0x39">9</Key>
+  <Key index="10" kcode="0x2A">*</Key>
+  <Key index="11" kcode="0x23">#</Key>
+  <Key index="12" kcode="0x50" kname="SEND">Send</Key>
+  <Key index="13" kcode="0x06">End</Key>
+  <Key index="14" kcode="0xA2">Clear</Key>
+  <Key index="15" kcode="0x10">Left</Key>
+  <Key index="16" kcode="0x11">Right</Key>
+  <Key index="17" kcode="0x54">Up</Key>
+  <Key index="18" kcode="0x55">Down</Key>
+  <Key index="19" kcode="0x96">Volume Up</Key>
+  <Key index="20" kcode="0x97">Volume Down</Key>
+  <Key index="21" kcode="0x51" kname="END">Power</Key>
+  <Key index="22" kcode="0xA2">Back</Key>
+  <Key index="23" kcode="0xA0">Menu</Key>
+ </KeyMapping>
+ <LG_NV_ITEM>
+  <NVItem name = "RECONDITIONED" enum = "-1"/>
+  <NVItem name = "WARRANTY_DATE_CODE" enum = "-1"/>
+  <NVItem name = "PRL_VERSION" enum = "34818"/>
+  <NVItem name = "ERI_VERSION" enum = "34819"/>
+  <NVItem name = "LIFE_TIMER_G" enum = "-1"/>
+  <NVItem name = "PCB_VERSION" enum = "-1"/>
+ </LG_NV_ITEM>
+ <EFS_RESTRICTION>0</EFS_RESTRICTION>
+ <GPS_TYPE>2</GPS_TYPE>
+ <POWER_DOWN_UP_TYPE>1</POWER_DOWN_UP_TYPE>
+ <LOG_LEVEL>1</LOG_LEVEL>
+ <EXCEPT_EVENT_LOG_COMMAND>
+  <CMD main = "1"   sub="-1"/>
+  <CMD main = "12"  sub="-1"/>
+  <CMD main = "15"  sub="-1"/>
+  <CMD main = "16"  sub="-1"/>
+  <CMD main = "25"  sub="-1"/>
+  <CMD main = "26"  sub="-1"/>
+  <CMD main = "28"  sub="-1"/>
+  <CMD main = "29"  sub="-1"/>
+  <CMD main = "31"  sub="-1"/>
+  <CMD main = "63"  sub="-1"/>
+  <CMD main = "64"  sub="-1"/>
+  <CMD main = "86"  sub="-1"/>
+  <CMD main = "93"  sub="-1"/>
+  <CMD main = "98"  sub="-1"/>
+  <CMD main = "251" sub="10"/>
+ </EXCEPT_EVENT_LOG_COMMAND>
+ <DisplaySettings>
+  <Display index = "0" width="1440"   height="2880"  colorBytes="2" touchpad="0" type="0">Main LCD</Display>
+ </DisplaySettings>
+ <SLEEP>
+  <item name = "CGPS_START"     time = "0"/>
+  <item name = "CGPS_INIT"      time = "0"/>
+  <item name = "CGPS_REGISTER"  time = "0"/>
+  <item name = "CGPS_ACTIVATE"  time = "0"/>
+  <item name = "ModeReset"      time = "130000"/>
+  <item name = "CGPS_RESET"     time = "10000"/>
+ </SLEEP>
+ <Phonebook>
+  <category index ="0">ALL</category>
+  <category index ="1">Mobile</category>
+  <category index ="2">Home</category>
+  <category index ="3">Work</category>
+  <category index ="4">Mobile2</category>
+  <category index ="5">Fax</category>
+  <category index ="6">Email</category>
+  <category index ="7">Email2</category>
+ </Phonebook>
+</Model>

@@ -1,0 +1,27 @@
+﻿Virkniskrár
+
+Í því skyni að bæta heildarupplifun notenda og gera úrræðaleit tækisins skilvirkari eru virkniskrár búnar til og þær vistaðar í LG fartækinu þínu. 
+
+Skrárnar innihalda eftirfarandi upplýsingar: 
+- Stöðu fartækisins: Gerð, hugbúnaðarútgáfa, IMEI, einkvæmt auðkenni, IMSI, ástand straums, ástand rafhlöðu, notkun CPU/RAM/innra minnis, meðal notkunartíma, niðurstöður sjálfvirkrar bilanagreiningar á vélbúnaði (Wi-Fi, BT, nándarmæli, ljósmæli, fingrafaranema, o.s.frv.) 
+- Staða netkerfis
+- Upplýsingar um forritið, forritanotkunar talning/tölfræði
+- Staða tengingar fartækisins
+- Villuupplýsingar: Frosin skjár, slokknar óviljandi á tækinu, símtöl slitna, villur í forritum
+- Stillingar fartækisins
+
+Slíkar skrár eru aðeins geymdar í tækinu þínu og eru ekki fluttar þráðlaust til LG eða neins þriðja aðila nema um það sé samið í sérstöku samkomulagi.
+Allar upplýsingar sem LG fær aðgang að má nota, ýmist stakar eða í samanteknu formi. LGE notar upplýsingarnar til að skilja betur þarfir viðskiptavina okkar, til að bæta þjónustu okkar við viðskiptavini og vörur og þjónustu sem við bjóðum upp á. Til dæmis gera upplýsingar í virkniskrá LGE kleift að skoða og laga netkerfisvillur, tengivandamál og vandamál með rafhlöður. 
+
+LGE gæti deilt upplýsingum í virkniskrám með eftirfarandi þriðju aðilum:
+- Eignatengdum og dótturfélögum (með því er átt við fyrirtæki sem stjórna, er stjórnað af eða eru í sömu eigu eða undir sömu stjórn og LGE); og
+- fulltrúum og þjónustuveitendum sem eru bundnir trúnaði og nota upplýsingarnar aðeins fyrir hönd LGE eða til að veita umbeðna vöru eða þjónustu, eða uppfylla á annan hátt samningsskyldu við þig.
+
+LGE viðurkennir hvorki neina bótaábyrgð né ber ábyrgð á persónuverndarhegðun þriðja aðila.
+
+LGE mun einnig biðja um að fá upplýsingar úr virkniskrám þegar þú notar ábyrgðarþjónustu LGE. Þegar þú notar þjónustuna verður þú sérstaklega spurð/ur.
+
+Þrátt fyrir að Virkniskrár-upplýsingar sé safnað innan tækisins hvort sem þú samþykkir eða ekki, fær LG ekki aðgang að slíkum upplýsingum nema þú smellir á „Allt í lagi“, jafnvel þegar þú samþykkir seinna í sérstöku samkomulagi. Ef þú vilt ekki að við fáum aðgang að virkniskráaupplýsingum þínum getur þú hvenær sem er lokað fyrir aðgang okkar að virkniskráaupplýsingum í stillingunum [Stillingar – Kerfi – Um símann – Virkniskrár]. Til að skilja hvernig LGE fer almennt með upplýsingar þínar, þar með taldar virkniskráaupplýsingar, skaltu skoða persónuverndarstefnu okkar í [Stillingar – Kerfi – Um símann – Lagalegar upplýsingar – Lagaleg skjöl fyrir LG forrit – Upplýsingavernd].
+
+Allar þýðingar á þessum virkniskrám eru gerðar til að uppfylla staðbundnar kröfur og ef í ljós kemur ósamræmi á milli ensku útgáfunnar af þessum virkniskráningum og einhverrar útgáfu á öðru tungumáli en ensku skal enska útgáfan gilda, að því leyti sem staðbundin lög í þinni lögsögu heimila.
+

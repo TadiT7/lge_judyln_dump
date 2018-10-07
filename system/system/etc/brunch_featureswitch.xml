@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Switchs>
+	<Defaults>
+		<Switch key="P-frame:Seek" value="false"/>
+	</Defaults>
+	<Https>
+		<Switch key="Streaming:PowerSave" value="true"/>
+	</Https>
+	<NewFeatures>
+		<Switch key="Streaming:useProxy" value="false"/>
+	</NewFeatures>
+</Switchs>

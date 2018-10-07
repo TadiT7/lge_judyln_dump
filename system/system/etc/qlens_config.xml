@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<qlens_configuration>
+    <!-- supported service list-->
+    <supported_service_configuration>
+        <support_service_name>support_service_shopping_search</support_service_name>
+        <support_service_name>support_service_image_search</support_service_name>
+        <support_service_name>support_service_qr</support_service_name>
+    </supported_service_configuration>
+
+    <!-- supported camera api version-->
+    <supported_camera_api>2</supported_camera_api>
+
+	<!-- supported camera api version-->
+    <supported_camera_preview_size>1280x960</supported_camera_preview_size>
+
+    <!-- supported camera zsl-->
+    <supported_camera_zsl>1</supported_camera_zsl>
+</qlens_configuration>

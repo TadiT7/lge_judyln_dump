@@ -1,0 +1,114 @@
+﻿Zásady ochrany osobních údajů
+
+Tyto zásady ochrany osobních údajů popisují, jak LG získá přístup k vašim osobním informacím a používá je v souvislosti se službou aktualizace Softwaru. Před použitím služby aktualizace Softwaru si je pečlivě přečtěte.
+
+1. Úvod
+Společnost LG Electronics Inc. ("LG" nebo "my") se zavázala chránit informace osob a skupin, které používají mobilní telefony LG. Tato pravidla ochrany soukromí určují, jak shromažďujeme, používáme a sdílíme informace, které shromažďujeme z vašeho mobilního telefonu LG, a zejména stanovují:
+
+- Přehled aktualizací Softwaru FOTA;
+- Informace, které od vás společnost LG může získat;
+- Jak společnost LG využívá informace, které získává;
+- Kdy společnost LG sdílí informace s ostatními;
+- Přenos osobních údajů ze zámoří
+- Jak dlouho společnost LG uchová mé osobní údaje?
+- Bezpečnost
+- Právo odmítnout nebo odvolat souhlas
+- Ochrana soukromí dětí
+- Změny zásad ochrany soukromí společnosti LG
+- Přístup k vašim informacím
+- Právo podat stížnost; a
+- Kontaktování společnosti LG ohledně těchto zásad ochrany osobních údajů
+
+Tyto zásady platí pouze pro informace shromážděné společností LG z mobilního telefonu LG a pro provedení aktualizace firmwaru prostřednictvím procesu "FOTA" ("aktualizace Softwaru"). Tyto zásady se nevztahují na žádné jiné produkty nebo služby společnosti LG, včetně mobilních aplikací nabízených nebo poskytovaných společností LG. Tyto zásady se rovněž nevztahují na produkty nebo služby nabízené třetími stranami, včetně poskytovatelů operačních systémů, jiného poskytovatele obsahu nebo aplikací nebo vašeho síťového operátora. Produkty a služby, na něž se nevztahují zásady ochrany osobních údajů, mají své vlastní zásady, které se vztahují na shromažďování, používání a sdílení informací, a doporučujeme si tyto zásady přečíst. Společnost LG nepřebírá odpovědnost za ochranu osobních údajů třetích stran.
+
+Pokud jste si tento mobilní telefon zakoupili nedávno, je nutné před použitím aktualizovat Software podle popisu v těchto Zásadách ochrany osobních údajů. Tím zajistíte, že telefon bude fungovat správně a bude mít nejaktuálnější funkce, funkčnost a nastavení zabezpečení. V případě jakýchkoli dotazů nás, prosím, kontaktujte, jak je uvedeno v těchto zásadách.
+
+Tyto zásady jsou kdykoli k dispozici k nahlédnutí na [Nastavení - Systém - Info o telefonu - Právní informace - Právní dokumenty pro software LG - Zásady ochrany osobních údajů].
+
+Veškeré překlady těchto informací o aktualizaci Softwaru jsou vyhotoveny vzhledem k místním požadavkům a v případě jakéhokoli rozporu mezi anglickou verzí a kteroukoli jinou než anglickou verzí bude rozhodující anglická verze těchto informací o aktualizaci Softwaru, a to v rozsahu nezakázaném místními zákony ve vašem právním systému.
+
+2. Přehled aktualizací Softwaru FOTA
+
+Firmware společnosti LG může příležitostně na vašem mobilním telefonu (dále jen "Software") vyžadovat aktualizace nebo doplňky dodané společností LG, nebo může společnost LG poskytovat doplňkové komponenty k Softwaru. Provedením aktualizace Softwaru se na váš mobilní telefon nainstaluje nový Software, který poskytne tyto aktualizace, doplňky nebo doplňkové komponenty. Při aktualizaci Softwaru mohou být přidány nové funkce a v některých případech mohou být odstraněny stávající funkce. Po aktualizaci Softwaru již nesmíte používat software, na jehož základě byla zpřístupněna aktualizace Softwaru, a pravděpodobně již nebude možné se vrátit k předchozí verzi.  
+
+Vzhledem k tomu, že aktualizace softwaru je prováděna prostřednictvím procesu FOTA, mohou vám být v závislosti na vašem operátorovi a tarifu naúčtovány další poplatky, pokud stáhnete nový software přes mobilní síť. Pokud se chcete při aktualizacích Softwaru vyhnout používání mobilní datové sítě, zvolte v nastavení položku „Pouze Wi-Fi“.
+
+a. Vaše možnosti správy budoucích aktualizací Softwaru 
+Pokud odsouhlasíte tyto zásady ochrany osobních údajů FOTA, váš mobilní telefon bude příležitostně kontrolovat nový a aktualizovaný Software a automaticky instalovat nový nebo aktualizovaný Software, pokud bude k dispozici (funkce "Automatická kontrola"). Po nainstalování Softwaru vás upozorníme prostřednictvím oznámení ve vyskakovacím okně nebo zprávou na mobilním telefonu. Před aplikací Softwaru budete mít možnost aktualizaci Softwaru přijmout nebo odmítnout. Váš mobilní telefon také o půlnoci automaticky použije nainstalované aktualizace Softwaru (funkce "Automatické aktualizace"). Pokud chcete, můžete tyto funkce "Automatická kontrola" a "Automatické aktualizace") odmítnout v [Nastavení - Systém - Centrum aktualizací - Aktualizace softwaru - Menu přebytku - Nastavení]. Pokud odmítnete Automatická kontrola, odmítnete provádění budoucích aktualizací Softwaru.
+Pokud je váš mobilní telefon již používán a odmítnete provést aktualizaci Softwaru, nezapomeňte, že nenainstalování aktualizovaného Softwaru může mít za následek [zhoršení výkonu mobilního telefonu, problémy s kompatibilitou s novými nebo existujícími aplikacemi a další problémy s funkcemi nebo bezpečností vašeho mobilního telefonu].
+
+b. Naléhavé aktualizace Softwaru
+Pokud to okolnosti vyžadují, můžeme provádět aktualizaci Softwaru v souladu s našimi oprávněnými zájmy, aniž bychom poskytli individuální oznámení nebo požadavek k souhlasu, a bez ohledu na aktuální nastavení zařízení ("Naléhavá aktualizace softwaru"). Příklady okolností, které mohou vyžadovat aktualizaci Softwaru v naléhavých situacích, zahrnují ohrožení bezpečnosti zákazníků nebo bezpečnosti dat nebo provozní problémy, které mohou mít za následek významné narušení služeb nebo bezprostřední pravděpodobnost takových okolností.
+
+3. Informace, které od vás společnost LG může získat
+Během provádění aktualizace Softwaru může společnost LG shromažďovat z mobilního telefonu následující informace: Mezinárodní identifikační číslo mobilního zařízení (IMEI), sériové číslo, model mobilního telefonu, verze softwaru nebo firmwaru, operační systém telefonu, mobilní kód země (MCC), kód mobilní sítě (MNC), identifikátor služby Google Cloud Messaging (GCM) a vybraný jazyk. Tyto informace se shromažďují automaticky jako součást procesu provádění aktualizace Softwaru.
+
+Součástí naší role při poskytování mobilních služeb pro váš mobilní telefon je shromažďování provozních informací včetně protokolů systému s IP adresami. Tyto informace se shromažďují automaticky a jsou nezbytnou součástí provozu telefonu.
+
+4. Jak společnost LG využívá informace, které získává?
+Od vás získané informace používáme pro různé účely, včetně:
+-	Provedení aktualizace Softwaru (včetně jakýchkoli naléhavých aktualizací Softwaru), včetně kontroly, zda je Software aktuální, ověření mobilního telefonu a dodání příslušného Softwaru; 
+Potvrzení našich závazků podle [naší omezené záruky na produkt];
+- Poskytování oznámení týkající se bezpečnostních služeb mobilních telefonů a nouzových oznámení v reakci na bezpečnostní otázky;
+- Ochrana našich práv a majetku, a to i prostřednictvím soudních řízení;
+- Plnění regulačních požadavků; a
+- K analýze, vedení a vylepšování produktů a služeb, které nabízíme.
+
+Právní základ, na který se společnost LG bude spoléhat při zpracování vašich osobních údajů, bude obvykle jedna z následujících skutečností;
+- Smlouva: kde je nutné s vámi uzavřít smlouvu;
+- Legitimní zájmy: pokud je to nezbytné pro účely společnosti LG nebo legitimní obchodní zájmy třetí strany. Pro společnost LG to znamená její zájmy jako výrobce a poskytovatele služeb pro spotřební elektroniku;
+- Souhlas: kde jste se rozhodli ho poskytnout. Máte právo kdykoli svůj souhlas odvolat; nebo
+- Právní povinnost: pokud je zpracování nezbytné pro splnění našich zákonných povinností
+
+Souhrnné statistické údaje shromážděné během aktualizace Softwaru a během provozu mobilního telefonu můžeme také použít, abychom lépe porozuměli potřebám našich zákazníků, zlepšili naši péči o zákazníky a produkty a služby, které nabízíme, a pro průzkum trhu a analýzu. Tyto souhrnné statistické údaje neobsahují informace, které identifikují nebo mohou být přičítány fyzickým osobám.
+
+5. Kdy společnost LG sdílí informace s ostatními 
+identifikují nebo mohou být přičítány fyzickým osobám. Ale vezměte prosím na vědomí následující okolnosti, kdy můžeme tyto informace sdílet s následujícími třetími stranami:
+
+-	Pobočky a dceřiné společnosti. Společnost LG může sdílet osobní informace a neosobní údaje (včetně informací o mobilním telefonu) se svými pobočkami a dceřinými společnostmi po celém světě, pouze pokud je to nezbytné pro účely, pro které byly shromážděny. Výraz "pobočky" nebo "dceřiné společnosti" označuje společnosti, které mohou používat název společnosti LG nebo které mají společné vlastnictví nebo řízení, jako je například LG CNS nebo LG Electronics USA, Inc.;
+-	Třetí strany poskytující služby. Třetím stranám, kterým se společnost LG může zavazovat k tomu, aby příležitostně poskytovali služby v jejím zastoupení, například k plnění požadavků zákaznických služeb;
+-	Ostatní strany, pokud to vyžaduje zákon. V případě vyžádání soudním příkazem nebo jinými orgány státní správy nebo donucovacími orgány s cílem dodržovat právní proces nebo právní předpisy;
+-	Další strany ve spojení s korporátními transakcemi. V souvislosti s firemní událostí, jako je fúze, restrukturalizace, prodej nebo převod veškerých obchodních aktivit společnosti LG (včetně divize nebo dceřiné společnosti), kdy může společnost LG být nucena zveřejnit informace potenciálnímu kupujícímu a jeho profesionálním poradcům;
+-	Další strany, když je potřeba chránit naši službu. Při prosazování našich smluvních práv, přijímání opatření proti odpovědnosti, vyšetřování podezřelé nebo skutečně protiprávní činnosti nebo vyšetřování nebo obraně proti tvrzením nebo obviněním třetích stran; nebo
+-	Další strany za účelem ochrany osobní bezpečnosti nebo majetku našich zákazníků. Abychom ochránili práva, osobní bezpečnost nebo majetek našich zákazníků nebo veřejnosti.
+
+Za žádných okolností nebudou vaše osobní údaje shromážděné během aktualizace Softwaru zpracovány pro marketingové účely bez vašeho souhlasu, ani bez vašeho souhlasu sdíleny s třetími stranami pro marketingové účely.
+
+6. Přenos osobních údajů
+My i naše pobočky, dceřiné společnosti a poskytovatelé služeb můžeme používat vaše osobní údaje v jiných zemích, než kde se nachází váš mobilní telefon, pro účely popsané v těchto Zásadách ochrany osobních údajů. Zákony o ochraně dat v některých zemích nemusí nabízet stejnou úroveň ochrany jako v zemi, kde se nacházíte. Před převodem osobních údajů však podnikneme kroky, abychom zajistili, že tyto informace budou mít v přijímající zemi nebo jurisdikci stejnou úroveň ochrany. Tím, že souhlasíte s těmito zásadami ochrany osobních údajů, výslovně souhlasíte se zpracováním vašich osobních údajů v zemích nebo jurisdikcích, kde příslušné zákony nemusí poskytovat stejnou úroveň ochrany osobních údajů jako zákony země nebo jurisdikce, kde se nacházíte, mimo jiné včetně Korejské republiky nebo Spojených států v souladu s těmito zásadami ochrany osobních údajů.
+ 
+
+7. Jak dlouho společnost LG uchová mé osobní údaje?
+Přijmeme přiměřené kroky, abychom zajistili, že vaše osobní údaje uchováme tak dlouho, jak je to nezbytné pro účel, pro který byly shromážděny, nebo podle požadavků platných zákonů.
+
+Pokud požadujete vymazání vašich osobních údajů, protože již nejsou zapotřebí, nebo na základě námitek proti zpracování nebo tvrzení, že zpracování je protiprávní, máte právo požadovat omezení zpracování během ověřování vaší žádosti o vymazání.
+
+8. Bezpečnost
+Abychom ochránili vaše osobní údaje před náhodnou ztrátou a neoprávněným přístupem, používáním, změnám a zveřejněním, využíváme komerčně přiměřené úsilí a dodržujeme průmyslem obecně uznávané postupy. Přesto vzhledem ke struktuře internetu, neustále se měnícím technologiím a jiným faktorům mimo naši kontrolu, nemůžeme zaručit, že komunikace mezi vámi a našimi servery bude uchráněna neoprávněnému přístupu třetích stran nebo že nebudeme vystaveni narušení bezpečnosti. Za zpřístupnění osobních údajů kvůli chybám v přenosu nebo neoprávněným nebo protiprávním činům třetích stran nepřebíráme žádnou zodpovědnost.
+
+9. Právo odmítnout nebo odvolat souhlas 
+Podle platných místních zákonů můžete mít právo odmítnout souhlas s těmito Zásadami ochrany osobních údajů, odvolat souhlas nebo jinak požadovat, abychom přestali zpracovávat vaše osobní údaje. Pro uplatnění těchto vašich práv nás prosím kontaktujte způsobem, jaký je uveden v těchto zásadách, a my co nejdříve odpovíme na vaši žádost.
+Kromě toho můžete odvolat souhlas s dalším shromažďováním vašich osobních údajů vypnutím funkcí "Automatická kontrola" a "Automatické aktualizace" ve vašem mobilním telefonu, které jsou popsány výše. K těmto funkcím se dostanete v [Nastavení - Systém - Centrum aktualizací - Aktualizace softwaru - Menu přebytku - Nastavení].
+Mějte však na paměti, že pokud deaktivujete Automatická kontrola a Automatické aktualizace, může to ovlivnit nebo z části či zcela omezit provoz vašeho mobilního telefonu a služeb. 
+Shromažďování a používání informací, jak je popsáno výše, je nezbytné pro optimální provoz vašeho mobilního telefonu.
+
+Máte-li jakékoli dotazy ohledně vašeho práva odmítnout nebo odvolat váš souhlas, kontaktujte nás na e-mailové adrese lgecsvc@lge.com
+
+10. Ochrana soukromí dětí
+Ochrana soukromí dětí je pro nás velmi důležitá. Z tohoto důvodu váš mobilní telefon není určen dětem podle definice platných místních zákonů a vědomě neshromažďujeme ani neuchováváme osobní údaje dětí. Pokud bychom se dozvěděli nebo byli upozorněni, že jsme získali informace od dítěte bez ověření souhlasu rodičů, tyto osobní údaje okamžitě odstraníme.
+
+11. Změny zásad ochrany osobních údajů společnosti LG
+Tyto zásady ochrany osobních údajů mohou být příležitostně aktualizovány společností LG. Pokud podstatně změníme naše zásady ochrany osobních údajů, oznámíme vám to aktualizací níže uvedeného data a poskytnutím změněných zásad ochrany osobních údajů pro kontrolu s následující aktualizací Softwaru.
+
+12. Přístup k vašim informacím
+Máte právo požadovat podrobnosti o vašich osobních údajích, které společnost LG shromažďuje pro přístup k vašim osobním údajům, jejich opravu nebo vymazání. Mějte však na paměti, že nemusíme být schopni vaše osobní údaje měnit nebo smazat, pokud jsme podle platných zákonů povinni tyto informace uchovat. Pokud to zákony povolují, může vám být za poskytnutí takové služby účtován malý poplatek. Vezměte prosím na vědomí, že můžeme vaši žádost zamítnout, pokud je nepřiměřeně poškozující, ohrožuje soukromí ostatních nebo je velmi nepraktická. Kromě toho může aktualizace nebo smazání osobních údajů ovlivnit nebo omezit provoz vašeho mobilního telefonu nebo služeb.
+
+Pokud byste chtěli požádat o přístup, opravu nebo odstranění vašich osobních údajů, kontaktujte nás na e-mailové adrese lgecsvc@lge.com
+
+13. Právo podat stížnost
+Podle platných místních zákonů v EU máte právo podat stížnost týkající se zpracování vašich osobních údajů u příslušného dozorčího orgánu. Pro další informace o vašem právu na podání stížnosti nebo pro podání stížnosti společnosti LG nás prosím kontaktujte na e-mailové adrese lgecsvc@lge.com. 
+
+14. Kontaktování společnosti LG ohledně těchto zásad ochrany osobních údajů 
+Máte-li jakékoli dotazy nebo připomínky k těmto zásadám ochrany osobních údajů, kontaktujte nás na e-mailové adrese lgecsvc@lge.com.
+
+Poslední aktualizace: 1. listopadu 2017

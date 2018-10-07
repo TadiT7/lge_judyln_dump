@@ -1,0 +1,80 @@
+﻿Politik om beskyttelse af personlige oplysninger for brug af aktivitetslogge
+
+Nærværende politik om beskyttelse af personlige oplysninger beskriver, hvordan LGE får adgang til og bruger dine personlige oplysninger i forbindelse med tjenesten LG Device Diagnostics Report Services. Læs den grundigt, før du bruger tjenesten LG Device Diagnostics Report.
+
+1. Indledning
+LG Electronics, Inc. ("LGE" eller "vi") er forpligtet til at beskytte oplysninger om de personer og grupper, der bruger LG-softwaren til PC/Mac. Tjenesten LG Device Diagnostics Report yder fjernforbindelsestjeneste ("tjenester").
+Nærværende politik om beskyttelse af personlige oplysninger beskriver, hvordan vi indsamler, bruger og deler oplysninger, som vi indhenter på baggrund af din brug af tjenesterne, og den fastsætter især:
+
+– Hvilke oplysninger LGE kan indhente fra dig;
+– Hvordan LGE anvender de indhentede oplysninger;
+– Hvornår LGE deler oplysninger med andre; og
+– Hvordan du kan kontrollere LGE's brug og deling af dine oplysninger.
+
+Din enhed eller tjenesten LG Device Diagnostics Report kan give adgang til softwareapplikationer og links til andre tjenester, der er ejet og drevet af tredjeparter, herunder udbydere af operativsystemer og andre udbydere af indhold og applikationer. Disse tredjepartstjenester dækkes ikke af nærværende politik om beskyttelse af personlige oplysninger og har deres egen politik, der gælder for indsamling, brug og deling af oplysninger i forbindelse med deres tjenester. Vi opfordrer dig til at læse disse politikker. LGE kan ikke drages til ansvar eller være erstatningspligtige over for sådanne tredjeparters praksis vedrørende beskyttelse af personlige oplysninger.
+
+2. Hvilke oplysninger indhenter LGE?
+De oplysninger, vi modtager, når du bruger tjenesterne, falder ind i følgende kategorier:
+– Mobilenhedens status: model, softwareversion, IMEI, serienummer, IMSI, strømstatus, batteristatus, anvendelse af CPU/RAM/internt lager, gennemsnitlig anvendelsestid, resultat af selvdiagnosticering af hardware (wi-fi, Bluetooth, nærhedssensor, belysningssensor, fingeraftrykssensor osv.).
+– Netværksstatus: tjenestestatus (opkald, data), signalstyrke, stationsoplysninger, opkaldshyppighed/-tidspunkt
+– Oplysninger om applikationen: listen over installerede og slettede apps, appversion, senest åbnede apps, hyppighed af/statistikker over appbrug 
+– Mobiltelefonens forbindelsesstatus: forbindelsesstatusser for wi-fi, Bluetooth, GPS, øretelefoner, batterioplader, USB og SD-kort
+– Fejloplysninger: fastlåst skærm, utilsigtede slukninger, afbrudte opkald, programfejl (alvorlige, undtagelse)
+
+3. Hvordan bruger LGE de oplysninger, den indhenter?
+Vi bruger oplysninger, der er indhentet fra din brug af tjenesterne, til forskellige formål, såsom:
+
+- Til at identificere og diagnosticere mobilenheden
+- Til at udføre kundeservice og administrere servicehistorik
+- Til at sende pushmeddelelser
+- Til at analysere service/logge/enhedshistorik for at yde forbedret kvalitet og opnå forbedret kundetilfredshed
+
+Vi kan kombinere oplysninger, der er indhentet fra tjenesterne, herunder personlige oplysninger, med oplysninger, som du giver til os på andre måder, til ovennævnte formål.
+
+Retsgrundlaget, som LGE afhænger af for at behandle dine personlige oplysninger, bliver typisk et af følgende;
+
+– Kontrakt: Hvor det er nødvendigt at indgå en kontrakt med dig;
+– Legitime interesser: Hvor det er nødvendigt til LGE's formål eller til en tredjeparts legitime, forretningsmæssige interesser. For LGE vil dette indeholde dens interesser som producent af forbrugerelektronikprodukter og tjenesteudbydere;
+– Samtykke: Hvor du har valgt at give det. Du har til enhver tid ret til at tilbagetrække dit samtykke; eller
+– Juridisk forpligtelse: Hvor behandlingen er nødvendig for at opfylde vores juridiske forpligtelser
+
+Oplysningerne, der er givet i de adskillige underafsnit herunder, angiver, hvilke af ovenstående retsgrundlag der bruges i forhold til forskellige kategorier af personlige oplysninger.
+
+4. Deling af oplysninger
+Tilsluttede virksomheder og datterselskaber. LGE kan dele personlige oplysninger og ikke-personlige oplysninger med sine tilsluttede virksomheder og datterselskaber i hele verden til de formål, der er beskrevet i nærværende politik om beskyttelse af personlige oplysninger. Begrebet 'tilsluttede virksomheder' eller 'datterselskaber' henviser til virksomheder i koncernen, der kan bruge navnet LG, eller som har fælles ejerskab eller kontrol, som fx LG CNS eller LG Electronics France S.A.R.L.
+
+Vær opmærksom på, at vi yderligere kan dele sådanne oplysninger med følgende enheder:
+- Eksterne tjenesteudbydere. Vi kan dele dine personlige oplysninger og ikke-personlige oplysninger med eksterne tjenesteudbydere for at aktivere tjenesten LG Device Diagnostics Report;
+
+Selvom vi generelt ikke deler oplysningerne med yderligere tredjeparter, skal du være opmærksom på, at vi i følgende specifikke tilfælde yderligere kan dele oplysningerne med følgende enheder;
+- Andre parter, når det er påkrævet i henhold til lovgivningen. Som påkrævet ved retskendelse eller af andre regerings- eller retshåndhævende myndigheder for at opfylde en retlig proces eller lov;
+- Andre parter i forbindelse med selskabsretlige transaktioner. I forbindelse med en virksomhedsbegivenhed, som fx fusion eller salg af hele eller en del af LGE's forretning (herunder en division eller et datterselskab), hvor LGE måtte være nødt til at videregive oplysninger til en potentiel køber og dens professionelle rådgivere;
+- Andre parter, når det er nødvendigt at beskytte vores tjenester. For at beskytte og forsvare vores rettigheder og ejendom, bl.a. ad rettens vej;
+- Andre parter, når det er med henblik på at beskytte vores brugeres personlige sikkerhed eller ejendom. For at beskytte vores brugeres eller offentlighedens personlige sikkerhed eller ejendom.
+
+Dine personlige oplysninger må under ingen omstændigheder behandles til markedsføringsformål eller deles med tredjeparter til markedsføringsformål.
+
+5. Overførsel af personlige oplysninger
+Vi, vores tilsluttede virksomheder, datterselskaber og leverandører kan bruge oplysninger (herunder dine personlige oplysninger) i andre lande end det, hvor din enhed befinder sig, til at levere vores tjeneste LG Device Diagnostics Report til dig og til ethvert andet formål, der er beskrevet i nærværende politik om beskyttelse af personlige oplysninger. Love om databeskyttelse i mange af disse lande kan muligvis ikke tilbyde det samme beskyttelsesniveau som dem i det land, hvor du befinder dig. Inden vi overfører dine personlige oplysninger, træffer vi dog foranstaltninger for at sikre, at sådanne oplysninger får det samme beskyttelsesniveau. For yderligere oplysninger om, hvordan vi håndterer og beskytter dine personlige oplysninger, bedes du kontakte os på mc.customer-service@lge.com. 
+
+6. I hvor lang tid vil LGE opbevare mine personlige oplysninger?
+Vi opbevarer dine personlige oplysninger, så længe det er nødvendigt for os til at levere dig tjenesten eller til andre formål, der er beskrevet i nærværende politik om beskyttelse af personlige oplysninger. Vi bruger kriterier til at bestemme den passende tilbageholdelsesperiode til forskellige kategorier af personlige oplysninger, som du giver os. Vi opbevarer eksempelvis oplysninger, der er nødvendige for at beskytte os mod et retskrav, som fx oplysninger vedrørende en kontrakt, i kontraktens løbetid og op til et år efter. Efter denne periode vil de blive slettet eller i nogle tilfælde anonymiseret. Hvis vi har indsamlet personlige oplysninger baseret på dit samtykke, og vi ikke har noget andet lovligt grundlag for at fortsætte med behandlingen af disse, og hvis du senere trækker dit samtykke tilbage, vil vi slette dine personlige oplysninger.
+Hvis du anmoder om at slette dine personlige oplysninger, fordi der ikke længere er behov for dem, eller på grundlag af en indsigelse mod behandlingen eller et krav på, at behandlingen er ulovlig, har du ret til at søge, at behandlingen begrænses, mens vi bekræfter din anmodning om sletning.
+
+7. Sikkerhed
+Vi udfolder kommercielt rimelige bestræbelser for at beskytte fortroligheden og sikkerheden af dine personlige oplysninger. Dog kan vi på grund af internettets design, de konstante forandringer i den teknologiske verden og andre faktorer uden for vores kontrol ikke garantere, at kommunikationen mellem dig og vores servere bliver fri for uautoriseret adgang fra tredjeparter, eller at vi ikke bliver udsat for sikkerhedsbrud. Vi påtager os intet ansvar for videregivelse af personlige oplysninger på grund af fejl i overførsel eller tredjeparters uautoriserede eller ulovlige handlinger.
+
+8. Beskyttelse af børns privatliv
+Beskyttelse af børns privatliv er vigtigt for os. Af den grund er ingen af vores tjenester rettet mod eller designet til at tiltrække personer under 16 år eller myndighedsalderen i den relevante retskreds. Vi hverken indsamler eller opbevarer bevidst personlige oplysninger fra brugere under 16 år eller myndighedsalderen i den relevante retskreds. Skulle vi lære eller blive underrettet om, at vi har indsamlet oplysninger fra brugere under 16 år eller myndighedsalderen i den relevante retskreds, sletter vi straks sådanne personlige oplysninger.
+
+9. Ændringer i LGE's politik om beskyttelse af personlige oplysninger
+Nærværende politik om beskyttelse af personlige oplysninger kan opdateres af LGE fra tid til anden. Hvis vi ændrer vores politik om beskyttelse af personlige oplysninger væsentligt, vil vi holde dig opdateret via tjenesterne eller på en anden måde. Det kan være nødvendigt, at du anerkender eller accepterer den reviderede politik om beskyttelse af personlige oplysninger for fortsat at bruge tjenesterne.
+
+10. Adgang til dine oplysninger og dine rettigheder 
+I henhold til lovgivningen i visse retskredse kan du have ret til at anmode om adgang til, berigtigelse eller sletning af de personlige oplysninger, som LGE har om dig, eller ret til at gøre indsigelse mod eller begrænse visse former for behandling af dine personlige oplysninger (eller til at trække dit samtykke til LGE's behandling tilbage) eller til at modtage en maskinlæsbar kopi af dine personlige oplysninger. Hvis loven tillader det, kan der opkræves et mindre gebyr for at yde dig en sådan service. Læg mærke til, at vi kan afvise at behandle dine anmodninger, hvis de er urimeligt krænkende, bringer andres privatliv i fare eller er yderst upraktiske (hvis tilladt i henhold til gældende lovgivning). For yderligere oplysninger eller for at udøve nogen af disse rettigheder bedes du kontakte os på mc.customer-service@lge.com.
+
+11. Kontakt LGE vedrørende denne politik om beskyttelse af personlige oplysninger
+Hvis du har spørgsmål eller kommentarer om denne politik om beskyttelse af personlige oplysninger eller LGE's behandling af dine personlige oplysninger, kan du kontakte vores databeskyttelseskontor på dpo-eu@lge.com. Du har også ret til at indgive en klage til en databeskyttelsesmyndighed, selvom vi vil opfordre dig til først at kontakte os direkte for at løse eventuelle problemer.
+
+Sidst opdateret: 1. marts 2018
+

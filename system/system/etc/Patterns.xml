@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PATTERNMAP>
+<operator name="VZW">
+    <cdma>
+        <home>
+            <assist_on>
+                <idle>
+                    <!-- 7 digits -->
+                    <pattern search="[0-9]{7}" format="ASIS"/>
+                    <!-- 10 digits + VZW NANP Check -->
+                    <pattern search="([0-9]{10})" format="_ORASIS|ASIS"/>
+                    <!-- 11 digits + VZW NANP Check -->
+                    <pattern search="1([0-9]{10})" format="_ORASIS|ASIS"/>
+                    <!-- '+' + 11 digits + VZW NANP Check -->
+                    <!-- Not sure what spec docs says -->
+                    <pattern search="\+1([0-9]{10})" format="_OR1_G1|1_G1"/>
+                    <!-- dialing international numbers -->
+                    <!-- US IDD + CC + AreaCode + PhoneNumber -->
+                    <pattern search="011([0-9]{7,})" format="ASIS"/>
+                    <!-- '+' + CC + AC + PN -->
+                    <pattern search="\+([0-9]{7,})" format="011_G1"/>
+                    <!-- 'not 1' + more than 10 digits (total > 11 digits -->
+                    <pattern search="([02-9]{1})([0-9]{10,})" format="011_G1_G2"/>
+                </idle>
+                <contact>
+                    <!-- dial us / nanp numbers -->
+                    <!-- 7 digits -->
+                    <pattern search="[0-9]{7}" format="ASIS"/>
+                    <!-- 10 digits + NANP check, but results will be the same -->
+                    <pattern search="([0-9]{3})([0-9]{7})" format="_ORASIS|ASIS"/>
+                    <!-- 1 + 10 digits + NANP check, but results will be the same -->
+                    <pattern search="1([0-9]{10})" format="_ORASIS|ASIS"/>
+                    <!-- '+' + 1 + 10 digits + NANP check -->
+                    <pattern search="\+1([0-9]{10})" format="_OR1_G1|1_G1"/>
+                    <!-- dial international number -->
+                    <pattern search="011[0-9]{7,}" format="ASIS"/>
+                    <pattern search="\+([0-9]{7,})" format="011_G1"/>
+                    <pattern search="([02-9][0-9]{10,})" format="011_G1"/>
+                </contact>
+            </assist_on>
+            <assist_off>
+                <idle>
+                    <!-- 7 digits -->
+                    <pattern search="[0-9]{7}" format="ASIS"/>
+                    <!-- 10 digits + VZW NANP Check -->
+                    <pattern search="([0-9]{10})" format="_ORASIS|ASIS"/>
+                    <!-- 11 digits + VZW NANP Check -->
+                    <pattern search="1([0-9]{10})" format="_ORASIS|ASIS"/>
+                    <!-- '+' + 11 digits + VZW NANP Check -->
+                    <!-- Not sure what spec docs says -->
+                    <pattern search="\+1([0-9]{10})" format="_OR1_G1|1_G1"/>
+                    <!-- dialing international numbers -->
+                    <!-- US IDD + CC + AreaCode + PhoneNumber -->
+                    <pattern search="011([0-9]{7,})" format="ASIS"/>
+                    <!-- '+' + CC + AC + PN -->
+                    <pattern search="\+([0-9]{7,})" format="011_G1"/>
+                    <!-- 'not 1' + more than 10 digits (total > 11 digits -->
+                    <pattern search="([02-9]{1})([0-9]{10,})" format="011_G1_G2"/>
+                </idle>
+                <contact>
+                    <pattern search="[0-9]{7}" format="ASIS"/>
+                    <pattern search="([0-9]{3})([0-9]{7})" format="_ORASIS|ASIS"/>
+                    <pattern search="1([0-9]{10})" format="_ORASIS|ASIS"/>
+                    <pattern search="\+1([0-9]{10})" format="_OR1_G1|1_G1"/>
+                    <!-- dial international number -->
+                    <pattern search="011[0-9]{7,}" format="ASIS"/>
+                    <pattern search="\+([0-9]{7,})" format="011_G1"/>
+                    <pattern search="([02-9][0-9]{10,})" format="011_G1"/>
+                </contact>
+            </assist_off>
+        </home>
+        <roaming>
+            <assist_on>
+                <idle>
+                    <!-- dialing NANP number -->
+                    <pattern search="\+(1[2-9]{1}[0-9]{2}[2-9]{1}[0-9]{6})" format="_OTA_IDD_G1"/>
+                    <pattern search="_OTA_IDD(1[2-9]{1}[0-9]{2}[2-9]{1}[0-9]{6})" format="ASIS"/>
+                    <!-- dialing local number -->
+                    <pattern search="\+_OTA_CC([0-9]{7,})" format="_OTA_NDD_G1"/>
+                    <pattern search="_OTA_IDD_OTA_CC([0-9]{7,})" format="_OTA_NDD_G1"/>
+                    <pattern search="(?=_OTA_NDD)(?!_REF_IDD)([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_REF_IDD_OTA_CC([0-9]{7,})" format="_OTA_NDD_G1"/>
+                    <!-- dialing international number -->
+                    <pattern search="\+([0-9]{7,})" format="_OTA_IDD_G1"/>
+                    <pattern search="_OTA_IDD(?!_OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_REF_IDD(?!_OTA_CC)([0-9]{7,})" format="_OTA_IDD_G1"/>
+                </idle>
+                <contact>
+                    <!-- International CDMA contact, 1-A. -->
+                    <pattern search="\+_OTA_CC([0-9]{7,})" format="_OTA_NDD_G1"/>
+                    <!-- International CDMA contact, 1-B. -->
+                    <pattern search="\+(?!_OTA_CC)([0-9]{7,})" format="_OTA_IDD_G1"/>
+                    <!-- International CDMA contact, 2-a. -->
+                    <pattern search="(_REF_IDD|_OTA_IDD)_OTA_CC([0-9]{7,})" format="_OTA_NDD_G2"/>
+                    <!-- International CDMA contact, 2-b-i -->
+                    <pattern search="_REF_IDD(?!OTA_CC)([0-9]{7,})" format="_OTA_IDD_G1"/>
+                    <!-- International CDMA contact, 2-b-ii -->
+                    <pattern search="_OTA_IDD(?!OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <!-- International CDMA contact, 3-1 -->
+                    <!-- This case is handled at AssistDialNumberParserVZW -->
+                    <!-- International CDMA contact, 3-2 -->
+                    <!-- This case is handled at AssistDialNumberParserVZW -->
+                    <!-- International CDMA contact, 4 -->
+                    <!-- This case is handled at AssistDialNumberParserVZW -->
+                    <!-- International CDMA contact, 5 -->
+                    <!-- This case is handled at AssistDialNumberParserVZW -->
+                </contact>
+            </assist_on>
+            <assist_off>
+                <idle>
+                    <!-- dialing NANP number -->
+                    <pattern search="\+(1[2-9]{1}[0-9]{2}[2-9]{1}[0-9]{6})" format="_OTA_IDD_G1"/>
+                    <pattern search="_OTA_IDD(1[2-9]{1}[0-9]{2}[2-9]{1}[0-9]{6})" format="ASIS"/>
+                    <!-- dialing local number -->
+                    <pattern search="\+_OTA_CC([0-9]{7,})" format="_OTA_NDD_G1"/>
+                    <pattern search="_OTA_IDD_OTA_CC([0-9]{7,})" format="_OTA_NDD_G1"/>
+                    <pattern search="(?=_OTA_NDD)(?!_REF_IDD_OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_REF_IDD_OTA_CC([0-9]{7,})" format="ASIS"/>
+                    <!-- dialing international number -->
+                    <pattern search="\+([0-9]{7,})" format="_OTA_IDD_G1"/>
+                    <pattern search="_OTA_IDD(?!_OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_REF_IDD(?!_OTA_CC)([0-9]{7,})" format="ASIS"/>
+                </idle>
+                <contact>
+                    <!-- International CDMA contact, 1-A. -->
+                    <pattern search="\+_OTA_CC([0-9]{7,})" format="_OTA_NDD_G1"/>
+                    <!-- International CDMA contact, 1-B. -->
+                    <pattern search="\+(?!_OTA_CC)([0-9]{7,})" format="_OTA_IDD_G1"/>
+                    <!-- International CDMA contact, 2-a. -->
+                    <pattern search="(_REF_IDD|_OTA_IDD)_OTA_CC([0-9]{7,})" format="ASIS"/>
+                    <!-- International CDMA contact, 2-b-i -->
+                    <pattern search="_REF_IDD(?!OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <!-- International CDMA contact, 2-b-ii -->
+                    <pattern search="_OTA_IDD(?!OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <!-- International CDMA contact, 3-1 -->
+                    <!-- This case is handled at AssistDialNumberParserVZW -->
+                    <!-- International CDMA contact, 3-2 -->
+                    <!-- This case is handled at AssistDialNumberParserVZW -->
+                    <!-- International CDMA contact, 4 -->
+                    <!-- This case is handled at AssistDialNumberParserVZW -->
+                    <!-- International CDMA contact, 5 -->
+                    <!-- This case is handled at AssistDialNumberParserVZW -->
+                </contact>
+            </assist_off>
+        </roaming>
+    </cdma>
+    <gsm>
+        <home>
+            <assist_on>
+                <idle>
+                </idle>
+                <contact>
+                </contact>
+            </assist_on>
+            <assist_off>
+                <idle>
+                </idle>
+                <contact>
+                </contact>
+            </assist_off>
+        </home>
+        <roaming>
+            <assist_on>
+                <idle>
+                    <!-- dialing NANP number -->
+                    <!-- '+' + 1 + AC + PN - No NANP check -->
+                    <pattern search="\+(1[0-9]{10})" format="ASIS"/>
+                    <pattern search="_REF_IDD(1[2-9]{1}[0-9]{2}[2-9]{1}[0-9]{6})" format="+_G1"/>
+                    <!-- Local_IDD + 1 + AC + PN - Spec requires NANP check, but result will be the same. -->
+                    <pattern search="_OTA_IDD(1[0-9]{10})" format="_ORASIS|ASIS"/>
+                    <!-- dialing local number -->
+                    <pattern search="\+_OTA_CC([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_OTA_IDD_OTA_CC([0-9]{7,})" format="ASIS"/>
+                    <pattern search="(?=_OTA_NDD)(?!_REF_IDD)([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_REF_IDD([0-9]{7,})" format="+_G1"/>
+                    <!-- pattern search="(?=_REF_IDD_OTA_CC)([0-9]{7,})" format="+_OTA_CC_G1"/-->
+                    <!-- dialing international number -->
+                    <pattern search="\+(?!_OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_OTA_IDD(?!_OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_REF_IDD(?!_OTA_CC)([0-9]{7,})" format="+_G1"/>
+                </idle>
+                <contact>
+                    <pattern search="\+[0-9]{10,}" format="ASIS"/>
+                    <pattern search="_REF_IDD([0-9]{10,})" format="+_G1"/>
+                    <!-- something wrong here. spec needs to be reviewed!! -->
+                    <pattern search="_REF_NDD([0-9]{_REF_NUMLEN})" format="+_REF_CC_G1"/>
+                    <!-- something wrong here. spec needs to be reviewed!! -->
+                    <pattern search="([0-9]{_REF_NUMLEN})" format="+_REF_CC_G1"/>
+                    <pattern search="([0-9]{_REF_PNLEN})" format="+_REF_CC_REF_AC_G1"/>
+                </contact>
+            </assist_on>
+            <assist_off>
+                <idle>
+                    <!-- dialing NANP number -->
+                    <pattern search="\+(1[2-9]{1}[0-9]{2}[2-9]{1}[0-9]{6})" format="ASIS"/>
+                    <pattern search="_OTA_IDD(1[2-9]{1}[0-9]{2}[2-9]{1}[0-9]{6})" format="ASIS"/>
+                    <pattern search="_REF_IDD(1[2-9]{1}[0-9]{2}[2-9]{1}[0-9]{6})" format="ASIS"/>
+                    <!-- dialing local number -->
+                    <pattern search="\+_OTA_CC([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_OTA_IDD_OTA_CC([0-9]{7,})" format="ASIS"/>
+                    <pattern search="(?=_OTA_NDD)(?!_REF_IDD)([0-9]{7,})" format="ASIS"/>
+                    <pattern search="(?=_REF_IDD_OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <!-- dialing international number -->
+                    <pattern search="\+(?!_OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_OTA_IDD(?!_OTA_CC)([0-9]{7,})" format="ASIS"/>
+                    <pattern search="_REF_IDD(?!_OTA_CC)([0-9]{7,})" format="ASIS"/>
+                </idle>
+                <contact>
+                    <pattern search="\+[0-9]{10,}" format="ASIS"/>
+                    <pattern search="_REF_IDD([0-9]{10,})" format="ASIS"/>
+                    <!-- something wrong here. spec needs to be reviewed!! -->
+                    <pattern search="_REF_NDD([0-9]{_REF_NUMLEN})" format="ASIS"/>
+                    <!-- something wrong here. spec needs to be reviewed!! -->
+                    <pattern search="([0-9]{_REF_NUMLEN})" format="ASIS"/>
+                    <pattern search="([0-9]{_REF_PNLEN})" format="ASIS"/>
+                </contact>
+            </assist_off>
+        </roaming>
+    </gsm>
+</operator>
+</PATTERNMAP>

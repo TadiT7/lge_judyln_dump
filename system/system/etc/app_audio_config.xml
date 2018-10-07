@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--CAPPFIX_VIB_HAPTICK: Vibrate Governing 30ms-->
+    <!-- Vibrator pattern for feedback about a long screen/key press -->
+    <integer-array name="config_longPressVibePattern">
+        <item>0</item>
+        <item>40</item>
+    </integer-array>
+
+    <!-- Vibrator pattern for feedback about touching a virtual key -->
+    <integer-array name="config_virtualKeyVibePattern">
+        <item>0</item>
+        <item>40</item>
+    </integer-array>
+
+    <!-- Vibrator pattern for a very short but reliable vibration for soft keyboard tap -->
+    <integer-array name="config_keyboardTapVibePattern">
+        <item>0</item>
+        <item>40</item>
+    </integer-array>
+    <!--CAPPFIX_VIB_HAPTICK-->
+
+    <!-- Vibrator pattern to be used as the default for notifications
+         that specify DEFAULT_VIBRATE.
+     -->
+    <integer-array name="config_defaultNotificationVibePattern">
+        <item>0</item>
+        <item>800</item>
+    </integer-array>
+
+    <!-- Vibrator pattern to be used as the default for notifications
+         that do not specify vibration but vibrate anyway because the device
+         is in vibrate mode.
+     -->
+    <integer-array name="config_notificationFallbackVibePattern">
+        <item>0</item>
+        <item>800</item>
+    </integer-array>
+
+    <!-- Vibrator pattern for LG keyboard app(LG IME)
+     -->
+    <integer-array name="config_LGkeyboardVibePattern">
+        <item>0</item>
+        <item>25</item>
+    </integer-array>
+
+    <call_configration>
+        <!--Default Tone-->
+        <integer name="tone_default">80</integer>
+
+        <!--Call Waiting Tone-->
+        <integer name="tone_call_waiting">80</integer>
+        <integer name="tone_call_waiting_spk">100</integer>
+        <integer name="tone_call_waiting_headset">80</integer>
+        <integer name="tone_call_waiting_bt">100</integer>
+
+        <!--Call Waiting End Tone-->
+        <integer name="tone_call_waiting_end">70</integer>
+        <integer name="tone_call_waiting_end_spk">81</integer>
+        <integer name="tone_call_waiting_end_headset">80</integer>
+        <integer name="tone_call_waiting_end_bt">80</integer>
+
+        <!--Busy tone : CDMA -->
+        <integer name="tone_busy_cdma">50</integer>
+        <integer name="tone_busy_cdma_spk">50</integer>
+        <integer name="tone_busy_cdma_headset">50</integer>
+        <integer name="tone_busy_cdma_bt">50</integer>
+
+        <!--Busy tone : GSM -->
+        <integer name="tone_busy_gsm">80</integer>
+        <integer name="tone_busy_gsm_spk">80</integer>
+        <integer name="tone_busy_gsm_headset">80</integer>
+        <integer name="tone_busy_gsm_bt">80</integer>
+
+        <!--Congestion -->
+        <integer name="tone_congestion">80</integer>
+        <integer name="tone_congestion_spk">80</integer>
+        <integer name="tone_congestion_headset">80</integer>
+        <integer name="tone_congestion_bt">80</integer>
+
+        <!--Call End-->
+        <integer name="tone_call_end">60</integer>
+        <integer name="tone_call_end_spk">80</integer>
+        <integer name="tone_call_end_headset">65</integer>
+        <integer name="tone_call_end_bt">80</integer>
+
+        <!--OTA Call End-->
+        <integer name="tone_ota_call_end">80</integer>
+        <integer name="tone_ota_call_end_spk">80</integer>
+        <integer name="tone_ota_call_end_headset">80</integer>
+        <integer name="tone_ota_call_end_bt">80</integer>
+
+        <!--Voice Privacy-->
+        <integer name="tone_voice_privacy">80</integer>
+        <integer name="tone_voice_privacy_spk">80</integer>
+        <integer name="tone_voice_privacy_headset">80</integer>
+        <integer name="tone_voice_privacy_bt">80</integer>
+
+        <!--CDMA Reorder tone-->
+        <integer name="tone_cdma_reorder">80</integer>
+        <integer name="tone_cdma_reorder_spk">80</integer>
+        <integer name="tone_cdma_reorder_headset">80</integer>
+        <integer name="tone_cdma_reorder_bt">80</integer>
+
+        <!--CDMA ABBR Intercept-->
+        <integer name="tone_cdma_abbr_intercept">50</integer>
+        <integer name="tone_cdma_abbr_intercept_spk">50</integer>
+        <integer name="tone_cdma_abbr_intercept_headset">50</integer>
+        <integer name="tone_cdma_abbr_intercept_bt">50</integer>
+
+        <!--CDMA Fade tone-->
+        <integer name="tone_cdma_fade">80</integer>
+        <integer name="tone_cdma_fade_spk">80</integer>
+        <integer name="tone_cdma_fade_headset">80</integer>
+        <integer name="tone_cdma_fade_bt">80</integer>
+
+        <!--CDMA CallDrop tone-->
+        <integer name="tone_cdma_calldrop">60</integer>
+        <integer name="tone_cdma_calldrop_spk">80</integer>
+        <integer name="tone_cdma_calldrop_headset">65</integer>
+        <integer name="tone_cdma_calldrop_bt">80</integer>
+
+        <!--CDMA Auto Redial-->
+        <integer name="tone_cdma_audoredial">50</integer>
+        <integer name="tone_cdma_audoredial_spk">50</integer>
+        <integer name="tone_cdma_audoredial_headset">50</integer>
+        <integer name="tone_cdma_audoredial_bt">50</integer>
+
+        <!--CDMA Connected tone-->
+        <integer name="tone_cdma_connected">80</integer>
+        <integer name="tone_cdma_connected_spk">80</integer>
+        <integer name="tone_cdma_connected_headset">65</integer>
+        <integer name="tone_cdma_connected_bt">80</integer>
+
+        <!--Ring back tone-->
+        <integer name="tone_ring_back_tone">70</integer>
+        <integer name="tone_ring_back_tone_spk">80</integer>
+        <integer name="tone_ring_back_tone_headset">65</integer>
+        <integer name="tone_ring_back_tone_bt">80</integer>
+
+        <!--Unobtainable Number-->
+        <integer name="tone_unobtainable_number">80</integer>
+        <integer name="tone_unobtainable_number_spk">80</integer>
+        <integer name="tone_unobtainable_number_headset">80</integer>
+        <integer name="tone_unobtainable_number_bt">80</integer>
+
+        <!-- Signal tone info  -->
+        <integer name="tone_relative_volume_signalinfo">80</integer>
+        <integer name="tone_relative_volume_signalinfo_spk">80</integer>
+        <integer name="tone_relative_volume_signalinfo_headset">80</integer>
+        <integer name="tone_relative_volume_signalinfo_bt">80</integer>
+
+        <!-- Emergency Tone -->
+        <integer name="tone_relative_volume_emergency">100</integer>
+        <integer name="tone_relative_volume_emergency_spk">100</integer>
+        <integer name="tone_relative_volume_emergency_headset">100</integer>
+        <integer name="tone_relative_volume_emergency_bt">100</integer>
+
+        <!--InCall DTMF dialpad Tone-->
+        <integer name="tone_stream_dtmf">40</integer>
+        <integer name="tone_stream_dtmf_spk">35</integer>
+        <integer name="tone_stream_dtmf_headset">25</integer>
+        <integer name="tone_stream_dtmf_bt">25</integer>
+
+        <!--Video call ring back tone-->
+        <integer name="tone_lte_vt_ringtone">80</integer>
+        <integer name="tone_lte_vt_ringtone_spk">80</integer>
+        <integer name="tone_lte_vt_ringtone_headset">80</integer>
+        <integer name="tone_lte_vt_ringtone_bt">80</integer>
+
+        <!--Call holding Tone-->
+        <integer name="tone_lte_call_holding">80</integer>
+        <integer name="tone_lte_call_holding_spk">80</integer>
+        <integer name="tone_lte_call_holding_headset">80</integer>
+        <integer name="tone_lte_call_holding_bt">80</integer>
+
+        <!--Vibration time call connection-->
+        <integer name="vibration_time_call_connection">30</integer>
+    </call_configration>
+
+    <dtmf_configration>
+        <!-- Dialer -->
+        <integer name="dialer_dtmf_volume_spk">60</integer>
+        <integer name="dialer_dtmf_volume_headset">50</integer>
+        <integer name="dialer_dtmf_volume_call_spk">60</integer>
+        <integer name="dialer_dtmf_volume_call_headset">50</integer>
+
+        <!-- Message -->
+        <integer name="msg_dtmf_noti_volume_rcv">60</integer>
+        <integer name="msg_dtmf_noti_volume_headset">65</integer>
+        <integer name="msg_dtmf_cmas_volume_rcv">90</integer>
+        <integer name="msg_dtmf_cmas_volume_headset">60</integer>
+    </dtmf_configration>
+</resources>
+

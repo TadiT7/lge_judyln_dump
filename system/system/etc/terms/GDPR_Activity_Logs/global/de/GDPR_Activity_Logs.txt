@@ -1,0 +1,26 @@
+﻿Aktivitätsprotokolle
+
+Um die Benutzerfreundlichkeit insgesamt und die Fehlerbehebung bei Geräten verbessern zu können, werden Aktivitätsprotokolle erstellt und auf Ihrem LGE-Mobilgerät gespeichert.
+
+Die Protokolle enthalten die folgenden Informationen: 
+- Status des mobilen Geräts: Modell, Softwareversion, IMEI, eindeutige Identifikationsnummer, IMSI, Stromversorgungsstatus, Akkustatus, CPU/RAM/interne Speicherauslastung, durchschnittliche Nutzungsdauer, Hardware-Selbstdiagnoseergebnis (Wi-Fi, BT, Näherungssensor, Beleuchtungssensor, Fingerabdrucksensor, usw.) 
+- Netzwerkstatus
+- Informationen über die Anwendung sowie über Anwendungsnutzung/-statistiken
+- Verbindungsstatus Ihres Mobilgeräts
+- Fehlerinformationen: Eingefrorener Bildschirm, unbeabsichtigte Ausschaltungen, unterbrochene Anrufe, Anwendungsfehler
+- Mobilgeräteinstellung
+
+Solche Aktivitätsprotokolle werden ausschließlich auf Ihrem Gerät gespeichert und nicht an LGE oder Dritte übertragen, es sei denn, es wurde darüber eine gesonderte Vereinbarung getroffen.
+Die Informationselemente, auf die LGE zugreift, können einzeln oder in zusammengefasster Form verwendet werden. LGE verwendet die Informationen, um Kundenbedürfnisse besser zu verstehen, und unsere Kundenbetreuung sowie die von uns angebotenen Produkte und Dienstleistungen verbessern zu können. Die Informationen aus dem Aktivitätsprotokoll ermöglichen es beispielsweise LGE, Netzwerkfehler, Verbindungsprobleme und Akkuprobleme zu untersuchen und zu beheben. 
+
+LGE kann die Informationen des Aktivitätsprotokolls mit folgenden Drittanbietern teilen:
+- Mit verbundenen Unternehmen und Tochtergesellschaften (d.h. Unternehmen die beherrschen, beherrscht werden oder sich im gemeinsamen Eigentum oder unter der Vorherrschaft von LGE befinden); und
+- Vertreter und Dienstleister, die an Vertraulichkeitsverpflichtungen gebunden sind und die Informationen ausschließlich im Namen von LGE verwenden oder um angeforderte Produkte und Dienstleistungen bereitstellen zu können oder um anderweitig eine vertragliche Verpflichtung Ihnen gegenüber erfüllen zu können.
+
+LGE ist für die Datenschutzpraktiken von Dritten weder verantwortlich noch haftbar.
+
+Außerdem wird LGE die Erfassung der Informationen für das Aktivitätsprotokoll anfordern, wann immer Sie den LGE-Kundendienst (A/S) oder den Überholdienst verwenden. Zum Zeitpunkt der Verwendung dieser Dienste werden Sie gesondert dazu befragt.
+
+Obwohl unabhängig davon, ob Sie zustimmen oder nicht, die Historiques des activités informationen in Ihrem Gerät generiert werden, wird LG auf solche Informationen nur zugreifen, falls Sie auf „OK“ klicken, selbst wenn Sie in einer separaten Vereinbarung später zustimmen. Sollten Sie nicht wünschen, dass LGE auf Ihre Informationen im Aktivitätsprotokoll zugreift, können Sie den Zugriff auf Ihre Informationen im Aktivitätsprotokoll über Einstellungen [Einstellungen – System – Über das Telefon – Aktivitätsprotokolle] sperren. Um zu verstehen, in welcher Art und Weise LGE Ihre Informationen, einschließlich der Informationen im Aktivitätsprotokoll, verarbeitet, verweisen wir Sie gerne auf unsere Datenschutzrichtlinie unter [Einstellungen – System – Über das Telefon – Rechtliche Hinweise – Rechtstexte für LG Software – Datenschutzrichtlinien].
+
+Jede Übersetzung dieses Aktivitätsprotokolldokuments wurde für lokale Anforderungen unternommen und im Falle von Abweichungen zwischen der englischen und einer nicht-englischen Version, muss die englische Version dieses Aktivitätsprotokolldokuments in dem Maße gelten, wie sie durch die geltende Gesetzgebung in Ihrem Zuständigkeitsbereich maximal möglich wäre.

@@ -1,0 +1,8 @@
+﻿Samtykke til brukerstemminformasjon for Google Automatic Speech Recognition ("ASR») (Googles automatiske talegjenkjenning) 
+
+Denne Parking Assistant (Parkeringsassistent)-tjenesten («Tjeneste») bruker Google ASR, en funksjon levert av Google, Inc. ("Google"), som gjør det mulig å konvertere brukerstemme til tekst.
+Stemmeinformasjon for din bruk av Tjenesten blir overført til og lagret av Google. Google vil bruke denne informasjonen med det formål å konvertere stemmen din til tekstinformasjon og overføre tekstinformasjonen til LGE.
+All informasjon som samles inn av ASR, er underlagt Googles personvernregler, som finnes på (https://www.google.com/policies/privacy/).
+Du kan velge å deaktivere bruken av ASR ved å kansellere tjenestene i "Alternativmeny - Juridisk informasjon".
+LGE samler aldri inn og/eller bruker personlig informasjon, inkludert brukerstemmeinformasjon, og bruker kun den ikke-personidentifiserbare informasjonen som tekstinformasjon for Tjenesten.
+Videre vil LGE aldri (og vil ikke tillate noen tredjepart å) bruke tekstinformasjonen til å spore eller samle inn personlig identifiserbar informasjon av besøkende til Tjenesten, og vil ikke knytte data hentet fra denne Tjenesten med personlig identifiserbar informasjon fra noen som helst kilde.

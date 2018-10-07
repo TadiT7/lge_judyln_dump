@@ -1,0 +1,27 @@
+﻿Dnevniki dejavnosti
+
+Da bi izboljšali celotno uporabniško izkušnjo in izboljšali odpravljanje napak na napravi, vaša mobilna naprava LGE ustvarja in shranjuje dnevnike dejavnosti.
+
+Dnevniki vključujejo spodaj naštete podatke 
+- Stanje mobilne naprave: model, različica programske opreme, IMEI, edinstvena identifikacijska številka, IMSI, stanje napajanja, stanje baterije, uporaba CPU/RAM/notranjega pomnilnika, povprečni čas uporabe, rezultat samodiagnosticiranja strojne opreme (Wi-Fi, BT, bližinsko tipalo, tipalo osvetlitve, tipalo prstnega odtisa, itd.) 
+- Stanje omrežja
+- Podatki o aplikacijah, uporabi/statistiki aplikacije
+- Stanje povezave vaše mobilne naprave
+- Podatki o napakah: zamrznjen zaslon, neidentificirane prekinitve napajanja, prekinjeni klici, napake aplikacij
+- Nastavitev mobilne naprave
+
+Dnevniki dejavnosti so shranjeni izključno na vaši napravi in se jih ne prenaša preko brezžičnih povezav v družbo LGE ali katerim koli tretjim strankam, če ni v ločeni pogodbi določeno drugače.
+Elemente podatkov, do katerih dostopa družba LGE, se lahko uporablja individualno ali kombinirane v združeno obliko. Družba LGE uporablja informacije za boljše razumevanje potreb naših strank, za izboljšanje skrbi za stranke, izdelkov in storitev, ki jih ponuja. Dnevnik dejavnosti na primer omogoča družbi LGE raziskovati in odpravljati omrežne napake, težave s povezavo in težave z baterijo. 
+
+Družba LGE lahko da podatke iz dnevnikov dejavnosti v skupno rabo z naslednjimi tretjimi strankami:
+- podružnice in hčerinske družbe (kar pomeni družbe, ki nadzorujejo družbo LGE, so pod njenim nadzorom ali so v skupnem lastništvu ali nadzoru z družbo LGE) in,
+- agenti in ponudniki storitev, ki jih obvezuje zaveza k zaupnosti in ki uporabljajo podatke samo v imenu družbe LGE ali za zagotavljanje zahtevanih izdelkov in storitev, ali za drugačno izpolnjevanje pogodbenih obveznosti do vas.
+- 
+Družba LGE ni odgovorna ali zavezana k praksam zasebnosti tretjih strani.
+
+Družba LGE bo zahtevala zbiranje podatkov iz dnevnikov dejavnosti tudi, kadar uporabljate storitvi LGE After Service(A/S) ali Refurbishment Service (Storitev obnove). Vprašanje boste prejeli ločeno ob uporabi teh storitev.
+
+Čeprav se informacije Dnevniki dejavnosti ustvarjajo v napravi ne glede na vaše soglasje, družba LG ne bo dostopala do takih informacij, če ne kliknete »V redu«, tudi če se kasneje strinjate v ločeni pogodbi. Če ne želite, da bi družba LG dostopala do vaših dnevnikov dejavnosti, lahko kadar koli blokirate naš dostop do podatkov v svojih dnevnikih dejavnosti v nastavitvah [Nastavitve – Sistem – Vizitka telefona – Dnevniki dejavnosti]. Če želite izvedeti, kako družba LGE običajno ravna z vašimi podatki, vključno z dnevniki dejavnosti, si oglejte naš pravilnik o zasebnosti v [Nastavitve – Sistem – Vizitka telefona – Pravne informacije – Pravna dokumentacija za programsko opremo LG – Varovanje zasebnosti].
+
+Vsi prevodi tega dokumenta o dnevnikih dejavnosti se izdelajo za lokalne potrebe, v primeru neskladnosti med angleško in drugo različico je treba upoštevati angleško različico tega dokumenta o dnevnikih dejavnosti do največje mere, ki jo dovoljuje lokalni zakon v vašem območju pravne pristojnosti.
+

@@ -1,0 +1,6 @@
+﻿Notkun núverandi staðsetningarupplýsinga fyrir Staðirnir mínir
+
+Þessi Staðirnir mínir þjónusta („Þjónustan“) notar staðsetningarupplýsingar tækis notanda til að greina mynstur staðsetninga þeirra sem notandi hefur dvalið á í lengri tíma og til að gefa eiginleikann að þekkja slíkan stað sjálfkrafa, eða leyfa notanda að útnefna staðsetningu handvirkt, sem „Staðirnir mínir“ (t.d. heimili, vinnustaður). Áframhaldandi mynsturgreining gæti breytt staðsetningu áður útnefndrar staðsetningu sjálfvirkt. 
+Þó þessi Þjónusta noti staðsetningarupplýsingar (grundvallar senditæki (BTS), GPS, Wi-Fi, netkerfisstaðsetningar (NLP)) sem geymdar eru í tæki notanda, safnar LG Electronics Inc. (LGE) aldrei eða notar staðsetningarupplýsingar notanda og og notar aðeins og geymir í tæki notanda.
+Þessi þjónusta byrjar sjálfvirkt að þekkja staði þar sem notandi hefur dvalið í lengri tíma frá þeim tíma þegar notandi samþykkir notkun núverandi staðsetningarupplýsinga í tæki notanda og heldur áfram nema notandi hætti notkun Þjónustunnar með því að slökkva á samsvarandi eiginleika.
+Engu að síður, mun LGE aðeins nota núverandi staðsetningarupplýsingar notanda ef notandi kveikir á valkostinum að nota Google staðsetningarþjónustu tækisins.

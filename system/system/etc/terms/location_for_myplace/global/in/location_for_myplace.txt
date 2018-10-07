@@ -1,0 +1,6 @@
+﻿Penggunaan informasi lokasi saat ini untuk Tempat Saya
+
+Layanan Tempat Saya (“Layanan”) menggunakan informasi lokasi perangkat pengguna untuk menganalisis pola lokasi yang di tempat tersebut pengguna berada dalam jangka waktu yang lama dan untuk menyediakan fungsi yang mengenali lokasi secara otomatis, atau memperbolehkan pengguna menentukan lokasi secara manual, sebagai “Tempat saya” (misalnya rumah, tempat kerja). Melanjutkan analisis pola dapat secara otomatis mengubah lokasi lokasi yang telah ditentukan sebelumnya.
+Meskipun Layanan ini menggunakan informasi lokasi (base transceiver station (BTS), GPS, Wi-Fi, posisi jaringan (NLP)) yang tersimpan pada perangkat pengguna, LG Electronics Inc. (LGE) tidak pernah mengumpulkan atau menggunakan informasi lokasi pengguna dan hanya menggunakan dan menyimpan di perangkat pengguna
+Layanan ini mulai mengenali secara otomatis tempat yang di situ pengguna berada dalam jangka waktu yang lama, yang dimulai saat pengguna setuju untuk menggunakan informasi lokasi perangkat pengguna saat ini dan seterusnya kecuali pengguna menghentikan penggunaan Layanan dengan menonaktifkan opsi fungsi yang sesuai.
+Namun demikian, LGE hanya akan menggunakan informasi lokasi pengguna saat ini jika pengguna mengaktifkan opsi untuk menggunakan layanan lokasi Google perangkat.

@@ -1,0 +1,108 @@
+﻿Chính sách Bảo mật
+
+Chính sách Bảo mật này mô tả cách thức LGE truy cập và sử dụng thông tin cá nhân của bạn trong ngữ cảnh của Dịch vụ Cập nhật Phần mềm. Vui lòng đọc kỹ chính sách này trước khi sử dụng Dịch vụ Cập nhật Phần mềm.
+
+1.	Giới thiệu
+LG Electronics Inc. (“LGE” hoặc “chúng tôi”) cam kết bảo vệ thông tin của các cá nhân và nhóm người sử dụng điện thoại di động LGE. Chính sách Bảo mật này trình bày cách thức chúng tôi thu thập, sử dụng và chia sẻ thông tin mà chúng tôi thu thập từ điện thoại di động LGE của bạn và, cụ thể, trình bày:
+-	Tổng quan về Cập nhật Phần mềm FOTA;
+-	Thông tin LGE có thể có được từ bạn;
+-	Cách thức LGE sử dụng thông tin mà LGE có được;
+-	Khi nào LGE chia sẻ thông tin với những người khác; 
+-	Truyền dữ liệu cá nhân ra nước ngoài
+-	LGE sẽ lưu giữ thông tin cá nhân của tôi trong bao lâu?
+-	An toàn
+-	Quyền từ chối hoặc rút bỏ thỏa thuận
+-	Bảo vệ sự riêng tư của trẻ nhỏ
+-	Những thay đổi đối với Chính sách Bảo mật của LGE
+-	Truy cập Thông tin Của bạn
+-	Quyền nộp đơn khiến nại; và
+-	Liên hệ với LGE về Chính sách Bảo mật này
+
+Chính sách này chỉ áp dụng cho thông tin do LGE thu thập từ điện thoại di động LGE của bạn để thực hiện việc cập nhật phần sụn thông qua quy trình Phần sụn Qua môi trường Không dây (Firmware-Over-the-Air - “FOTA”) (“Cập nhật Phần mềm”). Chính sách này không áp dụng cho bất kỳ sản phẩm hoặc dịch vụ nào khác của LGE, bao gồm các ứng dụng di động được đề xuất hoặc cung cấp bởi LGE. Chính sách cũng không áp dụng cho bất kỳ sản phẩm hoặc dịch vụ nào do các bên thứ ba cung cấp, bao gồm các nhà cung cấp hệ điều hành, các nhà cung cấp ứng dụng hoặc nội dung khác hoặc nhà mạng của bạn. Các sản phẩm và dịch vụ nằm ngoài phạm vi của Chính sách Bảo mật này có các chính sách riêng của chúng áp dụng cho việc thu thập, sử dụng và chia sẻ thông tin, và chúng tôi khuyến khích bạn đọc các chính sách này. LGE không chịu trách nhiệm hoặc chịu trách nhiệm pháp lý về việc thực hành bảo mật của các bên thứ ba.
+
+Nếu gần đây bạn đã mua điện thoại di động này, cần phải thực hiện việc Cập nhật Phần mềm như được mô tả trong Chính sách Bảo mật này trước khi sử dụng, để đảm bảo rằng điện thoại di động của bạn hoạt động đúng cách và có các tính năng, chức năng và các cài đặt an toàn cập nhật nhất của chúng tôi. Nếu bạn có bất kỳ câu hỏi gì, vui lòng liên hệ với chúng tôi như được cung cấp trong Chính sách này.
+
+Chính sách này sẵn có để bạn xem xét bất kỳ lúc nào tại mục [Cài đặt – Hệ thống – Giới thiệu về điện thoại – Thông tin pháp lý – Các tài liệu pháp lý cho Phần mềm LG – Chính sách bảo mật].
+
+Bất kỳ bản dịch nào của Chính sách Bảo mật này ược thực hiện theo yêu cầu của địa phương và trong trường hợp có sự khác biệt giữa bản tiếng Anh và bản không phải tiếng Anh thì bản tiếng Anh của Chính sách này sẽ chi phối, trong phạm vi không bị cấm theo luật địa phương tại khu vực pháp lý của bạn.
+2.	Tổng quan vềCập nhật Phần mềm FOTA
+Đôi khi, phần sụn LGE trên điện thoại di động của bạn (“Phần mềm”) có thể yêu cầu việc cập nhật hoặc bổ sung do LGE thực hiện, hoặc LGE có thể cung cấp các thành phần bổ trợ cho Phần mềm. Việc thực hiện Cập nhật Phần mềm sẽ cài đặt Phần mềm mới trên điện thoại di động của bạn để cung cấp các nội dung cập nhật, bổ sung hoặc các thành phần bổ trợ này. Việc Cập nhật Phần mềm có thể thêm các tính năng hoặc chức năng mới và, trong các trường hợp hạn chế, có thể loại bỏ các tính năng hoặc chức năng hiện có. Sau khi hoàn thành việc Cập nhật Phần mềm, bạn có thể không còn sử dụng và có thể không thể quay trở lại phiên bạn phần mềm đã cài đặt trước đây. 
+
+Do việc Cập nhật Phần mềm được thực hiện thông qua quy trình FOTA, có thể mất thêm phí nếu bạn tải Phần mềm mới về qua mạng di động, tùy thuộc vào nhà mạng và gói dịch vụ của bạn. Nếu bạn muốn tránh sử dụng dữ liệu mạng di động để Cập nhật Phần mềm, vui lòng chọn tùy chọn “Chỉ Wi-Fi” trong mục Cài đặt. 
+
+a.	Các tùy chọn của bạn đối với việc quản lý việc Cập nhật Phần mềm tương lai 
+Khi bạn đồng ý với Chính sách Bảo mật FOTA này, điện thoại di động của bạn sẽ thỉnh thoảng kiểm tra để xác định phần mềm được cập nhật hoặc mới và tự động cài đặt Phần mềm được cập nhật hoặc mới khi sẵn có (Chức năng “Kiểm tra tự động”). Sau khi Phần mềm được cài đặt, chúng tôi sẽ cảnh báo cho bạn về việc sử dụng thông báo pop-up hoặc tin nhắn thông báo trên điện thoại di động của bạn. Bạn sẽ có tùy chọn là chấp nhận hoặc từ chối việc Cập nhật Phần mềm trước khi ứng dụng Phần mềm. Điện thoại di động của bạn cũng sẽ tự động ứng dụng Phần mềm được cài đặt vào lúc nửa đêm (Chức năng “Các phiên bản cập nhật tự động”). Bạn có thể từ chối các chức năng “Kiểm tra tự động” và “Các phiên bản cập nhật tự động” này tại [Cài đặt – Hệ thống – Trung tâm cập nhật – Cập nhật Phần mềm – Trình đơn phát – Cài đặt]. Nếu bạn từ chối Kiểm tra tự động, bạn đang thực sự từ chối thực hiện việc Cập nhật Phần mềm trong tương lai.
+Nếu điện thoại di động của bạn đang được sử dụng rồi và bạn từ chối thực hiện việc Cập nhật Phần mềm, vui lòng lưu ý rằng việc không cài đặt Phần mềm cập nhật có thể dẫn đến [sự xuống cấp của hiệu năng của điện thoại di động của bạn, các vấn đề về tính tương thích với các ứng dụng hiện có hoặc các ứng dụng mới, và các vấn đề khác với các tính năng hoặc độ an toàn của điện thoại di động của bạn].
+
+b.	Cập nhật Phần mềm Khẩn cấp
+Trong trường hợp cần thiết, chúng tôi có thể thực hiện việc Cập nhật Phần mềm theo lợi ích hợp pháp của chúng tôi, mà không gửi thông báo riêng hoặc xin ý kiến chấp thuận, và bất kể các cài đặt thiết bị hiện tại là gì (“Cập nhật Phần mềm Khẩn cấp”). Các ví dụ về các trường hợp có thể đòi hỏi việc Cập nhật Phần mềm Khẩn cấp bao gồm các mối đe doạn đến sự an toàn của khách hàng hoặc an toàn dữ liệu, hoặc các vấn đề hoạt động có thể dẫn đến sự gián đoạn dịch vụ đáng kể, hoặc khả năng sắp xảy ra các trường hợp như vậy.
+
+3.	Thông tin LGE có thể có được từ bạn
+Khi thực hiện việc Cập nhật Phần mềm, LGE có thể thu thập thông tin sau đây từ điện thoại di động của bạn: Số Nhận dạng Thiết bị Di động Quốc tế (International Mobile Equipment Identity - IMEI), số chuỗi, mẫu điện thoại di động, các phiên bản phần mềm và/hoặc phần sụn, hệ điều hành điện thoại, mã quốc gia cho thông tin di động (mobile country code - MCC), mã mạng di động (mobile network code - MNC), Bộ nhận dạng Gửi tin Qua Đám mây Google (Google Cloud Messaging - GCM) và ngôn ngữ được chọn. Thông tin này được thu thập một cách tự động với tư cách là một phần của quy trình thực hiện việc Cập nhật Phần mềm.
+
+Một phần vai trò của chúng tôi trong việc cung cấp các dịch vụ di động cho điện thoại di động của bạn là chúng tôi sẽ thu thập thông tin về hoạt động, bao gồm các nhật ký hệ thống với các địa chỉ IP. Thông tin này được thu thập một cách tự động và là một phần cần thiết trong hoạt động của điện thoại.
+
+4.	 LGE sẽ sử dụng thông tin có được như thế nào?
+Chúng tôi sử dụng thông tin có được từ bạn cho các mục đích khác nhau, bao gồm:
+-	Thực hiện việc Cập nhật Phần mềm (bao gồm bất kỳ trường hợp Cập nhật Phần mềm Khẩn cấp nào), bao gồm việc kiểm tra xem liệu Phần mềm có cập nhật không, xác thực điện thoại di động của bạn, và giao phần mềm thích hợp; 
+-	Xác nhận các nghĩa vụ của chúng tôi theo [Bảo hành Sản phẩm Giới hạn của chúng tôi];
+-	Gửi các thông báo liên quan đến các dịch vụ an toàn điện thoại di động và các thông báo khẩn cấp phản hồi lại các vấn đề về an toàn;
+-	Bảo hộ và biện hộ các quyền và tài sản của chúng tôi, bao gồm việc tiến hành thủ tục khởi kiện;
+-	Tuân thủ các yêu cầu theo quy định của pháp luật; và
+-	Phân tích, xem xét lại và cải tiến các sản phẩm và dịch vụ mà chúng tôi cung cấp.
+
+Cơ sở pháp lý mà LGE sẽ căn cứ vào để xử lý thông tin cá nhân của bạn thường là một trong các cơ sở sau đây:
+-	Hợp đồng: trong trường hợp cần phải thực hiện hợp đồng với bạn;
+-	Lợi ích hợp pháp: trong trường hợp cần thiết cho lợi ích kinh doanh hợp pháp của LGE hoặc bên thứ ba. Đối với LGE, cơ sở này sẽ bao gồm lợi ích của LGE với tư cách là nhà sản xuất các sản phẩm điện tử tiêu dùng và nhà cung cấp dịch vụ;
+-	Thỏa thuận: trong trường hợp bạn đã quyết định cung cấp thông tin. Bạn có quyền rút bỏ thỏa thuận của bạn bất kỳ lúc nào; hoặc
+-	Nghĩa vụ pháp lý: trong trường hợp cần phải xử lý thông tin vì mục đích tuân thủ các nghĩa vụ pháp lý của chúng tôi
+
+Chúng tôi cũng sử dụng dữ liệu thống kê tổng hợp thu thập được trong quá trình Cập nhật Phần mềm và trong quá trình vận hành điện thoại di động để hiểu rõ hơn nhu cầu của khách hàng, để nâng cao khả năng chăm sóc khách hàng của chúng tôi và cải tiến các sản phẩm và dịch vụ mà chúng tôi cung cấp, và nằm mục đích nghiên cứu và phân tích thị trường. Dữ liệu thống kê tổng hợp này không chứa thông tin khiến nhận diện hoặc có thể được quy cho các thể nhân.
+
+5.	Khi nào LGE chia sẻthông tin với những người khác
+Chúng tôi thường không chia sẻ với các bên thứ ba thông tin mà chúng tôi thu thập được trong quá trình Cập nhật Phần mềm khiến nhận diện hoặc có thể được quy cho các thể nhân. Tuy nhiên, vui lòng lưu ý các trường hợp dưới đây mà trong đó chúng tôi có thể chia sẻ thông tin với các bên thứ ba:
+
+-	Chi nhánh và công ty con. LGE có thể chia sẻ thông tin cá nhân và thông tin không mang tính cá nhân (bao gồm điện thoại di độngthông tin) với các chi nhánh và các công ty con trên khắp thế giới chỉ trong trường hợp cần thiết cho các mục đích mà thông tin được thu thập. Thuật ngữ ‘chi nhánh’ hoặc ‘công ty con’ đề cập đến các công ty thuộc tập đoàn có thể đang sử dụng tên LG hoặc có quyền sở hữu hoặc kiểm soát chung, chẳng hạn như LG CNS hoặc LG Electronics U.S.A., Inc.;
+-	Nhà cung cấp Dịch vụ Bên Thứ ba. Người bán hàng bên thứ ba mà LGE thỉnh thoảng có thể thay mặt tham gia cung cấp các dịch vụ, chẳng hạn như thự hiện các yêu cầu dịch vụ khách hàng;
+-	Các Bên khác Khi Luật Yêu cầu. Theo lệnh của toàn án hoặc yêu cầu của cơ quan chính phủ hoặc cơ quan thực thi pháp luật để tuân thủ quy trình pháp lý hoặc luật pháp;
+-	Các Bên khác Liên quan đến các Giao dịch của Công ty. Liên quan đến sự kiện của công ty, chẳng hạn như sáp nhập, tái cấu trúc, bán hoặc chuyển giao toàn bộ hoặc một phần kinh doanh của LGE (bao gồm sự kiện như vậy xảy ra với phòng ban hoặc công ty con), trong trường hợp đó LGE có thể cần bộc lộ thông tin cho người mua tiềm năng và các chuyên gia tư vấn;
+-	Các Bên khác Khi cần Bảo vệ Dịch vụ Của chúng tôi. Để thực thi các quyền theo hợp đồng của chúng tôi, phòng ngừa đối với trách nhiệm pháp lý, điều tra các hoạt động bất hợp pháp trong thực tế hoặc đáng nghi ngờ, hoặc điều tra hoặc tự bảo vệ chống lại các yêu sách hoặc cáo buộc của bên thứ ba; hoặc
+-	Các Bên khác Khi Cần Bảo vệ Bất kỳ Sự An toàn Cá nhân hoặc Tài sản nào của Khách hàng Của chúng tôi. Để bảo vệ các quyền, sự an toàn các nhân hoặc tài sản của các khách hàng của chúng tôi hoặc công chúng.
+
+Trong bất kỳ trường hợp nào thông tin cá nhân của bạn được thu thập trong quá trình Cập nhật Phần mềm sẽ không được xử lý cho các mục đích tiếp thị mà không có sự đồng ý của bạn, hoặc cũng không được chia sẻ với các bên thứ ba cho các mục đích tiếp thị mà không có sự đồng ý của bạn.
+
+6.	Truyền dữ liệu cá nhân
+Chúng tôi, các chi nhánh, công ty con và nhà cung cấp dịch vụ của chúng tôi có thể sử dụng thông tin cá nhân của bạn ở các nước không phải là nước mà điện thoại di động của bạn được định vị, cho các mục đích được mô tả trong Chính sách Bảo mật này. Luật bảo vệ dữ liệu ở một số nước có thể không mang lại mức độ bảo vệ giống luật ở nước bạn. Tuy nhiên, trước khi truyền thông tin cá nhân của bạn, chúng tôi sẽ thực hiện các bước để đảm bảo rằng thông tin này sẽ được hưởng mức độ bảo vệ giống như ở nước hoặc khu vực pháp lý của người nhận. Bằng cách đồng ý với Chính sách Bảo mật này bạn đồng ý một cách rõ ràng với việc xử lý thông tin cá nhân của bạn ở các nước hoặc khu vực pháp lý mà các luật có thể áp dụng có thể không cung cấp mức độ bảo vệ thông tin cá nhân giống như luật pháp của nước hoặc khu vực pháp lý mà bạn đang ở, bao gồm, mà không giới hạn, Hàn Quốc hoặc Mỹ, theo Chính sách Bảo mật này.
+
+7.	 LGE sẽ lưu giữ thông tin cá nhân của tôi trong bao lâu?
+Chúng tôi sẽ thực hiện các bước hợp lý để đảm bảo chúng tôi lưu giữ thông tin cá nhân của bạn trong thời lâu như cần thiết cho các mục đích mà thông tin được thu thập, hoặc theo yêu cầu của luật có thể áp dụng. 
+Nếu bạn đề nghị xóa thông tin cá nhân của bạn do thông tin này không còn được cần đến nữa, hoặc căn cứ vào việc phản đối xử lý hoặc yêu cầu là việc xử lý không hợp pháp, bạn có quyền đòi hỏi việc hạn chế xử lý trong khi chúng tôi xác minh yêu cầu của bạn để tiến hành xóa.
+
+8.	 An toàn
+Chúng tôi nỗ lực một cách hợp lý về mặt thương mại và tuân theo các thông lệ về dữ liệu ngành được  chấp nhận chung để bảo vệ thông tin cá nhân của bạn chống lại tổn thất bất thường và việc truy cập , sử dụng, sửa đổi và bộc lộ trái phép. Tuy nhiên, do thiết kế của Internet, sự thay đổi từng ngày của công nghệ và các yếu tố khác ngoài tầm kiểm soát của chúng tôil, chúng tôi không thể đảm bảo rằng sự liên lạc giữa bạn và các máy chủ của chúng tôi sẽ không bị truy cập trái phép bởi các bên thứ ba hoặc chúng tôi không bị vi phạm vấn đề về an toàn. Chúng tôi không chịu trách nhiệm đối với việc bộc lộ thông tin cá nhân do lỗi đường truyền hoặc các hành vi trái phép hoặc bất hợp pháp của các bên thứ ba.
+
+9.	 Quyền Từ chối hoặc Rút bỏ Thỏa thuận
+Theo luật địa phương có thể áp dụng, bạn có thể có quyền từ chối đồng ý Chính sách Bảo mật này, rút bỏ thỏa thuận hoặc đề nghĩ rằng chúng tôi dừng xử lý thông tin cá nhân của bạn. Để thực hiện các quyền này của bạn, vui lòng liên hệ với chúng tôi như được cung cấp trong Chính sách này, và chúng tôi sẽ phản hồi lại yêu cầu bạn sớm như có thể. 
+Ngoài ra, bạn có thể rút bỏ thỏa thuận về việc thu thập thêm thông tin cá nhân của bạn bằng cách vô hiệu hóa các chức năng “Kiểm tra tự động” và “Các phiên bản cập nhật tự động” trên điện thoại di động của bạn, như được mô tả trên đây. Có thể truy cập các chức năng này tại [Cài đặt – Hệ thống – Trung tâm cập nhật – Cập nhật Phần mềm – Trình đơn phát – Cài đặt].
+Tuy nhiên, cần hiểu rằng nếu bạn vô hiệu hóa các chức năng Kiểm tra tự động và Các phiên bản cập nhật tự động, điều này có thể gây ảnh hưởng hoặc làm hạn chế một phần hoặc toàn bộ hoạt động của điện thoại di động của bạn hoặc các dịch vụ. Việc thu thập và sử dụng thông tin, như được mô tả trên đây, cần thiết cho việc vận hành tối ưu điện thoại di động của bạn. 
+
+Nếu bạn có bất kỳ câu hỏi nào về quyền từ chối hoặc cách thức rút bỏ thỏa thuận, vui lòng liên hệ với chúng tôi tại lgecsvc@lge.com
+
+10.	Bảo vệ sự Riêng tư của Trẻ nhỏ
+Bảo vệ sự riêng tư của trẻ nhỏ là điều quan trọng đối với chúng tôi. Vì lý do đó, điện thoại di động của bạn không nhằm dùng cho trẻ nhỏ theo luật địa phương có thể áp dụng, và chúng tôi không cố ý thu thập hoặc duy trì thông tin cá nhân từ trẻ nhỏ. Trong trường hợp chúng tôi biết hoặc được thông báo rằng chúng tôi đã thu thập thông tin từ nhỏ mà không xác nhận sự chấp thuận của cha mẹ, chúng tôi sẽ xóa thông tin cá nhân đó.
+
+11.	Những Thay đổi đối với Chính sách Bảo mật của LGE
+Chính sách Bảo mật này có thể được LGE cập nhật tùy từng lúc. Nếu chúng tôi thực hiện sự thay đổi quan trọng đối với Chính sách Bảo mật của chúng tôi, chúng tôi sẽ thông báo cho bạn biết bằng cách cập nhật ngày ở bên dưới và cung cấp Chính sách Bảo mật được sửa đổi để bạn xem xét dưới góc độ là một phần của việc Cập nhật Phần mềm trong tương lai.
+
+12.	Truy cập Thông tin Của bạn
+Bạn có quyền yêu cầu các chi tiết liên quan đến thông tin cá nhân của bạn mà LGE thu thập để truy cập, sửa hoặc xóa thông tin cá nhân của bạn. Tuy nhiên, xin hiểu rằng chúng tôi có thể không thể chỉnh sửa hoặc xóa được thông tin cá nhân của bạn nếu luật có thể áp dụng yêu cầu chúng tôi phải duy trì thông tin đó. Nếu luật cho phép, bạn có thể phải tra một khoản phí nhỏ liên quan đến việc cung cấp dịch vụ này cho bạn. Xin lưu ý rằng chúng tôi có thể từ chối xử lý các yêu cầu của bạn nếu các yêu cầu này mang tính lạm dụng một cách bất hợp lý, gây hại cho sự riêng tư của người khác, hoặc cực kỳ phi lý. Ngoài ra, việc cập nhật hoặc xóa thông tin cá nhân có thể ảnh hưởng hoặc hạn chế sự vận hành điện thoại di động của bạn hoặc các dịch vụ. 
+
+Nếu bạn muốn thực hiện yêu cầu truy cập, chỉnh sửa hoặc xóa thông tin cá nhân của bạn, vui lòng liên hệ với chúng tôi tại lgecsvc@lge.com
+
+13.	Quyền Nộp đơn Khiếu nại
+Theo luật địa phương có thể áp dụng ở EU, bạn có quyền nộp đơn khiếu nại liên quan đến việc xử lý dữ liệu cá nhân của bạn đến cơ quan giám sát có liên quan. Để biết thêm thông tin về quyền nộp đơn khiếu nại hoặc nộp đơn khiếu nại cho LGE, vui lòng liên hệ với chúng tôi tại lgecsvc@lge.com. 
+
+14.	Liên hệ với LGE về Chính sách Bảo mật này
+Nếu bạn có bất kỳ câu hoải hoặc ý kiến nào về Chính sách Bảo mật này, vui lòng liên hệ với chúng tôi bằng email tại lgecsvc@lge.com.
+
+Ngày cập nhật gần nhất: 01/11/ 2017

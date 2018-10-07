@@ -1,0 +1,105 @@
+Politique de confidentialité
+
+La présente politique de confidentialité décrit la manière dont LGE accède à vos informations personnelles et les exploite dans le cadre du service de mises à jour de son Logiciel. Veuillez la lire attentivement avant toute utilisation de ce service.
+
+1.	Introduction
+LG Electronics, Inc. (« LGE » ou « nous ») s’engage à protéger les informations des personnes et des groupes qui utilisent des téléphones mobiles LGE. La présente politique de confidentialité expose la manière dont nous collectons, utilisons et communiquons les informations que nous sommes amenés à collecter depuis votre téléphone mobile LGE, et en particulier :
+-	vue d’ensemble des mises à jour FOTA du Logiciel
+-	informations que LGE est susceptible d’obtenir de vous
+-	manière dont LGE exploite ces informations
+-	à quel moment LGE communique ces informations à d’autres 
+-	transferts à l’étranger de données personnelles
+-	durée pendant laquelle LGE conserve vos informations personnelles
+-	sécurité
+-	droit de refuser ou de retirer son consentement
+-	protection de la confidentialité et de la vie privée des enfants
+-	modifications de la politique de confidentialité de LGE
+-	accéder à vos informations
+-	droit de déposer une plainte
+-	contacter LGE à propos de la présente politique de confidentialité
+
+La présente politique ne s’applique qu’aux informations collectées par LGE sur votre téléphone mobile LGE dans le but d’effectuer une mise à jour de son firmware via Firmware Over-the-Air (« FOTA ») (« mise à jour du Logiciel »). Elle ne s’applique à aucun autre produit ou service de LGE, y compris les apps mobiles proposées ou fournies par LGE. Elle ne s’applique pas non plus aux produits ou services offerts par de tierces parties : fournisseurs de systèmes d’exploitation, d’autres contenus ou applications, ou votre opérateur réseau. Les produits et services qui ne sont pas concernés par la présente politique de confidentialité disposent de leurs propres politiques qui s’appliquent à la collecte, l’exploitation et la communication d’informations et nous vous invitons à prendre connaissance de ces politiques. LGE ne saurait être tenu responsable des pratiques de ces tierces parties en matière de confidentialité.
+
+Si vous avez récemment acheté ce téléphone mobile, avant toute utilisation, il est indispensable que vous procédiez à une mise à jour du Logiciel comme cela est expliqué dans la présente politique de confidentialité. Cela vous permettra d’être sûr que votre téléphone mobile fonctionnera correctement et qu’il bénéficiera des fonctionnalités, des caractéristiques et des paramètres de sécurité les plus à jour. Pour toute question, n’hésitez pas à nous contacter aux coordonnées indiquées dans la présente politique.
+
+Vous pouvez consulter cette politique à tout moment en allant à [Paramètres – Système – À propos du téléphone – Informations légales – Conditions générales pour les logiciels LG – Politique de confidentialité]
+
+Les traductions de la présente politique de confidentialité ne sont effectuées que pour répondre aux besoins locaux. Dans le cas où il y aurait divergence entre la version anglaise de cette politique et une autre version, c’est la version anglaise qui prévaudrait, dans la mesure où le permet la législation en vigueur dans votre juridiction.
+
+2.	Vue d’ensemble des mises à jour FOTA du Logiciel
+De temps à autre, il peut arriver que le firmware LGE présent sur votre téléphone mobile (le « Logiciel ») doive être mis à jour ou qu’il nécessite l’installation de suppléments ou de modules complémentaires fournis par LGE. La mise à jour du Logiciel installera un nouveau logiciel sur votre téléphone mobile pour que celui-ci bénéficie de ces mises à jour, suppléments ou modules complémentaires. Les mises à jour du Logiciel peuvent ajouter de nouvelles caractéristiques et fonctionnalités et, dans de rares cas, supprimer des caractéristiques et des fonctionnalités existantes. Après la mise à jour, vous ne pourrez plus utiliser la précédent version installée du Logiciel ni revenir à cette version. 
+
+La mise à jour étant effectuée via FOTA, des frais supplémentaires sont susceptibles de s’appliquer si vous téléchargez le nouveau Logiciel via un réseau cellulaire. Cela dépend de votre opérateur réseau et de votre forfait. Si vous souhaitez éviter d’utiliser des données de réseau cellulaire pour les mises à jour du Logiciel, choisissez l’option Wi-Fi uniquement dans les paramètres. 
+
+a.	Vos possibilités pour la gestion des futures mises à jour du Logiciel
+Avec la fonction de Vérifier automatiquement activée, votre téléphone mobile vérifiera de temps en temps s’il existe un nouveau Logiciel ou une version mise à jour et la téléchargera automatiquement lorsque celle-ci sera disponible (fonction Vérifier automatiquement). Une fois que le Logiciel aura été installé, nous vous alerterons par une fenêtre pop-up ou par un message de notification sur votre téléphone mobile. Vous avez la possibilité d’accepter ou de refuser la mise à jour du Logiciel avant de l’appliquer. Par ailleurs, votre téléphone mobile appliquera automatiquement à minuit le Logiciel installé (fonction Mises à jour automatiques). Vous pouvez refuser ces fonctions Vérifier automatiquement et Mises à jour automatiques dans [Paramètres – Système – Centre de mises à jour – Mise à jour logicielle – Menu Overflow – Paramètres]. En refusant les Vérifier automatiquement, vous refusez que soit effectuées de futures mises à jour du Logiciel.
+Si vous avez déjà utilisé votre téléphone mobile et que vous refusez les mises à jour du Logiciel, vous devez être conscient que la non-installation du Logiciel mis à jour peut provoquer [une dégradation de son fonctionnement, des problèmes de compatibilité avec des apps, nouvelles ou existantes, ainsi que d’autres problèmes liés à sa sécurité].
+
+En outre, vous pouvez retirer votre consentement à de futures collectes d’informations personnelles. Il vous suffit de désactiver sur votre téléphone mobile les fonctions Vérifier automatiquement et Mises à jour automatiques (voir plus haut comment faire). Ces fonctions sont accessibles par [Paramètres – Système – Centre de mises à jour – Mise à jour logicielle – Menu Overflow – Paramètres]. 
+Mais vous devez être conscient que désactiver les fonctions Vérifier automatiquement et Mises à jour automatiques risque d’affecter ou de restreindre, en tout ou en partie, le fonctionnement de votre téléphone mobile ou de ses services. La collecte et l’exploitation des informations, décrites ci-dessus, est indispensable pour le fonctionnement optimal de votre téléphone mobile. 
+
+Pour toutes questions concernant votre droit à refuser votre consentement ou sur la procédure à suivre pour retirer ce dernier, merci de nous contacter à mc.customer-service@lge.com.
+
+b.	Mises à jour urgentes du Logiciel
+Si les circonstances l’exigent, nous pouvons être amenés à effectuer une mise à jour du Logiciel dans nos intérêts légitimes, sans émettre de notification individuelle ou sans demander votre accord et ce, quels que soient les paramètres actuels de l’appareil (« Mise à jour urgente du Logiciel »). Cela peut se produire, par exemple, lorsque des menaces sur la sécurité des clients ou de leurs données, ou des problèmes d’ordre fonctionnel, risquent de provoquer une interruption importante de nos services ou en cas de probabilité imminente de telles circonstances.
+
+3.	Informations que LGE est susceptible d’obtenir de vous
+En effectuant une mise à jour du Logiciel, LGE est susceptible de collecter les informations suivantes à partir de votre téléphone mobile : son numéro de série IMEI (International Mobile Equipment Identity), son modèle, les versions du logiciel et/ou du firmware, son système d’exploitation, l’indicatif de pays du mobile (MCC), le code de réseau mobile (MNC), l’identifiant GCM (Google Cloud Messaging) et la langue sélectionnée. Ces informations sont collectées automatiquement dans le cadre de la mise à jour du Logiciel.
+
+En tant que fournisseurs de services cellulaires à votre téléphone mobile, nous collecterons des informations opérationnelles, et notamment des journaux systèmes avec adresses IP. Ces informations sont collectées automatiquement et sont indispensables au fonctionnement du téléphone.
+
+4.	Comment LGE va exploiter les informations ainsi obtenues
+Nous utilisons les informations obtenues de vous à diverses fins :
+-	pour procéder aux mises à jour du Logiciel (y compris les mises à jour urgentes), ce qui passe par une vérification de la version du Logiciel, par une authentification de votre téléphone mobile et par l’envoi du Logiciel approprié 
+-	pour vérifier nos obligations dans le cadre de [notre garantie limitée]
+-	pour émettre des notifications relatives aux services de sécurité du téléphone mobile et des notifications d’urgence en réponse aux problèmes de sécurité
+-	pour protéger et défendre nos droits et notre propriété, y compris par voie judiciaire
+-	pour respecter les exigences réglementaires
+-	pour analyser, examiner et améliorer les produits et les services que nous proposons
+
+La base juridique sur laquelle LGE s’appuiera pour traiter vos informations personnelles sera en principe l’une des bases suivantes :
+-	Contrat : lorsqu’il est nécessaire de passer un contrat avec vous.
+-	Intérêts légitimes : lorsque c’est nécessaire pour les fins des intérêts commerciaux légitimes de LGE ou d’une tierce partie. En ce qui concerne LGE, cela comprendra ses intérêts en tant que fabricant de produits d’électronique grand public et fournisseur de services.
+-	Consentement : lorsque vous avez choisi de le donner. Vous avez le droit de retirer votre consentement à tout moment.
+-	Obligation légale : lorsque le traitement est nécessaire pour le respect de nos obligations légales.
+
+Nous pouvons également exploiter des données statistiques agrégées collectées pendant une mise à jour du Logiciel ainsi que pendant le fonctionnement du téléphone mobile afin de mieux cerner les besoins de nos clients, d’améliorer notre service clientèle et les produits et services que nous proposons, et à des fins d’études et d’analyse de marché. Ces données statistiques agrégées ne contiennent aucune information permettant d’identifier des personnes physiques d’une manière ou d’une autre.
+
+5.	Dans quelles circonstances LGE communique ces informations à d’autres
+En général, nous ne communiquons pas à des tierces parties les informations que nous collectons pendant la mise à jour du Logiciel et qui permettent d’identifier des personnes physiques d’une manière ou d’une autre. Néanmoins, vous devez savoir que, dans certaines circonstances, nous pouvons être amenés à communiquer ce type d’informations aux tierces parties suivantes :
+
+-	Affiliés et filiales. LGE peut communiquer des informations personnelles et non personnelles (y compris concernant les téléphones mobiles) à ses affiliés et filiales du monde entier uniquement dans la mesure où l’exigent les fins pour lesquelles ces informations ont été collectées. Les termes d’« affiliés » ou de « filiales » désignent les sociétés du groupe qui utilisent le nom de LG ou qui ont en commun une propriété ou un contrôle (LG CNS ou LG Electronics U.S.A., Inc., par exemple).
+-	Prestataires de services tiers. Il s’agit de prestataires tiers occasionnellement engagés par LGE afin de fournir des services pour son compte, par exemple, pour traiter des demandes adressées à son service clientèle.
+
+Normalement nous ne communiquons pas ces informations à des tiers. Veuillez noter que, néanmoins, dans certaines circonstances, nous pouvons être amenés à les communiquer aux entités suivantes
+-	Autres parties dans le cadre d’obligations légales ou judiciaires. Lorsqu’une ordonnance de tribunal, une décision gouvernementale ou une injonction d’autorités judiciaires nous y oblige.
+-	Autres parties liées à des opérations de notre entreprise. En lien avec un événement au niveau de notre entreprise (par exemple, une fusion, une restructuration, une vente ou un transfert de tout ou partie de l’activité de LGE, y compris celle d’une division ou d’une filiale), dans le cadre duquel LGE peut avoir besoin de divulguer des informations à un acheteur potentiel et à ses conseils.
+-	Autres parties lorsque c’est nécessaire pour protéger les services que nous offrons. Pour défendre nos droits contractuels, pour nous prémunir contre des risques de responsabilité civile, pour enquêter sur des activités suspectes ou effectivement illégales, ou pour nous défendre nous-mêmes contre des plaintes ou des allégations de tierces parties.
+-	Autres parties lorsqu’il s’agit de protéger la sécurité personnelle ou la propriété de l’un de nos clients. Afin de protéger les droits, la sécurité personnelle ou la propriété de nos clients ou du public.
+
+En aucun cas, vos informations personnelles collectées pendant la mise à jour du Logiciel ne seront, sans votre consentement, exploitées à des fins de marketing ni communiquées à des tiers à des fins de marketing.
+
+6.	Transferts de données personnelles
+Nous, nos affiliés, nos filiales et nos fournisseurs de services, ne pourrons utiliser vos informations personnelles aux fins décrites dans la présente politique de confidentialité dans d’autres pays que celui où est situé votre téléphone mobile. Les lois régissant la protection des données dans certains pays n’offrent pas forcément le même niveau de protection que celles en vigueur dans le pays où vous vous trouvez. Mais, avant de transférer vos informations personnelles, nous prendrons des mesures pour nous assurer que ces informations bénéficieront du même niveau de protection dans le pays ou la juridiction destinataires.
+
+7.	Durée pendant laquelle LGE conserve vos informations personnelles
+Nous conserverons vos informations personnelles aussi longtemps que ce sera nécessaire pour nous permettre de vous fournir l’Application ou à d’autres fins stipulées dans la présente Politique de confidentialité. Pour déterminer la période de conservation appropriée, nous appliquons des critères en fonction des différentes catégories d’informations personnelles que vous nous communiquez.
+Il est indispensable pour notre société de collecter et d’exploiter ces informations personnelles afin qu’elle puisse fournir des services de mise à jour de logiciels. Veuillez noter que l’utilisation ou la fourniture d’un grand nombre de parties du service peuvent faire l’objet de restrictions si vous ne consentez pas à la collecte de ces données personnelles. Nous exploitons des informations personnelles collectées auprès des personnes concernées par ces données. Et nous les conservons jusqu’à ce que nous n’en ayons plus besoin. En conséquence de quoi, la Société exploite et stocke des informations personnelles pendant toute la période d’utilisation du service.
+Si vous demandez la suppression de vos informations personnelles car elles ne sont plus nécessaires ou parce que vous vous opposez à leur traitement, ou encore parce que vous affirmez que leur traitement est illégal, vous avez le droit de chercher à limiter leur traitement pendant que nous vérifions votre demande de suppression.
+
+8.	Sécurité
+Nous faisons tous les efforts commercialement raisonnables pour protéger la confidentialité et la sécurité de vos informations personnelles. Malgré cela, en raison de la nature même d’Internet, de l’évolution permanente de la technologie et d’autres facteurs indépendants de notre volonté, nous ne sommes pas en mesure de garantir que les communications entre nos serveurs et vous seront exempts d’accès non autorisé par des tiers ou que nous ne serons pas victimes de violations de la sécurité. Nous déclinons toute responsabilité pour la divulgation d’informations personnelles due à des erreurs dans la transmission ou à des actes non autorisés ou illégaux commis par des tiers.
+
+9.	Protection de la confidentialité et de la vie privée des enfants
+Protéger la confidentialité et la vie privée des enfants est chose importante pour nous. Pour cette raison, aucun de nos Services n’est conçu pour s’adresser à des personnes de moins de 16 ans ou d’un âge inférieur à l’âge légal de la majorité dans la juridiction concernée. Par ailleurs, nous ne collectons ni ne maintenons sciemment des informations personnelles auprès de personnes de moins de 16 ans ou d’un âge inférieur à l’âge légal de la majorité dans la juridiction concernée. Si jamais nous découvrions ou étions avisés que nous avons collecté des informations concernant un mineur de moins de 16 ans ou d’un âge inférieur à l’âge légal de la majorité dans la juridiction concernée, nous détruirions immédiatement ces informations personnelles.
+
+10.	Modifications de la Politique de confidentialité de LGE
+La présente Politique de confidentialité est susceptible d’être modifiée par LGE de temps à autre. Si nous procédons à une modification importante de notre politique de confidentialité, nous vous en aviserons via votre appareil mobile ou par d’autres moyens. Vous pourrez être tenu d’accuser réception ou d’accepter la politique de confidentialité révisée pour pouvoir continuer à utiliser le service de mises à jour de logiciels.
+
+11.	Accéder à vos informations et à vos droits
+La législation d’un certain nombre de juridictions vous permet de disposer du droit de demander accès aux informations personnelles que détient LGE vous concernant, de réclamer une correction de ces informations ou même de les faire effacer. Vous pouvez également disposer du droit d’objecter à certains types de traitement de vos informations personnelles (ou de retirer votre accord pour que LGE procède à leur traitement). Vous pouvez enfin recevoir un exemplaire numérique de ces informations personnelles. Si la législation le permet, des frais modiques peuvent vous être facturés pour ce service. Veuillez noter que (si la législation applicable le permet) nous pouvons refuser de traiter vos demandes si celles-ci sont déraisonnablement abusives, si elles mettent en danger la confidentialité et la vie privée d’autres personnes ou si elles s’avèrent difficiles à réaliser. Pour plus d’informations ou pour faire valoir l’un des droits susmentionnés, merci de nous contacter par e-mail à mc.customer-service@lge.com.
+
+12.	Contacter LGE à propos de la présente Politique de confidentialité
+Pour toute question ou commentaire concernant la présente Politique de confidentialité ou le traitement par LGE de vos informations personnelles, contactez-nous par e-mail à mc.customer-service@lge.com. Vous avez également le droit de déposer une plainte auprès d’un organisme de protection des données, bien que nous vous encouragions à nous contacter directement en premier pour trouver une solution de votre problème.
+
+Dernière mise à jour : 1er décembre 2017

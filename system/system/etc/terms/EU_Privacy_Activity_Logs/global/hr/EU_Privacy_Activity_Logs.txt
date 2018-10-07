@@ -1,0 +1,79 @@
+﻿Smjernice o privatnosti za korištenje zapisnika aktivnosti
+
+Ove smjernice o privatnosti opisuju kako tvrtka LGE pristupa i koristi vaše osobne podatke u kontekstu nekih usluga dijagnostičkog izvještaja LG uređaja. Molimo, pažljivo ih pročitajte prije korištenja usluga dijagnostičkog izvještaja LG uređaja.
+
+1. Uvod
+Tvrtka LG Electronics Inc. ("LGE" ili "mi") obvezuje se zaštiti podataka pojedinaca i grupa koji koriste PC/Mac softver. Ova usluga dijagnostičkog izvještaja LG uređaja omogućuje uslugu daljinskog povezivanja ("usluge").
+Ove smjernice o privatnosti objašnjavaju kako prikupljamo, koristimo i dijelimo informacije dobivene kao rezultat vašeg korištenja ovih usluga, te posebno ističe:
+
+– Kakve podatke tvrtka LGE može prikupiti od vas;
+– Kako će tvrtka LGE koristiti prikupljene podatke;
+– Kada tvrtka LGE dijeli informacije s drugima; i
+– Kako možete kontrolirati kako tvrtka LGE koristi i dijeli vaše informacije.
+
+Vaš uređaj ili usluga dijagnostičnog izvještaja LG uređaja mogu omogućiti pristup softverskim aplikacijama i poveznicama na druge usluge u vlasništvu i kojima upravljaju treće strane uključujući tvrtke koje prodaju operativne sustave i druge sadržaje te tvrtke koje prodaju aplikacije. Ove smjernice o privatnosti ne reguliraju usluge trećih strana koje imaju vlastita pravila prikupljanja, upotrebe, odnosno dijeljenja podataka povezanih s tim uslugama. Preporučujemo vam pročitajte te smjernice. Tvrtka LGE nije odgovorna za smjernice o privatnosti tih trećih strana.
+
+2. Koje informacije prikuplja tvrtka LGE?
+Informacije koja možemo dobiti kada koristite usluge mogu se grupirati u sljedeće kategorije:
+– Status mobilnog uređaja: Model, verzija softvera, IMEI,serijski broj, IMSI, status napajanja, status baterije, CPU/RAM/iskorištenost unutrašnje memorije, prosječno vrijeme korištenja, rezultati samodijagnostike hardvera (Wi-Fi, BT, senzor blizine, senzor osvjetljenja, senzor otiska prsta, itd.)
+– Status mreže: Status usluge (poziv, podaci), jačina signala, informacije stanice, učestalost/vrijeme poziva
+– Informacije o aplikaciji: Popis instaliranih i obrisanih aplikacija, verzija aplikacije, nedavno izvršene aplikacije, učestalost/statistika korišenja aplikacije 
+– Status povezivanja mobilnog telefona: Wi-Fi, Bluetooth, GPS, status priključaka utičnica za slušalice, punjač baterije, USB i SD kartice
+– Informacije o grešci: Zamrznuti zaslon, nenamjerno isključivanje, prekinuti pozivi, greške aplikacije (velike, iznimne)
+
+3. Kako će tvrtka LGE koristiti prikupljene podatke?
+Podatke dobivene vašim korištenjem usluga koristimo za različite svrhe, kao što su:
+
+- Za identificiranje i dijagnostiku mobilnog uređaja
+- Za rad korisničke službe i upravljanje povijesti usluge 
+- Za slanje brzih obavijesti 
+- Za analizu povijesti usluge/zapisa/uređaja radi poboljšanja kvalitete i zadovoljstva korisnika
+
+Za gore navedene svrhe podatke dobivene od usluga, uključujući osobne podatke, možda ćemo kombinirati s podacima koje prikupimo na druge načine.
+
+Zakonska osnova na koju se tvrtka LGE poziva prilikom obrade vaših osobnih podataka je obično jedna od sljedećih;
+
+– Ugovor: kada je potrebno s vama sklopiti ugovor;
+– Legitimni interesi: kada je nužno za ispunjavanje legitimnih interesa tvrtke LGE ili treće strane. Za tvrtku LGE ovo uključuje njene interese kao proizvođača proizvoda potrošačke elektronike i pružatelja usluga;
+– Pristanak: kada ste odabrali dati ga. Imate pravo povući svoj pristanak u svakom trenutku; ili
+– Zakonska obveza: kada je obrada nužna radi usklađenosti sa zakonskim obavezama
+
+Dostavljene informacije u različitim donjim pododjeljcima pokazuju na koje se gornje zakonske osnove odnose u vezi s različitim kategorijama osobnih podataka.
+
+4. Dijeljenje informacija
+povezanim društvima i podružnicama. Tvrtka LGE može podijeliti osobne i neosobne podatke s povezanim društvima i podružnicama diljem svijeta samo u svrhe opisane u ovim smjernicama o privatnosti. Pojam „povezana društva“ i „podružnice“ odnosi se na grupu tvrtki koje mogu koristiti naziv LG ili koje imaju zajedničko vlasništvo ili kontrolu poput LG CNS ili LG Electronics France S.A.R.L.
+
+Molimo, pripazite kako dalje možemo dijeliti takve informacije sa sljedećim pravnim osobama:
+- Pružateljima usluga trećih strana. Vaše osobne i neosobne podatke možemo podijeliti s pružateljima usluga trećih strana radi aktiviranja usluge dijagnostičkog izvještaja za LG uređaj.
+
+I dok općenito ne dijelimo informacija s drugim trećim stranama, molimo upamtite kako u sljedećim posebnim situacijama možemo podijeliti informacije sa sljedećim pravnim osobama;
+- Ostalim stranama kada je to zakonski potrebno Po nalogu suda ili druge zakonodavne vlasti te vojnih ili policijskih tijela u cilju zadovoljavanja zakonskih procesa ili zakona;
+- Ostalim stranama u vezi s korporativnim transakcijama. U vezi s poslovnim događajima, poput udruživanja ili prodaje cijelog ili dijela poslovanja tvrtke LGE (uključujući poslovnu jedinicu ili društvo kćer), kada tvrtka LGE mora otkriti informacije potencijalnom kupcu i njegovim profesionalnim savjetnicima;
+- Ostalim stranama kada moramo zaštititi naše usluge. U cilju obrane i zaštite naših prava i vlasništva uključujući i sudske postupke;;
+- Ostalim stranama kada treba zaštititi osobnu sigurnost ili imovinu naših korisnika. U cilju zaštite osobne sigurnosti ili vlasništva naših korisnika ili javnosti.
+
+Ni pod kojim uvjetima vaši osobni podaci neće se obraditi u marketinške svrhe niti podijeliti s trećim stranama u marketinške svrhe.
+
+5. Prijenos osobnih podataka
+U svrhu pružanja usluge dijagnostičkog izvještaja za LG uređaj i bilo koje druge svrhe navedene u ovim smjernicama o privatnosti, mi, naše povezana društva, podružnice i dobavljači možda ćemo podatke (uključujući vaše osobne podatke) koristiti izvan zemlje u kojoj je lociran vaš uređaj. Zakoni o zaštiti podataka u mnogim državama možda ne nude istu razinu zaštite kao oni u državi u kojoj se nalazite. Međutim, prije prijenosa vaših osobnih podataka poduzet ćemo korake kako bi smo bili sigurni da će te informacije imati istu razinu zaštite. Za više informacija o načinu na koji koristimo i štitimo vaše osobne podatke kontaktirajte  nas na adresu mc.customer-service@lge.com. 
+
+6. Koliko dugo će tvrtka LGE čuvati moje osobne podatke?
+Mi ćemo vaše osobne podatke čuvati onoliko dugo koliko je to nam je potrebno za osiguranje pružanja usluge ili za druge svrhe navedene u ovim smjernicama o privatnosti.Primjenjujemo kriteriji određivanja odgovarajućeg razdoblja zadržavanja za različite kategorije osobnih podataka koje nam dostavite. Na primjer, čuvat ćemo informacije potrebne za našu zaštitu u pravnom slučaju, poput informacija povezanih s ugovorom, cijelo vrijeme važenja ugovora i godinu dana nakon toga. Nakon isteka tog razdoblja izbisat ćemo ih ili ćemo ih učiniti anonimnim. Kada prikupimo osobne podatke na temelju vašeg pristanka i ako nemamo drugih zakonskih osnova za nastavak njihove obrade te ako vi posljedično povučete svoj pristanak tada ćemo mi obrisati vaše osobne podatke.
+Ako zatražite brisanje vaših osobnih podataka, jer više nisu potrebni, ili zato jer se protivite obradi ili na temelju prigovora kako obrada nije zakonita tada imate pravo tražiti ograničenje u obradi dok mi ne potvrdimo vaš zahtjev za brisanjem.
+
+7. Sigurnost
+Ulažemo komercijalno prihvatljive napore za čuvanje i zaštitu povjerljivosti vaših osobnih podataka. Ipak, temeljeno na dizajnu interneta, tehnologije koja se neprekidno mijenja, te drugim čimbenicima izvan naše kontrole, ne možemo jamčiti kako će komunikacija između vas i naših poslužitelja biti sigurna od neautoriziranog pristupa trećih strana ili te da mi sami nećemo podleći povredama sigurnosti. Ne prihvaćamo nikakvu odgovornost za otkrivanje osobnih podataka uslijed grešaka u prijenosu ili neautoriziranih ili nezakonitih postupaka trećih strana.
+
+8. Zaštita privatnosti djece
+Zaštita privatnosti djece jako nam je bitna. Iz tog razloga niti jedna od naših usluga nije usmjerena ni dizajnirana da privuče niti jednu osobu mlađu od 16 osoba ili maloljetne osobe prema važećim zakonima. Također, svjesno ne prikupljamo i ne zadržavamo osobne informacije korisnika mlađih od 16 godina ili maloljetnih osoba prema važećim zakonima. Ako saznamo ili ako nas se obavijesti da smo prikupili podatke od korisnika mlađih od 16 godina ili maloljetnih osoba prema važećim zakonima, odmah ćemo izbrisati te podatke.
+
+9. Promjene smjernica o privatnosti tvrtke LGE
+Tvrtka LGE može s vremena na vrijeme ažurirati ove smjernice o privatnosti. U slučaju važnih promjena smjernica o privatnosti, obavijestit ćemo vas putem usluga ili na drugi način. Od vas će se možda tražiti potvrđivanje ili prihvaćanje revidiranih smjernica o privatnosti radi nastavka korištenja usluga.
+
+10. Pristup vašim informacijama i vaša prava
+Prema zakonima nekih zakonodavstava možete imati pravo zatražiti pristup, ispravljanje ili brisanje osobnih podataka koje ima tvrtka LGE ili imate pravo odbiti ili ograničiti određene tipove obrade vaših osobnih podataka (ili povući pristanak na obradu od strane tvrtke LGE) ili primiti kopiju s vašim podacima koja se može strojno očitati. Ako zakon to dozvoljava, može vam se naplatiti mala naknada za obavljanje takve usluge. Molimo, upamtite kako možemo odbiti obraditi vaše zahtjeve ako su neopravdano uvredljivi, ugrožavaju privatnost drugih ili su jako nepraktični (gdje je primjenljivo prema važećem zakonu). Za više informacija ili korištenje bilo kojeg od ovih prava kontaktirajte nas na adresu mc.customer-service@lge.com.
+
+11. Kontaktiranje tvrtke LG u vezi s ovim Smjernice o privatnosti
+Ako imate bilo kakvih pitanja ili komentara u vezi sa Smjernice o privatnosti ili o načinu na koji tvrtka LGE obrađuje vaše osobne podatke kontaktirajte voditelja našeg odjela zaštite podataka na adresi dpo-eu@lge.com. Također, imate pravo napisati svoj komentar agenciji za zaštitu podataka iako vas molimo da prvo i izravno kontaktirate nas radi rješavanja problema.
+
+Obnovljeno zadnji put: 1. ožujka 2018.

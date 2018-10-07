@@ -1,0 +1,62 @@
+﻿Chính sách Riêng tư đối với việc sử dụng các nhật ký hoạt động
+
+Lưu ý: Bằng việc đồng ý với Chính sách Riêng tư này, bạn cho phép chúng tôi sử dụng dữ liệu của bạn như được mô tả ở đây. Sự đồng ý của bạn là tự nguyện. Tuy nhiên, nếu bạn không đồng ý, chúng tôi sẽ không thể cung cấp các dịch vụ cho bạn; trong trường hợp này, bạn không thể sử dụng các Dịch vụ Báo cáo việc Chẩn đoán Thiết bị LG nhất định ("Dịch vụ LG"). Bạn có thể lấy lại các điều khoản thỏa thuận của bạn bất kỳ lúc nào trong Dịch vụ LG và có thể rút bỏ thỏa thuận của bạn bất kỳ lúc nào bằng cách gửi tin nhắn đến: mc.customer-service@lge.com
+
+1. Giới thiệu
+LG Electronics Inc. (“LGE” hoặc “chúng tôi”) cam kết bảo vệ thông tin của các cá nhân và nhóm người sử dụng Dịch vụ LG có trong đó. Chính sách Riêng tư này đề ra cách thức chúng tôi thu thập, sử dụng và chia sẻ thông tin mà chúng tôi thu được do việc bạn sử dụng các dịch vụ và, cụ thể là, đề ra:
+- Những thông tin gì LGE có thể thu được từ bạn hoặc Dịch vụ LG;
+- Cách thức LGE sử dụng thông tin mà LGE thu được;
+- Khi nào LGE chia sẻ thông tin với những người khác; và
+- Cách thức bạn có thể kiểm soát việc sử dụng LGE và chia sẻ thông tin của bạn.
+
+Dịch vụ LG có thể cung cấp quyền truy cập vào ứng dụng phần mềm và các đường dẫn đến các dịch vụ khác được sở hữu và vận hành bởi các bên thứ ba bao gồm các nhà cung cấp hệ điều hành và các nhà cung cấp ứng dụng. Các dịch vụ bên thứ ba này nằm ngoài phạm vi của Chính sách Riêng tư này và có các chính sách riêng áp dụng cho việc thu thập, sử dụng và chia sẻ thông tin liên quan đến các dịch vụ của các bên thứ ba. Chúng tôi khuyến khích bạn đọc các chính sách đó. LGE không chịu trách nhiệm hoặc trách nhiệm pháp lý đối với các thông lệ về quyền riêng tư của các bên thứ ba đó.
+
+2. LGE thu được những thông tin gì?
+LGE sẽ thu thập các thông tin sau đây:
+① Tình trạng thiết bị di động: Kiểu, phiên bản phần mềm, IMEI, số sản xuất, IMSI, tình trạng điện năng, tình trạng pin, việc sử dụng CPU/RAM/bộ lưu trữ trong, thời gian sử dụng trung bình, kết quả tự chẩn đoán phần cứng (Wi-Fi, BT, bộ cảm biến độ gần, bộ cảm biến ánh sáng, bộ cảm biến dấu vân tay, v.v…)
+② Trạng thái mạng: Trạng thái dịch vụ (cuộc gọi, dữ liệu), cường độ tín hiệu, thông tin trạm, tần suất/thời gian cuộc gọi
+③ Thông tin ứng dụng: Danh sách các ứng dụng được cài đặt và bị xóa, phiên bản ứng dụng, các ứng dụng được thực hiện gần đây, tần suất/số liệu thông kê sử dụng ứng dụng 
+④ Trạng thái kết nối điện thoại di động: Wi-Fi, Bluetooth, GPS, jắc cắm tai nghe, bộ sạc pin, USB, và trạng thái kết nối Thẻ SD
+⑤ Thông tin lỗi: Màn hình đóng băng, tắt nguồn không cố ý, cuộc gọi bị ngắt kết nối, lỗi ứng dụng (nghiêm trọng, ngoại lệ)
+
+3. LGE sẽ sử dụng thông tin thu được như thế nào?
+Chúng tôi sử dụng thông tin thu được từ bạn cho các mục đích khác nhau, bao gồm:
+-	Để nhận dạng và chẩn đoán thiết bị di động
+-	Để thực hiện các dịch vụ khách hàng và quản lý lịch sử dịch vụ 
+-	Để gửi các tin nhắn đẩy 
+-	Để phân tích dịch vụ/các nhật ký/lịch sử thiết bị nhằm cải thiện chất lượng và sự thỏa mãn của khách hàng
+Chúng tôi có thể kết hợp thông tin thu được từ bạn, bao gồm thông tin cá nhân, với thông tin mà bạn cung cấp cho chúng tôi bằng phương tiện khác, cho các mục đích nhất quán với Chính sách Riêng tư này.
+
+4. Chia sẻ Thông tin
+Thông thường, chúng tôi không chia sẻ với các bên thứ ba thông tin mà chúng tôi nhận được do bạn sử dụng Dịch vụ LG. Tuy nhiên, xin lưu ý về các trường hợp dưới đây mà chúng tôi có thể chia sẻ thông tin đó với các đối tượng sau đây:
+- Chi nhánh và Công ty con.- LGE có thể chia sẻ thông tin cá nhân và thông tin không mang tính cá nhân (bao gồm thông tin về thiết bị) với các chi nhánh và công ty con của LGE trên khắp thế giới chỉ trong khoảng thời gian lâu ở mức cần thiết cho các mục đích mà thông tin đã được thu thập. Thuật ngữ ‘chi nhánh’ hoặc ‘công ty con’ đề cập đến các công ty thuộc tập đoàn được phép sử dụng tên LG hoặc có sự sở hữu hoặc kiểm soát chung, chẳng hạn như LG CNS hoặc LG Electronics U.S.A.,INC.("LGEUS");
+- Nhà cung cấp Dịch vụ Bên Thứ ba. Là những người bán bên thứ ba mà đôi khi LGE có thể cho tham gia vào việc cung cấp các dịch vụ thay mặt LGE, chẳng hạn như để thực hiện các yêu cầu dịch vụ khách hàng;
+- Các Bên Khác Khi được Yêu cầu bởi Luật. Theo yêu cầu bởi lệnh của toàn án hoặc các cơ quan thực thi pháp luật hoặc cơ quan chính phủ khác để tuân theo pháp luật hoặc quy trình pháp lý;
+- Các Bên Khác Liên quan đến các Giao dịch của Công ty. Liên quan đến sự kiện của công ty, chẳng hạn như sáp nhập hoặc bán tất cả hoặc một phần kinh doanh của LGE (bao gồm bán một bộ phận hoặc công ty con), trong trường hợp này LGE có thể cần phải bộc lộ thông tin cho người mua tiềm năng và các đơn vị tư vấn chuyên nghiệp của người mua này;
+- Các Bên Khác Khi Cần phải Bảo vệ Dịch vụ Của chúng tôi. Để bảo vệ các quyền và tài sản của chúng tôi, bao gồm việc thực hiện thủ tục tố tụng;
+- Các Bên Khác Khi Cần Bảo vệ Sự an toàn Cá nhân hoặc Tài sản của Người Sử dụng Dịch vụ Của chúng tôi. Để bảo vệ sự an toàn cá nhân hoặc tài sản của người sử dụng dịch vụ của chúng tôi hoặc của công chúng.
+
+Trong bất kỳ trường hợp nào, thông tin cá nhân của bạn cũng sẽ không bị xử lý cho các mục đích tiếp thị, hoặc cũng không được chia sẻ với các bên thứ ba cho các mục đích tiếp thị.
+
+5. Chuyển ra nước ngoài
+Chúng tôi, các chi nhánh, các công ty con và các nhà cung cấp của chúng tôi có thể sử dụng thông tin (bao gồm thông tin cá nhân của bạn) ở các nước không phải là nước mà thiết bị của bạn đang có mặt cho việc cung cấp cho bạn Dịch vụ LG của chúng tôi và bất kỳ mục đích nào khác được đưa ra trong Chính sách Riêng tư này. Các luật bảo vệ dữ liệu ở nhiều trong số các nước này có thể mang lại mức độ bảo vệ giống với mức độ bảo vệ ở nước mà bạn đang ở. Tuy nhiên, trước khi chuyển thông tin cá nhân của bạn, chúng tôi sẽ thực hiện các bước để đảm bảo rằng thông tin đó sẽ được hưởng mức độ bảo vệ giống như vậy. Bằng cách đồng ý với Chính sách Riêng tư này, bạn tuyệt đối đồng ý với việc chúng tôi và các nhà cung cấp và các đồng sự kinh doanh của chúng tôi xử lý dữ liệu của bạn ở bất kỳ khu vực pháp lý nào, bao gồm, mà không giới hạn, Hàn Quốc hoặc Mỹ, phù hợp với Chính sách Riêng tư này.
+
+6. LGE sẽ giữ thông tin cá nhân của tôi trong bao lâu?
+Chúng tôi sẽ thực hiện các bước hợp lý để đảm bảo rằng chúng tôi giữ thông tin cá nhân của bạn trong khoảng thời gian lâu ở mức cần thiết cho chúng tôi để cung cấp cho bạn Dịch vụ LG vì mục đích mà thông tin đã được thu thập, hoặc theo yêu cầu của luật có thể áp dụng.
+
+7. An toàn
+Chúng tôi nỗ lực một cách hợp lý về mặt thương mại để đảm bảo việc bảo mật thông tin cá nhân của bạn. Tuy nhiên, do thiết kế của Internet, công nghệ thay đổi không ngừng, và các yếu tố khác ngoài tầm kiểm soát của chúng tôi, chúng tôi không thể đảm bảo rằng các giao dịch hàng ngày giữa bạn và các máy chủ của chúng tôi sẽ không bị truy cập trái phép bởi các bên thứ ba hoặc chúng tôi sẽ không phải chịu những hành vi vi phạm về an toàn. Chúng tôi không chịu bất kỳ trách nhiệm nào đối với việc bộc lộ thông tin cá nhân do các lỗi trong việc truyền dẫn hoặc các hành vi trái phép hoặc bất hợp pháp của các bên thứ ba.
+
+8. Bảo vệ sự Riêng tư của Trẻ em
+Việc bảo vệ sự riêng tư của trẻ em là điều quan trọng đối với chúng tôi. Vì lý do đó, Dịch vụ LG không được hướng đến bất kỳ ai dưới 14 tuổi hoặc dưới tuổi thành niên trong khu vực pháp lý có liên quan và không được thiết kế riêng biệt để thu hút bất cứ ai dưới 14 tuổi. Chúng tôi cũng không chủ ý thu thập hoặc duy trì thông tin cá nhân từ những người sử dụng dưới 14 tuổi. Trong trường hợp chúng tôi biết được hoặc được thông báo rằng chúng tôi đã thu thập thông tin từ những người sử dụng dưới 14 tuổi hoặc dưới tuổi thành niên trong khu vực pháp lý có liên quan, chúng tôi sẽ xóa ngay thông tin cá nhân đó.
+
+9. Những thay đổi đối với Chính sách Riêng tư của LGE
+Chính sách Riêng tư này đôi khi có thể được cập nhật bởi LGE. Nếu chúng tôi thực hiện sự thay đổi quan trọng đối với Chính sách Riêng tư của chúng tôi, chúng tôi sẽ cập nhật cho bạn thông qua website của LG hoặc phương tiện khác. Nếu bạn không đồng ý với Chính sách Riêng tư được cập nhật, Dịch vụ LG có thể bị hạn chế.
+
+10. Truy cập Thông tin của Bạn
+Theo luật pháp của một số khu vực pháp lý, bạn có quyền yêu cầu các chi tiết về thông tin cá nhân của bạn mà LGE thu thập và sửa những nội dung không chính xác trong thông tin cá nhân của bạn hoặc phản đối, vì mục đích hợp pháp, việc xử lý thông tin cá nhân của bạn. Nếu luật cho phép, bạn có thể phải mất một chút phí liên quan đến việc cung cấp dịch vụ đó cho bạn. Xin lưu ý rằng chúng tôi có thể từ chối xử lý các yêu cầu của bạn nếu các yêu cầu này mang tính lừa dối một cách bất hợp lý, gây nguy hiểm cho sự riêng tư của những người khác, hoặc cực kỳ thiếu thực tế. Nếu bạn muốn yêu cầu truy cập, sửa chữa, hủy bỏ hoặc phản đối việc xử lý thông tin cá nhân của bạn, vui lòng liên hệ với chúng tôi theo địa chỉ email: mc.customer-service@lge.com.
+
+11. Liên hệ với LGE về Chính sách Riêng tư này
+Nếu bạn có câu hỏi hoặc ý kiến gì về Chính sách Riêng tư này, vui lòng liên hệ theo địa chỉ email:mc.customer-service@lge.com.
+
+Cập nhật lần cuối cùng: ngày 22/6/2017

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Configure>
+    <!-- AT&T / United States -->
+    <Config operator="" country="US" device="">
+        <HostCardEmulationScenario> config, config, uicc, uicc </HostCardEmulationScenario>
+        <PrimaryRoute> host </PrimaryRoute>
+        <SwpRetryInit> false </SwpRetryInit>
+        <BlockRoute> false </BlockRoute>
+    </Config>
+    <!-- Sprint / United States -->
+    <Config operator="SPR" country="US" device="">
+        <SecureElementType> INITVALUE </SecureElementType>
+        <AccessControlEnable> false </AccessControlEnable>
+        <HostCardEmulationScenario> host, host, na, na </HostCardEmulationScenario>
+        <AutomaticSwitchingSupport> false </AutomaticSwitchingSupport>
+        <SIMSwapEnable> false </SIMSwapEnable>
+        <SwpRetryInit> false </SwpRetryInit>
+        <BlockRoute> false </BlockRoute>
+        <FirmwareFileName targetdevice="judyln"> libpn553_fw </FirmwareFileName>
+    </Config>
+    <!-- USC / United States -->
+    <Config operator="USC" country="US" device="">
+        <SecureElementType targetdevice="h1|elsa|lucye|joan"> INITVALUE </SecureElementType>
+        <AccessControlEnable targetdevice="h1|elsa|lucye|joan"> false </AccessControlEnable>
+        <HostCardEmulationScenario> config, config, uicc, uicc </HostCardEmulationScenario>
+        <HostCardEmulationScenario targetdevice="h1|elsa|lucye|joan"> host, host, na, na </HostCardEmulationScenario>
+        <SIMSwapEnable targetdevice="h1|elsa|lucye|joan"> false </SIMSwapEnable>
+        <PrimaryRoute> host </PrimaryRoute>
+        <SwpRetryInit> false </SwpRetryInit>
+        <BlockRoute> false </BlockRoute>
+    </Config>
+    <!-- ACG / United States -->
+    <Config operator="ACG" country="US" device="">
+        <SecureElementType targetdevice="h1|elsa|lucye|joan"> INITVALUE </SecureElementType>
+        <AccessControlEnable targetdevice="h1|elsa|lucye|joan"> false </AccessControlEnable>
+        <HostCardEmulationScenario> config, config, uicc, uicc </HostCardEmulationScenario>
+        <HostCardEmulationScenario targetdevice="h1|elsa|lucye|joan"> host, host, na, na </HostCardEmulationScenario>
+        <SIMSwapEnable targetdevice="h1|elsa|lucye|joan"> false </SIMSwapEnable>
+        <PrimaryRoute> host </PrimaryRoute>
+        <SwpRetryInit> false </SwpRetryInit>
+        <BlockRoute> false </BlockRoute>
+    </Config>
+    <!-- Verizon / United States -->
+    <Config operator="VZW" country="US" device="">
+        <WCScenarioEnable> update </WCScenarioEnable>
+        <DefaultOnOffType> offp2p </DefaultOnOffType>
+        <RingSoundScenarioType> usevibrate </RingSoundScenarioType>
+        <PopupDialogType> vzw </PopupDialogType>
+        <EmptyPopupSupport> false </EmptyPopupSupport>
+        <TransactionEventScenario> multicast </TransactionEventScenario>
+        <HostCardEmulationScenario> config, config, uicc, uicc </HostCardEmulationScenario>
+        <PrimaryRoute> host </PrimaryRoute>
+        <NfcAntennaPopup> none </NfcAntennaPopup>
+        <UseGpacResultValidTime> true </UseGpacResultValidTime>
+        <SwpRetryInit> false </SwpRetryInit>
+        <BlockRoute> false </BlockRoute>
+        <FirmwareFileName targetdevice="judyln"> libpn553_fw </FirmwareFileName>
+    </Config>
+    <!-- T-Mobile / United States -->
+    <Config operator="TMO" country="US" device="">
+        <SwpWindowSize> 2 </SwpWindowSize>
+        <HostCardEmulationScenario> config, config, uicc, uicc </HostCardEmulationScenario>
+        <PrimaryRoute> host </PrimaryRoute>
+        <SwpRetryInit> false </SwpRetryInit>
+        <BlockRoute> false </BlockRoute>
+    </Config>
+    <Config operator="MPCS" country="US" device="">
+        <SwpWindowSize> 2 </SwpWindowSize>
+        <HostCardEmulationScenario> config, config, uicc, uicc </HostCardEmulationScenario>
+        <PrimaryRoute> host </PrimaryRoute>
+        <SwpRetryInit> false </SwpRetryInit>
+        <BlockRoute> false </BlockRoute>
+    </Config>
+    <!-- NAO(North America Open) / United States -->
+    <Config operator="NAO" country="US" device="">
+        <SecureElementType targetdevice="h1|elsa|lucye|joan"> INITVALUE </SecureElementType>
+        <AccessControlEnable targetdevice="h1|elsa|lucye|joan"> false </AccessControlEnable>
+        <HostCardEmulationScenario> config, config, uicc, uicc </HostCardEmulationScenario>
+        <HostCardEmulationScenario targetdevice="h1|elsa|lucye|joan"> host, host, na, na </HostCardEmulationScenario>
+        <SIMSwapEnable targetdevice="h1|elsa|lucye|joan"> false </SIMSwapEnable>
+        <PrimaryRoute> host </PrimaryRoute>
+        <SwpRetryInit> false </SwpRetryInit>
+        <BlockRoute> false </BlockRoute>
+    </Config>
+    <!-- OPEN / United States Tablet -->
+    <Config operator="OPEN" country="US" device="">
+        <SecureElementType targetdevice="h1|elsa|lucye|joan"> INITVALUE </SecureElementType>
+        <AccessControlEnable targetdevice="h1|elsa|lucye|joan"> false </AccessControlEnable>
+        <HostCardEmulationScenario> config, config, uicc, uicc </HostCardEmulationScenario>
+        <HostCardEmulationScenario targetdevice="h1|elsa|lucye|joan"> host, host, na, na </HostCardEmulationScenario>
+        <SIMSwapEnable targetdevice="h1|elsa|lucye|joan"> false </SIMSwapEnable>
+        <PrimaryRoute> host </PrimaryRoute>
+        <SwpRetryInit> false </SwpRetryInit>
+        <BlockRoute> false </BlockRoute>
+    </Config>
+</Configure>

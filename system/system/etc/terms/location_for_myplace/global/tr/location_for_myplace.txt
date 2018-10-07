@@ -1,0 +1,6 @@
+﻿Yerlerim hizmeti için geçerli konum bilgilerinin kullanımı
+
+Bu Yerlerim hizmeti ("Hizmet"), kullanıcının uzun süre kaldığı konumların düzenini analiz etmek ve bu konumları otomatik olarak tanıma işlevi sunmak üzere kullanıcının cihazının konum bilgilerini kullanır ya da kullanıcıya "Yerlerim" (örn. ev, iş yeri) için manuel olarak bir konum adama olanağı sunar. Devam eden düzen analizi, önceden atanan bir konumun yerini otomatik olarak değiştirebilir. 
+Bu Hizmet kullanıcının cihazında saklanan konum bilgilerini (baz alıcı-verici istasyonu(BTS), GPS, Wi-Fi, ağ konumları (NLP)) kullanıyor olsa da, LG Electronics Inc.(LGE) hiçbir zaman kullanıcı konum bilgilerini toplamaz ya da kullanmaz ve bu bilgileri yalnızca kullanıcı cihazında saklar ve kullanır.
+Bu Hizmet kullanıcı, kullanıcı cihazının geçerli konum bilgilerinin kullanılmasını kabul ettiği andan itibaren uzun süre kalınan konumları otomatik olarak tanımaya başlar ve kullanıcı ilgili işlev seçeneğini kapatarak bu Hizmet'in kullanımını durdurmadığı sürece tanımaya devam eder.
+Ancak, LGE yalnızca kullanıcının cihazın Google konum hizmetini kullanma seçeneğini aktif duruma getirmesi durumunda kullanıcının geçerli konum bilgilerini kullanacaktır.

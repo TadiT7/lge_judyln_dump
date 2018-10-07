@@ -1,0 +1,11 @@
+on post-fs-data
+    mkdir /data/cas 0770 system media
+
+service broadcast /system/bin/libbroadcast_server
+    class main
+    user media
+    group system audio media graphics sdcard_rw inet
+
+on property:init.svc.media=restarting
+    restart broadcast
+

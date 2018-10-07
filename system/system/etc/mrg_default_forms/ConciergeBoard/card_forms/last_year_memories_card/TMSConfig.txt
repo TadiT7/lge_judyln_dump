@@ -1,0 +1,12 @@
+[Config]
+TMSPackageName=EdenService
+Replace_empty_by_default=false
+
+[Add_references]
+Count=0
+
+[Rejected_references]
+Count=0
+
+[Languages]
+Count=0

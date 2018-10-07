@@ -1,0 +1,21 @@
+{
+    "template":"default",
+    "db_key":"concierge_memories",
+    "card_icon":["ic_smartnotice_album.png","ic_smartnotice_album.png"],
+    "summary":"[@param/memories_title]",
+    "source":"[@param/memories_source]",
+    "buttons":[
+        {
+            "text":"[@string/memories_ok]",
+            "actions":[
+                "[@card/action_accept]&delete_card=true",
+                "intent://com.lge.cic.eden.provider/EventInfo/[@param/eventID]#Intent;scheme=content;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/*;launchFlags=0x18000000;component=com.android.gallery3d/.app.Gallery;end"
+            ]
+        }
+    ],
+    "wearable":{
+            "type":"normal",
+            "buttonIdxs":["0"],
+            "icons":["goto"]
+        }
+}

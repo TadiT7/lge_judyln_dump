@@ -1,0 +1,23 @@
+﻿Log aktivitas
+
+Untuk meningkatkan pengalaman pengguna secara keseluruhan dan memperluas cara mengatasi masalah perangkat, maka Log aktivitas dibuat dan disimpan di perangkat seluler LGE Anda. Log aktivitas disimpan secara eksklusif di perangkat Anda dan tidak ditransfer melalui udara ke LGE atau pihak ketiga kecuali jika sepakati lain dengan perjanjian terpisah. 
+
+Catatan tersebut mencakup informasi berikut: 
+- Status perangkat seluler: Model, versi perangkat lunak, IMEI, nomor identifikasi unik, IMSI, status daya, status baterai, penggunaan CPU/RAM/penyimpanan internal, rata-rata waktu penggunaan, hasil diagnosis otomatis pada perangkat keras (Wi-Fi, BT, sensor kedekatan, sensor cahaya, sensor sidik jari, dsb.) 
+- Status jaringan
+- Informasi tentang aplikasi, hitungan/statistik penggunaan aplikasi
+- Status koneksi perangkat seluler Anda
+- Informasi kesalahan: Layar berhenti beroperasi, daya mati secara tiba-tiba, panggilan terputus, kesalahan aplikasi
+- Pengaturan perangkat seluler
+
+Item informasi yang diakses oleh LGE dapat digunakan secara terpisah atau dikombinasikan dalam bentuk kumpulan. LGE menggunakan informasi tersebut untuk lebih memahami kebutuhan pelanggan, meningkatkan layanan pelanggan serta produk dan layanan yang kami tawarkan. Sebagai contoh, informasi Log aktivitas memungkinkan LGE untuk menyelidiki dan memperbaiki kesalahan jaringan, masalah koneksi, dan masalah baterai. 
+
+Dengan mengklik “setuju”, Anda memberi izin kepada LGE, dan pihak ketiga tertentu yang bertindak atas nama LGE (seperti yang dijelaskan di bawah), untuk mengakses dan menggunakan informasi Log aktivitas yang dibuat oleh perangkat Anda. LGE dapat berbagi informasi Log aktivitas dengan pihak ketiga berikut ini:
+- afiliasi dan anak perusahaan (artinya perusahaan yang mengendalikan, dikendalikan oleh, atau berada di bawah kepemilikan atau kendali bersama sebagai LGE); dan
+- agen dan penyedia layanan yang terikat oleh kewajiban kerahasiaan dan siapa saja yang hanya menggunakan informasi tersebut atas nama LGE atau untuk mengirimkan produk dan layanan yang diminta, atau untuk memenuhi kewajiban kontrak kepada Anda.
+LGE tidak bertanggung jawab atau berkewajiban atas praktik privasi pihak ketiga.
+LGE juga akan meminta untuk mengumpulkan informasi Log aktivitas saat Anda menggunakan LG After Service (A/S) atau Layanan Renovasi. Anda akan ditanya secara terpisah tentang apakah Anda setuju dengan hal ini atau tidak pada saat menggunakan layanan ini.
+Meskipun informasi Log aktivitas dibuat di perangkat Anda apakah Anda setuju atau tidak, kecuali jika Anda telah mengklik “setuju” maka LG tidak akan mengakses informasi tersebut. Jika Anda tidak ingin LGE mengakses informasi Log aktivitas Anda, Anda kapan saja dapat memblokir akses kami ke informasi Log aktivitas Anda dari pengaturan [Pengaturan – Sistem – Tentang ponsel – Log aktivitas]. Untuk memahami cara LGE menangani informasi Anda secara umum, termasuk informasi Log aktivitas, lihat kebijakan privasi kami di [Pengaturan – Sistem – Tentang ponsel – Informasi hukum – Dokumen Hukum untuk Perangkat Lunak LG – Kebijakan privasi].
+
+Semua terjemahan Log aktivitas ini dilakukan untuk persyaratan setempat dan apabila terdapat perbedaan antara versi bahasa Inggris dan versi non-Inggris, maka versi bahasa Inggris dokumen Log aktivitas inilah yang akan berlaku, sejauh tidak dilarang oleh hukum setempat dalam yurisdiksi Anda.
+

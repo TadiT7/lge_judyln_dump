@@ -1,0 +1,4 @@
+on early-fs
+# change mode Fingerprint Test app
+   chmod 666 /dev/goodix_fp
+

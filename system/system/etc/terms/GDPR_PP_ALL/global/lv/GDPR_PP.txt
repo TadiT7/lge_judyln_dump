@@ -1,0 +1,105 @@
+Konfidencialitātes politika
+
+Šī Konfidencialitātes politika apraksta to, kā LGE iegūst piekļuvi un izmanto jūsu personisko informāciju saistībā ar Programmatūras atjaunināšanas pakalpojumu. Rūpīgi to izlasiet pirms Programmatūras atjaunināšanas pakalpojuma izmantošanas.
+
+1.	Ievads
+Uzņēmums LG Electronics Inc. („LGE” vai „mēs”) ir apņēmies aizsargāt to personu un grupu informāciju, kas izmanto LGE mobilos tālruņus. Konfidencialitātes politika nosaka to, kā mēs ievācam, izmantojam un koplietojam informāciju, kuru iegūstam no jūsu LGE mobilā tālruņa, un it īpaši tā nosaka tālāk norādītos jautājumus:
+-	FOTA Programmatūras atjauninājumu pārskats;
+-	Informācija, ko LGE var iegūt no jums;
+-	Kā LGE izmanto iegūto informāciju;
+-	Kādos gadījumos LGE koplieto informāciju ar citiem; 
+-	Personas datu pārsūtīšana uz ārvalstīm;
+-	Cik ilgi LGE uzglabā manu personisko informāciju;
+-	Drošība;
+-	Tiesības atteikties un atsaukt piekrišanu;
+-	Bērnu konfidencialitātes aizsargāšana;
+-	LGE konfidencialitātes politikas izmaiņas;
+-	Piekļūšana jūsu informācijai;
+-	Tiesības iesniegt sūdzību;
+-	Sazināšanās ar LGE par šo Konfidencialitātes politiku.
+
+Šī politika attiecas tikai uz tādu informāciju, kuru LGE iegūst no jūsu LGE mobilā tālruņa, lai veiktu bezvadu aparātprogrammatūras atjaunināšanu (Firmware Over-the-Air — „FOTA”) („Programmatūras atjaunināšanu”). Šī Politika neattiecas uz jebkādiem citiem LGE produktiem vai pakalpojumiem, tostarp mobilajām lietojumprogrammām, kuras piedāvā vai nodrošina LGE. Tāpat šī Politika neattiecas uz produktiem vai pakalpojumiem, ko piedāvā trešās personas, tostarp operētājsistēmu nodrošinātāji, cita satura vai lietotņu nodrošinātāji vai jūsu tīkla operators. Produktiem un pakalpojumiem, uz kuriem neattiecas šī Konfidencialitātes politika, ir pašiem savas politikas, kas nosaka informācijas apkopošanu, izmantošanu un koplietošanu, un mēs aicinām jūs izlasīt pārējās politikas. LGE neatbild un neuzņemas atbildību par trešo personu rīcību konfidencialitātes jomā.
+
+Ja nesen iegādājāties mobilo tālruni, pirms lietošanas ir jāveic šajā Konfidencialitātes politikā aprakstītā Programmatūras atjaunināšana, lai nodrošinātu mobilā tālruņa pareizu darbību un mūsu jaunākās funkcijas, funkcionalitāti un drošības iestatījumus. Ja jums ir kādi jautājumi, sazinieties ar mums šajā Politikā norādītajā veidā.
+
+Šo Politiku jebkurā brīdī varat apskatīt [Iestatījumi – Sistēma – Par tālruni – Juridiskā informācija – LG programmatūras juridiskie dokumenti – Konfidencialitātes politika].
+
+Šīs Konfidencialitātes politikas tulkojumi tiek sagatavoti atbilstoši vietējām prasībām, un, pastāvot neatbilstībām starp tekstu angļu valodā un jebkurā citā valodā, noteicošais ir teksts angļu valodā, ciktāl to neaizliedz vietējie likumi jūsu jurisdikcijā.
+
+2.	FOTA Programmatūras atjauninājumu pārskats
+Laiku pa laikam LGE aparātprogrammatūrai jūsu mobilajā tālrunī („Programmatūra”) var būt nepieciešami atjauninājumi vai papildinājumi, ko nodrošina LGE, vai LGE var nodrošināt pievienotos elementus Programmatūrai. Veicot Programmatūras atjaunināšanu, jūsu mobilajā tālrunī tiks instalēta jauna Programmatūra, lai nodrošinātu šādus atjauninājumus, papildinājumus un pievienotos elementus. Veicot Programmatūras atjaunināšanu, var tikt pievienotas jaunas funkcijas un dažos ierobežotos gadījumos izdzēstas esošās funkcijas. Pēc Programmatūras atjaunināšanas jūs vairs nevarat lietot un atgriezties pie Programmatūras iepriekšējās instalētās versijas. 
+
+Tā kā Programmatūras atjaunināšana tiek veikta ar FOTA starpniecību, var tikt piemērota papildu maksa, ja jauno Programmatūru lejupielādēsiet mobilajā tīklā atkarībā no jūsu tīkla operatora un tarifu plāna. Lai izvairītos no mobilā tīkla datu lietošanas Programmatūras atjauninājumiem, iestatījumu izvēlnē izvēlieties opciju „Tikai Wi-Fi”. 
+
+a.	Jūsu iespējas pārvaldīt turpmākos Programmatūras atjauninājumus
+Ja funkcija „Pārbaudīt automātiski” būs iespējota, jūsu mobilais tālrunis laiku pa laikam pārbaudīs, vai ir pieejama jauna vai atjaunināta Programmatūra, un automātiski lejupielādēs jauno vai atjaunināto Programmatūru, tiklīdz tā būs pieejama (funkcija „Pārbaudīt automātiski”). Pēc Programmatūras instalēšanas mēs jūs brīdināsim ar pašpiegādes paziņojumu vai informatīvu paziņojumu jūsu mobilajā tālrunī. Pirms Programmatūras iespējošanas jums būs iespēja piekrist Programmatūras atjaunināšanai vai noraidīt to. Jūsu mobilais tālrunis arī automātiski iespējos instalēto Programmatūru pusnaktī (funkcija „Automātiski atjauninājumi”). Jūs varat noraidīt šīs funkcijas „Pārbaudīt automātiski” un „Automātiski atjauninājumi” izslēdzot tās [Iestatījumi – Sistēma – Atjaunināšanas centrs – Progr. Atjaunināšana – Pārklājošās izvēlnes – Iestatījumi]. Ja jūs noraidāt funkciju Pārbaudīt automātiski, jūs atsakāties veikt turpmākos Programmatūras atjauninājumus.
+Ja jūsu mobilais tālrunis jau tiek lietots un jūs atsakāties veikt Programmatūras atjaunināšanu, ņemiet vērā, ka atjauninātās Programmatūras instalēšanas neveikšana var izraisīt [jūsu mobilā tālruņa veiktspējas pazemināšanos, saderības problēmas ar jaunām vai esošajām lietojumprogrammām, kā arī citas problēmas ar funkcijām vai jūsu mobilā tālruņa drošību].
+
+Turklāt jūs varat atsaukt piekrišanu turpmākai jūsu personiskās informācijas apkopošanai, atspējojot jūsu mobilajā tālrunī funkcijas „Pārbaudīt automātiski” un „Automātiski atjauninājumi”, kas ir aprakstītas iepriekš. Šīm funkcijām varat piekļūt [Iestatījumi – Sistēma – Atjaunināšanas centrs – Progr. Atjaunināšana – Pārklājošās izvēlnes – Iestatījumi]. 
+Taču ņemiet vērā, ka tad, ja jūs atspējosiet funkcijas Pārbaudīt automātiski un Automātiski atjauninājumi, pilnībā vai daļēji var tikt traucēta vai ierobežota jūsu mobilā tālruņa darbība vai pakalpojumi. Informācijas apkopošana un izmantošana, kā aprakstīts iepriekš, ir nepieciešama, lai jūsu mobilais tālrunis varētu optimāli darboties. 
+
+Ja jums ir kādi jautājumi par jūsu tiesībām atteikties vai atsaukt savu piekrišanu, sazinieties ar mums pa e-pastu mc.customer-service@lge.com.
+
+b.	Steidzami Programmatūras atjauninājumi
+Atbilstošos apstākļos mēs varam veikt Programmatūras atjaunināšanu saskaņā ar mūsu likumīgajām interesēm, nesniedzot individuālu paziņojumu vai nesaņemot piekrišanu, kā arī neatkarīgi no ierīces pašreizējiem iestatījumiem („Steidzama Programmatūras atjaunināšana”). Apstākļi, kas var prasīt steidzamu Programmatūras atjaunināšanu var būt, piemēram, apdraudējums klientu vai datu drošībai, problēmas ar ekspluatāciju, kuru rezultātā var rasties būtiski pakalpojumu traucējumi, vai arī šādu apstākļu iestāšanās iespējamība.
+
+3.	Informācija, ko LGE var iegūt no jums
+Veicot Programmatūras atjaunināšanu, LGE no jūsu mobilā tālruņa var apkopot tālāk norādīto informāciju: starptautisko mobilā aprīkojuma identitāti (IMEI), sērijas numuru, mobilā tālruņa modeli, programmatūras un/vai aparātprogrammatūras versijas, tālruņa operētājsistēmu, valsts mobilo sakaru kodu (MCC), mobilā tīkla kodu (MNC), Google Cloud Messaging (GCM) identifikācijas kodu un izvēlēto valodu. Šī informācija tiek apkopota automātiski kā daļa no Programmatūras atjaunināšanas procesa.
+
+Saistībā ar mūsu lomu jūsu mobilā tālruņa mobilo sakaru pakalpojumu sniegšanā mēs apkoposim operatīvo informāciju, tostarp sistēmas žurnālus ar IP adresēm. Šī informācija tiek apkopota automātiski un ir jūsu tālruņa darbībai būtiska daļa.
+
+4.	Kā LGE izmantos iegūto informāciju?
+No jums iegūto informāciju mēs izmantojam dažādiem mērķiem, tostarp:
+-	lai veiktu Programmatūras atjaunināšanu (tostarp steidzamu Programmatūras atjaunināšanu), tostarp pārbaudītu, vai programma ir atjaunināta, autentificētu jūsu mobilo tālruni un nodrošinātu atbilstošu Programmatūru; 
+-	lai apstiprinātu mūsu saistības saskaņā ar [mūsu Ierobežoto produktu garantiju];
+-	lai nodrošinātu paziņojumus saistībā ar mobilā tālruņa drošības pakalpojumiem un ārkārtas paziņojumus par problēmām ar drošību;
+-	lai pasargātu un aizstāvētu mūsu tiesības un īpašumu, tostarp ar tiesvedībām;
+-	lai ievērotu normatīvās prasības; un
+-	lai analizētu, pārskatītu un uzlabotu mūsu piedāvātos produktus un pakalpojumus.
+
+Juridiskais pamats, balstoties uz kuru LGE apstrādās jūsu personisko informāciju, parasti ir viens no tālāk norādītajiem:
+-	Līgums: ja ir nepieciešams noslēgt ar jums līgumu;
+-	Likumīgas intereses: ja tas nepieciešams LGE mērķiem vai trešās personas likumīgām uzņēmējdarbības interesēm. Uzņēmumam LGE tas ietvers uzņēmuma, kā sadzīves elektroierīču ražotāja un pakalpojumu sniedzēja intereses;
+-	Piekrišana: ja būsit izvēlējušies to sniegt. Jums ir tiesības jebkurā brīdī atsaukt savu piekrišanu; vai
+-	Juridiskas saistības: ja apstrāde ir nepieciešama mūsu juridisko saistību izpildei
+
+Mēs varam arī izmantot apkopotus statistikas datus, kas savākti Programmatūras atjaunināšanas laikā un mobilā tālruņa darbības laikā, lai labāk izprastu mūsu klientu vajadzības, uzlabotu mūsu klientu apkalpošanu un piedāvātos produktus un pakalpojumus, kā arī tirgus izpētes un analīzes mērķiem. Šādi apkopotie statistikas dati nesatur informāciju, kas identificē vai var tikt attiecināta uz fiziskām personām.
+
+5.	Kādos gadījumos LGE koplieto informāciju ar citiem
+Mēs parasti ar trešajām personām nekoplietojam tādu informāciju, kuru mēs iegūstam Programmatūras atjaunināšanas laikā, kas identificē vai var tikt attiecināta uz fiziskām personām. Taču ņemiet vērā tālāk norādītos apstākļus, kuru gadījumā mēs varam nosūtīt šādu informāciju tālāk norādītajām trešajām personām:
+
+-	Saistītie un meitasuzņēmumi. LGE var apmainīties ar personisko informāciju un informāciju, kas nav personiska informācija (tostarp informācija par mobilo tālruni), ar saviem saistītajiem un meitasuzņēmumiem visā pasaulē tādā apmērā, kāds ir nepieciešams mērķiem, kuriem šāda informācija tika savākta. Termins „saistītie uzņēmumi” vai „meitasuzņēmumi” attiecas uz grupas uzņēmumiem, kuri var izmantot LG nosaukumu vai kuriem ir kopīgas īpašumtiesības vai kontrole, piemēram, LG CNS vai LG Electronics U.S.A., Inc.;
+-	Trešo personu pakalpojumu sniedzēji. Trešo personu tirgotājiem, kurus LGE var laiku pa laikam piesaistīt pakalpojumus sniegšanai savā vārdā, piemēram, lai izpildītu klientu apkalpošanas pieprasījumus;
+
+Neskatoties uz to, ka parasti mēs ar citām trešajām personām nekoplietojam šādu informāciju, ņemiet vērā, ka tālāk norādītajos apstākļos mēs varam koplietot šādu informāciju ar tālāk norādītajām personām:
+-	Citas likumā noteiktās personas. Saskaņā ar tiesas lēmumu vai citas valdības vai tiesībsargājošās iestādes rīkojumu, lai ievērotu juridisko procesu vai likumu;
+-	Citas personas, kas ir saistītas ar uzņēmuma transakcijām. Saistībā ar korporatīvo notikumu, piemēram, LGE visa uzņēmuma vai tā daļas (tai skaitā filiāles vai meitasuzņēmuma) apvienošanos, pārstrukturēšanu, pārdošanu vai nodošanu, ja LGE var rasties nepieciešamība izpaust informāciju potenciālajam pircējam un tā profesionālajiem konsultantiem;
+-	Citas personas, ja tas ir nepieciešams mūsu pakalpojumu aizsardzībai. Lai īstenotu mūsu līgumtiesības, veiktu piesardzības pasākumus pret atbildības iestāšanos, izmeklētu iespējamās vai faktiskās nelikumīgās darbības, izmeklētu vai aizstāvētu sevi pret trešo personu prasībām vai aizdomām; vai
+-	Citas personas, lai aizsargātu jebkuru mūsu klientu personīgo drošību vai īpašumu. Lai aizsargātu mūsu klientu vai sabiedrības tiesības, personīgo drošību vai īpašumu.
+
+Nekādā gadījumā jūsu Programmatūras atjaunināšanas laikā iegūtā personiskā informācija bez jūsu piekrišanas netiks apstrādāta mārketinga nolūkos, kā arī bez jūsu piekrišanas netiks nodota trešajām personām mārketinga nolūkos.
+
+6.	Personas datu pārsūtīšana
+Mēs, mūsu saistītie, meitasuzņēmumi un pakalpojumu sniedzēji var izmantot jūsu personisko informāciju valstīs, kas nav jūsu mobilā tālruņa atrašanās vieta, šajā Konfidencialitātes politikā aprakstītajiem mērķiem. Datu aizsardzības likumi dažās valstīs var nenodrošināt tādu pašu aizsardzības līmeni, kāds ir jūsu mītnes valstī. Taču pirms jūsu personiskās informācijas pārsūtīšanas mēs veiksim pasākumus, lai nodrošinātu, ka šādai informācijai saņēmējā valstī vai jurisdikcijā tiktu nodrošināts tāds pats aizsardzības līmenis.
+
+7.	Cik ilgi LGE uzglabā manu personisko informāciju?
+Mēs saglabāsim jūsu personisko informāciju tik ilgi, cik tas būs nepieciešams, lai nodrošinātu jums lietotni, vai citiem šajā Konfidencialitātes politika aprakstītajiem mērķiem. Mēs piemērojam dažādus kritērijus, lai noteiktu atbilstošu saglabāšanas periodu jūsu sniegtās personiskās informācijas dažādām kategorijām.
+Uzņēmumam ir svarīgi ievākt un izmantot personisko informāciju, lai varētu nodrošināt programmatūras atjaunināšanas pakalpojumus. Ņemiet vērā, ka daudzu pakalpojuma daļu izmantošana/nodrošināšana var tikt ierobežota, ja jūs nepiekritīsiet šādai ievākšanai. Mēs ievācam un izmantojam personisku informāciju no informācijas subjekta. Mēs to saglabājam līdz brīdim, kad šādas ievākšanas un izmantošanas mērķis ir izpildīts. Tāpēc spēkā ir princips, ka uzņēmums izmanto un saglabā personisko informāciju periodā, kad tiek izmantots pakalpojums.
+Ja pieprasāt dzēst savu personisko informāciju tāpēc, ka tā vairs nav vajadzīga, vai ir pamatots iebildums pret apstrādi, vai tiek izvirzīta prasība par to, ka apstrāde ir pretlikumīga, jums ir tiesības pieprasīt apstrādes ierobežojumu, kamēr mēs pārbaudām jūsu dzēšanas pieprasījumu.
+
+8.	Drošība
+Mēs rīkojamies komerciāli pamatoti, lai aizsargātu jūsu personiskās informācijas konfidencialitāti un drošību. Tomēr, ņemot vērā interneta būtību, pastāvīgi mainīgās tehnoloģijas un citus faktorus, kas nav mūsu kontrolē, mēs nevaram garantēt, ka saziņai starp jums un mūsu serveriem nesankcionēti nepiekļūs trešās personas, vai arī mēs netiksim pakļauti drošības pārkāpumiem. Mēs neuzņemamies nekādu atbildību par personas datu izpaušanu nosūtīšanas kļūdu vai trešo personu neatļautu vai nelikumīgu darbību dēļ.
+
+9.	Bērnu konfidencialitātes aizsargāšana
+Bērnu konfidencialitātes aizsargāšana mums ir svarīga. Šā iemesla dēļ neviens no mūsu pakalpojumiem nav veidots tā, lai piesaistītu par 16 gadiem jaunākas personas vai personas, kas ir nepilngadīgas konkrētajā jurisdikcijā. Tāpat mēs apzināti nevācam un nesaglabājam personisko informāciju no lietotājiem, kas ir jaunāki par 16 gadiem vai ir nepilngadīgi konkrētajā jurisdikcijā. Ja mēs uzzināsim vai tiksim informēti, ka esam ievākuši informāciju no lietotājiem, kas ir jaunāki par 16 gadiem vai ir nepilngadīgi konkrētajā jurisdikcijā, mēs nekavējoties izdzēsīsim šādu personisko informāciju.
+
+10.	LGE Konfidencialitātes politika izmaiņas
+LGE laiku pa laikam var atjaunināt šo Konfidencialitātes politika. Ja mēs būtiski mainīsim mūsu Konfidencialitātes politika, mēs informēsim jūs, izmantojot mobilo ierīci vai citus līdzekļus. Iespējams, ka jums būs jāapstiprina vai jāpiekrīt pārskatītajai Konfidencialitātes politikai, lai varētu turpināt izmantot programmatūras atjaunināšanas pakalpojumu.
+
+11.	Piekļuve jūsu informācijai un jūsu tiesības
+Saskaņā ar dažu jurisdikciju tiesību aktiem jums var būt tiesības pieprasīt piekļuvi LGE rīcībā esošajai personiskajai informācijai par jums vai tiesības iebilst, vai ierobežot jūsu personiskās informācijas dažus apstrādes veidus (vai atsaukt savu piekrišanu LGE apstrādei), vai saņemt jūsu personiskās informācijas mašīnlasāmu kopiju. Ja tiesību aktos tas ir paredzēts, var tikt iekasēta neliela maksa par šādu pakalpojumu sniegšanu. Ņemiet vērā, ka mēs varam atteikties apstrādāt jūsu pieprasījumus, ja tie ir nepamatoti aizvainojoši, apdraud citu personu konfidencialitāti vai ir ļoti nepraktiski (ciktāl to atļauj piemērojamie tiesību akti). Lai uzzinātu plašāku informāciju vai īstenotu kādu no šīm tiesībām, sazinieties ar mums pa e-pastu mc.customer-service@lge.com.
+
+12.	Sazināšanās ar LGE par šo Konfidencialitātes politika
+Ja jums ir kādi jautājumi vai komentāri par šo Konfidencialitātes politika vai to, kā LGE apstrādā jūsu personisko informāciju, sazinieties ar LG Electronics Inc. pa e-pastu mc.customer-service@lge.com. Jums ir arī tiesības iesniegt sūdzību datu aizsardzības iestādē, taču mēs aicinām jūs no sākuma sazināties tieši ar mums, lai atrisinātu visus jautājumus.
+
+Pēdējo reizi atjaunināts: 2017. gada 1. decembrī

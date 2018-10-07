@@ -1,0 +1,8 @@
+﻿Samþykki fyrir raddupplýsingum fyrir Sjálfvirk raddkennsl Google („ASR“) 
+
+Parking Assistant-þjónusta („Þjónusta“) notar Google ASR, eiginleika sem Google, Inc. („Google“) býður upp á, sem gerir okkur kleift að breyta rödd notanda í texta.
+Raddupplýsingar fyrir notkun þína á Þjónustunni verða fluttar til og geymdar af Google. Google mun nota þessar upplýsingar í þeim tilgangi að umbreyta rödd þinni í textaupplýsingar og senda textaupplýsingarnar til LGE.
+Allar upplýsingar sem ASR safnar falla undir gagnaverndarstefnu Google, sem má finna á (https://www.google.com/policies/privacy/).
+Þú getur valið að afvirkja notkun ASR með því að slökkva á Þjónustunni í „Valkosta valmynd - Lagalegar upplýsingar“.
+LGE safnar aldrei og/eða notar neinskonar persónuupplýsingar þ.m.t. raddupplýsingar og notar aðeins ópersónugreinanlegar upplýsingar svo sem textaupplýsingar fyrir þjónustuna.
+Ennfremur mun LGE aldrei (og mun ekki leyfa þriðja aðila að) nota textaupplýsingarnar til að rekja eða safna neinskonar persónugreinanlegum upplýsingum gesta þjónustunnar og mun ekki tengja nein gögn sem safnað er af þessari Þjónustu við neins konar persónugreinanleg gögn frá nokkrum uppruna.

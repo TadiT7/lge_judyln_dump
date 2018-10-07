@@ -1,0 +1,3 @@
+﻿Sử dụng thông tin vị trí hiện tại
+
+LGE có thể sử dụng thông tin vị trí được lưu trên thiết bị (sử dụng GPS, Wi-Fi, và các mạng truyền thông di động) để thu được “thông tin vị trí hiện tại” của thiết bị. LGE chỉ lưu “thông tin vị trí hiện tại” trong nội bộ trên thiết bị của người sử dụng và không thu thập, lưu, hoặc lưu trữ thông tin trên các máy chủ của mình. Thậm chí nếu bạn đồng ý với nội dung nêu trên, dịch vụ chỉ được cung cấp khi người sử dụng kích hoạt chức năng định vị của Google, và việc sử dụng dịch vụ “thông tin vị trí hiện tại” có thể vị thay đổi bất kỳ lúc nào theo trình đơn cài đặt của mỗi dịch vụ sử dụng “thông tin vị trí hiện tại”.

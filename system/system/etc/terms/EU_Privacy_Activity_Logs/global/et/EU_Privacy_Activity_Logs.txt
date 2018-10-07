@@ -1,0 +1,80 @@
+﻿Aktiivsuslogide kasutamise privaatsuspoliitika
+
+Privaatsuspoliitkas kirjeldatakse kuidas LGE saab juurdepääsu teie isiklikele andmetele ja kuidas ta neid andmeid LG diagnostikaraportite teenuse kontekstis kasutab. Lugege dokumenti hoolikalt enne LG diagnostikaraportite teenuse kasutamist.
+
+1. Sissejuhatus
+LG Electronics Inc. (“LGE” või “meie”) on pühendunud PC/Mac tarkvara kasutajate isiklike andmete kaitsmisele. See LG Seadme diagnostika raportiteenus pakub teile kaugühendusteenust (“Teenus”).
+Privaatsussätted sätestab kuidas me Teenuse kasutamise tulemusel hangitud infot kogume, kasutame ja jagame.
+
+– Informatsioon mida LGE teilt hankida võib:
+– Kuidas LGE hangitud infot kasutab;
+– Millal jagab LGE infot teistega; ja
+– Kuidas te saate kontrollida LGE poolt kogutavat ja kasutatavat infot.
+
+Seade või LG diagnostikaraportite teenus võivad anda juurdepääsu kolmandate osapoolte tarkvararakendustele ja muudele teenuste linkidele, sealhulgas operatsioonisüsteemi pakkujatele. Need kolmanda osapoole teenused jäävad käesoleva Privaatsussätted reguleerimisalast välja ja neil on oma poliitika, mis kehtib nende teenuste poolt andmete kogumise, kasutamise ja jagamise kohta. Soovitame teil vastavaid eeskirju lugeda. LGE ei vastuta selliste kolmandate osapoolte privaatsustavade eest.
+
+2. Millist informatsiooni võib LGE hankida?
+Informatsioon mida me teenuste kasutamise ajal võime koguda jääb alljärgnevatesse kategooriatesse:
+– Mobiilseadme olek: mudel, tarkvara versioon, seerianumber, IMSI, toite oleks, aku olek, CPU/RAM/sisemälu kasutus, keskmine kasutusaeg, riistvara omadiagnostika tulemused (Wi-Fi, BT, lähedusandur, valgustusandur, sõrmejäljeandur jne.)
+– Võrgu olek: Teenuse olek (kõned, andmed), signaali tugevus, jaama info, kõne sagedus/aeg
+– Rakenduse informatsioon: Nimekiri installitud ja kustutatud rakendustest, rakenduste versioonidest, hiljuti hüljatud rakendused, rakenduste kasutamise sagedus/statistika. 
+– Mobiiltelefoni ühenduse olek: Wi-Fi, Bluetooth, GPS, kõrvaklapud, akulaadija, USB ja SD kaardi ühenduse olekud
+– Tõrgete info: hangunud ekraan, soovimatud toite katkestuse, katkestatud kõned, rakenduste tõrked (saatuslikud, ootamatud)
+
+3. Kuidas LGE hangitud infot kasutab?
+Kasutame Teenuse kasutamise tulemusel hangitud infot erinevatel eesmärkidel, nt:
+
+- Mobiilseadme identifitseerimine ja diagnoosimine
+- Klienditeeninduse pakkumine ja teenuste ajaloo haldamine 
+- Müksamissõnumite saatmiseks 
+- Teenuse/logi/seadme ajaloo analüüsimiseks, et teenuseid parandada ja pakkuda paremat kliendirahulolu
+
+Meil on õigus kombineerida andmeid, mis on saadud teie Teenuste kasutamise kaudu, sealhulgas isikuandmed, teabega, mida te annate meile muul viisil eespool nimetatud eesmärkidel.
+
+Õiguslik alus, millele LGE teieisikuandmeid töödeldes toetub põhineb tavaliselt ühel järgmistest:
+
+– Leping: olukordades kus lepingu sõlmimine teiega on vajalik;
+– Õigustatud huvid: kui see on LGE eesmärkide või kolmandate osapoolte seaduslike ärihuvide saavutamiseks vajalik. LGE puhul hõlmab see tarbeelektroonika tootja ja teenuseosutaja huve;
+– Nõusolek: kohtades kus te olete otsustanud seda pakkuda. Teil on õigus oma nõusolekut igal ajal tagasi võtta; või
+– Juriidiline kohustus: kui töötlemine on vajalik meie seaduslike kohustuste täitmiseks.
+
+Alljärgnevates lõikudes esitatud teave näitab, millistele eespool nimetatud õiguslikele alustele tuginedes on seotud erinevat liiki isikuandmete töötlemisega.
+
+4. Informatsiooni jagamine
+Sidusettevõtted ja tütarettevõtted. LGE võib jagada isikuandmeid ja isiku tuvastamist mittevõimaldavaid andmeid oma sidus- ja tütarettevõtetega kogu maailmas ainult niikaua, kui see on vajalik Privaatsuseeskirjades kirjeldatud eesmärgi saavutamiseks. Mõisted "sidusettevõtted" või "tütarettevõtted" viitab grupiettevõtetele, kes võivad LG nime kasutada või kellel on ühine omanikering või -juhtimine, näiteks LG CNS või LG Electronics France S.A.R.L.
+
+Pidage meeles, et me võime jagada sellist teavet järgmiste üksustega:
+- Kolmandatest osapooltest teenuse pakkujad. LG diagnostikaraportite teenuse võimaldamiseks võime teie isikuandmeid ja isiku tuvastamist mittevõimaldavaid andmeid jagada kolmandast osapoolest teenusepakkujatega.
+
+Kuigi me tavaliselt ei jaga informatsiooni täiendavate kolmandate osapooltega, pidage meeles, et alljärgnevatel konkreetsetel asjaoludel võime me teavet jagada järgmiste ettevõtetega:
+- Muud osapooled vastavalt seadusele. Kohtuotsuse alusel või muude valitsus- või õigusasutuste nõudmisel kohtuistungi läbiviimiseks või muudel õiguslikel või seaduslikel eesmärkidel.
+- Muud osapooled seoses ettevõtte äritegevusega. Seoses korporatiivse sündmusega, nagu LGE äri (sh filiaali või tütarettevõtte) ühinemine või müük, kus LGEl võib osutuda vajalikuks teabe avalikustamine potentsiaalsele ostjale ja tema seaduslikele esindajatele;
+- Muud osapooled, kui on vaja kaitsta meie teenuseid. Meie õiguste ja varade kaitsmiseks, sealhulgas kohtumenetluse käigus;
+- Muud osapooled, kes soovivad kaitsta mis tahes meie kasutajate isiklikku julgeolekut või vara. Selleks, et kaitsta meie kasutajate või avalikkuse isiklikku ohutust või vara.
+
+Mitte mingil juhul ei tohi teie isikuandmeid töödelda turunduslikel eesmärkidel ega jagada neid turunduslike eesmärkide saavutamiseks kolmandate osapooltega.
+
+5. Isikuandmete edastamine
+Meie, meie sidus- ja tütarettevõtted ja tarnijad võivad teavet kasutada (sealhulgas teie isikuandmeid) riikides, mis ei ole teie seadme asukohariigiks, eesmärgiga pakkuda teile LG diagnostikaraportite teenusega ja muudel käesolevas privaatsuseeskirjas kirjeldatud eesmärkidel. Mõnede riikide andmekaitse seadused ei pruugu pakkuda samaväärset isikuandmete kaitset, kui teie asukohariik. Püüame isikuandmete edastamisel tagada isikuandmete kaitseks samaväärse kaitse ja turvalisuse, kui seda pakutakse teie asukohariigis. Lisainfot isikuandmete töötlemise ja kaitse kohta saate, kui võtate meiega ühendustmc.customer-service@lge.com.
+
+6. Kui kaua LGE minu isikuandmeid säilitab?
+Hoiame teie isikuandmeid alles nii kaua kui see on vajalik ajakohaste Teenuste pakkumiseks või muu Privaatsuseeskirjades määratletud eesmärgi saavutamiseks. Rakendame erinevaid kriteeriume, et tuvastada kindlaks sobilik säilitamisaeg erinevatele teie poolt pakutavate isikuandmete kategooriatele. Näiteks hoiustame me andmeid, mis on vajalikud meie õiguste kaitseks, nt lepingu kehtivuse ajalja ühe aastat pärast selle lõppemist lepinguga seotud info. Perioodi lõppedes selline info kas kustutatakse või muudetakse anonüümseks. Kui oleme teie nõusolekuga seonduvalt kogunud isikuandmeid ja meil puudub täiendav õiguslik alus nende töötlemise jätkamiseks peale lepingu nõusoleku katkestamist, kustutame kõik teie isikuandmed.
+Kui soovite oma isikuandmete kustutamist põhjusel, et need pole enam vajalikud või nende töötlemine on muutunud seaduse vastaseks, on teil õigus nõuda oma andmete töötlemise piiramist seniks kuni me töötleme teie taotlust andmete kustutamiseks.
+
+7. Turvalisus
+Teeme teie isikuandmete turvalisuse ja konfidentsiaalsuse tagamiseks majanduslikult mõistlikke pingutusi. Kuna internet, pidevalt muutuv tehnoloogia ja muud meist sõltumatud tegurid võivad teie turvalisust rikkuda, ei saa me tagada et teie ja meie serverite vaheline suhtlus oleks täielikult kaitstud volitamata juurdepääsu eest kolmandate osapoolte poolt või et me ei võiks sattuda turvareeglite rikkumise ohvriks. Me ei võta endale mingit vastutust isikuandmete avaldamise eest, mis on toimunud kolmandate osapoolte edastamise vigade või lubamatu või ebaseadusliku tegevuse tõttu.
+
+8. Laste privaatsuse kaitse
+Laste turvalisuse tagamise on meie jaoks oluline. Seetõttu ei ole ükski meie teenustest suunatud või muudetud atraktiivseks alla 16 aastaste või vastavalt kehtivatele seadustele alaealiste isikute jaoks. Me ei kogu teadlikult alla 16 aastaste või vastavalt kehtivatele seadustele alaealiste isikute isikuandmeid. Kui meile saab teatavaks või meid informeeritakse, et oleke kogunud alla 16 aastatste isikute või vastavalt kehtivatele seadustele alaealise isikuandmeid, eemaldame need isikuandmed viivitamatult.
+
+9. LGE Privaatsussätted muudatused
+LGE võib aeg-ajalt privaatsuseeskirju ajakohastada. Kui muudame privaatsuseeskijru oluliselt, teavitame teid sellest Teenuse või muude kanalite kaudu. Teenuse kasutamise jätkamiseks peate muudetud privaatsuseeskirjadega nõustuma.
+
+10. Juurdepääs teie andmetele ja teie õigused 
+Mõne jurisdiktsiooni seaduste kohaselt võib olla õigus nõuda LGE poolt hoitavatele isikuandmetele juurdepääsu, parandamist või kustutamist või õigust keelata või piirata isiklikuandmete teatud tüüpi töötlemise (või tühistada LGEle antud nõusolek töötlemiseks) või saada masinloetava koopia teie isiklikuandmete kohta. Kui seadused seda lubavad, võidakse sellise teenuse osutamise eest nõuda mõningast teenustasu. Pange tähele, et me võime keelduda teie taotluse töötlemisest, kui need on põhjendamatult kuritahtlikud, ohustavad teiste inimeste privaatsust või on äärmiselt ebapraktilised (kui see on lubatud kehtivate seaduste kohaselt). Lisainformatsiooni saamiseks võtke meiega ühendustmc.customer-service@lge.com.
+
+11. Kontakteerumine LGEga käesoleva Privaatsussätted pärast
+Kui teil on Privaatsussätted või LGE isikuandmetöötluse kohta küsimusi või kommmentaare võtke ühendust Andmekaitse ametnikuga aadressil dpo-eu@lge.com. Samuti on teil õigus esitada kaebus andmekaitse inspektsioonile, kuigi soovitame teil esmalt mistahes probleemide lahendamiseks võtta meiega ühendust.
+
+Viimane uuendus: 01. märts 2018
+

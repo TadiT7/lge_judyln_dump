@@ -1,0 +1,105 @@
+Datenschutzrichtlinie
+
+Diese Datenschutzrichtlinie legt dar, in welcher Form LGE Zugriff auf Ihre personenbezogenen Daten im Zusammenhang mit dem Softwareaktualisierungsdienst erhält und diese verwendet. Bitte lesen Sie diese vor einer Verwendung des Softwareaktualisierungsdienstes sorgfältig durch.
+
+1.	Einführung
+LG Electronics, Inc. („LGE“ oder „wir“) verpflichtet sich, für den Schutz der Informationen von Personen und Gruppen zu sorgen, welche LGE-Mobiltelefone verwenden. Diese Datenschutzrichtlinie legt dar, wie wir Informationen, die wir über Ihr Mobiltelefon erfassen, erhalten, erfassen, verwenden und weitergeben, insbesondere:
+-	Übersicht über FOTA-Softwareaktualisierungen;
+-	Informationen, die LGE von Ihnen erhalten kann;
+-	Wie LGE die erhaltenen Informationen verwendet;
+-	Wann LGE Informationen mit Anderen austauscht; 
+-	Übermittlungen personenbezogener Daten nach Übersee
+-	Wie lange bewahrt LGE meine personenbezogenen Informationen auf?
+-	Sicherheit
+-	Recht auf Ablehnung oder Rücknahme der Einwilligung
+-	Der Schutz der Privatsphäre von Kindern
+-	Änderungen an der Datenschutzrichtlinie von LGE
+-	Zugriff auf Ihre personenbezogenen Informationen
+-	Das Recht, eine Beschwerde einzureichen; und
+-	Kontaktaufnahme zu LGE bezüglich dieser Datenschutzrichtlinie
+
+Diese Richtlinie findet nur für Informationen Anwendung, die von LGE über Ihr LGE-Mobiltelefon erfasst wurden, um eine Firmware-Aktualisierung über einen Firmware-Over-the-Air- („FOTA“)-Vorgang (eine „Softwareaktualisierung“) durchzuführen. Diese Richtlinie findet auf andere Produkte oder Dienste von LGE, einschließlich der von LGE angebotenen oder bereitgestellten mobilen Apps. keine Anwendung. Diese Richtlinie findet für Produkte oder Dienstleistungen, die von Dritten, einschließlich Betriebssystemanbietern, anderen Inhalts- oder Anwendungsanbietern oder Ihrem Netzbetreiber, angeboten werden, ebenfalls keine Anwendung. Produkte und Dienstleistungen, die sich außerhalb des Geltungsbereichs dieser Datenschutzrichtlinie befinden, unterliegen, was ihre Erfassung, Verwendung und Weitergabe von Informationen betrifft, ihren eigenen Richtlinien und wir empfehlen Ihnen, diese Richtlinien eingehend zu lesen. LGE ist für die Datenschutzpraktiken von Dritten weder verantwortlich noch haftbar.
+
+Falls Sie dieses Mobiltelefon vor kurzem gekauft haben, dann ist es erforderlich, vor seiner Verwendung eine Softwareaktualisierung durchzuführen, wie es in dieser Datenschutzrichtlinie beschrieben ist. Damit wird sichergestellt, dass Ihr Mobiltelefon richtig funktioniert und über die aktuellsten Eigenschaften, Funktionen und Sicherheitseinstellungen verfügt. Sollten Sie Fragen haben, wenden Sie sich bitte wie durch die Richtlinie bereitgestellt an uns.
+
+Diese Richtlinie steht Ihnen jederzeit unter [Einstellungen – System – Über das Telefon – Rechtliche Hinweise – Rechtstexte für LG Software – Datenschutzrichtlinien] für eine Überprüfung zur Verfügung.
+
+Jede Übersetzung dieser Datenschutzrichtlinie wurde für lokale Anforderungen unternommen und im Falle von Abweichungen zwischen der englischen und einer nicht-englischen Version, muss die englische Version dieser Richtlinie in dem Maße gelten, wie sie durch die geltende Gesetzgebung in Ihrem Zuständigkeitsbereich maximal möglich wäre.
+
+2.	Übersicht über FOTA-Softwareaktualisierungen
+Von Zeit zu Zeit kann es erforderlich sein, die LGE-Firmware auf Ihrem Mobiltelefon (die „Software“) zu aktualisieren oder es müssen Ergänzungen vorgenommen werden, die von LGE bereitgestellt werden, oder für die LGE möglicherweise Software-Zusatzkomponenten bereitstellt. Das Durchführen einer Softwareaktualisierung führt dazu, dass neue Software auf Ihrem Mobiltelefon installiert wird, um diese Aktualisierungen, Ergänzungen oder Zusatzkomponenten bereitstellen zu können. Mit Softwareaktualisierungen bekommen sie die Möglichkeit, neue Eigenschaften oder Funktionen hinzuzufügen und in bestimmten Fällen auch vorhandene Eigenschaften oder Funktionen zu entfernen. Nach dem Fertigstellen der Softwareaktualisierung können Sie möglicherweise nicht mehr auf die zuvor installierte Version der Software zurückgreifen. 
+
+Da die Softwareaktualisierung über einen FOTA-Vorgang durchgeführt wird, können, abhängig von Ihrem Netzbetreiber und Ihrem Tarif, zusätzliche Kosten anfallen, wann immer Sie neue Software über ein Mobilfunknetz herunterladen. Falls Sie eine Verwendung von Mobilfunkdaten für Softwareaktualisierungen vermeiden möchten, wählen Sie unter Einstellungen die Option „Nur Wi-Fi“ aus. 
+
+a.	Ihre Optionen für die Verwaltung künftiger Softwareaktualisierungen
+Mit der „Vérifier automatiquement“-Funktion aktiviert, sucht Ihr Mobiltelefon von Zeit zu Zeit nach neuer oder aktualisierter Software und lädt diese neue oder aktualisierte Software automatisch herunter, wann immer diese verfügbar ist (Funktion „Vérifier automatiquement“). Nach dem Installieren der Software benachrichtigen wir Sie mithilfe eines Popup-Hinweises oder mittels einer Benachrichtigung auf Ihrem Mobiltelefon. Sie erhalten die Möglichkeit, die Softwareaktualisierung vor dem Anwenden der Software zu akzeptieren oder abzulehnen. Die Software wird von Ihrem Mobiltelefon, welches diese automatisch um Mitternacht installiert, angewendet (Funktion „Automatische Aktualisierungen). Sie können die Funktionen „Automatisch prüfen“ und „Automatische Aktualisierungen“ unter [Einstellungen – System – Update-Center – Software Update – Overflow-Menüs – Einstellungen] ablehnen. Wenn Sie Automatisch prüfen ablehnen, dann verweigern Sie wirksam die Durchführung aller zukünftiger Softwareaktualisierungen.
+Falls Sie Ihr Mobiltelefon bereits verwenden und Sie die Durchführung einer Softwareaktualisierung ablehnen möchten, beachten Sie bitte, dass eine nicht stattgefundene Installation der aktualisierten Software zu einer [Verschlechterung der Leistung Ihres Mobiltelefons, Kompatibilitätsproblemen mit neuen oder vorhandenen Apps und anderen Problemen mit Funktionen oder mit der Sicherheit Ihres Mobiltelefons führen kann].
+
+Darüber hinaus können Sie die Einwilligung zur weiteren Erfassung Ihrer persönlichen Daten widerrufen, indem Sie die oben beschriebenen Funktionen „Automatisch prüfen“ und „Automatische Aktualisierungen“ in Ihrem Mobiltelefon deaktivieren. Diese Funktionen können unter [Einstellungen – System – Update-Center – Software Update – Overflow-Menüs – Einstellungen] bearbeitet werden.
+Bitte haben Sie Verständnis dafür, dass, wenn Sie die Funktionen „Automatisch prüfen“ und „Automatische Aktualisierungen“ deaktivieren, der Betrieb Ihres Mobiltelefons oder Ihrer Dienste ganz oder teilweise beeinträchtigt oder eingeschränkt werden kann. Die Erfassung und Verwendung der Informationen, wie sie oben beschrieben wird, ist für den optimalen Betrieb Ihres Mobiltelefons erforderlich. 
+
+Sollten Sie Fragen zu Ihrem Widerrufsrecht haben oder wissen möchten, wie Sie Ihre Einwilligung widerrufen können, kontaktieren Sie uns bitte unter mc.customer-service@lge.com.
+
+b.	Abbrechen der Softwareaktualisierung...
+Sollten es die Umstände erforderlich machen, können wir unabhängig von den aktuellen Geräteeinstellungen eine Softwareaktualisierung (eine „dringende Softwareaktualisierung“) entsprechend unserer berechtigten Interessen durchführen, ohne dass eine individuelle Benachrichtigung oder die Einholung einer Einwilligung bereitgestellt wird. Zu Beispielen, wann eine dringende Softwareaktualisierung erforderlich sein kann, gehören Bedrohungen für die Sicherheit der Kunden oder die Datensicherheit oder betriebliche Probleme, die zu einer erheblichen Unterbrechung der Dienste oder zu einer unmittelbaren Wahrscheinlichkeit solcher Umstände führen können.
+
+3.	Informationen, die LGE von Ihnen erhalten kann
+Beim Durchführen einer Softwareaktualisierung kann LGE die folgenden Informationen über Ihr Mobiltelefon erfassen: Internationale Mobilfunkgerätekennung  (IMEI), Seriennummer, Mobiltelefonmodell, Software- und / oder Firmware-Versionen, Telefonbetriebssystem, Mobiler Ländercode (MCC), Mobilfunknetzcode (MNC), Google Cloud Messaging (GCM) -Kennung und ausgewählte Sprache. Diese Informationen werden im Rahmen der Durchführung einer Softwareaktualisierung automatisch erfasst.
+
+Im Rahmen unserer Aufgabe für eine Bereitstellung von Mobilfunkdiensten für Ihr Mobiltelefon erfassen wir Betriebsinformationen, einschließlich Systemprotokolle mit IP-Adressen. Diese Information wird automatisch erfasst und stellt eine notwendige Voraussetzung für die Bedienung des Telefons dar.
+
+4.	Wie verwendet LGE die erhaltenen Informationen?
+Die von Ihnen erhaltenen Informationen werden von uns für verschiedene Zwecke verwendet, einschließlich:
+-	Der Durchführung einer Softwareaktualisierung (einschließlich aller dringender Softwareaktualisierungen), einschließlich einer Überprüfung, ob sich die Software auf dem neuesten Stand befindet, Ihr Mobiltelefon zu authentifizieren und die geeignete Software zu liefern; 
+-	Der Bestätigung unserer Verpflichtungen aus der [unserer beschränkten Produktgarantie];
+-	Der Bereitstellung von Benachrichtigungen in Bezug auf Sicherheitsdienste für Mobiltelefone und Notfallbenachrichtigungen als Reaktion auf Sicherheitsprobleme;
+-	Dem Schutz unserer Rechte und unseres Eigentums, einschließlich im Wege von Gerichtsverfahren;
+-	Der Einhaltung von regulatorischen Anforderungen; und
+-	Einer Analyse, Prüfung und Verbesserung der Produkte und Dienste, die wir anbieten.
+
+Die rechtliche Grundlage, auf der sich LGE bei der Verarbeitung Ihrer personenbezogenen Daten stützt, ist in der Regel eine der folgenden;
+-	Vertrag: wo es notwendig ist, einen Vertrag mit Ihnen zu schließen;
+-	Berechtigte Interessen: Wo dies für die Zwecke von LGE oder der legitimen Geschäftsinteressen eines Dritten erforderlich ist. Für LGE beinhaltet dies seine Interessen als Hersteller und Dienstleister von Produkten der Unterhaltungselektronik;
+-	Einwilligung: Wo Sie gewählt haben, eine solche bereitzustellen. Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen; oder
+-	Rechtliche Verpflichtung: wo die Verarbeitung zur Einhaltung unserer gesetzlichen Verpflichtungen erforderlich ist
+
+Es ist zudem möglich, dass aggregierte statistische Daten von uns verwendet werden, die während einer Softwareaktualisierung und während des Betriebs des Mobiltelefons erfasst wurden, um die Bedürfnisse unserer Kunden besser zu verstehen, unsere Kundenbetreuung sowie die von uns angebotenen Produkte und Dienstleistungen, aber auch für Zwecke der Marktforschung und der Analytik zu verbessern. Solche aggregierten statistischen Daten enthalten keine Informationen, die natürliche Personen identifizieren oder diesen zugeordnet werden können.
+
+5.	Wann LGE Informationen mit Anderen austauscht
+Solche Informationen, die wir während der Softwareaktualisierung erfassen und die natürliche Personen identifizieren oder jenen zugeordnet werden können, werden von uns nicht an Dritte weitergegeben. Bitte beachten Sie dennoch die folgenden Umstände, unter denen wir diese Informationen mit den folgenden Drittparteien teilen können:
+
+-	Verbundene Unternehmen und Tochtergesellschaften. LGE darf personenbezogene und nicht personenbezogene Informationen (einschließlich Mobiltelefoninformationen) an seine verbundenen Unternehmen und Tochtergesellschaften auf der ganzen Welt nur so lange weitergeben, wie dies für die Zwecke, für die sie erhoben wurden, erforderlich ist. Der Begriff "verbundene Unternehmen" oder "Tochtergesellschaften" bezieht sich auf Konzernunternehmen, die möglicherweise den LG Namen tragen oder ein gemeinsames Eigentum oder eine gemeinsame Steuerfunktion wie LG CNS oder LG Electronics U.S.A., Inc. haben;
+-	Drittanbieter von Diensten. An Drittanbieter, an denen sich LGE für die Erfüllung von Kundenanfragen von Zeit zu Zeit für die Bereitstellung von Dienstleistungen in seinem Namen beteiligen kann;
+
+Während wir Informationen im Allgemeinen nicht an weitere Dritte weitergeben, beachten Sie bitte, dass wir unter den folgenden besonderen Umständen die Informationen weiter mit den nachfolgend genannten Unternehmen teilen können:
+-	Weitere Parteien, falls dies gesetzlich vorgeschrieben ist. Wenn dies durch gerichtliche Anordnung oder sonstigen Regierungs- oder Vollzugsbehörden erforderlich wird, um rechtlichen Verfahren oder dem Gesetz Genüge zu tun;
+-	Weitere Parteien im Zusammenhang mit Unternehmenstransaktionen. Im Zusammenhang mit einem Ereignis des Unternehmens, etwa einer Verschmelzung, Übertragung, Restrukturierung oder dem Verkauf des ganzen oder Teile des Geschäftsbetriebes der LGE (einschl. dem einer Sparte oder einer Tochtergesellschaft), anlässlich dessen LGE einem potentiellen Käufer sowie dessen professionellen Beratern gegenüber gezwungen ist, Informationen bekannt zu geben,
+-	Weitere Parteien, falls dies notwendig ist, um unsere Dienste zu schützen. Unsere vertraglichen Rechte durchzusetzen, Vorsichtsmaßnahmen gegen eine Haftung zu ergreifen, mutmaßliche oder tatsächliche rechtswidrige Aktivitäten zu untersuchen oder um uns gegen Ansprüche oder Behauptungen Dritter zu verteidigen; oder
+-	Weitere Parteien, falls dies zu irgendeinem Schutz der persönlichen Sicherheit oder des Eigentums unseres Benutzers zu schützen notwendig ist. Um die Rechte, die persönliche Sicherheit oder das Eigentum unserer Benutzer oder der Öffentlichkeit zu schützen.
+
+Unter keinen Umständen dürfen Ihre personenbezogenen Informationen, die während einer Softwareaktualisierung erfasst wurden, für Marketingzwecke verarbeitet, noch an Dritte für Werbezwecke ohne Ihre ausdrückliche Einwilligung weitergegeben werden.
+
+6.	Übertragung personenbezogener Daten
+Wir, unsere verbundenen Unternehmen, Tochtergesellschaften und Dienstanbieter dürfen Ihre personenbezogenen Daten in den Ländern verwenden, in denen sich Ihr Mobiltelefon nicht verwendet wird, und zwar für die in dieser Datenschutzrichtlinie beschriebenen Zwecke. Datenschutzgesetze einiger Länder bieten nicht dasselbe Maß an Schutz wie jenes Land an, in dem Sie sich befinden. Bevor wir jedoch Ihre personenbezogenen Daten weitergeben, werden wir Schritte unternehmen, die sicherstellen, dass diese Informationen im Empfängerland oder am Gerichtsstandort den gleichen Schutz genießen.
+
+7.	Wie lange bewahrt LGE meine personenbezogenen Informationen auf?
+Wir werden Ihre personenbezogenen Informationen so lange aufbewahren, wie es nötig ist, Sie mit den Anwendungen zu versorgen oder für andere Zwecke, wie in dieser Datenschutzrichtlinien beschrieben. Wir wenden Kriterien an, um die angemessene Aufbewahrungsfrist für verschiedene Kategorien personenbezogener Daten zu bestimmen, die Sie uns zur Verfügung stellen.
+Es ist für das Unternehmen von besonderem Interesse, personenbezogene Daten zu erfassen und zu verwenden, um Softwareaktualisierungsdienste bereitstellen zu können. Bitte beachten Sie, dass die Verwendung/Bereitstellung vieler Bestandteile des Dienstes eingeschränkt sein kann, falls Sie einer solchen Erfassung nicht zustimmen. Wir erfassen und verwenden personenbezogene Daten des Informationsthemas. Auch werden diese Informationen nur so lange vorgehalten, bis der Zweck einer solchen Erfassung und Verwendung erfüllt ist. Aus diesem Grund ist es ein Unternehmensprinzip von LG, dass personenbezogene Daten während der Verwendung des Dienstes durch den Benutzer vom Unternehmen verwendet und gespeichert werden.
+Sollten Sie eine Löschung Ihrer personenbezogenen Daten beantragen, weil diese nicht mehr benötigt werden oder ein Widerspruchs gegen die Verarbeitung besteht oder behauptet wird, dass die Verarbeitung rechtswidrig sei, haben Sie das Recht, die Verarbeitung einzuschränken, während wir Ihre Anfrage auf Löschung überprüfen.
+
+8.	Sicherheit
+Wir verwenden kommerziell angemessene Praktiken, um die Vertraulichkeit und Sicherheit Ihrer personenbezogenen Informationen sicherzustellen. Dennoch können wir, aufgrund der Entwicklung des Internets, der sich ständig verändernden Technologien und aufgrund anderer Faktoren, die sich unserer Kontrolle entziehen, nicht garantieren, dass die Kommunikation zwischen Ihnen und unseren Servern von unautorisierten Zugriffen Dritter frei bleiben werden oder dass wir nicht Opfer von Sicherheitslücken werden. Wir übernehmen keine Verantwortung für das Bekanntwerden personenbezogener Informationen infolge von Übertragungsfehlern oder unautorisierten oder ungesetzlichen Handlungen durch Drittparteien.
+
+9.	Der Schutz der Privatsphäre von Kindern
+Der Datenschutz bei Kindern ist uns wichtig. Aus diesem Grund ist keine unserer Dienstleistungen darauf ausgerichtet oder dafür konzipiert, jemanden unter 16 Jahren oder unter der Volljährigkeit innerhalb der entsprechenden Gerichtsbarkeit anzusprechen. Wir erfassen oder pflegen auch nicht wissentlich personenbezogene Daten von Nutzern, die jünger als 16 Jahre alt sind oder in der jeweiligen Gerichtsbarkeit noch keine Volljährigkeit erreicht haben. Sollten wir Kenntnis davon erhalten oder benachrichtigt werden, dass wir Informationen von Nutzern unter 16 Jahren oder unter der Volljährigkeit in der jeweiligen Gerichtsbarkeit erfasst haben, werden wir diese personenbezogenen Daten umgehend löschen.
+
+10.	Änderungen an der Datenschutzrichtlinien von LGE
+Diese Datenschutzrichtlinien kann von Zeit zu Zeit durch LGE aktualisiert werden. Sollten wir wesentliche Bestandteile unserer Datenschutzrichtlinien ändern, werden wir Sie über Mobilgeräte oder auf andere Weise auf den neuesten Stand bringen. Es kann für Sie erforderlich werden, die geänderte Datenschutzrichtlinien zu bestätigen oder ihr zuzustimmen, um den Softwareaktualisierungsdienst weiterhin verwenden zu können.
+
+11.	Zugriff auf Ihre Informationen und Ihre Rechte
+Gemäß den Gesetzen einiger Gerichtsbarkeiten kann das Recht auf Auskunft, Berichtigung oder Löschung der personenbezogenen Informationen, die LGE über Sie besitzt, oder auf das Recht, bestimmte Arten der Verarbeitung Ihrer personenbezogenen Daten zu erheben oder einzuschränken (oder um Ihre Zustimmung zur LGE-Verarbeitung zu widerrufen), bestehen oder darauf, eine maschinenlesbare Kopie Ihrer personenbezogenen Informationen zu erhalten. Sofern gesetzlich zulässig kann Ihnen für diese Dienste eine geringe Gebühr in Rechnung gestellt werden. Bitte beachten Sie, dass wir die Bearbeitung Ihrer Anfragen ablehnen können, falls diese uns als in unangemessener Weise missbräuchlich erscheinen, die Privatsphäre anderer gefährden oder sich als äußerst unpraktisch herausstellen (soweit dies nach geltendem Recht zulässig ist). Für weitere Informationen oder um eines dieser Rechte auszuüben, kontaktieren Sie uns bitte unter mc.customer-service@lge.com.
+
+12.	Kontaktaufnahme zu LGE bezüglich dieser Datenschutzrichtlinien
+Sollten Sie Fragen oder Kommentare zu dieser Datenschutzrichtlinien oder über die Verarbeitung Ihrer personenbezogenen Daten durch LGE haben, wenden Sie sich bitte an LG Electronics Inc. unter mc.customer-service@lge.com. Außerdem haben Sie das Recht, eine Beschwerde bei einer Datenschutzbehörde einzureichen, obwohl wir Sie ermutigen möchten, uns zuerst direkt zu kontaktieren, um etwaige Bedenken auszuräumen.
+
+Zuletzt aktualisiert: 1. DEZ. 2017

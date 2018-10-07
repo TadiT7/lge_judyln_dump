@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Configure>
+    <!--
+    OPEN_CN ( Open / China )
+    -->
+    <Config operator="" country="CN" device="">
+        <NFCCEventConfig> rffield_EEevent_off </NFCCEventConfig>
+        <IndicatorType targetdevice="g3"> three_toggleV1N </IndicatorType>
+    </Config>
+    <!--
+    CMCC_CN ( ChinaMobile / China )
+    -->
+    <Config operator="CMCC" country="CN" device="">
+        <IndicatorType targetdevice="g3"> three_toggleV1N </IndicatorType>
+        <NFCCEventConfig> rffield_EEevent_off </NFCCEventConfig>
+    </Config>
+    <!--
+    CT_CN ( ChinaTelecom / China )
+    -->
+    <Config operator="CTC" country="CN" device="">
+        <NFCCEventConfig> rffield_EEevent_off </NFCCEventConfig>
+    </Config>
+</Configure>

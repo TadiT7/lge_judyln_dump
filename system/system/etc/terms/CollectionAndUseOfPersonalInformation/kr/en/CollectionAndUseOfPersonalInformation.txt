@@ -1,0 +1,31 @@
+﻿The personal information of customers (hereinafter referred to as "Users") collected and used by LG Electronics Co., Ltd. ("the Company") is as follows. Refer to 'Privacy Policy' in 'Settings' of the user's device for details. 
+
+1. Category of collected personal information and collection method 
+① Collected  Items: IMEI information, model, version, country code, user's carrier information and GCM key
+※ In the event that the personal information is collected on short-term basis for any other specific purpose, it shall be separately notified. And personal information is collected with the consent of the users. 
+② Collection Methods: Automatic collection when the user executes or uses the service
+
+2. The Purpose of Collecting and Using Personal Information 
+The Company shall use the personal information collected in connection with the Service for the following purposes. The collected personal information will not be used for any purpose other than the following purposes and will be subject to prior consent if the purpose of use is changed. 
+① Confirmation of latest version of software, notice and implementation of updates (including urgent updates and upgrades) 
+② Confirmation of the company's warranty (confirming whether it is a genuine product for the provision of the repair service)
+③ Notification for the security and safety risks related to the user device
+④ Management and improvement of the company's product/service  statistics/analysis 
+※ If a serious problem requiring an emergency response (device inactivity or outage, mobile network shutdown, etc.) occurs or is likely to occur, emergency software updates ("Emergency Updates") can be performed without individual notice or further consent, regardless of the user's settings for the users who have agreed to the use and collectiona of personal information for software updates. Refer to the End User Software License Agreement for details.
+※ The Company can collect the personal information of the anonymous customers by removing the identification information, create the statistical data and use it to analyze the usage tendency and to improve the service.
+※ Some of the services provided by the company may be provided with your consent separately. 
+
+3. Possession and Use Period of Collected Personal Information
+The Company collects and uses personal information from the information subject. Also, keeps it until the purpose of such collection and use is fulfilled. Therefore, it is the principle that the Company uses and stores personal information during the period of using the service.  Provided, however, that the Company shall keep personal information for the period specified below, if necessary, in accordance with the relevant laws and internal policies of the Company:
+
+Category: Records related to customer counseling 
+Retention Period: Until the end of the after-sale service related to the customer counseling or 30 days after the after-sale service
+
+Category: In the event that there are disputes, such as complaints and lawsuits, between the Company and a customer, and the disputes are not settled within the retention period 
+Retention Period: Until the dispute is settled
+
+Category: Consent was obtained from individual users 
+Retention Period: Period of agreement
+
+4. Guide on the Right to Refuse the Agreement and Disadvantages of Disagreement 
+Users may not agree to the collectionU and use of personal information, but it is essential for the company to collect  and use personal information in order to provide software update services. Please note that the use/provision of many parts of the service may be restricted if you do not agree to the not agree to the collection  and use of personal information. Refer to 'Privacy Policy' in 'Settings' of the smart device for details.

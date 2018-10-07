@@ -1,0 +1,8 @@
+﻿Saglasnost za govorne informacije korisnika Google automatsko prepoznavanje govora (“ASR”) 
+
+Ova usluga Parking Assistant (u daljem tekstu: Usluga) koju koristi Google ASR, funkciju omogućenu od strane Google, Inc. (u daljem tekstu: Google), nam omogućava konvertovanje glas korisnika u tekst.
+Glasovna informacija za vaše korištenje Usluge biće preneta i sačuvana od strane Google. Google će koristiti ovu informaciju za konvertovanje vaše glasovne informacije u tekst i za prenošenje teksta na LGE.
+Svakom informacijom prikupljenom od strane ASR upravlja Google smjernice o privatnosti koju možete pronaći na (https://www.google.com/policies/privacy/).
+Možete da odaberete da deaktivirate upotrebu ASR-a tako što ćete otkazati usluge u meniju "Izbornik opcija - Podaci o zakonu".
+LGE nikad ne prikuplja i/ili koristi bilo koje osobne podatke uključujući glasovne informacije korisnika i koristi samo neosobne prepoznatljive podatke kao što su tekstovi za Uslugu.
+Također, LGE neće (i neće dozvoliti nijednoj trećoj strani) koristiti tekstove da snimi ili prikupi bilo koje osobne prepoznatljive podatke posetilaca Usluge i neće povezati nikakve podatke prikupljene od ove Usluge sa osobnim prepoznatljivim podacima sa bilo kog izvora.

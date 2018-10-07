@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Configure>
+    <!--
+    DGR_NZ(2degree / Newzealand)
+    -->
+    <Config operator="" country="NZ" device="">
+    </Config>
+    <!-- DGR(2degree) / Newzealand -->
+    <Config operator="DGR" country="NZ" device="">
+        <DefaultOnOffType> offp2p </DefaultOnOffType>
+    </Config>
+    <!-- TNZ / Newzealand -->
+    <Config operator="TNZ" country="NZ" device="">
+        <DefaultOnOffType> offp2p </DefaultOnOffType>
+    </Config>
+</Configure>

@@ -1,0 +1,12 @@
+service lgdrm /system/bin/lgdrmserver
+    class main
+    user oem_4001
+    group oem_4002 net_raw
+
+# restart when servicemanager is restarted
+on property:init.svc.servicemanager=restarting
+    restart lgdrm
+
+on post-fs-data
+mkdir /data/lgdrm 0770 oem_4001 oem_4002
+mkdir /vendor/persist-lg/lgdrm 0770 oem_4001 oem_4002

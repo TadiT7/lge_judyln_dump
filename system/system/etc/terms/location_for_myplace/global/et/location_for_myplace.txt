@@ -1,0 +1,6 @@
+﻿Minu asukohad jaoks kasutatav hetke asukoha informatsioon
+
+Teenus Minu asukohad ("Teenus") kasutab kasutaja seadme asukohainfot, et analüüsida asukohtade, kuhu kasutaja on pikemaks perioodiks paigale jäänud, mustrit ning pakkuda selliste asukohtade automaattuvastuse funktsiooni või anda kasutajale võimalus määrata käsitsi "Minu asukohad" (nt kodu, töökoht). Pidev mustri analüüs võib varem määratud asukohta automaatselt muuta.
+Kuigi teenus kasutab kasutaja seadmes talletatud asukohateavet (põhitransiiverjaama (BTS), GPS, Wi-Fi, võrgu positsiooni (NLP)), ei kogu ega kasuta LG Electronics Inc. (LGE) kunagi kasutaja asukoha kohta teavet ja kasutab ja talletab neid ainult kasutaja seadmes.
+Teenus hakkab automaatselt tuvastama kohti, kuhu kasutaja on pikemaks ajaperioodisk jäänud, alates sellest, kui kasutaja nõustub kasutajaseadme praeguse asukohateabe kasutamisega ja jätkub seni kuni kasutaja pole teenuse kasutamist peatanud, lülitades vastava funktsiooni valiku välja.
+Siiski kasutab LGE ainult kasutaja praegust asukohateavet, kui kasutaja lülitab sedmes sisse Google'i asukohateenuse kasutamise võimaluse.

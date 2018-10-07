@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<SIDRanges>
+    <!-- United States of America -->
+    <sidrange index="1" countryIndex="0" start="1" end="2175"/>
+    <!-- Afghanistan -->
+    <sidrange index="2" countryIndex="1" start="14976" end="15103"/>
+    <!-- Albania -->
+    <sidrange index="3" countryIndex="2" start="31456" end="31471"/>
+    <!-- Algeria -->
+    <sidrange index="4" countryIndex="3" start="8288" end="8319"/>
+    <!-- American Samoa(US) -->
+    <sidrange index="5" countryIndex="4" start="0" end="0"/>
+    <!-- Andorra -->
+    <sidrange index="6" countryIndex="5" start="0" end="0"/>
+    <!-- Angola -->
+    <sidrange index="7" countryIndex="6" start="9504" end="9535"/>
+    <!-- Anguilla -->
+    <sidrange index="8" countryIndex="7" start="0" end="0"/>
+    <!-- Antigua and Barbuda -->
+    <sidrange index="9" countryIndex="8" start="8144" end="8159"/>
+    <!-- Argentina -->
+    <sidrange index="10" countryIndex="9" start="32128" end="32255"/>
+    <!-- Armenia -->
+    <sidrange index="11" countryIndex="10" start="0" end="0"/>
+    <!-- Aruba -->
+    <sidrange index="12" countryIndex="11" start="9648" end="9663"/>
+    <!-- Australia -->
+    <sidrange index="13" countryIndex="12" start="7680" end="7807"/>
+    <!-- Austria -->
+    <sidrange index="14" countryIndex="13" start="22912" end="23039"/>
+    <!-- Azerbaijani Republic -->
+    <sidrange index="15" countryIndex="14" start="0" end="0"/>
+    <!-- Bahamas -->
+    <sidrange index="16" countryIndex="15" start="8080" end="8095"/>
+    <!-- Bahrain -->
+    <sidrange index="17" countryIndex="16" start="31408" end="31423"/>
+    <!-- Bangladesh -->
+    <sidrange index="18" countryIndex="17" start="13472" end="13503"/>
+    <!-- Barbados -->
+    <sidrange index="19" countryIndex="18" start="8160" end="8175"/>
+    <!-- Belarus -->
+    <sidrange index="20" countryIndex="19" start="0" end="0"/>
+    <!-- Belgium -->
+    <sidrange index="21" countryIndex="20" start="23936" end="24063"/>
+    <!-- Belize -->
+    <sidrange index="22" countryIndex="21" start="32640" end="32649"/>
+    <!-- Benin -->
+    <sidrange index="23" countryIndex="22" start="9088" end="9119"/>
+    <!-- Bermuda(UK) -->
+    <sidrange index="24" countryIndex="23" start="0" end="0"/>
+    <!-- Bhutan -->
+    <sidrange index="25" countryIndex="24" start="0" end="0"/>
+    <!-- Bolivia -->
+    <sidrange index="26" countryIndex="25" start="31232" end="31263"/>
+    <!-- Bosnia and Herzegovina -->
+    <sidrange index="27" countryIndex="26" start="0" end="0"/>
+    <!-- Botswana -->
+    <sidrange index="28" countryIndex="27" start="10176" end="10207"/>
+    <!-- Brazil -->
+    <sidrange index="29" countryIndex="28" start="31872" end="32127"/>
+    <!-- British Virgin Islands (UK) -->
+    <sidrange index="30" countryIndex="29" start="8112" end="8127"/>
+    <!-- Brunei Darussalam -->
+    <sidrange index="31" countryIndex="30" start="10880" end="10895"/>
+    <!-- Bulgaria -->
+    <sidrange index="32" countryIndex="31" start="15584" end="15615"/>
+    <!-- Burkina Faso -->
+    <sidrange index="33" countryIndex="32" start="8992" end="9023"/>
+    <!-- Burundi -->
+    <sidrange index="34" countryIndex="33" start="9952" end="9983"/>
+    <!-- Cambodia -->
+    <sidrange index="35" countryIndex="34" start="11104" end="11135"/>
+    <!-- Cameroon -->
+    <sidrange index="36" countryIndex="35" start="9344" end="9375"/>
+    <!-- Canada -->
+    <sidrange index="37" countryIndex="36" start="16384" end="18431"/>
+    <!-- Cape Verde -->
+    <sidrange index="38" countryIndex="37" start="8848" end="8863"/>
+    <!-- Cayman Islands (UK) -->
+    <sidrange index="39" countryIndex="38" start="8128" end="8143"/>
+    <!-- Central African Republic -->
+    <sidrange index="40" countryIndex="39" start="9312" end="9343"/>
+    <!-- Chad -->
+    <sidrange index="41" countryIndex="40" start="9280" end="9311"/>
+    <!-- Chile -->
+    <sidrange index="42" countryIndex="41" start="31744" end="31754"/>
+    <!-- China -->
+    <sidrange index="43" countryIndex="42" start="13568" end="14335"/>
+    <!-- Colombia -->
+    <sidrange index="44" countryIndex="43" start="31616" end="31743"/>
+    <!-- Comoros -->
+    <sidrange index="45" countryIndex="44" start="10208" end="10239"/>
+    <!-- Cook Islands(NZ) -->
+    <sidrange index="46" countryIndex="45" start="11136" end="11151"/>
+    <!-- Costa Rica -->
+    <sidrange index="47" countryIndex="46" start="32544" end="32575"/>
+    <!-- Cte d'Ivoire -->
+    <sidrange index="48" countryIndex="47" start="8960" end="8991"/>
+    <!-- Croatia -->
+    <sidrange index="49" countryIndex="48" start="0" end="0"/>
+    <!-- Cuba -->
+    <sidrange index="50" countryIndex="49" start="32256" end="32383"/>
+    <!-- Cyprus -->
+    <sidrange index="51" countryIndex="50" start="31200" end="31231"/>
+    <!-- Czech Republic -->
+    <sidrange index="52" countryIndex="51" start="16128" end="16255"/>
+    <!-- Democratic Republic of the Congo -->
+    <sidrange index="53" countryIndex="52" start="9440" end="9471"/>
+    <!-- Denmark -->
+    <sidrange index="54" countryIndex="53" start="22528" end="22543"/>
+    <!-- Djibouti -->
+    <sidrange index="55" countryIndex="54" start="8912" end="8927"/>
+    <!-- Dominica -->
+    <sidrange index="56" countryIndex="55" start="9616" end="9631"/>
+    <!-- Dominican Republic -->
+    <sidrange index="57" countryIndex="56" start="8832" end="8847"/>
+    <!-- East Timor -->
+    <sidrange index="58" countryIndex="57" start="0" end="0"/>
+    <!-- Ecuador -->
+    <sidrange index="59" countryIndex="58" start="31296" end="31327"/>
+    <!-- Egypt -->
+    <sidrange index="60" countryIndex="59" start="8224" end="8255"/>
+    <!-- El Salvador -->
+    <sidrange index="61" countryIndex="60" start="32704" end="32735"/>
+    <!-- Equatorial Guinea -->
+    <sidrange index="62" countryIndex="61" start="9376" end="9407"/>
+    <!-- Eritrea -->
+    <sidrange index="63" countryIndex="62" start="0" end="0"/>
+    <!-- Estonia -->
+    <sidrange index="64" countryIndex="63" start="10872" end="10879"/>
+    <!-- Ethiopia -->
+    <sidrange index="65" countryIndex="64" start="9760" end="9791"/>
+    <!-- Faroe Islands(Denmark) -->
+    <sidrange index="66" countryIndex="65" start="7936" end="7951"/>
+    <!-- Federated States of Micronesia -->
+    <sidrange index="67" countryIndex="66" start="11040" end="11071"/>
+    <!-- Fiji -->
+    <sidrange index="68" countryIndex="67" start="10960" end="10975"/>
+    <!-- Finland -->
+    <sidrange index="69" countryIndex="68" start="24448" end="24451"/>
+    <!-- France -->
+    <sidrange index="70" countryIndex="69" start="23680" end="23935"/>
+    <!-- French Guiana(France) -->
+    <sidrange index="71" countryIndex="70" start="31328" end="31359"/>
+    <!-- French Polynesia(France) -->
+    <sidrange index="72" countryIndex="71" start="11248" end="11236"/>
+    <!-- Gabonese Republic -->
+    <sidrange index="73" countryIndex="72" start="9408" end="9439"/>
+    <!-- Gambia -->
+    <sidrange index="74" countryIndex="73" start="8544" end="8575"/>
+    <!-- Georgia -->
+    <sidrange index="75" countryIndex="74" start="0" end="0"/>
+    <!-- Germany -->
+    <sidrange index="76" countryIndex="75" start="22016" end="22271"/>
+    <!-- Ghana -->
+    <sidrange index="77" countryIndex="76" start="9216" end="9247"/>
+    <!-- Gibraltar(UK) -->
+    <sidrange index="78" countryIndex="77" start="31440" end="31455"/>
+    <!-- Greece -->
+    <sidrange index="79" countryIndex="78" start="24192" end="24319"/>
+    <!-- Greenland(Denmark) -->
+    <sidrange index="80" countryIndex="79" start="7952" end="7967"/>
+    <!-- Grenada -->
+    <sidrange index="81" countryIndex="80" start="8064" end="8079"/>
+    <!-- Guadeloupe(France) -->
+    <sidrange index="82" countryIndex="81" start="31360" end="31375"/>
+    <!-- Guam (US) -->
+    <sidrange index="83" countryIndex="82" start="9696" end="9711"/>
+    <!-- Guatemala -->
+    <sidrange index="84" countryIndex="83" start="32672" end="32703"/>
+    <!-- Guinea -->
+    <sidrange index="85" countryIndex="84" start="8800" end="8831"/>
+    <!-- Guinea-Bissau -->
+    <sidrange index="86" countryIndex="85" start="8800" end="8831"/>
+    <!-- Guyana -->
+    <sidrange index="87" countryIndex="86" start="31264" end="31295"/>
+    <!-- Haiti -->
+    <sidrange index="88" countryIndex="87" start="32608" end="32639"/>
+    <!-- Honduras -->
+    <sidrange index="89" countryIndex="88" start="32736" end="32767"/>
+    <!-- Hong Kong (PRC) -->
+    <sidrange index="90" countryIndex="89" start="10640" end="10655"/>
+    <!-- Hungary -->
+    <sidrange index="91" countryIndex="90" start="15744" end="15871"/>
+    <!-- Iceland -->
+    <sidrange index="92" countryIndex="91" start="24416" end="24447"/>
+    <!-- India -->
+    <sidrange index="93" countryIndex="92" start="14464" end="14847"/>
+    <!-- Indonesia -->
+    <sidrange index="94" countryIndex="93" start="10496" end="10623"/>
+    <!-- Iran -->
+    <sidrange index="95" countryIndex="94" start="15616" end="15743"/>
+    <!-- Iraq -->
+    <sidrange index="96" countryIndex="95" start="15456" end="15487"/>
+    <!-- Ireland -->
+    <sidrange index="97" countryIndex="96" start="24384" end="24387"/>
+    <!-- Israel -->
+    <sidrange index="98" countryIndex="97" start="8448" end="8479"/>
+    <!-- Italy -->
+    <sidrange index="99" countryIndex="98" start="23168" end="23423"/>
+    <!-- Jamaica -->
+    <sidrange index="100" countryIndex="99" start="8176" end="8191"/>
+    <!-- Japan -->
+    <sidrange index="101" countryIndex="100" start="12288" end="13311"/>
+    <!-- Jordan -->
+    <sidrange index="102" countryIndex="101" start="15392" end="15423"/>
+    <!-- Kazakhstan -->
+    <sidrange index="103" countryIndex="102" start="8928" end="8943"/>
+    <!-- Kenya -->
+    <sidrange index="104" countryIndex="103" start="9856" end="9887"/>
+    <!-- Kiribati -->
+    <sidrange index="105" countryIndex="104" start="11200" end="11215"/>
+    <!-- "Korea,  North" -->
+    <sidrange index="106" countryIndex="105" start="11072" end="11103"/>
+    <!-- "Korea,  South" -->
+    <sidrange index="107" countryIndex="106" start="2176" end="2303"/>
+    <!-- Kuwait -->
+    <sidrange index="108" countryIndex="107" start="11312" end="11327"/>
+    <!-- Kyrgyz Republic -->
+    <sidrange index="109" countryIndex="108" start="21550" end="21566"/>
+    <!-- Laos -->
+    <sidrange index="110" countryIndex="109" start="13440" end="13471"/>
+    <!-- Latvia -->
+    <sidrange index="111" countryIndex="110" start="10784" end="10785"/>
+    <!-- Lebanon -->
+    <sidrange index="112" countryIndex="111" start="15360" end="15391"/>
+    <!-- Lesotho -->
+    <sidrange index="113" countryIndex="112" start="9600" end="9615"/>
+    <!-- Liberia -->
+    <sidrange index="114" countryIndex="113" start="9152" end="9183"/>
+    <!-- Libya -->
+    <sidrange index="115" countryIndex="114" start="8512" end="8543"/>
+    <!-- Liechtenstein -->
+    <sidrange index="116" countryIndex="115" start="0" end="0"/>
+    <!-- Lithuania -->
+    <sidrange index="117" countryIndex="116" start="0" end="0"/>
+    <!-- Luxembourg -->
+    <sidrange index="118" countryIndex="117" start="24352" end="24383"/>
+    <!-- Macao(PRC) -->
+    <sidrange index="119" countryIndex="118" start="11296" end="11311"/>
+    <!-- Madagascar -->
+    <sidrange index="120" countryIndex="119" start="10048" end="10079"/>
+    <!-- Malawi -->
+    <sidrange index="121" countryIndex="120" start="10144" end="10175"/>
+    <!-- Malaysia -->
+    <sidrange index="122" countryIndex="121" start="10368" end="10495"/>
+    <!-- Maldives -->
+    <sidrange index="123" countryIndex="122" start="13536" end="13567"/>
+    <!-- Mali -->
+    <sidrange index="124" countryIndex="123" start="8768" end="8799"/>
+    <!-- Malta -->
+    <sidrange index="125" countryIndex="124" start="31472" end="31475"/>
+    <!-- Maritime -->
+    <sidrange index="126" countryIndex="125" start="0" end="0"/>
+    <!-- Marshall Islands -->
+    <sidrange index="127" countryIndex="126" start="11280" end="11295"/>
+    <!-- Martinique(France) -->
+    <sidrange index="128" countryIndex="127" start="31376" end="31391"/>
+    <!-- Mauritania -->
+    <sidrange index="129" countryIndex="128" start="8736" end="8767"/>
+    <!-- Mauritius -->
+    <sidrange index="130" countryIndex="129" start="9120" end="9151"/>
+    <!-- Mexico -->
+    <sidrange index="131" countryIndex="130" start="24576" end="25075"/>
+    <!-- Moldova -->
+    <sidrange index="132" countryIndex="131" start="15922" end="15937"/>
+    <!-- Monaco -->
+    <sidrange index="133" countryIndex="132" start="10752" end="10767"/>
+    <!-- Mongolia -->
+    <sidrange index="134" countryIndex="133" start="15520" end="15551"/>
+    <!-- Montserrat(UK) -->
+    <sidrange index="135" countryIndex="134" start="8048" end="8063"/>
+    <!-- Morocco -->
+    <sidrange index="136" countryIndex="135" start="8256" end="8287"/>
+    <!-- Mozambique -->
+    <sidrange index="137" countryIndex="136" start="9984" end="10015"/>
+    <!-- Myanmar -->
+    <sidrange index="138" countryIndex="137" start="15232" end="15359"/>
+    <!-- Namibia -->
+    <sidrange index="139" countryIndex="138" start="10112" end="10143"/>
+    <!-- Nauru -->
+    <sidrange index="140" countryIndex="139" start="10896" end="10911"/>
+    <!-- Nepal -->
+    <sidrange index="141" countryIndex="140" start="15552" end="15583"/>
+    <!-- Netherlands -->
+    <sidrange index="142" countryIndex="141" start="24064" end="24191"/>
+    <!-- Netherlands Antilles (Netherlands) -->
+    <sidrange index="143" countryIndex="142" start="31392" end="31407"/>
+    <!-- New Caledonia(France) -->
+    <sidrange index="144" countryIndex="143" start="11216" end="11231"/>
+    <!-- New Zealand -->
+    <sidrange index="145" countryIndex="144" start="8576" end="8703"/>
+    <!-- Nicaragua -->
+    <sidrange index="146" countryIndex="145" start="32512" end="32543"/>
+    <!-- Niger -->
+    <sidrange index="147" countryIndex="146" start="9024" end="9055"/>
+    <!-- Nigeria -->
+    <sidrange index="148" countryIndex="147" start="9248" end="9279"/>
+    <!-- "Northern Mariana Islands,  Saipan (US)" -->
+    <sidrange index="149" countryIndex="148" start="9680" end="9695"/>
+    <!-- Norway -->
+    <sidrange index="150" countryIndex="149" start="22272" end="22399"/>
+    <!-- Oman -->
+    <sidrange index="151" countryIndex="150" start="11344" end="11359"/>
+    <!-- Pakistan -->
+    <sidrange index="152" countryIndex="151" start="14848" end="14975"/>
+    <!-- Palau -->
+    <sidrange index="153" countryIndex="152" start="10976" end="10991"/>
+    <!-- Panama -->
+    <sidrange index="154" countryIndex="153" start="32576" end="32607"/>
+    <!-- Papua New Guinea -->
+    <sidrange index="155" countryIndex="154" start="11008" end="11039"/>
+    <!-- Paraguay -->
+    <sidrange index="156" countryIndex="155" start="31104" end="31135"/>
+    <!-- Peru -->
+    <sidrange index="157" countryIndex="156" start="32384" end="32511"/>
+    <!-- Philippines -->
+    <sidrange index="158" countryIndex="157" start="10624" end="10639"/>
+    <!-- Poland -->
+    <sidrange index="159" countryIndex="158" start="16256" end="16271"/>
+    <!-- Poland -->
+    <sidrange index="160" countryIndex="158" start="16272" end="16383"/>
+    <!-- Portugal -->
+    <sidrange index="161" countryIndex="159" start="24320" end="24351"/>
+    <!-- Puerto Rico(US) -->
+    <sidrange index="162" countryIndex="160" start="0" end="0"/>
+    <!-- Qatar -->
+    <sidrange index="163" countryIndex="161" start="31424" end="31439"/>
+    <!-- Republic of Macedonia -->
+    <sidrange index="164" countryIndex="162" start="0" end="0"/>
+    <!-- Republic of the Congo -->
+    <sidrange index="165" countryIndex="163" start="9440" end="9471"/>
+    <!-- Renion(France) -->
+    <sidrange index="166" countryIndex="164" start="8944" end="8959"/>
+    <!-- Romania -->
+    <sidrange index="167" countryIndex="165" start="16000" end="16127"/>
+    <!-- Russian Federation -->
+    <sidrange index="168" countryIndex="166" start="11556" end="11599"/>
+    <!-- Rwandese Republic -->
+    <sidrange index="169" countryIndex="167" start="9728" end="9759"/>
+    <!-- Saint Kitts and Nevis -->
+    <sidrange index="170" countryIndex="168" start="8032" end="8047"/>
+    <!-- Saint Lucia -->
+    <sidrange index="171" countryIndex="169" start="8016" end="8031"/>
+    <!-- Saint Pierre and Miquelon(France) -->
+    <sidrange index="172" countryIndex="170" start="7984" end="7999"/>
+    <!-- Saint Vincent and the Grenadines -->
+    <sidrange index="173" countryIndex="171" start="8000" end="8007"/>
+    <!-- Samoa -->
+    <sidrange index="174" countryIndex="172" start="11184" end="11199"/>
+    <!-- San Marino -->
+    <sidrange index="175" countryIndex="173" start="10768" end="10783"/>
+    <!-- Sao Tome and Pricipe -->
+    <sidrange index="176" countryIndex="174" start="8864" end="8879"/>
+    <!-- Saudi Arabia -->
+    <sidrange index="177" countryIndex="175" start="15488" end="15519"/>
+    <!-- Senegal -->
+    <sidrange index="178" countryIndex="176" start="8704" end="8735"/>
+    <!-- Serbia and Montenegro -->
+    <sidrange index="179" countryIndex="177" start="23424" end="23551"/>
+    <!-- Seychelles -->
+    <sidrange index="180" countryIndex="178" start="8896" end="8911"/>
+    <!-- Sierra Leone -->
+    <sidrange index="181" countryIndex="179" start="9184" end="9215"/>
+    <!-- Singapore -->
+    <sidrange index="182" countryIndex="180" start="9664" end="9679"/>
+    <!-- Slovakia -->
+    <sidrange index="183" countryIndex="181" start="0" end="0"/>
+    <!-- Slovenia -->
+    <sidrange index="184" countryIndex="182" start="0" end="0"/>
+    <!-- Solomon Islands -->
+    <sidrange index="185" countryIndex="183" start="10928" end="10943"/>
+    <!-- Somalia -->
+    <sidrange index="186" countryIndex="184" start="9792" end="9823"/>
+    <!-- South Africa -->
+    <sidrange index="187" countryIndex="185" start="10240" end="10367"/>
+    <!-- Spain -->
+    <sidrange index="188" countryIndex="186" start="23552" end="23679"/>
+    <!-- Sri Lanka -->
+    <sidrange index="189" countryIndex="187" start="15104" end="15231"/>
+    <!-- Sudan -->
+    <sidrange index="190" countryIndex="188" start="9568" end="9599"/>
+    <!-- Suriname -->
+    <sidrange index="191" countryIndex="189" start="31136" end="31167"/>
+    <!-- Swaziland -->
+    <sidrange index="192" countryIndex="190" start="9632" end="9647"/>
+    <!-- Sweden -->
+    <sidrange index="193" countryIndex="191" start="22400" end="22403"/>
+    <!-- Switzerland -->
+    <sidrange index="194" countryIndex="192" start="23040" end="23167"/>
+    <!-- Syria -->
+    <sidrange index="195" countryIndex="193" start="15424" end="15455"/>
+    <!-- Taiwan -->
+    <sidrange index="196" countryIndex="194" start="13504" end="13535"/>
+    <!-- Tajikistan -->
+    <sidrange index="197" countryIndex="195" start="10856" end="10871"/>
+    <!-- Tanzania -->
+    <sidrange index="198" countryIndex="196" start="9888" end="9919"/>
+    <!-- Thailand -->
+    <sidrange index="199" countryIndex="197" start="8192" end="8223"/>
+    <!-- Togolese Republic -->
+    <sidrange index="200" countryIndex="198" start="9056" end="9087"/>
+    <!-- Tonga -->
+    <sidrange index="201" countryIndex="199" start="10912" end="10927"/>
+    <!-- Trinidad and Tobago -->
+    <sidrange index="202" countryIndex="200" start="9824" end="9855"/>
+    <!-- Tunisia -->
+    <sidrange index="203" countryIndex="201" start="8480" end="8511"/>
+    <!-- Turkey -->
+    <sidrange index="204" countryIndex="202" start="14336" end="14463"/>
+    <!-- Turkmenistan -->
+    <sidrange index="205" countryIndex="203" start="0" end="0"/>
+    <!-- Turks and Caicos Islands(UK) -->
+    <sidrange index="206" countryIndex="204" start="10800" end="10815"/>
+    <!-- Uganda -->
+    <sidrange index="207" countryIndex="205" start="9920" end="9951"/>
+    <!-- Ukraine -->
+    <sidrange index="208" countryIndex="206" start="15906" end="15921"/>
+    <!-- United Arab Emirates -->
+    <sidrange index="209" countryIndex="207" start="11376" end="11391"/>
+    <!-- United Arab Emirates(Abu Dhabi) -->
+    <sidrange index="210" countryIndex="208" start="11376" end="11391"/>
+    <!-- United Arab Emirates(Dubai) : ??? -->
+    <sidrange index="211" countryIndex="209" start="11376" end="11391"/>
+    <!-- United Kingdom -->
+    <sidrange index="212" countryIndex="210" start="22656" end="22911"/>
+    <!-- United States Virgin Islands(US) -->
+    <sidrange index="213" countryIndex="211" start="0" end="0"/>
+    <!-- Uruguay -->
+    <sidrange index="214" countryIndex="212" start="31168" end="31199"/>
+    <!-- Uzbekistan -->
+    <sidrange index="215" countryIndex="213" start="10832" end="10855"/>
+    <!-- Vanuatu -->
+    <sidrange index="216" countryIndex="214" start="10944" end="10959"/>
+    <!-- Vatican City State -->
+    <sidrange index="217" countryIndex="215" start="0" end="0"/>
+    <!-- Venezuela -->
+    <sidrange index="218" countryIndex="216" start="31488" end="31615"/>
+    <!-- Viet Nam -->
+    <sidrange index="219" countryIndex="217" start="13312" end="13439"/>
+    <!-- Wallis and Futuna(France) -->
+    <sidrange index="220" countryIndex="218" start="10992" end="11007"/>
+    <!-- Yemen -->
+    <sidrange index="221" countryIndex="219" start="11328" end="11343"/>
+    <!-- Yemen -->
+    <sidrange index="222" countryIndex="219" start="11360" end="11375"/>
+    <!-- Zambia -->
+    <sidrange index="223" countryIndex="220" start="10016" end="10047"/>
+    <!-- Zimbabwe -->
+    <sidrange index="224" countryIndex="221" start="10080" end="10111"/>
+    <!-- China -->
+    <sidrange index="225" countryIndex="42" start="25600" end="26111"/>
+    <!-- Uzbekistan -->
+    <sidrange index="226" countryIndex="213" start="11555" end="11555"/>
+    <!-- Uzbekistan -->
+    <sidrange index="227" countryIndex="213" start="11600" end="11600"/>
+    <!-- United States of America -->
+    <sidrange index="228" countryIndex="0" start="2304" end="7679"/>
+    <!-- United States of America -->
+    <sidrange index="229" countryIndex="0" start="21567" end="21630"/>
+    <!-- Australia -->
+    <sidrange index="230" countryIndex="12" start="8320" end="8447"/>
+    <!-- Chile -->
+    <sidrange index="231" countryIndex="41" start="31809" end="31820"/>
+    <!-- Chile -->
+    <sidrange index="232" countryIndex="41" start="31841" end="31854"/>
+    <!-- Mexico -->
+    <sidrange index="233" countryIndex="130" start="25100" end="25124"/>
+    <!-- Philippines -->
+    <sidrange index="234" countryIndex="157" start="10656" end="10757"/>
+    <!-- Saint Pierre and Miquelon(France) -->
+    <sidrange index="235" countryIndex="170" start="10816" end="10831"/>
+    <!-- Montenegro -->
+    <sidrange index="236" countryIndex="223" start="0" end="0"/>
+</SIDRanges>

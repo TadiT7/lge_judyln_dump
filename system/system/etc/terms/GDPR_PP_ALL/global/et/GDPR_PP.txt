@@ -1,0 +1,107 @@
+Privaatsussätted
+
+Privaatsuspoliitkas kirjeldatakse kuidas LGE saab juurdepääsu teie isiklikele andmetele ja kuidas ta neid andmeid LG tarkvara värskenduste teenuse kontekstis kasutab. Lugege dokumenti hoolikalt enne LG Värskenduskeskuse teenuse kasutamist.
+
+1.	Sissejuhatus
+LG Electronics Inc. (“LGE” või “meie”) on pühendunud LGE mobiiltelefonide kasutajate isiklike andmete kaitsmisele. Privaatsussätted sätestab kuidas me LGE mobiiltelefoni kasutamise tulemusel hangitud infot kogume, kasutame ja jagame.
+-	Ülevaade FOTA tarkvara värskendustest;
+-	Informatsioon mida LGE teilt hankida võib:
+-	Kuidas LGE hangitud infot kasutab;
+-	Millal jagab LGE infot teistega; 
+-	Rahvusvaheline isikuandmete edastamine
+-	Kui kaua LGE minu isikuandmeid säilitab?
+-	Turvalisus
+-	Õigus leping lõpetada või lepingust keelduda
+-	Laste privaatsuse kaitse
+-	Privaatsussätted muudatused
+-	Juurdepääs teie andmetele
+-	Õigus kaebuse esitamiseks; ja
+-	LGEga ühenduse võtmine seoses Privaatsuseeskirjadega
+
+Käesolev eeskiri kehtib ainult teie LGE mobiiltelefoni kaudu LGE poolt kogutud teabe kohta, et värskendada püsivara läbi püsivara üle-õhu ("FOTA") protsessi ("tarkvara uuendamine"). Eeskirja ei kehti LGE muude toodete või teenuste, sealhulgas LGE pakutavate mobiilirakenduste suhtes. Eeskiri ei kehti ka kolmandate osapoolte poolt pakutavate toodete või teenuste kohta, sealhulgas operatsioonisüsteemi, muu sisu või rakenduste pakkujatele, muu sisu või rakenduste pakkujate või teie võrguettevõtja kohta. Tooted ja teenused mis jäävad käesoleva Privaatsussätted reguleerimisalast välja ja neil on oma poliitika, mis kehtib nende teenuste poolt andmete kogumise, kasutamise ja jagamise kohta, soovitame teil vastavaid eeskirju lugeda. LGE ei vastuta kolmandate osapoolte privaatsustavade eest.
+
+Kui olete selle mobiiltelefoni hiljuti soetanud, peate enne kasutamist teostama tarkvaravärskenduse, nagu on kirjeldatud käesolevas Privaatsussätteds, tagamaks, et mobiiltelefon toimib korrektselt ning et on olemas meie uusimad funktsioonid ja turvalisus seaded. Kui teil on küsimusi, võtke meiega ühendust vastavalt käesolevas eeskirjas sätestatule.
+
+Käesolev eeskiri on ülevaatamiseks igal ajal saadaval [Seadistus – Süsteem – Teave telefoni kohta – Juriidiline teave – LG tarkvara õiguslikud dokumendid – Privaatsussätted].
+
+Kõik käesolevate Privaatsuseeskirjade dokumentide tõlked tehakse vastavalt kohalikele nõuetele ja kui ingliskeelsete ja mitte-ingliskeelsetes versioonides on lahknevusi, on ülemaks aktiks ingliskeelne eeskirja versioon määral, mis ei lähe vastuollu teie kohaliku kehtiva jurisdiktsiooniga.
+
+2.	Ülevaade FOTA tarkvara värskendustest;
+Aeg-ajalt võib teie mobiiltelefoni LGE püsivara (edaspidi "tarkvara") nõuda LGE poolt pakutavaid värskendusi või täiendusi või LGE võib pakkuda Tarkvara täiendavaid komponente. Tarkvaravärskenduse teostamine paigaldab teie mobiiltelefonile uue tarkvara, et pakkuda värskendusi, lisandusi või täiendavaid komponente. Tarkvara uuendused võivad lisada uusi funktsioone ning piiratud juhtudel olemasolevaid funktsioone eemaldada. Pärast uue tarkvaravärskenduse paigaldamist, ei tohi te enam kasutada vana versioonid ja võib-juhtuda, et vana versiooni juurde tagasi pöördumine pole võimalik.. 
+
+Kuna Tarkvara värskendamine toimub FOTA-protsessi kaudu, võivad uue tarkvara allalaadimisel mobiilvõrgu kaudu lisanduda tasud sõltualt teie operaatorist ja teie lepingust. Kui soovite tarkvara uuenduste teostamist läbi mobiilsidevõrgu vältida, valige seadete menüüs valik "ainult Wi-Fi". 
+
+a.	Võimalused tulevaste tarkvaravärskenduste haldamiseks
+Kui lubate funktsiooni “Kontrolli automaatselt” otsib teie seade automaatselt uusi või värskendatud tarkvara versioone ja laadib võimaluse korral uue või värskendatud tarkvara automaatselt teie seadmesse (funktsioon “Kontrolli automaatselt”). Kui tarkvara on installitud teavitame teid pop-up sõnumiga või märguande sõnumiga teie telefonis. Teil on enne tarkvara rakendamist võimalus tarkvara uuendustest keelduda või nendega nõustuda. Südaööl rakendab mobiiltelefon installitud tarkvaravärskendused automaatselt (funktsioon "Automaatsed värkendused "). Saate funktsioonid "Kontrolli automaatselt" ja "Automaatsed värkendused " asukohas [Seadistus – Süsteem – Värskenduskeskus – Tarkvara värskendamine – ülevoolu menüüd – Seadistus] keelata. Kui keelate tarkvaravärskenduste automaatse kontrollimise, loobute te tulevikus tarkvaravärskenduste tegemisest.
+Kui teie mobiiltelefon on juba kasutusel ja loobute tarkvarauuenduse tegemisest arvestage, et tarkvara uuenduste installimata jätmine võib põhjustada [mobiiltelefoni jõudluse vähenemist, probleeme uute või olemasolevate rakenduste ühilduvuses ja muid funktsioone puudutavaid probleeme või vähendada teie mobiiltelefoni turvalisust].
+
+Lisaks on teil alati võimalus edaspidisest andmete kogumisest keelduda keelates "Kontrolli automaatselt" ja " Automaatsed värkendused " funktsioonid oma mobiiltelefonis. Juurdepääs nendele funktsioonidele on leitav [Seadistus – Süsteem – Värskenduskeskus – Tarkvara värskendamine – ülevoolu menüüd – Seadistus]. Pidage meeles, et kui keelate Kontrolli automaatselt ja Automaatsed värkendused funktsioonid võib see mõjutada või piirata teie mobiiltelelfoni toimimist või funktsioonide kasutamist osaliselt või täielikult. Ülaltoodud andmete kogumine ja kasutamine on vajalikud teie mobiiltelefoni optimaalse toimimise tagamiseks. 
+
+Kui teil tekib küsimusi õiguse kohta keelduda või lepingu lõpetamise kohta, võtke meiega ühendust mc.customer-service@lge.com.
+
+b.	Kiireloomulised tarkvara värskendused
+Kui asjaolud seda nõuavad, võime teostada tarkvaravärskenduse vastavalt meie seaduslikele huvidele, ilma eelneva individuaalse teavituseta ja nõusolekut taotlemata ning hoolimata kehtivatest telefoni sätetest ("Kiireloomulised tarkvaravärskendused"). Tarkvara värskendamist nõudvateks olulisteks olukordadeks võivad näideteks olla olukorras mis võib olla ohuks kliendi turvalisusele või andmete turvalisusele või seadme toimimist nõudvates olukordades, mis võivad põhjustada teenuste olulisi häireid või selliste asjaolude võimalikkuse korrla.
+
+3.	Informatsioon mida LGE teilt hankida võib
+Tarkvara värskendamiseks võib LGE teie mobiiltelefonilt koguda järgmist teavet: Rahvusvaheline mobiilsidevahendi identiteet (IMEI), seerianumber, mobiiltelefoni mudel, tarkvara ja / või püsivara versioonid, telefoni operatsioonisüsteem, mobiili riigikood (MCC), mobiilsidevõrgu kood (MNC), Google Cloud sõnumside (GCM) identifikaator ja valitud keel. See teave kogutakse automaatselt tarkvarauuenduse teostamise käigus.
+
+Osana oma rollist mobiilsideteenuste pakkumisel mobiiltelefonile kogume teavet toimimise kohta, sealhulgas IP-aadressidega süsteemi logisid. See teave kogutakse automaatselt ja see on telefoni toimimise vajalik osa.
+
+4.	Kuidas LGE hangitud infot kasutab?
+Kasutame teielt saadud teavet erinevatel eesmärkidel, sealhulgas:
+-	Tarkvara värskenduse (sealhulgas mis tahes kiireloomuliste tarkvaravärskenduste) teostamiseks, sealhulgas tarkvara ajakohasuse kontrollimiseks, mobiiltelefoni autentimiseks ja sobiva tarkvara pakkumiseks; 
+-	[Meie piiratud tootegarantii] kohustuste kinnitamiseks;
+-	Mobiilside turvateenuste ja erakorraliste teadetega seotud teavituste edastamine vastuseks turvaküsimustele;
+-	Selleks, et kaitsta meie õigusi ja varasid, sealhulgas kohtumenetluse käigus;
+-	Regulatiivsete nõuete täitmiseks; ja
+-	Pakutavate teenuset ja toodete analüüsimiseks, ülevaatamiseks ja parendamiseks;
+
+Õiguslik alus, millele LGE teieisikuandmeid töödeldes toetub põhineb tavaliselt ühel järgmistest:
+-	Leping: olukordades kus lepingu sõlmimine teiega on vajalik;
+-	Õigustatud huvid: kui see on LGE eesmärkide või kolmandate osapoolte seaduslike ärihuvide saavutamiseks vajalik. LGE puhul hõlmab see tarbeelektroonika tootja ja teenuseosutaja huve;
+-	Nõusolek: kohtades kus te olete otsustanud seda pakkuda. Teil on õigus oma nõusolekut igal ajal tagasi võtta; või
+-	Juriidiline kohustus: kui töötlemine on vajalik meie seaduslike kohustuste täitmiseks.
+
+Samuti võime kasutada tarkvaravärskenduse käigus ja mobiiltelefoni töötamise ajal statistilise eesmärgiga andmeid, et paremini oma klientide vajadusi mõista, et parandada meie klienditeenidust, ning pakutavate toodete ja teenuste ning turu-uuringute ja analüüsi jaoks. Sellised koondstatistikad ei sisalda teavet, mis võimaldaks isikut tuvastada ning ei ole ühegi füüsilise isikuga otseset seotud.
+
+5.	Millal jagab LGE infot teistega
+Me ei jaga üldiselt kolmandate osapooltega tarkvarauuenduse käigus kogutavat teavet, mis võimaldab tuvastamist või võib olla seotud füüsiliste isikutega. 
+
+Sellegipoolest, pidage meeles järgmisi asjaolusid, kus me saame sellist teavet jagada järgmiste kolmandate osapooltega:
+
+-	Sidusettevõtted ja tütarettevõtted. LGE võib jagada isikuandmeid ja isiku tuvastamist mittevõimaldavaid andmeid (kaasa arvatud mobiilinumbrit) oma sidus- ja tütarettevõtetega kogu maailmas ainult niikaua, kui see on vajalik selle eesmärgi saavutamiseks, milleks andmeid koguti. Mõisted "sidusettevõtted" või "tütarettevõtted" viitab grupiettevõtetele, kes võivad LG nime kasutada või kellel on ühine omanikering või -juhtimine, näiteks LG CNS või LG Electronics U.S.A., Inc .;
+-	Kolmandatest osapooltest teenuse pakkujad. Kolmandatest osapooltest pakkujad, keda LGE võib oma nimel aeg-ajalt teenuste pakkumiseks kasutada, näiteks klienditeeninduse päringute täitmiseks;
+
+Kuigi me tavaliselt ei jaga informatsiooni täiendavate kolmandate osapooltega, pidage meeles, et alljärgnevatel konkreetsetel asjaoludel võime me teavet jagada järgmiste ettevõtetega:
+-	Muud osapooled vastavalt seadusele. Kohtuotsuse alusel või muude valitsus- või õigusasutuste nõudmisel kohtuistungi läbiviimiseks või muudel õiguslikel või seaduslikel eesmärkidel.
+-	Muud osapooled seoses ettevõtte äritegevusega. Seoses korporatiivse sündmusega, nagu LGE äri (sh filiaali või tütarettevõtte) ühinemine, restruktueerimine, üleminek või müük, kus LGEl võib osutuda vajalikuks teabe avalikustamine potentsiaalsele ostjale ja tema seaduslikele esindajatele;
+-	Muud osapooled, kui on vaja kaitsta meie teenust. Meie lepinguliste õiguste jõustamiseks, ettevaatusabinõud vastutuse võtmiseks, võimalike või tegelike ebaseaduslike tegevuste uurimine või kolmandate osapoolte nõuete või väidete uurimine või kaitsmine nende vastu; või
+-	Muud osapooled, kes soovivad kaitsta mis tahes meie klientide isiklikku julgeolekut või vara. Selleks, et kaitsta meie klientide või avalikkuse isiklikku ohutust, õigusi või vara.
+
+Mitte mingil juhul ei tohi teie tarkvaravärskenduse ajal kogutud isikuandmeid töödelda turunduslikel eesmärkidel ilma teie nõusolekuta ega jagada kolmandate osapooltega turunduslikel eesmärkidel ilma teie nõusolekuta.
+
+6.	Isikuandmete edastamine
+Meie, meie sidus- ja tütarettevõtted ja teenusepakkujad võivad teie isikuandmeid kasutada riikides, mis ei ole teie seadme asukohariigiks, eesmärkidel, mida on kirjeldatud privaatsuseeskirjades. Mõnede riikide andmekaitse seadused ei pruugu pakkuda samaväärset isikuandmete kaitset, kui teie asukohariik. Püüame isikuandmete edastamisel tagada isikuandmete kaitseks samaväärse kaitse ja turvalisuse, kui seda pakutakse teie asukohariigis. 
+
+7.	Kui kaua LGE minu isikuandmeid säilitab?
+Hoiame teie isikuandmeid alles nii kaua kui see on vajalik ajakohaste Rakenduste pakkumiseks või muu Privaatsuseeskirjades määratletud eesmärgi saavutamiseks. Rakendame erinevaid kriteeriume, et tuvastada kindlaks sobilik säilitamisaeg erinevatele teie poolt pakutavate isikuandmete kategooriatele. 
+Esmajärjekorras kogub ja kasutab ettevõte isikuandmeid tarkvaravärskendusteenuste pakkumiseks. Pidage meeles, et paljude teenuseosade kasutamist / pakkumist võidakse piirata, kui te andmete kogumisega ei nõustu. Me kogume ja kasutame isikuandmeid informatsiivsel eesmärgil. Andmeid säilitatakse seni, kuni selline eesmärk on täidetud. Seetõttu on elementaarne, et ettevõte kasutab ja säilitab andmeid kogu teenuse kasutamise perioodi ajal.
+Kui soovite oma isikuandmete kustutamist põhjusel, et need pole enam vajalikud või nende töötlemine on muutunud seaduse vastaseks, on teil õigus nõuda oma andmete töötlemise piiramist seniks kuni me töötleme teie taotlust andmete kustutamiseks.
+
+8.	Turvalisus
+Teeme teie isikuandmete turvalisuse ja konfidentsiaalsuse tagamiseks majanduslikult mõistlikke pingutusi. Kuna internet, pidevalt muutuv tehnoloogia ja muud meist sõltumatud tegurid võivad teie turvalisust rikkuda, ei saa me tagada et teie ja meie serverite vaheline suhtlus oleks täielikult kaitstud volitamata juurdepääsu eest kolmandate osapoolte poolt või et me ei võiks sattuda turvareeglite rikkumise ohvriks. Me ei võta endale mingit vastutust isikuandmete avaldamise eest, mis on toimunud kolmandate osapoolte edastamise vigade või lubamatu või ebaseadusliku tegevuse tõttu.
+
+9. Laste privaatsuse kaitse
+Laste turvalisuse tagamise on meie jaoks oluline. Seetõttu ei ole ükski meie teenustest suunatud või muudetud atraktiivseks alla 16 aastaste või vastavalt kehtivatele seadustele alaealiste isikute jaoks. Me ei kogu teadlikult alla 16 aastaste või vastavalt kehtivatele seadustele alaealiste isikute isikuandmeid. Kui meile saab teatavaks või meid informeeritakse, et oleke kogunud alla 16 aastatste isikute või vastavalt kehtivatele seadustele alaealise isikuandmeid, eemaldame need isikuandmed viivitamatult.
+
+10. LGE Privaatsussätted muudatused
+LGE võib aeg-ajalt privaatsuseeskirju ajakohastada. Kui muudame privaatsuseeskijru oluliselt, teavitame teid sellest mobiilseadme või muude kanalite kaudu. Tarkvara värskendusteenuse kasutamise jätkamiseks peate muudetud privaatsuseeskirjadega nõustuma.
+
+11. Juurdepääs teie andmetele ja teie õigused
+Mõne jurisdiktsiooni seaduste kohaselt võib olla õigus nõuda LGE poolt hoitavatele isikuandmetele juurdepääsu, parandamist või kustutamist või õigust keelata või piirata isiklikuandmete teatud tüüpi töötlemise (või tühistada LGEle antud nõusolek töötlemiseks) või saada masinloetava koopia teie isiklikuandmete kohta. Kui seadused seda lubavad, võidakse sellise teenuse osutamise eest nõuda mõningast teenustasu. Pange tähele, et me võime keelduda teie taotluse töötlemisest, kui need on põhjendamatult kuritahtlikud, ohustavad teiste inimeste privaatsust või on äärmiselt ebapraktilised (kui see on lubatud kehtivate seaduste kohaselt). Lisainformatsiooni saamiseks võtke meiega ühendustmc.customer-service@lge.com.
+
+12. LGEga ühenduse võtmine seoses Privaatsuseeskirjadega
+Kui teil on küsimusi või kommentaare Privaatsuseeskirjade kohta või isikuandmete töötlemise kohta LGE poolt võtke ühendust LG Electronics Inc. aadressil mc.customer-service@lge.com. Teil on alati õigus esitada kaebus isikuandmete kaitsega seotud õigusorganile kuid siiski soovitame esmalt võtta meiega ühendust, et mistahes kaebusele lahendus leida.
+
+Viimane uuendus: Dets., 01, 2017
+

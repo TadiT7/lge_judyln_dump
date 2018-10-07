@@ -1,0 +1,3 @@
+﻿Notkun núverandi staðsetningarupplýsinga
+
+LGE getur notað staðsetningarupplýsingar sem vistaðar eru í tækinu (með notkun GPS, Wi-Fi og farsímakerfa) til að fá „núverandi staðsetningarupplýsingar“ tækisins. LGE vistar aðeins „núverandi staðsetningarupplýsingar“ á tæki notandans og safnar ekki, vistar, eða geymir upplýsingar á miðlurum sínum. Jafnvel þó þú samþykkir ofangreint, er þjónustan aðeins veitt þegar notandi virkjar staðsetningaeiginleika Google, og notkun á „núverandi staðsetningarupplýsingum“ þjónustunni má breyta hvenær sem er undir stillingavalmynd hverrar þjónustu sem notar „núverandi staðsetningarupplýsingar“.

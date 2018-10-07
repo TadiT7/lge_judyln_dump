@@ -1,0 +1,3 @@
+﻿Käytä nykyisiä sijaintitietoja
+
+LGE voi käyttää laitteelle tallennettuja sijaintitietoja (käyttäen GPS, Wi-Fi, ja mobiiliviestinnän verkkoja) hankkiakseen laitteen “nykyiset sijaintitiedot”. LGE tallentaa vain “nykyiset sijaintitiedot” sisäisesti käyttäjän laitteella eikä kerää, tallenna, tai säilö tietoja palvelimilleen. Myös hyväksyessäsi yllä olevan, palvelu toimitetaan vain kun käyttäjä mahdollistaa Googlen sijaintitoiminnon ja “nykyisten sijaintitietojen” -palvelun käyttöä voidaan muuttaa milloin vain kunkin palvelun kohdassa asetukset-valikko, joka käyttää “nykyiset sijaintitiedot” ominaisuutta.

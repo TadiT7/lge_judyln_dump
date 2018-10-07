@@ -1,0 +1,27 @@
+﻿Aktiivsus logid
+
+Üldise kasutajakogemuse parandamiseks ja seadme tõrkeotsingute laiendamiseks luuakse ja salvestatakse teie LGE mobiilsideseadmesse Aktiivsuslogid. 
+
+Logid sisaldavad alljärgnevat informatsiooni: 
+- Mobiilseadme olek: mudel, tarkvara versioon, IMEI, unikaalne identifitseerimisnumber, IMSI, toite oleks, aku olek, CPU/RAM/sisemälu kasutus, keskmine kasutusaeg, riistvara omadiagnostika tulemused (Wi-Fi, BT, lähedusandur, valgustusandur, sõrmejäljeandur jne.) 
+- Võrgu olek
+- Informatsioon rakenduste kohta, rakenduste kasutus loend/statistika 
+- Mobiilseadme ühendusolek
+- Tõrgete info: hangunud ekraan, soovimatud toite katkestuse, katkestatud kõned, rakenduste tõrked
+- Mobiilseadme sätted
+
+Aktiivsuslogisid säilitatakse eksklusiivselt teie seadmes ja neid ei kanta õhukaudu LGEle või muudele kolmandatele osapooltele, kui muud lepingud seda kuidagi ei sätesta.
+LGE poolt kogutud informatsioonikirjeid võib kasutada üksikult või koondandmetena. LGE kasutab infot, et oma kliendi vajadusi paremini mõista, klienditeeninduse ja pakutavate toodete ja teenuste arendamiseks. Näiteks võimaldavad Aktiivsuslogi andmed LGEl uurida ja parandada võrgutõrkeid, ühendusprobleeme ja akuga seotud probleeme. 
+
+LGEl on Aktiivsuslogi andmeid õigus jagada järgnevate kolmandate osapooltega:
+- tütar- ja sidusettevõtetega (see tähendab ettevõtteid, mis kontrollivad, on kontrollitud või on LGE ühisomandis); ja
+- agendid ja teenusepakkujad, kes on seotud konfidentsiaalsuskohustusega ja kes kasutavad teavet ainult LGE nimel või nõutud toodete ja teenuste kättesaadavuse tagamiseks või lepingulise kohustuse täitmiseks teie ees.
+
+LGE ei vastuta kolmandate osapoolte privaatsustavade eest.
+
+LGE soovib Aktiivsus logide infot koguda ka siis, kui kasutate LGE järelteenust (A/S) või taastamisteenust. Küsitakse eraldi nende teenuste kasutamise käigus.
+
+Kuigi Aktiivsuslogisid koostatakse seadmes nõusolekust sõltumatult, ei saa LG sellele infole juurdepääsu ilma, et oleksite klikkinud "Ok" isegi juhul, kui nõustute hiljem eraldi lepingutes. Kui te ei soovi lubada LGEle juurdepääsu oma aktiivsuslogidele, saate juurdepääsu andmetele igal ajal blokeerida asukohas [Seadistus – Süsteem – Teave telefoni kohta – Aktiivsus logid]. Selleks, et saada aru kuidas LGE üldiselt teie andmeid käsitleb, kaasa arvatud Aktiivsuslogide infot, lugege meie privaatsuseeskirja asukohas [Seadistus – Süsteem – Teave telefoni kohta – Juriidiline teave – LG tarkvara õiguslikud dokumendid – Privaatsussätted].
+
+Kõik käesolevate Aktiivsus logide dokumentide tõlked tehakse vastavalt kohalikele nõuetele ja kui ingliskeelsete ja mitte-ingliskeelsetes versioonides on lahknevusi, on ülemaks aktiks ingliskeelne eeskirja versioon määral, mis ei lähe vastuollu teie kohaliku kehtiva jurisdiktsiooniga.
+

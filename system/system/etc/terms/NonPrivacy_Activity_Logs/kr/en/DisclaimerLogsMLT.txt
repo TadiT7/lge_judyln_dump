@@ -1,0 +1,18 @@
+﻿※ The following notification intends to guide the users about the record of use of the smart device(s). 
+
+Various types of errors may occur due to an application error while using your smart device. To prevent such errors and improve the functions of the application, the information on the use of your smart device will be recorded in your smart device when you start to use your smart device. 
+When we collect and· use the information on the use of your smart device in a wired or wireless way, we shall provide you with a separate consent form for each service for collection and ·use of personal information and obtain your agreement. If you do not agree, the recorded information will not be sent to us and will not be accessed by us. 
+
+* Collecting in a wireless way means that we collect the information on the use of your smart device by using the Wi-Fi or LTE network and collecting in a wired way means that our staff collects the information on the use of your smart device directly when you visit our Service Center.
+
+When you agree to the collection· and use of your personal information for the respective services listed above, we may use the information for the purpose of improving smart device services and their quality. The collected data will be kept for six months. After one year, we will delete from the data all information that can be used to identify the users and may use the rest of the information for the development of future applications. 
+You may change your consent status at the Settings menu at any time.
+
+– Mobile device status: Model, software version, IMEI, unique identification number, IMSI, power status, battery status, CPU/RAM/internal storage usage, average usage time, hardware self-diagnosis result (Wi-Fi, BT, proximity sensor, illumination sensor, fingerprint sensor, etc.) 
+– Network status
+– Information on the application, application usage count/statistics
+– Connection status of your mobile device
+– Error information: Frozen screen, unintended power-offs, disconnected calls, application errors
+– Mobile device setting
+
+* LG Electronics appoints LG CNS to operate the server and manage the processing of the information set forth above.

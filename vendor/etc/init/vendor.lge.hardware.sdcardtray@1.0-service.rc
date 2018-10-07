@@ -1,0 +1,4 @@
+service sdcardtray-hal-1-0 /vendor/bin/hw/vendor.lge.hardware.sdcardtray@1.0-service
+    class hal
+    user root
+    group root

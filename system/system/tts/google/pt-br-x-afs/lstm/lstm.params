@@ -1,0 +1,399 @@
+nf { s_position: 0 type: BOOL stream_enum: PHONEME_STREAM feature_enum: ONSET_FEATURE }
+nf { s_position: 1 type: BOOL stream_enum: PHONEME_STREAM feature_enum: ONSET_FEATURE }
+nf { s_position: 2 type: BOOL stream_enum: PHONEME_STREAM feature_enum: ONSET_FEATURE }
+nf { s_position: 0 type: BOOL stream_enum: PHONEME_STREAM feature_enum: ROUNDED_FEATURE }
+nf { s_position: 1 type: BOOL stream_enum: PHONEME_STREAM feature_enum: ROUNDED_FEATURE }
+nf { s_position: 2 type: BOOL stream_enum: PHONEME_STREAM feature_enum: ROUNDED_FEATURE }
+nf { s_position: 0 type: BOOL stream_enum: PHONEME_STREAM feature_enum: SCHWA_FEATURE }
+nf { s_position: 1 type: BOOL stream_enum: PHONEME_STREAM feature_enum: SCHWA_FEATURE }
+nf { s_position: 2 type: BOOL stream_enum: PHONEME_STREAM feature_enum: SCHWA_FEATURE }
+nf { s_position: 0 type: BOOL stream_enum: PHONEME_STREAM feature_enum: VOICED_FEATURE }
+nf { s_position: 1 type: BOOL stream_enum: PHONEME_STREAM feature_enum: VOICED_FEATURE }
+nf { s_position: 2 type: BOOL stream_enum: PHONEME_STREAM feature_enum: VOICED_FEATURE }
+nf { s_position: 0 type: BOOL stream_enum: PHONEME_STREAM feature_enum: VOWEL_FEATURE }
+nf { s_position: 1 type: BOOL stream_enum: PHONEME_STREAM feature_enum: VOWEL_FEATURE }
+nf { s_position: 2 type: BOOL stream_enum: PHONEME_STREAM feature_enum: VOWEL_FEATURE }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 1 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 2 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 3 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 4 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 5 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 6 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 7 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 1 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 2 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 3 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 4 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 5 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 6 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 7 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 1 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 2 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 3 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 4 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 5 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 6 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: HEIGHT_FEATURE } ival: 7 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: LENGTH_FEATURE } ival: 1 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: LENGTH_FEATURE } ival: 2 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: LENGTH_FEATURE } ival: 3 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: LENGTH_FEATURE } ival: 1 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: LENGTH_FEATURE } ival: 2 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: LENGTH_FEATURE } ival: 3 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: LENGTH_FEATURE } ival: 1 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: LENGTH_FEATURE } ival: 2 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: LENGTH_FEATURE } ival: 3 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 1 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 2 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 3 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 4 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 5 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 6 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 7 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 8 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 1 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 2 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 3 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 4 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 5 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 6 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 7 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 8 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 1 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 2 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 3 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 4 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 5 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 6 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 7 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: MANNER_FEATURE } ival: 8 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "a" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ae" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aei" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aen" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aeu" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ai" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "an" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "au" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aun" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ax" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "b" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "d" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "e" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ei" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "en" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "eu" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "f" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "g" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "i" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "in" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "iu" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "k" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "l" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "lj" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "m" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "n" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "nj" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "o" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oen" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oi" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "on" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oo" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ooi" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oou" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ou" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "p" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "r" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "rr" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "rx" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "s" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "sh" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "sil" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "t" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "u" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ua" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "uan" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "uax" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ui" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "un" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "v" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "z" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "zh" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "a" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ae" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aei" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aen" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aeu" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ai" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "an" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "au" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aun" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ax" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "b" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "d" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "e" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ei" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "en" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "eu" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "f" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "g" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "i" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "in" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "iu" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "k" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "l" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "lj" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "m" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "n" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "nj" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "o" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oen" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oi" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "on" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oo" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ooi" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oou" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ou" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "p" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "r" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "rr" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "rx" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "s" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "sh" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "sil" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "t" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "u" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ua" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "uan" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "uax" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ui" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "un" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "v" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "z" }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "zh" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "a" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ae" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aei" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aen" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aeu" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ai" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "an" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "au" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "aun" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ax" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "b" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "d" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "e" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ei" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "en" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "eu" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "f" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "g" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "i" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "in" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "iu" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "k" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "l" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "lj" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "m" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "n" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "nj" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "o" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oen" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oi" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "on" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oo" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ooi" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "oou" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ou" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "p" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "r" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "rr" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "rx" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "s" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "sh" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "sil" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "t" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "u" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ua" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "uan" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "uax" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "ui" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "un" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "v" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "z" }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: NAME_FEATURE } sval: "zh" }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 1 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 2 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 3 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 4 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 5 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 6 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 1 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 2 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 3 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 4 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 5 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 6 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 1 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 2 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 3 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 4 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 5 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POA_FEATURE } ival: 6 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 1 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 2 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 3 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 4 }
+question { nf { s_position: 0 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 5 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 1 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 2 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 3 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 4 }
+question { nf { s_position: 1 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 5 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 1 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 2 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 3 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 4 }
+question { nf { s_position: 2 stream_enum: PHONEME_STREAM feature_enum: POSITION_FEATURE } ival: 5 }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: STRESS_FEATURE } ival: 0 }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: STRESS_FEATURE } ival: 1 }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: STRESS_FEATURE } ival: 2 }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: STRESS_FEATURE } ival: 0 }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: STRESS_FEATURE } ival: 1 }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: STRESS_FEATURE } ival: 2 }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: STRESS_FEATURE } ival: 0 }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: STRESS_FEATURE } ival: 1 }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: STRESS_FEATURE } ival: 2 }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "a" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ae" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aei" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aen" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aeu" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ai" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "an" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "au" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aun" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ax" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "e" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ei" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "en" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "eu" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "i" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "in" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "iu" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "o" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oen" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oi" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "on" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oo" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ooi" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oou" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ou" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "u" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ua" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "uan" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "uax" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ui" }
+question { nf { s_position: 0 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "un" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "a" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ae" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aei" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aen" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aeu" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ai" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "an" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "au" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aun" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ax" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "e" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ei" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "en" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "eu" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "i" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "in" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "iu" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "o" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oen" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oi" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "on" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oo" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ooi" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oou" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ou" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "u" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ua" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "uan" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "uax" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ui" }
+question { nf { s_position: 1 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "un" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "a" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ae" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aei" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aen" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aeu" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ai" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "an" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "au" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "aun" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ax" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "e" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ei" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "en" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "eu" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "i" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "in" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "iu" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "o" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oen" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oi" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "on" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oo" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ooi" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "oou" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ou" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "u" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ua" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "uan" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "uax" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "ui" }
+question { nf { s_position: 2 stream_enum: SYLLABLE_STREAM feature_enum: VOWEL_OF_SYLLABLE_FEATURE } sval: "un" }
+question { nf { s_position: 0 stream_enum: WORD_STREAM feature_enum: WORD_TYPE_FEATURE } sval: "FUNCTION_AR" }
+question { nf { s_position: 0 stream_enum: WORD_STREAM feature_enum: WORD_TYPE_FEATURE } sval: "LETTER" }
+question { nf { s_position: 1 stream_enum: WORD_STREAM feature_enum: WORD_TYPE_FEATURE } sval: "FUNCTION_AR" }
+question { nf { s_position: 1 stream_enum: WORD_STREAM feature_enum: WORD_TYPE_FEATURE } sval: "LETTER" }
+question { nf { s_position: 2 stream_enum: WORD_STREAM feature_enum: WORD_TYPE_FEATURE } sval: "FUNCTION_AR" }
+question { nf { s_position: 2 stream_enum: WORD_STREAM feature_enum: WORD_TYPE_FEATURE } sval: "LETTER" }
+nf { s_position: 0 type: INT stream_enum: PHONEME_STREAM feature_enum: NUM_PRECEDING_PHONEMES_IN_SYLLABLE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: PHONEME_STREAM feature_enum: NUM_PRECEDING_PHONEMES_IN_WORD_FEATURE }
+nf { s_position: 0 type: INT stream_enum: PHONEME_STREAM feature_enum: NUM_SUCCEEDING_PHONEMES_IN_SYLLABLE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: PHONEME_STREAM feature_enum: NUM_SUCCEEDING_PHONEMES_IN_WORD_FEATURE }
+nf { s_position: 0 type: INT stream_enum: PHRASE_STREAM feature_enum: NUM_SYLLABLES_FEATURE }
+nf { s_position: 1 type: INT stream_enum: PHRASE_STREAM feature_enum: NUM_SYLLABLES_FEATURE }
+nf { s_position: 2 type: INT stream_enum: PHRASE_STREAM feature_enum: NUM_SYLLABLES_FEATURE }
+nf { s_position: 0 type: INT stream_enum: PHRASE_STREAM feature_enum: NUM_WORDS_FEATURE }
+nf { s_position: 1 type: INT stream_enum: PHRASE_STREAM feature_enum: NUM_WORDS_FEATURE }
+nf { s_position: 2 type: INT stream_enum: PHRASE_STREAM feature_enum: NUM_WORDS_FEATURE }
+nf { s_position: 0 type: INT stream_enum: CUSTOM_STREAM feature_enum: NUM_PHRASES_IN_SENTENCE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_PHONEMES_FEATURE }
+nf { s_position: 1 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_PHONEMES_FEATURE }
+nf { s_position: 2 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_PHONEMES_FEATURE }
+nf { s_position: 0 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_PRECEDING_STRESSED_SYLLABLES_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_PRECEDING_SYLLABLES_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_PRECEDING_SYLLABLES_IN_WORD_FEATURE }
+nf { s_position: 0 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_SUCCEEDING_STRESSED_SYLLABLES_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_SUCCEEDING_SYLLABLES_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_SUCCEEDING_SYLLABLES_IN_WORD_FEATURE }
+nf { s_position: 0 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_SYLLABLES_TO_NEXT_STRESSED_SYLLABLE_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: SYLLABLE_STREAM feature_enum: NUM_SYLLABLES_TO_PREVIOUS_STRESSED_SYLLABLE_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: WORD_STREAM feature_enum: NUM_PRECEDING_CONTENT_WORDS_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: WORD_STREAM feature_enum: NUM_PRECEDING_SILENCES_IN_SENTENCE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: WORD_STREAM feature_enum: NUM_PRECEDING_WORDS_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: WORD_STREAM feature_enum: NUM_SUCCEEDING_CONTENT_WORDS_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: WORD_STREAM feature_enum: NUM_SUCCEEDING_SILENCES_IN_SENTENCE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: WORD_STREAM feature_enum: NUM_SUCCEEDING_WORDS_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: WORD_STREAM feature_enum: NUM_SYLLABLES_FEATURE }
+nf { s_position: 1 type: INT stream_enum: WORD_STREAM feature_enum: NUM_SYLLABLES_FEATURE }
+nf { s_position: 2 type: INT stream_enum: WORD_STREAM feature_enum: NUM_SYLLABLES_FEATURE }
+nf { s_position: 0 type: INT stream_enum: WORD_STREAM feature_enum: NUM_WORDS_TO_NEXT_CONTENT_WORD_IN_PHRASE_FEATURE }
+nf { s_position: 0 type: INT stream_enum: WORD_STREAM feature_enum: NUM_WORDS_TO_PREVIOUS_CONTENT_WORD_IN_PHRASE_FEATURE }

@@ -1,0 +1,38 @@
+# This file is imported by init.rc
+
+# LGE - booting time reduction
+# (if 'LGE_BOOT_TIME_REDUCTION_W_LABELING' is set to 'true')
+# 1. removing 'restorecon_recursive /sys/kernel/debug' on post-fs in system/core/rootdir/init.rc
+# 2. adding 'restorecon_recursive /sys/kernel/debug' on boot_completed in device/lge/${CHIPSET}/init.${CHIPSET}.label.rc
+# 3. execute build and download
+# 4. adding labeling debugfs nodes which are found from audit denied kernel boot log on post-fs in device/lge/${CHIPSET}/init.${CHIPSET}.label.rc
+
+# (if 'LGE_BOOT_TIME_REDUCTION_W_LABELING' is not set to 'true')
+# 1. execute 'restorecon_recursive /sys/kernel/debug' on post-fs by default in system/core/rootdir/init.default.label.rc
+
+on post-fs
+restorecon_recursive --cross-filesystems /sys/kernel/debug/sreadahead
+restorecon --cross-filesystems /sys/kernel/debug/clk/debug_suspend
+restorecon_recursive --cross-filesystems /sys/kernel/debug/rmt_storage
+restorecon --cross-filesystems /sys/kernel/debug/tracing/tracing_on
+restorecon --cross-filesystems /sys/kernel/debug/tracing/buffer_size_kb
+restorecon --cross-filesystems /sys/kernel/debug/tracing/free_buffer
+restorecon --cross-filesystems /sys/kernel/debug/tracing/trace_marker
+restorecon --cross-filesystems /sys/kernel/debug/probe_time
+
+restorecon_recursive --cross-filesystems /sys/kernel/debug/tracing/events/sched
+restorecon_recursive --cross-filesystems /sys/kernel/debug/tracing/events/workqueue
+restorecon_recursive --cross-filesystems /sys/kernel/debug/tracing/events/msm_vidc
+restorecon_recursive --cross-filesystems /sys/kernel/debug/tracing/events/power/
+restorecon_recursive --cross-filesystems /sys/kernel/debug/tracing/events/regulator
+restorecon_recursive --cross-filesystems /sys/kernel/debug/tracing/events/msm_low_power
+restorecon_recursive --cross-filesystems /sys/kernel/debug/tracing/events/thermal
+restorecon_recursive --cross-filesystems /sys/kernel/debug/tracing/events/irq
+restorecon_recursive --cross-filesystems /sys/kernel/debug/tracing/events/rcu
+restorecon_recursive --cross-filesystems /sys/kernel/debug/tracing/trace_marker/
+
+restorecon_recursive --cross-filesystems /sys/kernel/debug/fg
+chmod 0755 /sys/kernel/debug/tracing
+
+on property:sys.boot_completed=1
+restorecon --recursive --cross-filesystems /sys/kernel/debug

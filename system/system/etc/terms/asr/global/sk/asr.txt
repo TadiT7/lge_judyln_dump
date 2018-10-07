@@ -1,0 +1,8 @@
+﻿Súhlas s používaním hlasových informácií používateľa pre Automatické rozpoznávanie reči („ARR“) Google 
+
+Táto služba Parking Assistant („Služba“) využíva funkciu ARR Google poskytovanú spoločnosťou Google, Inc. („Google“) na umožnenie prevodu hlasu používateľa na text.
+Hlasové informácie na používanie tejto Služby vašou osobou budú prenesené do spoločnosti Google a budú ňou uchovávané. Spoločnosť Google bude tieto informácie používať na prevod vašich hlasových informácií na textové informácie a prenesie textové informácie do spoločnosti LGE.
+Všetky informácie zhromaždené službou ARR sa riadia Politikou ochrany súkromia spoločnosti Google, ktoré nájdete na adrese (https://www.google.com/policies/privacy/).
+Môžete sa rozhodnúť pre deaktivovanie používania ASR odvolaním služieb v ponuke „Ponuka možností - Právne informácie“.
+Spoločnosť LGE nikdy nezhromažďuje a/ani nepoužíva žiadne osobné údaje vrátane hlasových informácií používateľa a na poskytovanie Služby používa len iné než osobne identifikovateľné údaje, ako sú textové informácie.
+Okrem toho, spoločnosť LGE nikdy nebude (ani nikdy žiadnej tretej strane nedovolí) používať textové informácie na sledovanie alebo zhromažďovanie akýchkoľvek osobne identifikovateľných údajov návštevníkov Služby a nebude priradzovať žiadne údaje získane z tejto Služby k akýmkoľvek osobne identifikovateľným údajom z akéhokoľvek zdroja.

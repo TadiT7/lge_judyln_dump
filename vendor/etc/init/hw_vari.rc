@@ -1,0 +1,3 @@
+on fs && property:ro.boot.lge.superset=1
+    exec - root -- /vendor/bin/hw_vari.sh
+

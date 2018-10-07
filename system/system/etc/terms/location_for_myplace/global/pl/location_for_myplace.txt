@@ -1,0 +1,6 @@
+﻿Wykorzystanie informacji o bieżącej lokalizacji w związku z funkcją Moje miejsca
+
+Usługa Moje miejsca (dalej „Moje miejsca”) używa informacje o lokalizacji urządzenia użytkownika w celu analizowania wzoru, według którego użytkownik przemieszcza się pomiędzy lokalizacjami. Dzięki niej urządzenie automatycznie rozpoznaje lokalizacje lub pozwala użytkownikowi ręcznie je konfigurować i dodawać jako „Moje miejsca” (np. dom, praca). Nieprzerwana analiza wzorów może doprowadzić do automatycznej zmiany uprzednio wyznaczonej lokalizacji. 
+Chociaż Usługa wykorzystuje informacje o lokalizacji (BTS — stacja bazowa nadawczo-odbiorcza), a także pozycje ustalane za pośrednictwem GPS, Wi-Fi i sieci komórkowej, firma LG Electronics (dalej „LGE”) nigdy nie gromadzi ani nie przetwarza informacji o lokalizacji — wyłącznie używa ich i przechowuje je na urządzeniu użytkownika.
+Usługa zaczyna automatycznie rozpoznawać miejsca, w których przez długi okres znajdował się użytkownik, o ile wyrazi on zgodę na wykorzystywanie informacji o bieżącej lokalizacji urządzenia użytkownika, a działa do chwili, gdy użytkownik zrezygnuje z Usługi, wyłączając odpowiednią opcję w menu.
+Firma LGE używa informacji o bieżącej lokalizacji użytkownika wyłącznie wtedy, gdy użytkownik włączy usługi firmy Google świadczone na podstawie lokalizacji urządzenia.

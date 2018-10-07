@@ -1,0 +1,79 @@
+﻿Zásady ochrany osobních údajů pro používání záznamů aktivity
+
+Tyto Zásady ochrany osobních údajů popisují, jak LGE získá přístup k vašim osobním údajům a použije je v souvislosti se Službami Diagnostických zpráv zařízení LG. Před použitím Služby Diagnostických zpráv zařízení LG si je pečlivě přečtěte
+
+1. Úvod
+Společnost LG Electronics, Inc. („LGE“ nebo „my“) se zavazuje chránit informace osob a skupin, které používají Software LG pro PC/Mac. Tato Služba Diagnostických zpráv zařízení LG poskytuje službu dálkového připojení („Služby“).
+Tyto Zásady ochrany osobních údajů určují, jakým způsobem sbíráme, využíváme a sdílíme informace získané v důsledku toho, že využíváte Služby, a stanoví zejména:
+
+– Jaké údaje od vás může společnost LGE získávat;
+– Jakým způsobem společnost LGE získané údaje používá?
+– - Kdy LGE sdílí informace s ostatními; a
+– - Jak můžete ovlivnit použití a sdílení vašich údajů společností LGE.
+
+Vaše mobilní zařízení LG nebo Služba Diagnostických zpráv zařízení LG mohou poskytovat přístup k softwarovým aplikacím a odkazům na další služby vlastněné a provozované třetími stranami, včetně poskytovatelů operačních systémů a dalšího obsahu a poskytovatelů aplikací. Tyto služby třetích stran nejsou zahrnuty do těchto Zásad ochrany osobních údajů a mají své vlastní zásady ohledně shromažďování, využívání a sdílení údajů v souvislosti s těmito službami. Doporučujeme, abyste si tyto zásady přečetli. Společnost LGE neodpovídá za praktiky pro ochranu soukromí těchto třetích stran.
+
+2. Jaké informace získá společnost LGE?
+Údaje, které můžeme získat z vašeho používání služeb spadají do následujících kategorií:
+– Stav mobilního zařízení: Model, verze softwaru, IMEI, sériové číslo, IMSI, stav napájení, stav baterie, využití CPU/ RAM/ vnitřního úložiště, průměrná doba využití, výsledky diagnózy hardwaru(Wi-Fi, BT, senzoru blízkosti, senzoru podsvícení, snímače otisků prstů, atd.)
+– Stav sítě: Status sítě (volání, data), sílu signálu, informace stanice, frekvenci/čas volání
+– Informace o aplikacích: Seznam nainstalovaných a smazaných aplikací, verze aplikace, nedávno otevřené aplikace, frekvence/statistiky použití aplikací 
+– Status připojení mobilního telefonu: Wi-Fi, Bluetooth, GPS, sluchátka, nabíječka baterie, status připojení USB a SD karty
+– Informace o chybách: Zamrzlá obrazovka, nechtěné vypnutí, odpojené hovory, chyby aplikací (fatální výjimka)
+
+3. Jak společnost LG využívá informace, které získává?
+Informace získané na základě vašeho využívání Služeb využíváme pro různé účely, např. na:
+
+- Identifikace a diagnostika mobilního zařízení
+- Výkon zákaznických služeb a správa historie služeb 
+- Odesílání vyskakovacích zpráv 
+- Analýza historie služby/záznamů/zařízení pro zlepšení kvality a spokojenost zákazníků
+
+Údaje získané ze služeb, včetně osobních údajů, můžeme pro výše uvedené účely zkombinovat s údaji, které nám poskytujete jinými způsoby.
+
+Právní základ, na který se společnost LG bude spoléhat při zpracování vašich osobních údajů, bude obvykle jedna z následujících skutečností;
+
+– Smlouva: kde je nutné s vámi uzavřít smlouvu;
+– Legitimní zájmy: pokud je to nezbytné pro účely společnosti LG nebo legitimní obchodní zájmy třetí strany. Pro společnost LG to znamená její zájmy jako výrobce a poskytovatele služeb pro spotřební elektroniku;
+– Souhlas: kde jste se rozhodli ho poskytnout. Máte právo kdykoli svůj souhlas odvolat; nebo
+– Právní povinnost: pokud je zpracování nezbytné pro splnění našich zákonných povinností
+
+Informace uvedené v různých pododstavcích níže uvádějí, na které z výše uvedených právních základů se opíráme ohledně různých kategorií osobních údajů.
+
+4. Sdílení informací
+Pobočky a dceřiné společnosti. Společnost LGE může sdílet osobní a neosobní údaje (včetně údajů o mobilním telefonu) se svými přidruženými a dceřinými společnostmi po celém světě pro účely, popsané v těchto Zásadách ochrany osobních údajů. Výraz "přidružené společnosti" nebo "dceřiné společnosti" označuje společnosti skupiny, které mohou používat název společnosti LG nebo které mají společné vlastnictví nebo kontrolu, jako je LG CNS nebo LG Electronics France S.A.R.L.
+
+Mějte prosím na paměti, že tyto údaje můžeme dále sdílet s následujícími subjekty:
+- Třetí strany poskytující služby. Vaše osobní a neosobní údaje můžeme sdílet s poskytovateli služeb třetí strany, abychom umožnili poskytnutí Služby Diagnostických zpráv zařízení LG;
+
+Zatímco tyto informace obecně nesdílíme s dalšími třetími stranami, upozorňujeme vás, že za následujících konkrétních okolností můžeme tyto informace dále sdílet s následujícími subjekty;
+- Ostatní strany, pokud to vyžaduje zákon. V případě vyžádání soudním příkazem nebo jinými orgány státní správy nebo donucovacími orgány s cílem dodržovat právní proces nebo právní předpisy;
+- Další strany ve spojení s korporátními transakcemi. V souvislosti s firemní událostí, jako je fúze nebo prodej celé nebo části společnosti LGE (včetně divize nebo dceřiné společnosti), kde společnost LGE bude muset zveřejnit informace potenciálnímu kupujícímu a jeho profesionálním poradcům;
+- Další strany, kdy je potřeba chránit naše služby. Za účelem ochrany a obrany našich práv a majetku, a to i prostřednictvím soudního řízení;
+- Další strany, pokud je třeba ochránit osobní bezpečnost uživatele nebo jeho vlastnictví. Za účelem ochrany osobní bezpečnosti nebo majetku našich uživatelů nebo veřejnosti.
+
+Za žádných okolností nebudou vaše osobní údaje zpracovány pro marketingové účely, ani sdíleny s třetími stranami pro marketingové účely.
+
+5. Přenos osobních údajů
+My, naše přidružené společnosti, dceřiné společnosti a poskytovatelé služeb můžeme používat vaše osobní údaje v jiných zemích, než kde se nachází vaše zařízení, pro poskytnutí naší Služby Diagnostických zpráv zařízení LG a účely popsané v těchto Zásadách ochrany osobních údajů. Zákony o ochraně dat v některých zemích nemusí nabízet stejnou úroveň ochrany jako v zemi, kde se nacházíte. Před převodem osobních údajů však podnikneme kroky, abychom zajistili, že tyto informace budou mít v přijímající zemi nebo jurisdikci stejnou úroveň ochrany. Pro více informací o tom, jak zacházíme a chráníme vaše osobní údaje, nás prosím kontaktujte na adrese mc.customer-service@lge.com. 
+
+6. Jak dlouho LGE uchová mé osobní údaje?
+Vaše osobní údaje budeme uchovávat, dokud vám budeme poskytovat Službu nebo pro další účely popsané v těchto Zásadách ochrany osobních údajů. Použijeme kritéria pro určení vhodného období uchování pro různé kategorie poskytnutých osobních údajů. Například budeme uchovávat údaje nezbytné pro naši obranu při soudní při, jako jsou informace související se smlouvou po dobu trvání smlouvy a 1 rok poté. Po tomto období budou vymazány nebo v některých případech anonymizovány. Kde jsme získali osobní údaje na základě vašeho souhlasu a nemáme nadále právo v jejich zpracování pokračovat, pokud svůj souhlas zrušíte, vaše osobní údaje smažeme.
+Pokud požadujete vymazání vašich osobních údajů, protože již nejsou zapotřebí, nebo na základě námitek proti zpracování nebo tvrzení, že zpracování je protiprávní, máte právo požadovat omezení zpracování během ověřování vaší žádosti o vymazání.
+
+7. Bezpečnost
+Využíváme komerčně přiměřené úsilí k zajištění důvěrnosti a zabezpečení vašich osobních údajů. Přesto vzhledem ke struktuře internetu, neustále se měnícím technologiím a jiným faktorům mimo naši kontrolu, nemůžeme zaručit, že komunikace mezi vámi a našimi servery bude uchráněna neoprávněnému přístupu třetích stran nebo že nebudeme vystaveni narušení bezpečnosti. Za zpřístupnění osobních údajů kvůli chybám v přenosu nebo neoprávněným nebo protiprávním činům třetích stran nepřebíráme žádnou zodpovědnost.
+
+8. Ochrana soukromí dětí
+Ochrana soukromí dětí je pro nás důležitá. Z tohoto důvodu není žádná naše služba určena pro osoby mladší 16 let nebo věku plnoletosti v příslušné jurisdikci a není strukturována speciálně tak, aby přitahovala osoby mladší 16 let nebo věku plnoletosti v příslušné jurisdikci. Také vědomě nevybíráme ani neudržujeme osobní informace od uživatelů mladších 16 let nebo věku plnoletosti v příslušné jurisdikci. Pokud bychom se dozvěděli nebo byli upozorněni, že jsme shromáždili informace od uživatelů mladších 16 let nebo věku plnoletosti v příslušné jurisdikci, tyto osobní údaje okamžitě vymažeme.
+
+9. Změny Zásady ochrany osobních údajů společnosti LGE
+Tyto Zásady ochrany osobních údajů mohou být čas od času aktualizovány společností LGE. Jestliže dojde v našich Zásadách ochrany osobních údajů k významné změně, budeme vás o tom informovat prostřednictvím služeb nebo jiným způsobem. Možná budete muset potvrdit revidované Zásady ochrany osobních údajů nebo je odsouhlasit, abyste mohli v používání služeb pokračovat.
+
+10. Přístup k vašim informacím a vašim právům 
+Podle zákonů některých jurisdikcí můžete mít právo požadovat přístup k opravě nebo vymazání osobních údajů, které od vás společnost LGE získala, nebo právo vznést námitky vůči určitým druhům zpracování vašich osobních údajů nebo je omezit (nebo odvolat váš souhlas ke zpracování společností LGE) nebo k získání strojově čitelné kopie vašich osobních údajů. Pokud to zákony povolují, může vám být za poskytnutí takové služby účtován malý poplatek. Vezměte prosím na vědomí, že vaše žádosti mohou být odmítnuty, pokud jsou zneužívající, ohrožují soukromí ostatních nebo jsou mimořádně nepraktické (pokud to dovolují příslušné zákony). Pro další informace nebo pro uplatnění těchto práv nás prosím kontaktujte na mc.customer-service@lge.com.
+
+11. Kontaktování LGE ohledně těchto Zásady ochrany osobních údajů
+Máte-li jakékoli dotazy nebo připomínky k těmto Zásady ochrany osobních údajů nebo ke zpracování vašich osobních údajů společností LGE, obraťte se prosím na našeho pracovníka ochrany údajů na adrese dpo-eu@lge.com. Máte také právo podat stížnost orgánu pro ochranu údajů, ačkoli bychom vám chtěli navrhnout, abyste nejprve kontaktovali nás a umožnili nám vyřešit jakékoli vaše stížnosti.
+
+Poslední aktualizace: 1. března 2018

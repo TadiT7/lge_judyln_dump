@@ -1,0 +1,8 @@
+﻿Thỏa thuận về thông tin giọng nói người sử dụng cho tính năng Nhận dạng Lời nói Tự động (Automatic Speech Recognition - “ASR”) của Google 
+
+Dịch vụ Parking Assistant này (“Dịch vụ”) sử dụng Google ASR, một chức năng do Google, Inc. (“Google”) cung cấp, giúp chúng ta có thể chuyển đổi gọng nói người sử dụng thành văn bản.
+Thông tin giọng nói để bạn sử dụng Dịch vụ sẽ được truyền đến và được lưu trữ bởi Google. Google sẽ sử dụng thông tin này nhằm mục đích chuyển đổi thông tin giọng nói của bạn thành thông tin văn bản và truyền thông tin văn bản đến LGE.
+Bất kỳ thông nào được ASR thu thập cũng bị điều chỉnh bởi Chính sách Bảo mật của Google, có thể xem Chính sách này tại (https://www.google.com/policies/privacy/).
+Bạn có thể chọn ngừng sử dụng ASR bằng cách hủy bỏ các dịch vụ trong “Các tùy chọn Menu - Thông tin pháp lý”.
+LGE không bao giờ thu thập và/hoặc sử dụng bất kỳ thông tin cá nhân nào, bao gồm thông tin giọng nói người sử dụng, và chỉ sử dụng thông tin không thể nhận dạng cá nhân, chẳng hạn như thông tin văn bản, cho Dịch vụ.
+Ngoài ra, LGE sẽ không bao giờ (và sẽ không cho phép bất kỳ bên thứ ba nào) sử dụng thông tin văn bản để theo dõi hoặc thu thập bất kỳ thông tin có thể nhận dạng cá nhân nào về những người ghé thăm Dịch vụ và sẽ không gắn bất kỳ dữ liệu nào thu thập được từ Dịch vụ này với bất kỳ thông tin có thể nhận dạng cá nhân nào từ bất kỳ nguồn nào.

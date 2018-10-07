@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- These are configurations that must exist on all VZW operator devices. -->
+<config>
+    <!-- These are the standard packages that are white-listed to always have internet
+         access while in power save mode, even if they aren't in the foreground. -->
+<!--LGE-->
+    <allow-in-power-save package="com.lge.ims" />
+    <allow-in-power-save package="com.lge.imsvt" />
+    <allow-in-power-save package="com.lge.lgdmsclient" />
+    <allow-in-power-save package="com.lge.vvm" />
+    <allow-in-power-save package="com.lge.cmas" />
+
+    <allow-in-data-usage-save package="com.lge.vvm" />
+    <allow-in-data-usage-save package="com.lge.ims" />
+    <allow-in-data-usage-save package="com.lge.lgdmsclient" />
+    <allow-in-data-usage-save package="com.lge.cmas" />
+
+
+<!-- ACG -->
+<!-- LRA_US -->
+<!-- USC -->
+    <allow-in-power-save package="com.dti.uscc"/>
+<!-- GLOBAL -->
+
+
+<!-- VZW -->
+    <allow-in-power-save package="com.vzw.apnservice" />
+    <allow-in-power-save package="com.motricity.verizon.ssodownloadable" />
+    <allow-in-power-save package="com.vcast.mediamanager" />
+    <allow-in-power-save package="com.vzw.hss.myverizon" />
+    <allow-in-power-save package="com.verizon.mips.services" />
+    <allow-in-power-save package="com.cequint.ecid" />
+    <allow-in-power-save package="com.vzw.ecid" />
+    <allow-in-power-save package="com.LogiaGroup.LogiaDeck" />
+
+    <allow-in-data-usage-save package="com.vzw.apnservice" />
+    <allow-in-data-usage-save package="com.motricity.verizon.ssodownloadable" />
+    <allow-in-data-usage-save package="com.verizon.mips.services" />
+    <allow-in-data-usage-save package="com.asurion.android.verizon.vms" />
+    <allow-in-data-usage-save package="com.securityandprivacy.android.verizon.vms" />
+    <allow-in-data-usage-save package="com.cequint.ecid" />
+    <allow-in-data-usage-save package="com.vzw.ecid" />
+    <allow-in-data-usage-save package="com.LogiaGroup.LogiaDeck" />
+
+
+<!-- SPR -->
+    <allow-in-power-save package="com.coremobility.app.vnotes" />
+    <allow-in-power-save package="com.kineto.smartwifi" />
+    <allow-in-power-save package="com.locationlabs.sparkle.yellow.pre" />
+    <allow-in-power-save package="com.locationlabs.v3client " />
+    <allow-in-power-save package="com.oem.smartwifisupport" />
+    <allow-in-power-save package="com.cequint.ecid" />
+    <allow-in-power-save package="com.sprint.ecid" />
+    <allow-in-power-save package="com.sprint.ms.smf.services" />
+    <allow-in-power-save package="com.sprint.ms.cdm" />
+    <allow-in-power-save package="com.sprint.ce.updater" />
+
+    <!-- These Sprint operator all handle URLs to their websites by default -->
+    <app-link package="com.coremobility.app.vnotes" />
+    <app-link package="com.kineto.smartwifi" />
+    <app-link package="msgplus.jibe.sca" />
+    <app-link package="com.locationlabs.sparkle.yellow.pre" />
+    <app-link package="com.locationlabs.v3client " />
+    <app-link package="com.oem.smartwifisupport" />
+
+
+<!-- ATT -->
+    <!-- Doze Mode White List -->
+    <allow-in-power-save package="com.cequint.ecid" />
+    <allow-in-power-save package="com.locationlabs.sparkle.blue" />
+    <allow-in-power-save package="com.synchronoss.dcs.att.r2g" />
+    <allow-in-power-save package="com.att.mobiletransfer" />
+    <allow-in-power-save package="com.dti.att" />
+    <allow-in-power-save package="com.att.android.attsmartwifi" />
+
+    <!--Data Saver White List -->
+    <allow-in-data-usage-save package="com.asurion.android.mobilerecovery.att" />
+    <allow-in-data-usage-save package="com.dti.att" />
+
+
+
+<!-- CCT_US -->
+    <!-- Doze Mode White List -->
+    <allow-in-power-save package="com.smithmicro.netwise.director.comcast.oem" />
+    <allow-in-power-save package="com.comcast.modesto.vvm.client" />
+    <!--Data Saver White List -->
+    <allow-in-data-usage-save package="com.smithmicro.netwise.director.comcast.oem" />
+    <allow-in-data-usage-save package="com.comcast.modesto.vvm.client" />
+
+<!-- VDF-->
+    <!-- Doze Mode White List -->
+    <allow-in-power-save package="com.facebook.service" />
+    <!--Data Saver White List -->
+
+
+<!-- KDDI -->
+
+    <allow-in-power-save package="com.kddi.android.cmail" />
+    <allow-in-power-save package="com.kddi.android.auinitialsetting" />
+    <allow-in-power-save package="com.kddi.market" />
+    <allow-in-power-save package="com.kddi.android.btdun" />
+    <allow-in-power-save package="com.gemalto.tsmproxy" />
+    <allow-in-power-save package="com.kddi.android.klop" />
+    <allow-in-power-save package="com.kddi.cs.app001" />
+    <allow-in-power-save package="com.kddi.disasterapp" />
+    <allow-in-power-save package="com.kddi.android.mamoru" />
+    <allow-in-power-save package="jp.co.optim.oru" />
+    <allow-in-power-save package="com.kddi.android.checker_android" />
+    <allow-in-power-save package="jp.netstar.familysmile" />
+    <allow-in-power-save package="com.kddi.android.au_wifi_connect2" />
+    <allow-in-power-save package="com.kddi.selfcare.client" />
+    <allow-in-power-save package="com.kddi.android.ausharelink" />
+
+    <allow-in-data-usage-save package="com.kddi.android.cmail" />
+    <allow-in-data-usage-save package="com.kddi.android.auinitialsetting" />
+    <allow-in-data-usage-save package="com.kddi.market" />
+    <allow-in-data-usage-save package="com.kddi.android.btdun" />
+    <allow-in-data-usage-save package="com.gemalto.tsmproxy" />
+    <allow-in-data-usage-save package="com.kddi.android.klop" />
+    <allow-in-data-usage-save package="com.kddi.cs.app001" />
+    <allow-in-data-usage-save package="com.kddi.disasterapp" />
+    <allow-in-data-usage-save package="com.kddi.android.mamoru" />
+    <allow-in-data-usage-save package="jp.co.optim.oru" />
+    <allow-in-data-usage-save package="com.kddi.android.checker_android" />
+    <allow-in-data-usage-save package="jp.netstar.familysmile" />
+    <allow-in-data-usage-save package="com.kddi.android.au_wifi_connect2" />
+    <allow-in-data-usage-save package="com.kddi.selfcare.client" />
+    <allow-in-data-usage-save package="com.kddi.android.ausharelink" />
+
+    <!-- Background Location Limit White List from O OS by KDDI -->
+    <allow-unthrottled-location package="com.kddi.android.klop" />
+    <allow-unthrottled-location package="com.kddi.cs.app001" />
+    <allow-unthrottled-location package="com.kddi.android.checker_android" />
+    <!-- Whitelist of what components are permitted as backup data transports. -->
+    <backup-transport-whitelisted-service service="com.kddi.android.extract/.WiFiSettingsExtractService" />
+    <backup-transport-whitelisted-service service="com.kddi.android.extract/.HomeSettingsService" />
+    <!-- DCM -->
+    <allow-in-power-save package="com.nttdocomo.android.osv" />
+    <allow-in-power-save package="jp.co.nttdocomo.carriermail" />
+    <allow-in-power-save package="jp.co.nttdocomo.lcsapp" />
+    <allow-in-power-save package="com.nttdocomo.android.applicationmanager" />
+    <allow-in-power-save package="com.nttdocomo.android.remotelock" />
+    <allow-in-power-save package="com.nttdocomo.android.wipe" />
+    <allow-in-power-save package="jp.co.nttdocomo.saigaiban" />
+    <allow-in-power-save package="com.nttdocomo.android.idmanager" />
+    <allow-in-power-save package="com.nttdocomo.android.pf.dcmippushaggregator" />
+    <allow-in-power-save package="com.nttdocomo.android.anmane2" />
+    <allow-in-power-save package="com.nttdocomo.android.atf" />
+    <allow-in-power-save package="com.nttdocomo.android.iconcier" />
+    <allow-in-power-save package="com.nttdocomo.android.homeagent" />
+    <allow-in-power-save package="com.nttdocomo.osaifu.tsmproxy" />
+    <allow-in-power-save package="com.nttdocomo.android.areamail" />
+    <allow-in-power-save package="com.nttdocomo.android.tapandpay" />
+    <allow-in-power-save package="com.nttdocomo.android.phonemotion" />
+    <allow-in-power-save package="com.nttdocomo.android.epsmodecontrol" />
+    <!-- USE_DCM_PLAYREADY [lg-drm@lge.com 160630] Added to satisfy the request of the Docomo -->
+    <allow-in-power-save package="com.sonyericsson.android.drm.drmlicenseservice" />
+    <!-- USE_DCM_PLAYREADY [lg-drm@lge.com 160630] -->
+
+    <!-- Background Location Limit White List from O OS by DCM Requirement FRD-No.48 [mc-gnss-p1@lge.com 20170816]-->
+    <allow-unthrottled-location package="jp.co.nttdocomo.lcsapp" />
+
+<!-- SKT -->
+    <allow-in-power-save package="com.skt.skaf.A000Z00040" />
+    <allow-in-power-save package="Com.sktelecom.minit" />
+    <allow-in-power-save package="com.skt.prod.phone" />
+    <allow-in-power-save package="com.skt.prod.dialer" />
+    <allow-in-power-save package="com.sktelecom.tguard" />
+    <allow-in-power-save package="com.skt.skaf.l001mtm091" />
+    <allow-in-power-save package="com.iloen.melon" />
+    <allow-in-power-save package="com.skt.tbagplus" />
+    <allow-in-power-save package="com.skb.btvmobile" />
+    <allow-in-power-save package="com.skplanet.mbuzzer" />
+    <allow-in-power-save package="com.nate.android.portalmini" />
+    <allow-in-power-save package="com.tms" />
+    <allow-in-power-save package="com.skt.smartbill" />
+    <allow-in-power-save package="com.skt.skaf.OA00026910" />
+    <allow-in-power-save package="com.elevenst" />
+    <allow-in-power-save package="com.skmc.okcashbag.home_google" />
+    <allow-in-power-save package="com.skt.tdatafreezone2" />
+    <allow-in-power-save package="com.skp.tsearch" />
+    <allow-in-power-save package="com.skt.skaf.OA00199800" />
+    <allow-in-power-save package="com.skt.skaf.OA00018282" />
+    <allow-in-power-save package="com.skt.hps20client" />
+
+    <!-- These SKT operator all handle URLs to their websites by default -->
+    <app-link package="com.skt.skaf.A000Z00040" />
+    <app-link package="Com.sktelecom.minit" />
+    <app-link package="com.skt.prod.phone" />
+    <app-link package="com.skt.prod.dialer" />
+    <app-link package="com.sktelecom.tguard" />
+    <app-link package="com.skt.skaf.l001mtm091" />
+    <app-link package="com.iloen.melon" />
+    <app-link package="com.skt.tbagplus" />
+    <app-link package="com.skb.btvmobile" />
+    <app-link package="com.skplanet.mbuzzer" />
+    <app-link package="com.nate.android.portalmini" />
+    <app-link package="com.tms" />
+    <app-link package="com.skt.smartbill" />
+    <app-link package="com.skt.skaf.OA00026910" />
+    <app-link package="com.elevenst" />
+    <app-link package="com.skmc.okcashbag.home_google" />
+    <app-link package="com.skt.tdatafreezone2" />
+    <app-link package="com.skp.tsearch" />
+    <app-link package="com.skt.skaf.OA00199800" />
+    <app-link package="com.skt.skaf.OA00018282" />
+    <app-link package="com.skt.hps20client" />
+
+    <!-- Data Saver White List -->
+    <allow-in-data-usage-save package="com.skt.prod.phone" />
+    <allow-in-data-usage-save package="com.skt.prod.dialer" />
+    <allow-in-data-usage-save package="com.skt.skaf.OA00199800" />
+
+<!-- KT -->
+    <allow-in-power-save package="com.ktpns.pa" />
+    <allow-in-power-save package="com.kt.olleh.storefront" />
+    <allow-in-power-save package="com.kt.serviceagent" />
+    <allow-in-power-save package="com.skt.skaf.OA00018282" />
+
+    <!-- These KT operator all handle URLs to their websites by default -->
+    <app-link package="com.ktpns.pa" />
+    <app-link package="com.kt.olleh.storefront" />
+    <app-link package="com.kt.serviceagent" />
+    <app-link package="com.skt.skaf.OA00018282" />
+
+    <!-- Data Saver White List -->
+    <allow-in-data-usage-save package="com.ktpns.pa" />
+    <allow-in-data-usage-save package="com.kt.serviceagent" />
+
+
+<!--LGU-->
+    <allow-in-power-save package="com.lguplus.appstore" />
+    <allow-in-power-save package="com.lguplus.downloader" />
+    <allow-in-power-save package="lg.uplusbox" />
+    <allow-in-power-save package="com.lguplus.pushagent" />
+    <allow-in-power-save package="com.skt.skaf.OA00018282" />
+    <allow-in-power-save package="com.lguplus.lgugpsnwps" />
+
+    <!-- These LGU+ operator all handle URLs to their websites by default -->
+    <app-link package="com.lguplus.appstore" />
+    <app-link package="com.lguplus.downloader" />
+    <app-link package="lg.uplusbox" />
+    <app-link package="com.lguplus.pushagent" />
+    <app-link package="com.skt.skaf.OA00018282" />
+
+    <!-- Background Location Limit White List from O OS for LGU+ GPSnWPS-->
+    <allow-unthrottled-location package="com.lguplus.lgugpsnwps" />
+
+    <!-- Background Location Limit White List from O OS for KR navigation -->
+    <allow-unthrottled-location package="com.skt.skaf.l001mtm091" />
+    <allow-unthrottled-location package="com.skt.tmap.ku" />
+    <allow-unthrottled-location package="com.lguplus.navi" />
+    <allow-unthrottled-location package="kt.navi" />
+
+</config>

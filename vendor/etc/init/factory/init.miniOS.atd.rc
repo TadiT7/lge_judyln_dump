@@ -1,0 +1,8 @@
+#################################################################
+# MiniOS4 ATD
+
+service atd_py /sbin/python /factory/minios/run.py atd.atdmain
+    class main
+    user root
+    group root
+    seclabel u:r:minios_services:s0

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AreaCodes>
+    <area number="201" city="New Jersey"/>
+    <area number="203" city="Connecticut"/>
+    <area number="204" city="Manitoba"/>
+    <area number="205" city="Alabama"/>
+    <area number="206" city="Washington"/>
+    <area number="207" city="Maine"/>
+    <area number="208" city="Idaho"/>
+    <area number="209" city="California"/>
+    <area number="210" city="Texas"/>
+    <area number="212" city="New York"/>
+    <area number="213" city="California"/>
+    <area number="214" city="Texas"/>
+    <area number="215" city="Pennsylvania"/>
+    <area number="216" city="Ohio"/>
+    <area number="217" city="Illinois"/>
+    <area number="218" city="Minnesota"/>
+    <area number="219" city="Indiana"/>
+    <area number="224" city="Illinois"/>
+    <area number="225" city="Louisiana"/>
+    <area number="226" city="Ontario"/>
+    <area number="228" city="Mississippi"/>
+    <area number="229" city="Georgia"/>
+    <area number="231" city="Michigan"/>
+    <area number="234" city="Ohio"/>
+    <area number="239" city="Florida"/>
+    <area number="240" city="Maryland"/>
+    <area number="248" city="Michigan"/>
+    <area number="250" city="British Columbia"/>
+    <area number="251" city="Alabama"/>
+    <area number="252" city="North Carolina"/>
+    <area number="253" city="Washington"/>
+    <area number="254" city="Texas"/>
+    <area number="256" city="Alabama"/>
+    <area number="260" city="Indiana"/>
+    <area number="262" city="Wisconsin"/>
+    <area number="267" city="Pennsylvania"/>
+    <area number="269" city="Michigan"/>
+    <area number="270" city="Kentucky"/>
+    <area number="276" city="Virginia"/>
+    <area number="281" city="Texas"/>
+    <area number="289" city="Ontario"/>
+    <area number="301" city="Maryland"/>
+    <area number="302" city="Delaware"/>
+    <area number="303" city="Colorado"/>
+    <area number="304" city="West Virginia"/>
+    <area number="305" city="Florida"/>
+    <area number="306" city="Saskatchewan"/>
+    <area number="307" city="Wyoming"/>
+    <area number="308" city="Nebraska"/>
+    <area number="309" city="Illinois"/>
+    <area number="310" city="California"/>
+    <area number="312" city="Illinois"/>
+    <area number="313" city="Michigan"/>
+    <area number="314" city="Missouri"/>
+    <area number="315" city="New York"/>
+    <area number="316" city="Kansas"/>
+    <area number="317" city="Indiana"/>
+    <area number="318" city="Louisiana"/>
+    <area number="319" city="Iowa"/>
+    <area number="320" city="Minnesota"/>
+    <area number="321" city="Florida"/>
+    <area number="323" city="California"/>
+    <area number="325" city="Texas"/>
+    <area number="330" city="Ohio"/>
+    <area number="334" city="Alabama"/>
+    <area number="336" city="North Carolina"/>
+    <area number="337" city="Louisiana"/>
+    <area number="339" city="Massachusetts"/>
+    <area number="347" city="New York"/>
+    <area number="351" city="Massachusetts"/>
+    <area number="352" city="Florida"/>
+    <area number="360" city="Washington"/>
+    <area number="361" city="Texas"/>
+    <area number="386" city="Florida"/>
+    <area number="401" city="Rhode Island"/>
+    <area number="402" city="Nebraska"/>
+    <area number="403" city="Alberta"/>
+    <area number="404" city="Georgia"/>
+    <area number="405" city="Oklahoma"/>
+    <area number="406" city="Montana"/>
+    <area number="407" city="Florida"/>
+    <area number="408" city="California"/>
+    <area number="409" city="Texas"/>
+    <area number="410" city="Maryland"/>
+    <area number="412" city="Pennsylvania"/>
+    <area number="413" city="Massachusetts"/>
+    <area number="414" city="Wisconsin"/>
+    <area number="415" city="California"/>
+    <area number="416" city="Ontario"/>
+    <area number="417" city="Missouri"/>
+    <area number="418" city="Quebec"/>
+    <area number="419" city="Ohio"/>
+    <area number="423" city="Tennessee"/>
+    <area number="424" city="California"/>
+    <area number="425" city="Washington"/>
+    <area number="430" city="Texas"/>
+    <area number="432" city="Texas"/>
+    <area number="434" city="Virginia"/>
+    <area number="435" city="Utah"/>
+    <area number="438" city="Quebec"/>
+    <area number="440" city="Ohio"/>
+    <area number="443" city="Maryland"/>
+    <area number="450" city="Quebec"/>
+    <area number="469" city="Texas"/>
+    <area number="478" city="Georgia"/>
+    <area number="479" city="Arkansas"/>
+    <area number="480" city="Arizona"/>
+    <area number="484" city="Pennsylvania"/>
+    <area number="501" city="Arkansas"/>
+    <area number="502" city="Kentucky"/>
+    <area number="503" city="Oregon"/>
+    <area number="504" city="Louisiana"/>
+    <area number="505" city="New Mexico"/>
+    <area number="506" city="New Brunswick"/>
+    <area number="507" city="Minnesota"/>
+    <area number="508" city="Massachusetts"/>
+    <area number="509" city="Washington"/>
+    <area number="510" city="California"/>
+    <area number="512" city="Texas"/>
+    <area number="513" city="Ohio"/>
+    <area number="514" city="Quebec"/>
+    <area number="515" city="Iowa"/>
+    <area number="516" city="New York"/>
+    <area number="517" city="Michigan"/>
+    <area number="518" city="New York"/>
+    <area number="519" city="Ontario"/>
+    <area number="520" city="Arizona"/>
+    <area number="530" city="California"/>
+    <area number="540" city="Virginia"/>
+    <area number="541" city="Oregon"/>
+    <area number="551" city="New Jersey"/>
+    <area number="559" city="California"/>
+    <area number="561" city="Florida"/>
+    <area number="562" city="California"/>
+    <area number="563" city="Iowa"/>
+    <area number="567" city="Ohio"/>
+    <area number="570" city="Pennsylvania"/>
+    <area number="571" city="Virginia"/>
+    <area number="573" city="Missouri"/>
+    <area number="574" city="Indiana"/>
+    <area number="575" city="New Mexico"/>
+    <area number="580" city="Oklahoma"/>
+    <area number="585" city="New York"/>
+    <area number="586" city="Michigan"/>
+    <area number="601" city="Mississippi"/>
+    <area number="602" city="Arizona"/>
+    <area number="603" city="New Hampshire"/>
+    <area number="604" city="British Columbia"/>
+    <area number="605" city="South Dakota"/>
+    <area number="606" city="Kentucky"/>
+    <area number="607" city="New York"/>
+    <area number="608" city="Wisconsin"/>
+    <area number="609" city="New Jersey"/>
+    <area number="610" city="Pennsylvania"/>
+    <area number="612" city="Minnesota"/>
+    <area number="613" city="Ontario"/>
+    <area number="614" city="Ohio"/>
+    <area number="615" city="Tennessee"/>
+    <area number="616" city="Michigan"/>
+    <area number="617" city="Massachusetts"/>
+    <area number="618" city="Illinois"/>
+    <area number="619" city="California"/>
+    <area number="620" city="Kansas"/>
+    <area number="623" city="Arizona"/>
+    <area number="626" city="California"/>
+    <area number="630" city="Illinois"/>
+    <area number="631" city="New York"/>
+    <area number="636" city="Missouri"/>
+    <area number="641" city="Iowa"/>
+    <area number="646" city="New York"/>
+    <area number="647" city="Ontario"/>
+    <area number="650" city="California"/>
+    <area number="651" city="Minnesota"/>
+    <area number="660" city="Missouri"/>
+    <area number="661" city="California"/>
+    <area number="662" city="Mississippi"/>
+    <area number="678" city="Georgia"/>
+    <area number="682" city="Texas"/>
+    <area number="701" city="North Dakota"/>
+    <area number="702" city="Nevada"/>
+    <area number="703" city="Virginia"/>
+    <area number="704" city="North Carolina"/>
+    <area number="705" city="Ontario"/>
+    <area number="706" city="Georgia"/>
+    <area number="707" city="California"/>
+    <area number="708" city="Illinois"/>
+    <area number="709" city="Newfoundland"/>
+    <area number="712" city="Iowa"/>
+    <area number="713" city="Texas"/>
+    <area number="714" city="California"/>
+    <area number="715" city="Wisconsin"/>
+    <area number="716" city="New York"/>
+    <area number="717" city="Pennsylvania"/>
+    <area number="718" city="New York"/>
+    <area number="719" city="Colorado"/>
+    <area number="720" city="Colorado"/>
+    <area number="724" city="Pennsylvania"/>
+    <area number="727" city="Florida"/>
+    <area number="731" city="Tennessee"/>
+    <area number="732" city="New Jersey"/>
+    <area number="734" city="Michigan"/>
+    <area number="740" city="Ohio"/>
+    <area number="754" city="Florida"/>
+    <area number="760" city="California"/>
+    <area number="763" city="Minnesota"/>
+    <area number="765" city="Indiana"/>
+    <area number="767" city="Dominica"/>
+    <area number="769" city="Mississippi"/>
+    <area number="770" city="Georgia"/>
+    <area number="772" city="Florida"/>
+    <area number="773" city="Illinois"/>
+    <area number="774" city="Massachusetts"/>
+    <area number="775" city="Nevada"/>
+    <area number="778" city="British Columbia"/>
+    <area number="780" city="Alberta"/>
+    <area number="781" city="Massachusetts"/>
+    <area number="785" city="Kansas"/>
+    <area number="786" city="Florida"/>
+    <area number="800" city="Toll Free Numbers"/>
+    <area number="801" city="Utah"/>
+    <area number="802" city="Vermont"/>
+    <area number="803" city="South Carolina"/>
+    <area number="804" city="Virginia"/>
+    <area number="805" city="California"/>
+    <area number="806" city="Texas"/>
+    <area number="807" city="Ontario"/>
+    <area number="808" city="Hawaii"/>
+    <area number="809" city="Dominican Republic"/>
+    <area number="812" city="Indiana"/>
+    <area number="813" city="Florida"/>
+    <area number="814" city="Pennsylvania"/>
+    <area number="815" city="Illinois"/>
+    <area number="816" city="Missouri"/>
+    <area number="817" city="Texas"/>
+    <area number="818" city="California"/>
+    <area number="819" city="Quebec"/>
+    <area number="828" city="North Carolina"/>
+    <area number="830" city="Texas"/>
+    <area number="831" city="California"/>
+    <area number="832" city="Texas"/>
+    <area number="843" city="South Carolina"/>
+    <area number="845" city="New York"/>
+    <area number="847" city="Illinois"/>
+    <area number="848" city="New Jersey"/>
+    <area number="850" city="Florida"/>
+    <area number="856" city="New Jersey"/>
+    <area number="857" city="Massachusetts"/>
+    <area number="858" city="California"/>
+    <area number="859" city="Kentucky"/>
+    <area number="860" city="Connecticut"/>
+    <area number="861" city="Florida"/>
+    <area number="863" city="Florida"/>
+    <area number="864" city="South Carolina"/>
+    <area number="865" city="Tennessee"/>
+    <area number="866" city="Toll Free Numbers"/>
+    <area number="867" city="Yukon, NW Terr., Nunavut"/>
+    <area number="870" city="Arkansas"/>
+    <area number="877" city="Toll Free Numbers"/>
+    <area number="878" city="Pennsylvania"/>
+    <area number="888" city="Toll Free Numbers"/>
+    <area number="901" city="Tennessee"/>
+    <area number="902" city="Nova Scotia"/>
+    <area number="903" city="Texas"/>
+    <area number="904" city="Florida"/>
+    <area number="905" city="Ontario"/>
+    <area number="906" city="Michigan"/>
+    <area number="907" city="Alaska"/>
+    <area number="908" city="New Jersey"/>
+    <area number="909" city="California"/>
+    <area number="910" city="North Carolina"/>
+    <area number="912" city="Georgia"/>
+    <area number="913" city="Kansas"/>
+    <area number="914" city="New York"/>
+    <area number="915" city="Texas"/>
+    <area number="916" city="California"/>
+    <area number="917" city="New York"/>
+    <area number="918" city="Oklahoma"/>
+    <area number="919" city="North Carolina"/>
+    <area number="920" city="Wisconsin"/>
+    <area number="925" city="California"/>
+    <area number="928" city="Arizona"/>
+    <area number="931" city="Tennessee"/>
+    <area number="936" city="Texas"/>
+    <area number="937" city="Ohio"/>
+    <area number="940" city="Texas"/>
+    <area number="941" city="Florida"/>
+    <area number="947" city="Michigan"/>
+    <area number="949" city="California"/>
+    <area number="951" city="California"/>
+    <area number="952" city="Minnesota"/>
+    <area number="954" city="Florida"/>
+    <area number="956" city="Texas"/>
+    <area number="970" city="Colorado"/>
+    <area number="971" city="Oregon"/>
+    <area number="972" city="Texas"/>
+    <area number="973" city="New Jersey"/>
+    <area number="978" city="Massachusetts"/>
+    <area number="979" city="Texas"/>
+    <area number="980" city="North Carolina"/>
+    <area number="985" city="Louisiana"/>
+    <area number="989" city="Michigan"/>
+</AreaCodes>

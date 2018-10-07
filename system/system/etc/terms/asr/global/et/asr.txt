@@ -1,0 +1,9 @@
+﻿Nõusolek kasutaja häälinformatsiooni kasutamiseks Google Automaatses kõnetuvastuses ("AKT") 
+
+Parking Assistant ("Teenus") kasutab Google AKT, Google Inc. (Google) poolt pakutavat funktsiooni, mis võimaldab meil muuta kasutaja hääle tekstiks.
+Teie Teenuses kasutatav  häälinformatsioon kantakse üle ja hoiustatakse Google poolt. Google kasutab antud informatsiooni häälinfo konverteerimisel tekstiinfoks ja edastab teksti LGEle.
+Kõik AKT poolt kogutud andmed on reguleeritud Google’i Privaatsuseeskirjadega mis on leitavad aadressil (https://www.google.com/policies/privacy/).
+Võite valida ASR teenuse kasutamise lõpetamise lõpetades vastava lepingu asukohas “Valikute menüü - Juriidiline teave”.
+LGE ei kogu ega kasuta kunagi isikuandmeid kaasa arvatud kasutaja häälinfot ja kasutab ainult isiku tuvastamist mittevõimaldavat infot nt Teenuse jaoks vajalikku tekstiinfot.
+Lisaks ei jälgi ega kogu LGE kunagi (ja ei võimalda sed teha ka kolmandatel osapooltel) tekstiinfot isiku tuvastamist võimaldaval viisil ning ei seosta käesoleva Teenuse abil kogutud andmeid mistahes allikast pärineva isikut tuvastava teabega. 
+.

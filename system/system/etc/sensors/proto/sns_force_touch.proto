@@ -1,0 +1,38 @@
+// @file sns_force_touch.proto
+//
+// Defines standard message types for the Force Touch Sensor
+
+//
+// Copyright (c) 2017 Maxlinear, Inc.
+// All Rights Reserved.
+// Confidential and Proprietary - Maxlinear, Inc.
+
+syntax = "proto2";
+import "nanopb.proto";
+import "sns_std_sensor.proto";  // Include this for standard sensor event
+
+//enum sns_force_touch_msgid {
+//  option (nanopb_enumopt).long_names = false;
+
+  // Timer config message.
+  //
+  //Corresponds to the message sns_force_touch_sensor_config.
+  // This message is used to start, reconfigure or stop the timer sensor
+//  SNS_FORCE_TOUCH_MSGID_SNS_FORCE_TOUCH_SENSOR_CONFIG = 512;
+
+  // Timer event message.
+  //
+  // Corresponds to the message sns_force_touch_sensor_event.
+  // This event is generated when a timer's timeout occurs.
+//  SNS_FORCE_TOUCH_MSGID_SNS_FORCE_TOUCH_SENSOR_EVENT  = 1025;
+//}
+
+//message sns_force_touch_sensor_config
+//{
+//  repeated uint32 ch_threshold = 1 [(nanopb).max_count = 8];
+//}
+
+//message sns_force_touch_sensor_event
+//{
+//  repeated uint32 ch_touch_level = 1 [(nanopb).max_count = 8];
+//}

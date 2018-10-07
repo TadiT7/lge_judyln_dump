@@ -1,0 +1,6 @@
+﻿Bruk av gjeldende plasseringsinformasjon for Mine steder
+
+Denne Mine steder-tjenesten («Tjeneste») bruker plasseringsinformasjonen til brukerens enhet for å analysere mønsteret på stedene der brukeren har oppholdt seg i lengre tid, og for å gi funksjonen med å automatisk gjenkjenne en slik plassering, eller tillate brukeren å manuelt angi et sted, som et «Mine steder» (f.eks. hjemme, arbeidsplass). Fortsatt mønsteranalyse kan automatisk endre plasseringen til en tidligere utpekt plassering. 
+Selv om denne tjenesten bruker plasseringsinformasjon (BTS), GPS, Wi-Fi, nettverksinnstillinger (NLP) lagret i brukerenheten, samler LG Electronics Inc. (LGE) aldri inn eller bruker brukerplasseringsinformasjon og bruker kun butikker i brukerenheten.
+Denne Tjenesten begynner automatisk å gjenkjenne stedene hvor brukeren har oppholdt seg i lengre tid som begynner med når brukeren godtar bruken av gjeldende plasseringsinformasjon for brukerenheten, og fortsetter med mindre brukeren stopper bruken av tjenesten ved å slå av det tilsvarende funksjonsalternativet.
+LGE vil imidlertid bare bruke brukerens nåværende plasseringsinformasjon hvis brukeren slår på alternativet for å bruke Google-plasseringstjenesten i enheten.

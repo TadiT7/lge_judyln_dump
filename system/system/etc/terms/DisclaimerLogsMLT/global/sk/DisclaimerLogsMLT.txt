@@ -1,0 +1,23 @@
+﻿Denníky aktivity
+
+S cieľom zlepšiť celkovú používateľskú skúsenosť a skvalitniť riešenie problémov so zariadením sa vo vašom mobilnom zariadení generujú a ukladajú Denníky aktivity. Denníky aktivity sa ukladajú výlučne vo vašom zariadení a nie sú bezdrôtovo prenášané do spoločnosti LGE ani žiadnej tretej strany, ak v samostatnej dohode nebolo dohodnuté niečo iné. 
+
+Denníky obsahujú nasledujúce údaje: 
+- stav mobilného zariadenia: model, verzia softvéru IMEI, jedinečné identifikačné číslo, IMSI, stav napájania, stav batérie, používanie centrálneho procesora/pamäte RAM/vnútornej pamäte, priemerný čas používania, výsledok vlastnej diagnostiky hardvéru (Wi-Fi sieť, rozhranie Bluetooth, senzor vzdialenosti, senzor osvetlenia, senzor odtlačku prsta atď.); 
+- stav siete;
+- informácie o aplikácii, počet použití aplikácie/štatistiky o aplikácii;
+- stav pripojenia vášho mobilného zariadenia;
+- informácie o chybách: zamrznutá obrazovka, náhodné vypnutie, odpojené hovory, chyby aplikácií;
+- nastavenie mobilného zariadenia.
+
+Údaje, ku ktorým získava prístup spoločnosť LGE, sa môžu používať jednotlivo alebo kombinovane v súhrnnej forme. Spoločnosť LGE údaje používa na lepšie pochopenie potrieb zákazníkov, na zlepšenie starostlivosti o zákazníkov, ako aj nami ponúkaných produktov a služieb. Údaje z Denníka aktivity pomáhajú spoločnosti LGE napríklad vyšetrovať a napraviť chyby siete, problémy s pripojením a problémy s batériou. 
+
+Kliknutím na „Súhlasím“ súhlasíte a povoľujete spoločnosti LGE a určitým tretím stranám konajúcim v mene spoločnosti LGE (ako je uvedené nižšie) získavať prístup a používať údaje z Denníka aktivity generovaného vaším zariadením. Spoločnosť LGE môže údaje z Denníka aktivity zdieľať s nasledovnými tretími stranami:
+- sesterské a dcérske spoločnosti (znamená spoločnosti, ktoré kontrolujú, sú kontrolované alebo sú priamo spoločne vlastnené alebo kontrolované pod názvom LGE); a
+- zástupcovia a poskytovatelia služieb, ktorí sú viazaní povinnosťami o zachovaní dôvernosti, ktorí tieto údaje používajú len v mene spoločnosti LGE na poskytovanie požadovaných produktov a služieb alebo iným spôsobom na splnenie zmluvného záväzku voči vašej osobe.
+Spoločnosť LGE nie je zodpovedná ani viazaná politikami ochrany súkromia tretích strán.
+Spoločnosť LGE bude taktiež požadovať zhromažďovanie údajov z Denníka aktivity, ak budete používať službu záručného a pozáručného servisu LGE alebo službu repasovania. Pri využívaní týchto služieb dostanete samostatnú otázku, či s tým súhlasíte.
+Hoci sa údaje v Denníku aktivity generujú vo vašom zariadení bez ohľadu na to, či ste s tým súhlasili alebo nie, ak ste neklikli na „Súhlasím“, spoločnosť LGE nebude získavať prístup k týmto údajom. Ak si neželáte, aby spoločnosť LGE získavala prístup k údajom v Denníku aktivity, kedykoľvek môžete pre nás zablokovať získavanie prístupu k údajom vo vašom Denníku aktivity v ponuke [Nastavenia – Systém – Informácie o telefóne – Denníky aktivity]. Ak chcete pochopiť, ako spoločnosť LGE všeobecne spracováva vaše údaje vrátane údajov z Denníka aktivity, pozrite si našu politiku ochrany súkromia v ponuke [Nastavenia – Systém – Informácie o telefóne – Právne informácie – Právne dokumenty pre softvér LG – Politika ochrany súkromia].
+
+Všetky preklady tohto dokumentu o Denníkoch aktivity boli vykonané kvôli miestnym požiadavkám a v prípade nezrovnalosti medzi anglickou a akoukoľvek neanglickou verziou bude platiť anglická verzia tohto dokumentu o Denníkoch aktivity, a to do maximálneho rozsahu povoleného platným právom v rámci vašej právomoci.
+

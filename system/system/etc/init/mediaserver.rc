@@ -1,0 +1,11 @@
+service media /system/bin/mediaserver
+    class main
+    user media
+
+    #[S][LGDTV][dmb-fwk@lge.com][JAP] add broadcast service
+    #group audio camera inet net_bt net_bt_admin net_bw_acct drmrpc mediadrm
+    group audio camera inet net_bt net_bt_admin net_bw_acct drmrpc mediadrm system graphics
+    #[E][LGDTV][dmb-fwk@lge.com][JAP] add broadcast service
+
+    ioprio rt 4
+    writepid /dev/cpuset/foreground/tasks /dev/stune/foreground/tasks

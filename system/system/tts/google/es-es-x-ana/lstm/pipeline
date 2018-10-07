@@ -1,0 +1,498 @@
+stream {
+  name: "input"
+  classname: "CopyStream"
+}
+stream {
+  name: "rewrite_simple"
+  classname: "RewriteStream"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      rewrite_algo_ref: "rewrite_algo"
+    }
+  }
+}
+stream {
+  name: "tokenize_and_classify_kestrel"
+  classname: "TokenizeAndClassifyGrmStream"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      phonology_ref: "phonology"
+      tokenize_and_classify_grm_algo_ref: "tokenize_and_classify_grm_algo"
+    }
+  }
+}
+stream {
+  name: "classify_roman_numerals_kestrel"
+  classname: "ClassifyRomanNumeralsGrmStream"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      classify_roman_numerals_grm_algo_ref: "classify_roman_numerals_grm_algo"
+    }
+  }
+}
+stream {
+  name: "lseq_classifier"
+  classname: "LseqClassifierStream"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      lseq_classifier_algo_ref: "lseq_classifier_algo"
+    }
+  }
+}
+stream {
+  name: "verbalize_kestrel"
+  classname: "VerbalizeGrmStream"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      verbalize_grm_algo_ref: "verbalize_grm_algo"
+    }
+  }
+}
+stream {
+  name: "word_resolver"
+  classname: "WordResolverStream"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      resolve_homographs_simple_algo_ref: "word_resolver_algo"
+    }
+  }
+}
+stream {
+  name: "grm_pronounce"
+  classname: "GrmPronounceStream"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      grm_far_ref: "pronounce_grm_fst"
+      phonology_ref: "phonology"
+      lexicon_ref: "combined_lexicon"
+      engine_config_ref: "engine_config"
+      learned_fst_g2p_mapper_ref: "learned_fst_g2p_mapper"
+    }
+  }
+}
+stream {
+  name: "lstm_synthesizer"
+  classname: "LstmSynthesizerStream"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      add_specification_ref: "lstm_add_specification_resource"
+      lstm_dur_model_ref: "lstm_dur_model"
+      lstm_speech_model_ref: "lstm_speech_model"
+      vocoding_ref: "vocoding_resource"
+      engine_config_ref: "engine_config"
+      acoustic_frame_config_ref: "acoustic_frame_config"
+      parametric_playback_spec_ref: "parametric_playback_spec"
+    }
+  }
+}
+stream {
+  name: "utterance_to_audio_event"
+  classname: "UtteranceToEventStream"
+  params {
+    [speech.tts.UtteranceToEventParams.id] {
+      event_type: TTS_EVENT_AUDIO_FINISHED
+    }
+  }
+}
+stream {
+  name: "controller_events"
+  classname: "CopyStream"
+}
+connect {
+  from: "input"
+  to: "rewrite_simple"
+}
+connect {
+  from: "rewrite_simple"
+  to: "tokenize_and_classify_kestrel"
+}
+connect {
+  from: "tokenize_and_classify_kestrel"
+  to: "classify_roman_numerals_kestrel"
+}
+connect {
+  from: "classify_roman_numerals_kestrel"
+  to: "lseq_classifier"
+}
+connect {
+  from: "lseq_classifier"
+  to: "verbalize_kestrel"
+}
+connect {
+  from: "verbalize_kestrel"
+  to: "word_resolver"
+}
+connect {
+  from: "word_resolver"
+  to: "grm_pronounce"
+}
+connect {
+  from: "grm_pronounce"
+  to: "lstm_synthesizer"
+}
+connect {
+  from: "lstm_synthesizer"
+  to: "utterance_to_audio_event"
+}
+connect {
+  from: "utterance_to_audio_event"
+  to: "controller_events"
+}
+resource {
+  name: "acoustic_frame_config"
+  classname: "AcousticFrameConfig"
+  params {
+    [speech.tts.DataSourceParams.id] {
+      path: "mcep40win1_bap7win1_lf01win1_voicing1win1.pb"
+      type: FILE
+    }
+  }
+}
+resource {
+  name: "classify_roman_numerals_grm_fst"
+  classname: "GrmManager"
+  params {
+    [speech.tts.GrmFarResourceParams.id] {
+      fst_names: "ROMAN_NUMERAL"
+      fst_names: "MORPHOSYNTACTIC_FEATURES"
+      data_source {
+        path: "roman_numeral_android.far"
+        type: FILE
+      }
+    }
+  }
+}
+resource {
+  name: "disambiguation_rules"
+  classname: "DisambiguationRulesResource"
+  params {
+    [speech.tts.DataSourceParams.id] {
+      path: "disambiguation_rules_es.pb"
+      type: FILE
+    }
+  }
+}
+resource {
+  name: "engine_config"
+  classname: "EngineConfig"
+  params {
+    [speech.tts.DataSourceParams.id] {
+      path: "engine_config_es_es_ana_android_parametric_synthesis_embedded.pb"
+      type: FILE
+    }
+  }
+}
+resource {
+  name: "lseq_classifier_grammar"
+  classname: "GrmManager"
+  params {
+    [speech.tts.GrmFarResourceParams.id] {
+      fst_names: "ABSTRACTIFY"
+      data_source {
+        path: "feats_android.far"
+        type: FILE
+      }
+    }
+  }
+}
+resource {
+  name: "lseq_classifier_model"
+  classname: "CompactRankerModel"
+  params {
+    [speech.tts.DataSourceParams.id] {
+      path: "lseq_compact_model_farm32.pb"
+      type: FILE
+    }
+  }
+}
+resource {
+  name: "lstm_dur_model"
+  classname: "PortableLstmPredictDurationsResource"
+  params {
+    [speech.tts.LstmModelResourceParams.id] {
+      acoustic_frame_config_ref: "acoustic_frame_config"
+      frame_position_code_length: 0
+      apply_voicemod: false
+      engine_config_ref: "engine_config"
+      nn_config: "lstm_dur_model_nn_config"
+      input_mean_std_dev {
+        path: "lstm_dur_model_input_mean_std_dev"
+        type: FILE
+      }
+      output_mean_std_dev {
+        path: "lstm_dur_model_output_mean_std_dev"
+        type: FILE
+      }
+    }
+  }
+}
+resource {
+  name: "lstm_speech_model"
+  classname: "PortableLstmPredictSpeechParamsResource"
+  params {
+    [speech.tts.LstmModelResourceParams.id] {
+      acoustic_frame_config_ref: "acoustic_frame_config"
+      frame_position_code_length: 3
+      apply_voicemod: false
+      engine_config_ref: "engine_config"
+      nn_config: "lstm_speech_model_nn_config"
+      input_mean_std_dev {
+        path: "lstm_speech_model_input_mean_std_dev"
+        type: FILE
+      }
+      output_mean_std_dev {
+        path: "lstm_speech_model_output_mean_std_dev"
+        type: FILE
+      }
+    }
+  }
+}
+resource {
+  name: "parametric_playback_spec"
+  classname: "ParametricPlaybackSpec"
+  params {
+    [speech.tts.DataSourceParams.id] {
+      path: "resource.pb"
+      type: FILE
+    }
+  }
+}
+resource {
+  name: "phonology"
+  classname: "Phonology"
+  params {
+    [speech.tts.DataSourceParams.id] {
+      path: "phonology.pb"
+      type: FILE
+    }
+  }
+}
+resource {
+  name: "combined_lexicon"
+  classname: "LexiconResource"
+  params {
+    [speech.tts.LexiconResourceParams.id] {
+      data_source {
+        path: "compressed_lexicon_es_es.blex"
+        type: FILE
+      }
+      phonology_ref: "phonology"
+    }
+  }
+}
+resource {
+  name: "learned_fst_g2p_mapper"
+  classname: "LearnedFstG2pMapper"
+  params {
+    [speech.tts.LearnedFstG2pMapperResourceParams.id] {
+      ref {
+        phonology_ref: "phonology"
+      }
+      fst_g2p_data_source {
+        path: "g2p_m3_syls0_stress0_es-ES.fst"
+        type: FILE
+      }
+    }
+  }
+}
+resource {
+  name: "lseq_classifier_algo"
+  classname: "LseqClassifier"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      grm_far_ref: "lseq_classifier_grammar"
+      phonology_ref: "phonology"
+      lexicon_ref: "combined_lexicon"
+      compact_ranker_model_ref: "lseq_classifier_model"
+    }
+  }
+}
+resource {
+  name: "lstm_add_specification_resource"
+  classname: "AddSpecificationResource"
+  params {
+    [speech.tts.AddSpecificationResourceParams.id] {
+      phonology_ref: "phonology"
+      data_source {
+        path: "lstm.params"
+      }
+      feature_set_type: REGULAR
+      specification_type: PARAMETRIC_SYNTHESIS
+    }
+  }
+}
+resource {
+  name: "pronounce_grm_fst"
+  classname: "GrmManager"
+  params {
+    [speech.tts.GrmFarResourceParams.id] {
+      data_source {
+        path: "pronounce_android.far"
+        type: FILE
+      }
+      expanded_fst_names: "PARSER_MARKUP"
+      expanded_fst_names: "POSTLEXICAL_MARKUP"
+    }
+  }
+}
+resource {
+  name: "rewrite_algo"
+  classname: "Rewrite"
+  params {
+    [speech.tts.RewriteResourceParams.id] {
+      ref {
+        engine_config_ref: "engine_config"
+      }
+      regexp_rewrites_file {
+        path: "regexp_rewrite.pb"
+        type: FILE
+      }
+      default_normalizations_file {
+        path: "default_normalizations.pb"
+        type: FILE
+      }
+      language_specific_normalizations_file {
+        path: "normalization_overrides.pb"
+        type: FILE
+      }
+    }
+  }
+}
+resource {
+  name: "roman_numeral_context_words"
+  classname: "RomanNumeralContextWords"
+  params {
+    [speech.tts.DataSourceParams.id] {
+      path: "roman_numeral_contexts.pb"
+      type: FILE
+    }
+  }
+}
+resource {
+  name: "classify_roman_numerals_grm_algo"
+  classname: "ClassifyRomanNumerals"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      grm_far_ref: "classify_roman_numerals_grm_fst"
+      roman_numeral_context_words_ref: "roman_numeral_context_words"
+    }
+  }
+}
+resource {
+  name: "serialization_spec"
+  classname: "SerializeSpec"
+  params {
+    [speech.tts.DataSourceParams.id] {
+      path: "es_verbalize_spec.pb"
+      type: FILE
+    }
+  }
+}
+resource {
+  name: "tokenize_and_classify_grm_fst"
+  classname: "GrmManager"
+  params {
+    [speech.tts.GrmFarResourceParams.id] {
+      fst_names: "TOKENIZE_AND_CLASSIFY"
+      data_source {
+        path: "tokenize_and_classify_android.far"
+        type: FILE
+      }
+    }
+  }
+}
+resource {
+  name: "utf8_utils"
+  classname: "Utf8UtilsResource"
+  params {
+    [speech.tts.Utf8UtilsResourceParams.id] {
+      phonology_ref: "phonology"
+    }
+  }
+}
+resource {
+  name: "tokenize_and_classify_grm_algo"
+  classname: "TokenizeAndClassifyGrm"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      grm_far_ref: "tokenize_and_classify_grm_fst"
+      phonology_ref: "phonology"
+      lexicon_ref: "combined_lexicon"
+      utf8_utils_ref: "utf8_utils"
+      engine_config_ref: "engine_config"
+    }
+  }
+}
+resource {
+  name: "verbalize_grm_fst"
+  classname: "GrmManager"
+  params {
+    [speech.tts.GrmFarResourceParams.id] {
+      fst_names: "ALL"
+      data_source {
+        path: "verbalize_es_android.far"
+        type: FILE
+      }
+    }
+  }
+}
+resource {
+  name: "verbalize_grm_algo"
+  classname: "VerbalizeGrm"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      grm_far_ref: "verbalize_grm_fst"
+      phonology_ref: "phonology"
+      lexicon_ref: "combined_lexicon"
+      engine_config_ref: "engine_config"
+      serialization_spec_ref: "serialization_spec"
+    }
+  }
+}
+resource {
+  name: "vocoding_resource"
+  classname: "Vocoding"
+  params {
+    [speech.tts.VocodingResourceParams.id] {
+      acoustic_frame_config_ref: "acoustic_frame_config"
+      morphing_palette {
+        path: "speech_morphing_palette.pb"
+        type: FILE
+      }
+      engine_config_ref: "engine_config"
+    }
+  }
+}
+resource {
+  name: "voice_params"
+  classname: "VoiceParams"
+  params {
+    [speech.tts.VoiceParams.id] {
+      description: "embedded_lstm voice with embedded textnorm for es_es (speaker ana; sample rate 22050; size android)"
+      language: "es"
+      region: "es"
+      speaker: "ana"
+      gender: "female"
+      quality: "normal"
+      sample_rate: 22050
+      server_voice_name: "ana-greco-embedded-zeong"
+      supports_set_sample_rate: true
+      multi_speaker: false
+    }
+  }
+}
+resource {
+  name: "word_resolver_algo"
+  classname: "WordResolver"
+  params {
+    [speech.tts.ResourceReferenceParams.id] {
+      basic_homographs_ref: "disambiguation_rules"
+      utf8_utils_ref: "utf8_utils"
+      engine_config_ref: "engine_config"
+    }
+  }
+}
+session_resource {
+  name: "lucid_markup"
+  classname: "LucidMarkupResource"
+}

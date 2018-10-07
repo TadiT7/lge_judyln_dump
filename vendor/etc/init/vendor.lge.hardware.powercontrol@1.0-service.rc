@@ -1,0 +1,5 @@
+service powercontrol-hal-1-0 /vendor/bin/hw/vendor.lge.hardware.powercontrol@1.0-service
+    class hal
+    socket powercontrol-client stream 660 system system
+    user system
+    group system

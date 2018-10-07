@@ -1,0 +1,6 @@
+﻿Používanie informácií o aktuálnej polohe pre službu Moje miesta
+
+Táto služba Moje miesta („Služba“) využíva informácie o polohe zariadenia používateľa na analýzu vzorov polôh, na ktorých používateľ dlhšie zotrval, a na poskytovanie funkcie automatického rozpoznávania takejto polohy či na umožnenie používateľovi manuálne stanoviť polohy ako „Moje miesta“ (napríklad domov, práca). Priebežná analýza vzorov môže automaticky zmeniť polohu predtým stanovenej polohy. 
+Hoci táto Služba využíva informácie o polohe (základná prijímacia a vysielacia stanica (BTS), GPS, Wi-Fi, polohy sietí (NLP)) uložené v zariadení používateľa, spoločnosť LG Electronics Inc. (LGE) nikdy nezhromažďuje ani nepoužíva informácie o polohe používateľa a používa a ukladá len informácie v zariadení používateľa.
+Táto služba spúšťa automatické rozpoznávanie miest, kde používateľ dlhodobo zotrval, a to počnúc súhlasom používateľa o používaní informácií o aktuálnej polohe zariadenia používateľa a skončí až zastavením používania Služby používateľom, teda vypnutím príslušnej možnosti pre funkciu.
+Ale spoločnosť LGE bude používať informácie o aktuálnej polohe používateľa, len ak používateľ zapne možnosť používania služby určenia polohy zariadenia od spoločnosti Google.

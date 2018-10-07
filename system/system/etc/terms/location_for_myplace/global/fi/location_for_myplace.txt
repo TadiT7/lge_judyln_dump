@@ -1,0 +1,6 @@
+﻿Nykyisen sijaintipaikan tiedot Omat paikat -palvelua varten
+
+Tämä Omat paikat -palvelu ("Palvelu") käyttää sijaintitietoja käyttäjän laitteelta analysoidakseen sijaintipaikkojen malleja, joissa käyttäjä on pysytellyt pitkitettyjä aikajaksoja ja toimittaakseen toiminnon automaattisesti tuottaa kyseisen kaltainen paikka tai mahdollistaen käyttäjän manuaalisesti määrittävän paikan, muodossa "Omat paikat” (esim. koti, työpaikka). Jatkuva mallianalyysi voi automaattisesti mutta aikaisemmin nimetyn paikan sijaintipaikkaa. 
+Huolimatta siitä, että tämä palvelu käyttää paikannustietoja (tukiasema(BTS), GPS, Wi-Fi, verkkoasemat (NLP)) tallennettuina käyttäjän laitteelle, LG Electronics Inc.(LGE) ei koskaan kerää tai käytä käyttäjän sijaintitietoja ja käyttää ja tallentaa vain käyttäjän laitteelle.
+Tämä palvelu käynnistyy automaattisesti tunnistaen paikat, joissa käyttäjä on pysytellyt pitkitettyjä ajanjaksoja käyttäjän hyväksyessä käyttäjän laitteen nykyisten paikannustietojen käytön ja jatkaa ellei käyttäjä pysäytä palvelun käyttöä kytkemällä pois vastaavan toiminnon vaihtoehdon.
+Kuitenkin, LGE käyttää vain käyttäjän nykyisiä sijaintitietoja jos käyttäjä kytkee päälle vaihtoehdon käyttää laitteen Googlen paikannuspalveluita.

@@ -1,0 +1,105 @@
+Upplýsingavernd
+
+Þessi upplýsingavernd lýsir hvernig LGE fær aðgang að og notar persónuupplýsingar þínar í samhengi við hugbúnaðaruppfærsluþjónustu. Lestu hana vandlega áður en þú notar hugbúnaðaruppfærsluþjónustuna.
+
+1.	Kynning
+LG Electronics Inc. („LGE“ eða „við“) er ákveðið í að vernda upplýsingar þeirra einstaklinga og hópa sem nota LGE farsíma. Þessi upplýsingavernd lýsir hvernig við söfnum, notum og deilum upplýsingum sem við söfnum úr LGE farsíma þínum, og sýnir sérstaklega:
+-	Yfirlit yfir FOTA hugbúnaðaruppfærslur;
+-	upplýsingar sem LGE gæti fengið frá þér;
+-	hvernig LGE notar upplýsingarnar sem það safnar;
+-	hvenær LGE deilir upplýsingum með öðrum; 
+-	Flutningur persónuupplýsinga til útlanda
+-	Hversu lengi geymir LGE persónuupplýsingar mínar?
+-	Öryggi
+-	Réttur til að hafna eða draga til baka samþykki
+-	Verndun einkalífs barna
+-	Breytingar á persónuverndarstefnu LGE
+-	Aðgangur að upplýsingum þínum
+-	Réttur til að leggja fram kvörtun; og
+-	Hafa samband við LGE varðandi þessa persónuverndarstefnu
+
+Þessi stefna á aðeins við um upplýsingar sem LGE safnar frá LGE farsíma þínum til að geta uppfært fastbúnað með Fastbúnaður-þráðlausu („FOTA“) ferli („Hugbúnaðaruppfærsla“). Þessi stefna á ekki við um nokkra aðra vöru eða þjónustu LGE, þ.m.t. farsímaforrit sem LGE bíður upp á eða útvegar. Þessa stefna á heldur ekki við um neina vöru eða þjónustu þriðja aðila, þ.m.t. stýrikerfi, annað efni eða önnur forrit eða nokkuð frá farsímafyrirtæki þínu. Vörur og þjónusta sem fellur ekki undir þessa persónuverndarstefnu er með sínar eigin stefnur sem eiga við um söfnun, notkun, og deilingu upplýsinga og ráðleggjum við þér að lesa þær stefnur. LGE viðurkennir hvorki neina bótaábyrgð né ber ábyrgð á persónuverndarhegðun þriðja aðila.
+
+Ef þú hefur nýlega keypt þennan farsíma, er nauðsynlegt að uppfæra hugbúnaðinn fyrir notkun, eins og lýst er í þessari persónuverndarstefnu, til að tryggja að farsíminn virki eins og vera skyldi og sé með nýjustu eiginleika, virkni og öryggisstillingar. Hafir þú einhverjar spurningar, skaltu hafa samband við okkur eins og lýst er í þessari stefnu.
+
+Þessa stefnu getur þú skoðað hvenær sem er í [Stillingar – Kerfi – Um símann – Lagalegar upplýsingar – Lagaleg skjöl fyrir LG forrit – Upplýsingavernd].
+
+Allar þýðingar á þessari persónuverndarstefnu eru gerðar til að uppfylla staðbundnar kröfur og ef í ljós kemur ósamræmi á milli ensku útgáfunnar af þessari persónuverndarstefnu og einhverrar útgáfu á öðru tungumáli en ensku skal enska útgáfan gilda, að því leyti sem staðbundin lög í þinni lögsögu heimila.
+
+2.	Yfirlit yfir FOTA hugbúnaðaruppfærslur
+Einstaka sinnum gæti LGE fastbúnaðurinn á símanum þínum („Hugbúnaður“) þarfnast uppfærslu eða aukaefnis frá LGE, eða LGE gæti komið með viðbætur við hugbúnaðinn. Þegar hugbúnaðaruppfærsla fer fram er settur upp nýr hugbúnaður á símanum til þess að koma að þessum uppfærslum, aukaefni, eða viðbótum. Uppfærða hugbúnaðarútgáfan kann að bæta við nýjum eiginleikum eða virkni og í undartekningartilvikum, eyða fyrirliggjandi eiginleikum eða virkni. Eftir að þú lýkur hugbúnaðaruppfærslu, getur verið að ekki sé hægt að hverfa aftur til eldri útgáfu hugbúnaðarins. 
+
+Þar sem hugbúnaðaruppfærslan er framkvæmd með FOTA ferli, gæti það haft í för með sér viðbótagjöld ef þú sækir nýjan hugbúnað yfir farsímakerfi, en það veltur á áskrift þinni. Ef þú vilt loka fyrir gagnaflutning um farsímakerfi fyrir hugbúnaðaruppfærslur skaltu velja valkostinn „Wi-Fi eingöngu“ í stillingum. 
+
+a.	Valkostir þínir fyrir hugbúnaðaruppfærslur í framtíðinni
+Þegar „Athugaðu sjálfkrafa“ eiginleikinn er virkur, leitar síminn að nýjum eða uppfærðum hugbúnaði endrum og eins og sækir nýjan eða uppfærðan hugbúnað sjálfkrafa þegar hann er tiltækur („Athugaðu sjálfkrafa“ eiginleiki). Eftir að hugbúnaður er settur upp látum við þig vita með sprettiglugga eða tilkynningu á farsímanum. Þú hefur möguleika á að samþykkja eða hafna hugbúnaðaruppfærslunni áður en þú tekur hugbúnaðinn í notkun. Farsíminn mun einnig sjálfkrafa taka uppsettan hugbúnað í notkun á miðnætti (“Sjálfvirkar uppfærslur” eiginleiki). Þú getur hafnað „Athugaðu sjálfkrafa“ og „Sjálfvirkar uppfærslur“ eiginleikunum í [Stillingar – Kerfi – Uppfæra Miðstöð – Hugbúnaðaruppfærsla – Valmynd fyrir yfirflæði – Stillingar]. Ef þú hafnar athugaðu sjálfkrafa, ert þú í rauninni að hafna framtíðar hugbúnaðaruppfærslum.
+Ef farsíminn er þegar í notkun og þú hafnar hugbúnaðaruppfærslu, þarftu að hafa í huga að ef hugbúnaðaruppfærsla er ekki sett upp gæti það leitt til [verri frammistöðu farsímans, vandamála við samhæfni við ný eða fyrirliggjandi forrit, og annarra vandamála við eiginleika eða öryggi farsímans].
+
+Þar að auki getur þú dregið til baka samþykki þitt fyrir frekari söfnun persónuupplýsinga þinna með því að afvirkja „Athugaðu sjálfkrafa“ og „Sjálfvirkar uppfærslur“ eiginleikana á farsímanum, sem lýst er hér að ofan. Þessa eiginleika má fá aðgang að í [Stillingar – Kerfi – Uppfæra Miðstöð – Hugbúnaðaruppfærsla – Valmynd fyrir yfirflæði – Stillingar]. 
+Hinsvegar þarftu að skilja að ef þú slekkur á Athugaðu sjálfkrafa og Sjálfvirkar uppfærslur eiginleikunum, gæti það haft áhrif á notkun farsímans eða þjónustu, að hluta eða öllu leyti. Söfnun og notkun upplýsinganna, eins og lýst er að ofan, er nauðsynleg fyrir notkun farsímans. 
+
+Hafir þú einhverjar spurningar um rétt þinn til að hafna eða hvernig þú getur dregið samþykki til baka, skaltu hafa samband við okkur í mc.customer-service@lge.com.
+
+b.	Áríðandi hugbúnaðaruppfærslur
+Ef aðstæður krefjast þess gætum við framkvæmt hugbúnaðaruppfærslu í samræmi við lögmæta hagsmunni okkar, án þess að tilkynna um það sérstaklega, og án tillits til núverandi stillinga tækisins („Áríðandi hugbúnaðaruppfærsla“). Dæmi um aðstæður sem gætu krafist áríðandi hugbúnaðaruppfærslu eru meðal annars ógnun við öryggi viðskiptavinar eða gagnaöryggi, eða keyrsluvandamál sem gætu leitt til umtalsverðra raskana á þjónustu, eða fyrirsjáanlegar líkur á slíkum aðstæðum.
+
+3.	Upplýsingar sem LGE gæti safnað frá þér
+Samhliða hugbúnaðaruppfærslunni kann LGE að safna eftirfarandi upplýsingum úr farsímanum: IMEI-númer, raðnúmer, gerð farsíma, útgáfur hugbúnaðar og fastbúnaðar, stýrikerfi farsíma, fartækjakóða lands (MCC), kóða farsímakerfis (MNC), skráningarauðkenni fyrir Google skýjasamskipti (GCM) og valið tungumál. Upplýsingunum er safnað sjálfkrafa sem hluta af hugbúnaðaruppfærsluferlinu.
+
+Sem hluti af hlutverki okkar við að veita símanum farsímaþjónustu, söfnum við notkunarupplýsingum, þ.m.t. kerfisskrám með IP-tölum. Þessum upplýsingum er safnað sjálfkrafa sem er nauðsynlegur hluti af vinnslu símans.
+
+4.	Hvernig notar LGE upplýsingarnar sem það safnar?
+Við notum upplýsingar frá þér í ýmsum tilgangi, þ.m.t.:
+-	Til að uppfæra hugbúnaðinn (þ.m.t. hverskonar áríðandi hugbúnaðaruppfærslur), þ.m.t. til að kanna hvort nýjasta útgáfa hugbúnaðarins sé uppsett, til að sannvotta tækið og til að veita þér viðeigandi hugbúnað; 
+-	til að staðfesta skyldu okkar í samræmi við [takmarkaða vöruábyrgð okkar];
+-	til að gefa tilkynningar sem tengjast öryggisþjónustu farsíma og neyðartilkynningum vegna öryggismála;
+-	til að vernda réttindi okkar og eignir, þ.m.t. með dómsmálum;
+-	til að uppfylla reglufestar kröfur; og
+-	til að greina, fara yfir og betrumbæta vörur og þjónustur okkar.
+
+Við vinnslu með persónuupplýsingar þínar byggir LGE venjulega á einhverjum eftirfarandi lagagrundvöllum;
+-	Samningur: þegar það er nauðsynlegt að gera samning við þig;
+-	lögmætir hagsmunir: þegar það er nauðsynlegt vegna lögmætra viðskiptahagsmuna LGE eða þriðja aðila. Fyrir LGE, gildir þetta einnig um hagsmuni þess sem framleiðanda neytendarafvara og þjónustuveitanda;
+-	samþykki: þar sem þú hefur valið að gefa það. Þú hefur rétt á að draga til baka samþykki þitt hvenær sem er; eða
+-	Lagaskylda: þar sem vinnslan er nauðsynleg til að uppfylla lagalegar skyldur okkar
+
+Við gætum einnig notað samantekna tölfræði sem er safnað á meðan á hugbúnaðaruppfærslu stendur og á meðan á notkun símans stendur til að skilja betur þarfir viðskiptavina okkar, til að bæta þjónustu okkar við viðskiptavini, og vörur okkar og þjónustu, og fyrir markaðsrannsóknir og greiningar. Slík samansöfnuð gögn innihalda ekki persónugreinanlegar upplýsingar og ekki er hægt að tengja þær við fólk.
+
+5.	Þegar LGE deilir upplýsingum með öðrum
+Almennt deilum við ekki persónugreinanlegum upplýsingum sem við söfnum á meðan á hugbúnaðaruppfærslu stendur með þriðja aðila. Engu að síður, skaltu hafa í huga að við eftirfarandi aðstæður gætum við deilt slíkum upplýsingum með eftirfarandi þriðju aðilum:
+
+-	Eignatengd félög og dótturfélög. LGE gæti deilt persónuupplýsingum og öðrum upplýsingum (þ.m.t. upplýsingar um farsíma) með eignatengdum félögum og dótturfélögum sínum um allan heim aðeins jafn lengi og nauðsynlegt er fyrir tilganginn sem þeim var safnað í. Hugtakið „eignatengt félag“ eða „dótturfélag“ á við samstæðu fyrirtæki sem gætu notað LG nafnið eða verið í sömu eigu eða stjórn s.s. LG CNS eða LG Electronics U.S.A., Inc.;
+-	Þriðju aðila þjónustuveitendur. Til þriðju aðila sem LGE gæti ráðið til að veita þjónustu fyrir sína hönd endrum og eins, t.d. til að uppfylla þjónustukröfur viðskiptavina;
+
+Þó við deilum almennt ekki upplýsingum með fleiri þriðju aðilum, skaltu hafa í huga að í eftirfarandi ákveðnum aðstæðum gætum við einnig deilt upplýsingum með eftirfarandi aðilum:
+-	Aðrir aðilar þegar lög krefjast. Eins og krafist er vegna dómsúrskurðar eða annarra ríkis- eða löggæsluyfirvalda til þess að hlíta málsmeðferð fyrir dómstólum eða lögum;
+-	Aðrir aðilar í tengslum við fyrirtækjaviðskipti Í tengslum við viðskipti eins og samruna, endurskipulagningu, sölu eða flutning á öllum eða hluta af rekstri LGE (þ.m.t. deildar eða dótturfélags), þar sem LGE gæti þurft að gefa mögulegum kaupanda og ráðgjöfum hans upplýsingar.
+-	Aðrir aðilar þegar nauðsyn krefur til að vernda þjónustu okkar. Til að framfylgja samningsskyldum okkar, grípa til ráðstafana gegn bótaábyrgð, rannsaka grunaða eða raunverulega ólöglega starfsemi, eða til að rannsaka eða vernda okkur gegn kröfum eða ásökunum þriðja aðila; eða
+-	Aðrir aðilar til að vernda öryggi og eignir viðskiptavina okkar. Til að vernda réttindi, öryggi eða eignir viðskiptavina okkar eða almennings.
+
+Í engum kringumstæðum verður persónuupplýsingum þínum safnað á meðan á hugbúnaðaruppfærslu stendur í markaðssetningartilgangi án samþykkis þíns, né verður þeim deilt með þriðja aðila í markaðssetningartilgangi án þíns samþykkis.
+
+6.	Flutningur persónuupplýsinga
+Við, eignatengd félög og dótturfélög okkar og þjónustuveitendur gætum notað persónuupplýsingar þínar í öðrum löndum en farsíminn er staðsettur, í þeim tilgangi sem lýst er í þessari persónuverndarstefnu. Í sumum löndum eru persónuverndarlög ef til vill ekki jafn ströng og í landinu sem þú býrð í. Engu að síður, gerum við ráðstafanir áður en persónuupplýsingar þínar eru fluttar til að tryggja að slíkar upplýsingar séu jafn öruggar í viðtökulandinu eða -lögsögu.
+
+7.	Hversu lengi geymir LGE persónuupplýsingar mínar?
+Við geymum persónuupplýsingar þínar jafn lengi og við þurfum til að sjá þér fyrir forritinu eða í öðrum tilgangi sem settur er fram í þessari Upplýsingavernd. Við notum viðmið til að ákvarða viðeigandi geymslutíma fyrir mismunandi flokka persónuupplýsinga sem þú gefur okkur.
+Það er nauðsynlegt fyrir fyrirtækið að safna og nota persónuupplýsingum til þess að veita hugbúnaðaruppfærsluþjónustu. Athugaðu að notkun/veiting margra hluta þjónustunnar gæti verið takmörkuð ef þú samþykkir ekki söfnunina. Við söfnum og notum persónuupplýsingar frá efni upplýsinganna. Einnig, höldum við þeim í tilgangi slíkrar söfnunar og notkunar þar til hann er uppfylltur. Þar af leiðir að það er grundvallarreglan að fyrirtækið notar og geymir persónuupplýsingar á meðan á notkun þjónustunnar stendur.
+Ef þú óskar eftir að persónuupplýsingum þínum verði eytt þar sem þeirra er ekki lengur þörf, eða byggt á andúð á ferlinu eða fullyrðingu um að vinnslan sé ólögleg, hefur þú rétt á að leita eftir takmörkun á vinnslunni á meðan við sannreynum beiðni þína um eyðingu.
+
+8.	Öryggi
+Við notum eðlilegar viðskiptaráðstafanir til að tryggja trúnað og öryggi persónuupplýsinga þinna. Engu að síður, vegna eðlis veraldarvefsins, síbreytilegrar tækni, og annarra þátta sem við höfum ekki stjórn á, getum við ekki ábyrgst að þriðji aðili fái ekki óheimilan aðgang að samskiptum þínum og miðlara eða að við munum ekki lenda í gagnaleka. Við tökum enga ábyrgð á uppljóstrun persónuupplýsinga vegna villu í flutningi eða óheimilum eða ólöglegum aðgerðum þriðja aðila.
+
+9.	Verndun einkalífs barna
+Okkur er mikilvægt að vernda einkalíf barna. Þess vegna er engri þjónustu okkar beint að eða hannaðar til að draga til sín nokkurn undir 16 ára aldri eða lögræðisaldri í viðkomandi lögsögu. Við söfnum heldur ekki eða geymum persónuupplýsingar vitandi vits frá notendum sem eru yngri en 16 ára eða undir lögræðisaldri í viðkomandi lögsögu. Ef við komumst að eða erum látin vita af að við höfum safnað persónuupplýsingum notenda yngri en 16 ára eða undir lögræðisaldri í viðkomandi lögsögu, munum við tafarlaust eyða slíkum persónuupplýsingum.
+
+10.	Breytingar á Upplýsingavernd LGE
+LGE getur endrum og eins uppfært þessa Upplýsingavernd. Ef við gerum efnislega breytingu á Upplýsingavernd okkar, munum við láta þig vita með snjalltæki þínu eða með öðrum leiðum. Þú gæti þurft að staðfesta eða samþykkja endurskoðaða Upplýsingavernd til þess að halda áfram að nota hugbúnaðaruppfærsluþjónustuna.
+
+11.	Aðgangur að upplýsingum og réttindum þínum
+Samkvæmt löggjöf vissra lögsagna gætir þú átt rétt á að biðja um aðgang að, leiðréttingum á eða útþurrkun á persónuupplýsingum sem LGE geymir um þig eða réttinn á að mótmæla eða takmarka vissar tegundir vinnslu persónuupplýsinga þinna (eða að draga til baka samþykki þitt á vinnslu LGE), eða að fá vél-lesanlegt afrit af persónuupplýsingum þínum. Ef lög leyfa, getur verið að við rukkum þig um lítið gjald fyrir þjónustuna. Athugaðu að verið getur að við höfnum því að vinna úr beiðnum þínum ef þær eru óeðlilega móðgandi, leggja persónuvernd annarra í hættu, eða eru mjög óhentugar (þar sem það er leyfilegt samkvæmt lögum). Fyrir frekari upplýsingar eða til að nýta þér einhver þessara réttinda, skaltu hafa samband við okkur í mc.customer-service@lge.com.
+
+12.	Hafa samband við LGE varðandi þessa Upplýsingavernd
+Ef þú hefur einhverjar spurningar eða athugasemdir um þessa Upplýsingavernd eða vinnslu LGE á persónuupplýsingum þínum, skaltu hafa samband við LG Electronics Inc. í mc.customer-service@lge.com. Þú hefur einnig rétt á að leggja fram kvörtun hjá persónuvernd þó við viljum hvetja þig til að hafa samband við okkur fyrst til að leysa úr vandamálum.
+
+Síðast uppfært: 1. desember 2017

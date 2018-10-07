@@ -1,0 +1,226 @@
+#################################################################
+# Pre Self - DE executable process
+
+service Pselfde_main /sbin/python /factory/minios/run.py apps.pre_selfde.main.pre_selfde_main
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_accel /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_accel
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_gyro /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_gyro
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_proxi /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_proximity
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_light /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_light
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_magnetic /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_magnetic
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_ppg /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_ppg
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_baro /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_barometer
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_humi /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_humidity
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_temper /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_temperature
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_nfc /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_nfc
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_simtray /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_simtray
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_mp3 /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_mp3
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_gps /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_gps
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_wifi /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_wifi normal
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_wifi_1 /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_wifi init
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_wifi_2 /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_wifi 5ghz
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_bt /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_bluetooth normal
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_bt_1 /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_bluetooth init
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_bt_2 /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_bluetooth 5ghz
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_tdmb /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_tdmb
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_oneseg /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_oneseg
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_irrc /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_irrc
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_mic /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_mic
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_power /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_power
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_hallic /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_hallic
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_hallic_2pole /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_hallic_2pole
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_haptic /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_haptic
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_mme /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_mme
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_easel /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_easel
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_video /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_video
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Pselfde_flash /sbin/python /factory/minios/run.py apps.pre_selfde.test.pre_selfde_flash
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled

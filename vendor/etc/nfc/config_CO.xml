@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Configure>
+    <!--
+    TGO_CO (Tigo / Colombia)
+    -->
+    <Config operator="" country="CO" device="">
+    </Config>
+    <!-- Tigo / Colombia -->
+    <Config operator="TGO" country="CO" device="">
+        <DefaultOnOffType> offp2p </DefaultOnOffType>
+    </Config>
+</Configure>

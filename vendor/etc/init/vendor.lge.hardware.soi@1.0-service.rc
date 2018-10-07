@@ -1,0 +1,4 @@
+service soi-hal-1-0 /vendor/bin/hw/vendor.lge.hardware.soi@1.0-service
+    class hal
+    user system
+    group system net_raw radio

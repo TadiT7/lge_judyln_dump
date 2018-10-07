@@ -1,0 +1,63 @@
+﻿Upplýsingaverndarstefna fyrir notkun virkniskráa
+
+Athugasemd: Með því að samþykkja þessa upplýsingaverndarstefnu gefur þú okkur leyfi til að nota gögn þín eins og lýst er hér. Samþykki þíns er ekki krafist. Engu að síður ef þú samþykkir ekki getum við ekki veitt þér þjónustu; í þessu tilfelli getur þú ekki notað vissa tækjagreiningarþjónustu LG („LG þjónusta“). Þú getur endurheimt skilmála samþykkis þíns hvenær sem er í LG þjónustunni og getur dregið samþykkið til baka hvenær sem er með því að senda skilaboð á: mc.customer-service@lge.com 
+
+1. Kynning
+LG Electronics Inc. („LGE“ eða „við“) er ákveðið í að vernda upplýsingar þeirra einstaklinga og hópa sem nota LG þjónustuna sem er þar inni. Í upplýsingaverndarstefnunni er gerð grein fyrir því hvernig við söfnum, notum og deilum upplýsingum sem við fáum í gegnum notkun þína á tækjum og þjónustu, og þá sérstaklega:
+- Hvaða upplýsingum LGE kann að safna frá þér eða LG þjónustunni;
+- hvernig LGE notar upplýsingarnar sem það safnar;
+- hvenær LGE deilir upplýsingum með öðrum; og
+- hvernig þú getur stjórnað notkun og deilingu LGE á upplýsingum þínum.
+
+LG þjónustan býður upp á aðgang að hugbúnaði og tengingu í aðra þjónustu sem er í eigu og rekin af þriðju aðilum, þar með talið framleiðendum stýrikerfa og annars efnis og framleiðendum forrita. Þessi þjónusta þriðju aðila fellur utan við þessa upplýsingaverndarstefnu og fellur þess í stað undir stefnur viðkomandi aðila um söfnun, notkun og deilingu upplýsinga í tengslum við þjónustu þeirra. Við ráðleggjum þér að lesa þær stefnur. LGE viðurkennir hvorki neina bótaábyrgð né ber ábyrgð á upplýsingaverndarhegðun þriðja aðila.
+
+2. Hvaða upplýsingar kemst LGE yfir?
+LGE mun safna eftirfarandi upplýsingum:
+① Stöðu fartækisins: Gerð, hugbúnaðarútgáfa, IMEI, raðnúmer, IMSI, ástand straums, ástand rafhlöðu, notkun CPU/RAM/innra minnis, meðal notkunartíma, niðurstöður sjálfvirkrar bilanagreiningar á vélbúnaði (Wi-Fi, BT, nándarmæli, ljósmæli, fingrafaranema, o.s.frv.)
+② Staða netkerfis: Staða þjónustu (hringi, gagna), styrkur merkis, stöðuupplýsingar, tíðni/tími símtala
+③ Upplýsingar um forrit: Listi yfir uppsett og eydd forrit, forritaútgáfur, nýlega keyrð forrit, tíðni/tölfræði forritanotkunar. 
+④ Tengistaða farsíma: Wi-Fi, Bluetooth, GPS, heyrnatólatengi, hleðslutæki, USB, og SD korta tengistaða
+⑤ Villuupplýsingar: Frosin skjár, óviljandi straumrof, aftengd símtöl, villur í forritum (alvarleg, frávik)
+
+3. Hvernig notar LGE upplýsingarnar sem það safnar?
+Við notum upplýsingar frá þér í ýmsum tilgangi, þ.m.t.:
+- Til að bera kennsl á og greina fartæki
+- Til að framkvæma þjónustu við viðskiptavini og halda utan um þjónustusögu 
+- Til að senda push-skilaboð 
+- Til að greina þjónustu/skrár/tækjasögu fyrir bætt gæði og ánægju viðskiptavina
+
+Við gætum sameinað upplýsingar sem við fáum frá þér, þ.m.t. persónuupplýsingar, við upplýsingar sem þú gefur okkur með öðrum hætti, í tilgangi sem samræmist þessari upplýsingaverndarstefnu. 
+
+4. Deiling upplýsinga
+Við deilum almennt ekki upplýsingum sem við fáum vegna notkunar þinnar á LG þjónustu með þriðju aðilum. Engu að síður, skaltu hafa í huga eftirfarandi aðstæður þar sem við kunnum að deila slíkum upplýsingum með eftirfarandi aðilum:
+- Eignatengd félög og dótturfélög. LGE gæti deilt persónuupplýsingum og öðrum upplýsingum (þ.m.t. upplýsingar um tæki) með eignatengdum félögum og dótturfélögum sínum um allan heim aðeins jafn lengi og nauðsynlegt er fyrir tilganginn sem þeim var safnað í. Hugtakið „eignatengt félag“ eða „dótturfélag“ á við samstæðu fyrirtæki sem gætu notað LG nafnið eða verið í sömu eigu eða stjórn s.s. LG CNS eða LG Electronics U.S.A., INC. ("LGEUS");
+- Þriðju aðila þjónustuveitendur. Til þriðju aðila sem LGE gæti ráðið til að veita þjónustu fyrir sína hönd endrum og eins, t.d. til að uppfylla þjónustukröfur viðskiptavina;
+- Aðrir aðilar þegar lög krefjast. Eins og krafist er vegna dómsúrskurðar eða annarra ríkis- eða löggæsluyfirvalda til þess að hlíta málsmeðferð fyrir dómstólum eða lögum;
+- Aðrir aðilar í tengslum við fyrirtækjaviðskipti Í tengslum við viðskipti eins og samruna, endurskipulagningu, sölu eða flutning á öllum eða hluta af rekstri LGE (þ.m.t. deildar eða dótturfélags), þar sem LGE gæti þurft að gefa mögulegum kaupanda og ráðgjöfum hans upplýsingar.
+- Aðrir aðilar þegar nauðsyn krefur til að vernda þjónustu okkar. Til að vernda réttindi okkar og eignir, þ.m.t. með dómsmálum;
+- Aðrir aðilar til að vernda öryggi og eignir notenda okkar. Til að vernda persónulegt öryggi eða eignir viðskiptavina okkar eða almennings.
+
+Undir engum kringumstæðum verða persónuupplýsingar þínar unnar í markaðstilgangi, né deilt með þriðja aðila í markaðstilgangi.
+
+5. Flutningur erlendis
+Við, eignatengd félög okkar, dótturfélög og birgjar gætum nota upplýsingar (þ.m.t. persónuupplýsingar þínar) í löndum þar sem tæki þitt er staðsett til að veita þér þjónustu LG og í öllum öðrum tilgangi sem útlistaður er hér í þessari upplýsingaverndarstefnu. Í mörgum löndum eru upplýsingaverndarlög ef til vill ekki jafn ströng og í landinu sem þú býrð í. Engu að síður, gerum við ráðstafanir áður en persónuupplýsingar þínar eru fluttar til að tryggja að slíkar upplýsingar séu jafn öruggar. Með því að samþykkja þessa upplýsingaverndarstefnu samþykkir þú að við og viðskiptafélagar okkar vinni með gögn þín í hvaða lögsögu sem er, þar með talið, án takmarkana, Suður-Kóreu eða Bandaríkjunum í samræmi við þessa Upplýsingaverndarstefnu. 
+
+6. Hversu lengi geymir LGE persónuupplýsingar mínar?
+Við grípum til eðlilegra skrefa til að tryggja að við geymum persónuupplýsingar þínar jafn lengi og nauðsyn krefur fyrir okkur að veita þér þjónustu LG eða í þeim tilgangi sem þeim var safnað í, eða eins og lög kveða á um.
+
+7. Öryggi
+Við notum eðlilegar viðskiptaráðstafanir til að tryggja trúnað og öryggi persónuupplýsinga þinna. Engu að síður, vegna eðlis veraldarvefsins, síbreytilegrar tækni, og annarra þátta sem við höfum ekki stjórn á, getum við ekki ábyrgst að þriðji aðili fái ekki óheimilan aðgang að samskiptum þínum og miðlara eða að við munum ekki lenda í gagnaleka. Við tökum enga ábyrgð á uppljóstrun persónuupplýsinga vegna villu í flutningi eða óheimilum eða ólöglegum aðgerðum þriðja aðila.
+
+8. Verndun einkalífs barna
+Okkur er mikilvægt að vernda einkalíf barna. Vegna þess, er LG þjónustu ekki beint að neinum undir 14 ára aldri eða lögræðisaldri í mismunandi lögsögum og hún er ekki sérstaklega byggð upp til að draga að sér neinn undir 14 ára aldri. Við söfnum heldur ekki eða viðhöldum persónuupplýsingum frá notendum sem eru undir 14 ára aldri. Ef við komumst að eða erum látin vita af að við höfum safnað persónuupplýsingum notenda yngri en 14 ára eða undir lögræðisaldri í viðkomandi lögsögu, munum við tafarlaust eyða slíkum persónuupplýsingum.
+
+9. Breytingar á upplýsingaverndarstefnu LGE
+LGE getur endrum og eins uppfært þessa Upplýsingavernd. Ef við gerum efnislega breytingar á upplýsingaverndarstefnunni tilkynnum við þér um þær í gegnum vefsíðu LG eða eftir öðrum leiðum. Ef þú samþykkir ekki uppfærða upplýsingaverndarstefnu, gæti LG þjónusta verið takmörkuð.
+
+10. Aðgangur að upplýsingum þínum 
+Í samræmi við lög sumra lögsagna, átt þú rétt á að biðja um upplýsingar um persónuupplýsingar þínar sem LG safnar og að leiðrétta villur í persónuupplýsingum þínum eða andmæla á annan hátt, í lögmætum tilgangi, vinnslu á persónuupplýsingum þínum. Ef lög leyfa, getur verið að við rukkum þig um lítið gjald fyrir þjónustuna. Athugaðu að verið getur að við höfnum því að vinna úr beiðnum þínum ef þær eru óeðlilega móðgandi, leggja upplýsingavernd annarra í hættu, eða eru mjög óhentugar. Ef þú vilt leggja fram beiðni um að fá aðgang að, leiðrétta, hætta við eða andmæla vinnslu með persónuupplýsingar þínar skaltu hafa samband við okkur í mc.customer-service@lge.com.
+
+11. Hafa samband við LGE varðandi þessa upplýsingaverndarstefnu
+Ef þú hefur einhverjar spurningar eða athugasemdir um þessa upplýsingaverndarstefnu skaltu hafa samband við mc.customer-service@lge.com.
+
+Síðast uppfært: 22. júní 2017

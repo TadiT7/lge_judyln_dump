@@ -1,0 +1,3 @@
+﻿Uso de la información de ubicación actual
+
+LGE puede utilizar información de ubicación guardada en el dispositivo (utilizando GPS, Wi-Fi y redes de comunicación móvil) para obtener la "información de ubicación actual" del dispositivo. LGE solo guarda la "información de ubicación actual" internamente en el dispositivo del usuario y no recopila, guarda ni almacena la información en sus servidores. Incluso si acepta lo anterior, el servicio se proporciona solo cuando el usuario habilita la función de ubicación de Google, y el uso del servicio de "información de ubicación actual" se puede cambiar en cualquier momento mediante el menú de configuración de cada servicio que utiliza "información sobre la ubicación actual".

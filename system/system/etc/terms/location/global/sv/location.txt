@@ -1,0 +1,3 @@
+﻿Användning av aktuell platsinformation
+
+LGE kan använda platsinformation som sparats på enheten (med GPS, Wi-Fi, och i mobila kommunikationsnätverk) för att hämta “aktuell platsinformation” till enheten. LGE sparar bara den “aktuella platsinformationen” internt på användarens enhet och samlar inte in,sparar eller lagrar information på dess servrar. Även om du godkänner det som står ovan tillhandahålls tjänsten endast när användaren aktiverar Googles platsfunkton och användning av den “aktuella platsinformationen” kan ändras när som helst under inställningsmenyn för varje tjänst som använder “aktuell platsinformation”.

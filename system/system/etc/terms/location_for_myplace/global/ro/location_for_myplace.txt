@@ -1,0 +1,6 @@
+﻿Utilizarea informațiilor despre locația curentă de către Locurile mele
+
+Serviciul Locurile mele („Serviciul") folosește locația dispozitivului utilizatorului pentru a analiza structura locației în care se află utilizatorul pentru o perioadă mai lungă de timp și pentru a activa funcția de recunoaștere automată a locației sau pentru a permite utilizatorului selectarea manuală a locației în „Locurile mele" (de ex. acasă, locul de muncă). Continuarea analizei modelului poate cauza schimbarea automată a locului definit ca locație, în prealabil. 
+Deși acest Serviciu folosește informațiile despre locație (stațiile de bază de emisie (BTS), GPS, Wi-Fi, poziții în rețea (NLP)) stocate în dispozitivul utilizatorului, LG Electronics Inc.(LGE) nu colectează niciodată informații despre locația utilizatorului, ci le stochează doar pe dispozitivul utilizatorului.
+Serviciul inițializează automat recunoașterea locului în care utilizatorul s-a aflat pentru o perioadă mai lungă de timp, începând din momentul în care utilizatorul a acceptat utilizarea informațiilor despre locația dispozitivului, cu excepția cazului în care utilizatorul oprește Serviciul, dezactivând funcția corespunzătoare.
+LGE va folosi informațiile despre locația curentă a utilizatorului, doar dacă utilizatorul activează pe dispozitivul său opțiunea Google de detectare a locației dispozitivului.

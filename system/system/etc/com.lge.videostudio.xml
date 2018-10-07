@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<!-- This file is used to declare music configuration depend on specific model -->
+<videostudio_configration>
+<facebook data="com.facebook.katana" />
+<twitter data="com.twitter.android" />
+<tumblr data="com.tumblr" />
+<instagram data="com.instagram.android" />
+<whatsapp data="com.whatsapp" />
+<skype data="com.skype.raider" />
+<vine data="co.vine.android" />
+<kakaotalk data="com.kakao.talk" />
+<line data="jp.naver.line.android" />
+<youtube data="com.google.android.youtube" />
+<gmail data="com.google.android.gm" />
+<googleplus data="com.google.android.apps.plus" />
+</videostudio_configration>
+
+<videostudio_config>
+<support_asset_download data="true" />
+<support_full_export_for_18_9_fhd_resolution data="true" />
+</videostudio_config>

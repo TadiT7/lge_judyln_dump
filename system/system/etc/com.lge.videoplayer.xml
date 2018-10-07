@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<!--
+    This file is used to declare music configuration depend on specific model
+-->
+<video_configration>
+<!--Selection Log Level
+    Parms: debug, info, error or none
+    Default value is debug-->
+<log_level data="debug" />
+
+<support_dual_speaker data="false" />
+<!--Enable or Disable DSDP.
+    Default value is false-->
+<support_not_dsdp data="true" />
+
+</video_configration>

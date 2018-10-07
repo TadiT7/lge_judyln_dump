@@ -1,0 +1,63 @@
+﻿Aktivite günlüklerini kullanma Gizlilik Politikası
+
+Not: Bu Gizlilik Politikasını kabul etmekle, bize verilerinizi burada açıklandığı şekilde kullanma izni vermiş olursunuz. Muvafakatınız isteğe bağlıdır. Ancak, muvafakat etmemeniz durumunda size hizmet sağlayamayız; Bu durumda LG Cihaz Teşhis Raporu Hizmetleri'ni ("LG Hizmeti") kullanamazsınız. Muvafakatınızın şartlarını dilediğiniz zaman LG Hizmeti'nde görüntüleyebilir ve mc.customer-service@lge.com adresine e-posta göndererek muvafakatınızı dilediğiniz zaman iptal edebilirsiniz 
+
+1. Giriş
+LG Electronics Inc. ("LGE" ya da "biz") işbu belgede ifade edilen LG Hizmeti'ni kullanan tüm bireyleri ya da grupları korumayı taahhüt eder. Bu Gizlilik Politikası'nda bu hizmetleri kullanmanız sonucunda elde ettiğimiz bilgileri nasıl topladığımız, kullandığımız ve paylaştığımız açıklanmakta olup, özellikle şunlar belirtilmektedir:
+- LGE sizden ya da LG Hizmeti üzerinden hangi bilgileri toplayabilir;
+- LGE elde ettiği bilgileri nasıl kullanacak?
+- LGE'nin ne zaman başkalarıyla bilgi paylaştığı ve
+- LGE'nin bilgilerinizi kullanmasını ve paylaşmasını nasıl kontrol edebileceğinizi.
+
+LG Hizmeti, yazılım uygulamasına erişim ve işletim sistemi sağlayıcıları ile diğer içerik ve uygulama sağlayıcıları da dahil olmak üzere üçüncü şahıslara ait olan ve üçüncü şahıslarca sunulan diğer hizmetlere bağlantılar sunar. Bu üçüncü taraf hizmetleri, bu Gizlilik Politikası kapsamına dahil değildir ve hizmetleri kapsamında bilgi toplama, kullanım ve paylaşımıyla ilgili kendi politikaları bulunur. Bu politikaları okumanızı tavsiye ederiz. LGE, bu tür üçüncü tarafların gizlilik uygulamalarından sorumlu veya yükümlü değildir.
+
+2. LGE hangi bilgileri elde ediyor?
+LGE aşağıdaki bilgileri toplayacaktır:
+① Mobil cihaz durumu: Model, yazılım sürümü, IMEI, seri numarası, IMSI, güç durumu, pil durumu, CPU/RAM/dahili depolama alanı kullanımı, ortalama kullanım süresi, donanım öz tanılama sonucu (Wi-Fi, BT, yakınlık sensörü, aydınlatma sensörü, parmak izi sensörü vb.)
+② Ağ durumu: Hizmet durumu (çağrı, veri), sinyal gücü, istasyon bilgisi, çağrı sıklığı/süresi
+③ Uygulama bilgisi: Kurulan ve silinen uygulamaların listesi, uygulama sürümü, son çalıştırılan uygulamalar, uygulama kullanım sıklığı/istatistikleri 
+④ Cep telefonu bağlantı durumu: Wi-Fi, Bluetooth, GPS, kulaklık jakı, şarj cihazı, USB ve SD Kart bağlantı durumları
+⑤ Hata bilgileri: Donmuş ekran, beklenmeyen kapanmalar, düşen aramalar, uygulama hataları (hayati, istisnai)
+
+3. LGE elde ettiği bilgileri nasıl kullanacak?
+Sizden elde edilen bilgiler aşağıdakiler de dahil olmak üzere farklı amaçlarla kullanılır:
+- Mobil cihazınızı tanımlamak ve tanılamak
+- Müşteri hizmetlerini gerçekleştirmek ve hizmet geçmişini yönetmek 
+- Anlık bildirimler göndermek 
+- Daha yüksek kalite ve müşteri memnuniyeti için hizmet/kayıt günlüğü/cihaz geçmişini analiz etmek
+
+Kişisel bilgiler de dahil olmak üzere sizden elde edilen bilgileri bu Gizlilik Politikası'na uygun amaçlar doğrultusunda bize başka şekillerde sunduğunuz bilgilerle birleştirebiliriz. 
+
+4. Bilgi Paylaşımı
+LG Hizmeti'ni kullanmanız sonucunda aldığımız bilgileri genellikle üçüncü taraflarla paylaşmıyoruz. Ancak aşağıdaki durumlarda bu bilgileri aşağıdaki tüzel kişilerle paylaşabileceğimize lütfen dikkat edin:
+- İştirakler ve Bağlı Kuruluşlarla. LGE kişisel bilgilerinizi ve kişisel olmayan bilgilerinizi (cihaz bilgileri de dahil olmak üzere) sadece toplanma amaçları kapsamında gerekli olduğu durumlarda tüm dünyadaki iştirakleri ve bağlı kuruluşlarıyla paylaşabilir. “İştirakler” veya “bağlı kuruluşlar” terimleri, LG adını kullanan ya da LG CNS veya LG Electronics U.S.A.,INC.("LGEUS") gibi ortak mülkiyet veya kontrol hakkına sahip grup şirketlerini ifade eder;
+- Üçüncü Taraf Hizmet Sağlayıcılarıyla. LGE tarafından zaman zaman kendi adına hizmetlerin sağlanması için işbirliğinde bulunulan üçüncü şahıs satıcılarla bu tür müşteri hizmeti taleplerinin gerçekleştirilmesi amacıyla;
+- Yasaların Gerektirmesi Durumunda Diğer Taraflarla. Yasal işlemlere veya kanunlara uygunluk açısından mahkeme emri veya başka bir devlet ya da yasal icra makamı tarafından gerekli görüldüğünde;
+- Kurumsal İşlemlerle Bağlantılı Olarak Diğer Taraflarla. LGE’nin potansiyel bir müşteriye veya profesyonel danışmanlarına bilgi açıklamasını gerektirebilecek şirket birleşmesi veya LGE’nin şirketin (bir bölümü ya da bağlı kuruluşu dahil) tamamını veya bir kısmını satması gibi kurumsal bir olayla bağlantılı olarak;
+- Hizmetimizi Korumamız Gerektiğinde Diğer Taraflarla. Yasal işlem yolları da dahil olmak üzere haklarımızı ve mülkiyet haklarımızı korumak ve savunmak amacıyla;
+- Kullanıcılarımızın Kişisel Güvenliğini veya Mülkiyetini Korumak Üzere Diğer Taraflarla. Kullanıcılarımızın veya kamunun kişisel güvenliğini ve mülkiyetini korumak amacıyla.
+
+Kişisel bilgileriniz hiçbir koşulda pazarlama amacıyla kullanılmaz ya da pazarlama amacıyla üçüncü taraflarla paylaşılmaz.
+
+5. Ülke Dışına Aktarmalar
+Biz, iştiraklerimiz, bağlı kuruluşlarımız ve tedarikçilerimiz, bilgileri (kişisel bilgileriniz dahil olmak üzere) LG Hizmeti'ni size sunmak amacıyla ve bu Gizlilik Politikası'nda belirtilen başka herhangi bir amaçla cihazınızın bulunduğu yer dışındaki ülkelerde kullanabiliriz. Bu ülkelerin birçoğundaki veri koruma kanunları, bulunduğunuz ülkedeki kanunlarla aynı düzeyde koruma sağlamayabilir. Ancak, kişisel bilgilerinizi aktarmadan önce bu bilgilerin aynı koruma düzeyinde korunmasını sağlamak için gerekli adımları atacağız. İşbu Gizlilik Politikasını kabul ederek bizim, şirket ortaklarımızın ve tedarikçilerimizin Kore Cumhuriyeti veya Amerika Birleşik Devletleri dahil ancak sadece bunlarla sınırlı olmamak kaydıyla herhangi bir ülkede işbu Gizlilik Politikasına uygun olarak verilerinizi işlememize açıkça muvafakat etmiş olursunuz. 
+
+6. LGE kişisel bilgilerimi ne kadar süreyle saklayacak?
+Kişisel bilgilerinizi, size LG Hizmeti'ni sunmamız için veya toplanma amaçları doğrultusunda gerekli olduğu veya yürürlükteki kanunun gerekli kıldığı sürece saklamayı temin etmek adına makul girişimlerde bulunacağız.
+
+7. Güvenlik
+Kişisel bilgilerinizin gizliliğini güvence altına almak için ticari açıdan makul çabaları sarf ediyoruz. Ancak İnternet'in yapısı, sürekli değişen teknoloji ve kontrolümüz dışındaki diğer faktörler nedeniyle sunucularımız ile sizin aranızdaki iletişimlerin üçüncü şahısların izinsiz erişiminden uzak olacağını ya da güvenlik ihlallerine maruz kalmayacağımızı garanti edemiyoruz. Kişisel bilgilerin aktarım hataları veya üçüncü tarafların yetkisiz ya da yasal olmayan davranışları nedeniyle açıklanması durumunda hiçbir sorumluluk kabul etmiyoruz.
+
+8. Çocukların Gizliliğinin Korunması
+Çocukların gizliliğinin korunması bizim için önemlidir. Bu nedenle LG Hizmeti 14 yaşından ya da ilgili yargı alanındaki rüşt yaşından küçük kişilere yönelik değildir ve özellikle 14 yaşından küçük kişiler için çekici olmak üzere düzenlenmemiştir. Ayrıca, 14 yaşından küçük kullanıcıların kişisel bilgilerini kasıtlı olarak toplamayız veya saklamayız. 14 yaşından veya ilgili yargı alanındaki rüşt yaşının altındaki bireylere ait bilgiler topladığımızı öğrenmemiz veya bize bildirilmesi halinde, bu kişisel bilgiler ivedilikle silinecektir.
+
+9. LGE'nin Gizlilik Politikası'ndaki Değişiklikler
+İşbu Gizlilik Politikası LGE tarafından muhtelif zamanlarda güncellenebilir. Gizlilik Politikamızda bir değişiklik yaptığımızda, sizi LG web sitesi üzerinden veya farklı yollarla bilgilendireceğiz. Güncellenen gizlilik politikasını onaylamamanız halinde LG Hizmeti sınırlandırılabilir.
+
+10. Bilgilerinize Erişim 
+Yargı alanındaki yasalara göre, LGE'nin topladığı kişisel bilgilerinizle ilgili ayrıntıları talep etme ve kişisel bilgilerinizdeki hataları düzeltme veya aksi durumda meşru amaçlar açısından kişisel bilgilerinizin kullanılmasına engel olma hakkına sahipsiniz. Yasaların izin vermesi durumunda, size bu hizmeti sunmanın karşılığı olarak düşük bir ücret alınabilir. Aşırı derecede tehditkar, diğer kişilerin güvenliğini tehlikeye atan veya oldukça kullanışsız taleplerinizi karşılamayı reddedebileceğimizi unutmayın. Kişisel bilgilerinize erişmek, değiştirmek, iptal etmek veya işlenmesine itiraz etmek istiyorsanız, lütfen mc.customer-service@lge.com adresinden bize ulaşın.
+
+11. Bu Gizlilik Politikası'yla ilgili olarak LGE ile İletişime Geçme
+İşbu Gizlilik Politikası hakkında herhangi bir sorunuz veya yorumunuz varsa lütfen mc.customer-service@lge.com adresi üzerinden iletişime geçin.
+
+Son güncelleme: 22 Haziran 2017

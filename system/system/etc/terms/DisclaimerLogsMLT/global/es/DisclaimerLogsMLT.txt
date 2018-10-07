@@ -1,0 +1,23 @@
+﻿Registros de actividad
+
+Con el fin de mejorar la experiencia general del usuario y de mejorar la resolución de problemas del dispositivo, los registros de actividad se generan y se almacenan en su dispositivo móvil LGE. Los registros de actividad se almacenan exclusivamente en su dispositivo y no se transfieren de manera inalámbrica a LGE ni a ningún tercero a menos que se acuerde lo contrario mediante un acuerdo aparte.
+
+Los registros incluyen la siguiente información: 
+- Estado del dispositivo móvil: modelo, versión de software, IMEI (por sus siglas en inglés), número de identificación única, IMSI (por sus siglas en inglés), estado de alimentación, estado de la batería, CPU/RAM/uso de almacenamiento interno, tiempo de uso promedio, resultado del autodiagnóstico del hardware (Wi-Fi, BT, sensor de proximidad, sensor de iluminación, sensor de huellas digitales y demás.) 
+- Estado de la red
+- Información sobre la aplicación, recuento de uso de la aplicación/estadísticas
+- Estado de conexión de su dispositivo móvil
+- Información de error: pantalla congelada, apagones imprevistos, llamadas desconectadas, errores de la aplicación
+- Ajustes del dispositivo móvil.
+
+Los elementos de información a los cuales accede LGE se pueden utilizar de manera individual o se pueden combinar de manera global. LGE utiliza la información para comprender mejor las necesidades de nuestros clientes, para mejorar nuestra atención al cliente y los productos y servicios que ofrecemos. Por ejemplo, la información del registro de actividad le permite a LGE investigar y remediar errores de red, problemas de conexión y problemas de batería. 
+
+Al hacer clic en "aceptar", usted está prestando su consentimiento para que LGE y ciertos terceros que actúen en nombre de LGE (tal como se describe a continuación) accedan y utilicen la información del registro de actividad generada por su dispositivo. LGE puede compartir la información del registro de actividad con los siguientes terceros:
+- Afiliadas y subsidiarias (se refiere a las compañías que controlan, están controladas por o están bajo la titularidad o control común como LGE); y
+- agentes y proveedores de servicios que están sujetos a obligaciones de confidencialidad y que utilizan la información solo en nombre de LGE o para entregar los productos y los servicios solicitados o de otro modo para cumplir una obligación contractual con usted.
+LGE no es responsable ni está obligada por las prácticas de privacidad de terceros.
+LGE asimismo solicitará recopilar la información del registro de actividades cuando usted utilice el servicio posventa LGE (A / S) o el servicio de reacondicionamiento. Se le preguntará por separado al momento de utilizar los servicios mencionados si está de acuerdo con esto.
+Aunque la información del registro de actividad se genera dentro de su dispositivo, ya sea que usted preste consentimiento o no, a menos que usted haya hecho clic en "aceptar", LG no accederá a la información mencionada. Si no desea que LGE acceda a su información de registro de actividad, usted puede bloquear en cualquier momento nuestro acceso a su información de registro de actividad desde los ajustes [Ajustes – Sistema – Acerca del teléfono – Registros de actividad]. Para comprender cómo LGE maneja su información en general, incluida la información del registro de actividad, por favor, consulte nuestra política de privacidad en [Ajustes – Sistema – Acerca del teléfono – Información legal – Documentos legales para el Software LG – Política de privacidad].
+
+Cualquier traducción del presente documento de registros de actividad se realiza para cumplir con los requisitos locales y en caso de discrepancia entre la versión en inglés y cualquier versión que no esté en inglés, regirá la versión en inglés de este documento de registros de actividad, hasta el punto máximo permitido por la legislación local en su jurisdicción.
+

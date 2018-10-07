@@ -1,0 +1,80 @@
+﻿Tietosuojakäytänne aktiviteettien lokien käyttöä varten
+
+Tämä tietosuojamenettely kuvaa kuinka LGE hankkii pääsyn ja käyttää henkilökohtaisia tietojasi tiettyjen LG-laitteen diagnostisten raportointipalveluiden osalta. Lue se huolellisesti ennen LG-laitteen diagnostisten raportointipalveluiden käyttöä.
+
+1. Johdanto
+LG Electronics Inc. (jäljempänä "LGE" tai "me") on sitoutunut suojaamaan LG PC / Mac Ohjelmisto -palvelua käyttävien henkilöiden ja ryhmien tietoja. Tämä LG-laitteen diagnostinen raportointipalvelu toimittaa etäyhteyspalvelua (“Palvelut”).
+Tämä tietosuoja kattaa menetelmät, kuinka keräämme, käytämme ja jaamme tietoja, jotka hankimme tuloksena käyttämistäsi palveluista ja erityisesti määrittää:
+
+– Mitä tietoja LGE voi saada sinulta;
+– miten LGE käyttää saamiaan tietoja
+– Milloin LGE jakaa tietoja muiden kanssa; ja
+– Miten voit hallinnoida tietojen käytön jakamista LGE:n osalta.
+
+Laitteesi tai LG-laitteen diagnostinen raportointipalvelu voi tuottaa pääsyn ohjelmistosovellukseen sekä linkkeihin muihin palveluihin, jotka ovat kolmansien osapuolten omistamia ja toimittamia mukaan lukien käyttöjärjestelmän toimittajat ja muut sisällöt sekä sovellustoimittajat. Nämä kolmansien osapuolten palvelut eivät kuulu tämän tietosuojakäytännön piiriin, ja niiden yhteydessä kerättäviä, käytettäviä ja jaettavia tietoja koskevat niiden omat käytännöt. Pyydämme sinua lukemaan kyseiset suojalausunnot. LGE ei ole vastuussa tai vastuullinen koskien tietosuojamenettelyn käytäntöjä sen kaltaisten kolmansien osapuolten osalta.
+
+2. Mitä tietoja LGE hankkii?
+Tiedot joita saatamme vastaanottaa käyttäessäsi palveluja ovat luokiteltuina seuraavasti:
+– Mobiililaitteen tila: Malli, ohjelmistoversio, IMEI, sarjanumero, IMSI, virtatila, akun tila, CPU/RAM/sisäisen tallennustilan käyttö, keskimääräinen käyttöaika, laitteiston itse-diagnoosin tulos (Wi-Fi, BT, läheisyystunnistin, valaisuanturi, sormenjälkianturi, jne.)
+– Verkon tila: Palvelun tila (soitto, tietoliikenne), signaalin vahvuus, asematiedot, soittotiheys/-aika
+– Käyttötiedot: Luettelo koskien asennettuja ja poistettuja sovelluksia, sovelluksen versio, viimeiset käytetyt sovellukset, sovelluksen käytön tiheys/tilastot 
+– Matkapuhelimen yhteyden tila: Wi-Fi, Bluetooth, GPS, korvakuuloke, akkulaturi, USB, ja SD-kortin yhteyksien tilat
+– Vian tiedot: Jumiutunut näyttö, tahattomat sammumiset, purkautuneet puheluyhteydet, sovellusvirheet (kohtalokas, poikkeus)
+
+3. Miten LGE käyttää hankkimiaan tietoja?
+Käytämme palveluiden käytöstäsi hankittuja tietoja erilaisiin tarkoituksiin mukaan lukien:
+
+- Matkapuhelinlaitteen tunnistus ja diagnosointi
+- Asiakaspalveluiden suorittaminen sekä palveluhistorian hallinta 
+- Push-viestien lähetys 
+- Palvelun/lokien/laitehistorian analysointi parannettua laatua ja asiakastyytyväisyyttä varten
+
+Voimme yhdistellä palveluista saatuja tietoja, mukaan lukien henkilötiedot, tietojen kanssa, jotka hankit meille muilla keinoilla yllä oleviin tarkoituksiin.
+
+Laillinen perusta, johon LGE tukeutuu käsitelläkseen henkilökohtaisia tietojasi, on tyypillisesti yksi seuraavista;
+
+– Sopimus: tilanteet, joissa on tarpeellista muodostaa sopimus kanssasi;
+– Lailliset intressit: sen ollessa tarpeellista LGE:n intressien tai kolmannen osapuolen laillisten liiketoimintaintressien osalta. LGE:tä varten, tämä käsittää sen intressit kuluttajaelektroniikkatuotteiden valmistajana ja palvelutoimittajana;
+– Hyväksyntä: missä olet valinnut toimittaa suostumuksesi. Sinulla on oikeus kumota hyväksyntäsi milloin vain; tai
+– Laillinen vaatimus: milloin käsittely on tarpeellista laillisten velvoitteidemme mukaisesti
+
+Toimitetut tiedot useissa alakohdissa alla olevassa ilmaisevat, mitkä yllä olevista laillisista perusteista on asiasisältöä tukeva suhteessa eri henkilökohtaisten tietojen luokkiin.
+
+4. Tietojen jako
+Kumppanit ja tytäryhtiöt. LGE saattaa jakaa henkilökohtaisia ja ei-henkilökohtaisia tietoja kumppaneidensa ja tytäryhtiöidensä kanssa läpi maailman tässä tietosuojamenettelyssä kuvattuihin tarkoituksiin. Termi ‘kumppanit’ tai ‘tytäryhtiöt’ viittaavat yritysten ryhmään, jotka voivat käyttää LG:n nimeä tai jolla on yhteinen omistussuhde tai hallinta kuten LG CNS tai LG Electronics France S.A.R.L.
+
+Huomaa, että saatamme lisäksi jakaa tietoja seuraavien tahojen kanssa:
+- Kolmansien osapuolten palvelutoimittajat. Saatamme ja jakaa henkilökohtaisia ja ei-henkilökohtaisia tietoja kolmannen osapuolen palveluntarjoajien kanssa LG-laitteen diagnostisessa raportointipalvelussa;
+
+Emme yleisesti jaa tietoja kolmansien lisäosapuolten kanssa, ystävällisesti huomaa, että seuraavat erityisolosuhteet saattavat aiheuttaa meidän jakavan tietoja seuraavien osapuolten kanssa;
+- Muut tahot lain vaatimalla tavalla. Vaadittaessa oikeuden päätöksen tai muun hallituksen tai lainvalvonnan auktoriteettien toimesta jotta voidaan noudattaa laillista käytäntöä tai lakia;
+- Muut tahot liittyen yrityksen toiminnallisiin tapahtumiin. Liiketoiminnallisen tapahtuman yhteydessä, kuten LGE:n liiketoimintojen sulautuminen liiketoiminnan osan myynti (mukaan lukien jaos tai tytäryhtiö), jossa LGE saattaa joutua paljastamaan tietoja mahdolliselle ostajalle ja tämän ammattimaisille neuvonantajille;
+- Muut tahot, kun on tarvittavaa suojata palvelujamme. Jotta voimme suojata ja puolustaa oikeuksiamme ja omaisuuttamme, mukaan lukien tavat joita käytetään oikeudellisessa menettelyssä;
+- Muilta osapuolilta sen suojatessa mitään asiakkaidemme henkilökohtaista turvallisuutta tai omaisuutta. Jotta voimme suojata käyttäjiemme henkilökohtaisen tai julkisen turvallisuuden.
+
+Missään olosuhteissa henkilökohtaisia tietojasi ei käsitellä markkinointitarkoituksiin, eikä jaeta kolmansien osapuolten kanssa markkinointitarkoituksia varten.
+
+5. Henkilötietojen siirrot
+Me, osakkuusyhtiömme, tytäryhtiömme ja toimittajat, kaikki saatamme käyttää tietoja (mukaan lukien henkilökohtaiset tietosi) liitännäisesi muissa maissa kuin missä laite sijaitsee LG-laitteen diagnostisten raportointipalveluiden toimituksissamme ja missä tahansa muussa tässä tietosuojamenettelyssä määritellyssä tarkoituksessa. Tietosuojalait monissa näissä maissa eivät ehkä tarjoa saman tason suojausta kuin lait maassa, jossa oleskelet. Kuitenkaan, ennen henkilökohtaisten tietojesi siirtämistä, suoritamme toimenpiteitä, jotta sen kaltaisille tiedoille suodaan saman tason suojaus ne vastaanottavassa maassa tai lainsäädäntöalueella. Lisätietoja sen osalta kuinka käsittelemme ja suojaamme henkilökohtaisia tietojasi, ota meihin yhteyttä osoitteessa mc.customer-service@lge.com. 
+
+6. Kuinka pitkään LGE säilyttää henkilökohtaisia tietojani?
+Pidämme henkilökohtaisia tietojasi niin kauan kuin on tarpeellista, voidaksemme toimittaa tässä Tietosuojakäytännössä asetetun palvelun tai muuta tarkoitusta varten. Sovellamme kriteereitä päättääksemme asiaankuuluvan säilytysjakson eri henkilökohtaisten tietojen luokkia varten, jotka toimitat meille. Esim., pidämme tiedot tarvittavasti suojataksemme meitä laillisilta vaatimuksilta, kuten tiedot, jotka liittyvät sopimukseen, sopimuksen elinkaaren läpi ja kolme vuotta siitä eteenpäin. Tämän jakson jälkeen ne poistetaan tai tietyissä tapauksissa anonymisoidaan. Tilanteissa, joissa olemme keränneet henkilökohtaisia tietoja, jotka pohjautuvat hyväksyntääsi ja meillä ei ole muita laillisia lähtökohtia jatkaa kyseistä käsittelyä, jos päätät peruuttaa hyväksyntäsi, tällöin poistamme henkilökohtaiset tietosi.
+Jos pyydät henkilökohtaisten tietojesi pois pyyhintää, koska niitä ei enää tarvita, tai pohjautuen vastaväitteeseen tai väitteeseen, että käsittely on laitonta, sinulla on oikeus hakea käsittelyn rajoitusta, samalla kun me todennamme pyyntösi poispyyhinnän osalta.
+
+7. Turvallisuus
+Suoritamme kaupallisesta näkökulmasta kohtuullisia ponnistuksia turvataksemme henkilökohtaisten tietojesi luottamuksellisuuden ja turvallisuuden. Tästä huolimatta, johtuen Internetin muodoista, jatkuvasti muuttuvasta teknologiasta sekä muista tekijöistä jotka eivät ole hallittavissamme, emme voi taata että viestintä sinun ja palvelimiemme välillä tulee olemaan vapaa valtuuttamattomasta pääsystä kolmansien osapuolten osalta tai että emme ole turvallisuusuhkien alaisia. Emme omaa mitään vastuuta henkilökohtaisten tietojen paljastamisesta tämän johtuessa tiedonsiirron virheistä tai valtuuttamattomista tai laittomista kolmansien osapuolten toimista.
+
+8. Lasten yksityisyyden suojaus
+Lasten yksityisyyden suojaus on meille tärkeää. Tästä syystä johtuen, mikään palveluistamme ei ole kohdennettu tai suunniteltu houkuttelemaan ketään alle 16-vuotiasta tai lainkäyttöalueen väestön pääosaan kuuluvia. Emme myöskään tietoisesti kerää tai säilö tietoja käyttäjistä, jotka ovat alle 16-vuotiaita tai lainkäyttöalueen väestön pääosaan kuuluvia. Mikäli tietoomme tulee tai meille ilmoitetaan että olemme keränneet tietoja käyttäjiltä jotka ovat alle 16-vuotiaita tai lainkäyttöalueen väestön pääosaan kuuluvia, poistamme viipymättä kaikki sen kaltaiset tiedot.
+
+9. Muutokset LGE:n Tietosuojakäytäntö
+Tätä tietosuojamenettelyä voidaan päivittää LGE:n toimesta ajoittain. Jos Tietosuojakäytäntöömme tehdään merkittäviä muutoksia, ilmoitamme niistä sinulle Palveluiden kautta tai muulla tavoin. Sinua ehkä pyydetään kuittaamaan tai hyväksymään uusittu Tietosuojamenettely jatkaaksesi palveluiden käyttöä.
+
+10. Tietoihisi ja oikeuksiisi pääsy 
+Tiettyjen oikeusalueiden lakien perusteella, sinulla voi olla oikeus pyytää LGE:n ylläpitämiin henkilökohtaisiin tietoihin pääsyä, niiden oikaisua tai poistoa tai oikeus hylätä tai rajoittaa tietyn tyyppisten henkilökohtaisten tietojen käsittelyä (tai vetäytyä henkilökohtaisten  tietojesi käsittelystä LGE:n puitteissa), tai vastaanottaa koneluettava kopio koskien henkilökohtaisia tietojasi. Mikäli lait sallivat, pientä kustannusta saatetaan soveltaa kyseisen kaltaisen palvelun toimittamiseksi. Huomioi, että saatamme kieltäytyä käsittelemästä pyyntöjäsi, mikäli ne ovat kohtuuttoman väärinkäytöksellisiä, vaarantavat muiden yksityisyyden, tai ovat äärettömän epäkäytännöllisiä (lain sallimissa määrin). Lisätietoja tästä tai kuinka soveltaa mitään näistä oikeuksista, ota meihin yhteyttä osoitteessa mc.customer-service@lge.com.
+
+11. Yhteydenotto LGE:lle tästä Tietosuojakäytäntö
+Jos sinulla on mitään kysymyksiä tai kommentteja koskien tätä Tietosuojakäytäntöä tai henkilökohtaisten tietojesi käsittelyä LGE:n toimesta, ota yhteyttä Tietosuojavaltuutettuun osoitteessa dpo-eu@lge.com. Sinulla voi myös olla oikeus kirjata valitus tietosuojavaltuutetun kanssa vaikkakin kehotamme sinua ensin ottamaan meihin yhteyttä suoraan minkään huolenaiheen ratkaisemiseksi.
+
+Viimeksi päivitetty 1. maaliskuuta, 2018
+

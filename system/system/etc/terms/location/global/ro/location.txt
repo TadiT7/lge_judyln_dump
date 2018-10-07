@@ -1,0 +1,3 @@
+﻿Utilizarea informațiilor despre locația curentă
+
+LGE poate folosi informațiile despre locații stocate pe dispozitiv (cu folosirea GPS, a conexiunii Wi-Fi și a rețelelor de telefonie mobilă) pentru a obține „informații despre locația curentă” a dispozitivului. LGE salvează „informațiile despre locația curentă” doar pe dispozitivul utilizatorului și nu colectează, nu salvează sau nu stochează astfel de informații pe serverele sale. Chiar dacă acceptați cele menționate mai sus, serviciul este furnizat doar dacă utilizatorul activează funcția Google de detectare a locației și dacă serviciul de „informații despre locația curentă” poate fi modificat oricând în meniul Setări al oricărui serviciu care utilizează funcția „informații despre locația curentă”.

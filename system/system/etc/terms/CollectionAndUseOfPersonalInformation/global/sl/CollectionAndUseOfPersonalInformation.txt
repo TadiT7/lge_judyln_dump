@@ -1,0 +1,110 @@
+﻿Varovanje zasebnosti	
+
+V tem pravilniku o zasebnosti je opisano, kako LGE pridobi dostop do vaših osebnih informacij in kako jih uporablja v kontekstu storitve posodabljanja programske opreme. Pred uporabo storitve za posodobitev programske opreme jo pozorno preberite.
+
+1.	Uvod
+Družba LG Electronics Inc. (»LGE« ali »mi«) je predana zaščiti informacij tistih posameznikov in skupin, ki uporabljajo mobilne telefone LGE. V tem pravilniku o zasebnosti je določeno, kako zbiramo in uporabljamo informacije, zbrane iz vašega mobilnega telefona LGE ter kako jih dajemo v skupno rabo, še posebej pa določa:
+-	Pregled posodobitev programske opreme FOTA.
+-	Informacije, ki jih družba LGE lahko pridobi od vas.
+-	Kako družba LGE uporablja informacije, ki jih pridobi.
+-	Kdaj daje družba LGE informacije v skupno rabo z drugimi. 
+-	Čezmorski prenos osebnih podatkov
+-	Kako dolgo bo družba LGE hranila moje osebne podatke?
+-	Varnost
+-	Pravica do zavrnitve ali umika soglasja
+-	Zaščita zasebnosti otrok
+-	Spremembe pravilnika o zasebnosti družbe LGE
+-	Dostopanje do vaših informacij
+-	Pravica do vloge pritožbe in
+-	Stik z družbo LGE v povezavi s tem pravilnikom o zasebnosti
+
+Ta pravilnik se nanaša samo na informacije, ki jih družba LGE zbira z vašega mobilnega telefona LGE za izvajanje in posodabljanje vdelane programske opreme prek postopka Vdelana programska oprema prek zraka (Firmware Over-the-Air ali »FOTA«) (»posodobitev programske opreme«). Ta pravilnik se ne nanaša na druge izdelke ali storitve družbe LGE, kar vključuje mobilne aplikacije, ki jih nudi LGE. Ta pravilnik se prav tako ne nanaša na druge izdelke ali storitve, ki jih nudijo tretje stranke, vključno s ponudniki operacijskih sistemov, drugo vsebino ali ponudnike aplikacij vašega omrežnega operaterja. Izdelki in storitve, ki ne sodijo v obseg tega pravilnika o zasebnosti, imajo lastne pravilnike o zbiranju, uporabi in dajanju informacij v skupno rabo, tako da vam svetujemo, da si jih preberete. Družba LGE ni odgovorna ali zavezana k praksam zasebnosti tretjih strani.
+
+Če ste ta mobilni telefon kupili pred nedavnim, morate pred njegovo uporabo izvesti posodobitev programske opreme, kot je opisano v pravilniku o zasebnosti, da zagotovite pravilno delovanje svojega mobilnega telefona in lahko uporabljate naše najnovejše funkcije, funkcionalnosti in varnostne nastavitve. Če imate kakršna koli vprašanja, stopite v stik z nami, kot je navedeno v tem pravilniku.
+
+Ta pravilnik vam je za pregled na voljo kadar koli [Nastavitve – Sistem – Vizitka telefona – Pravne informacije – Pravna dokumentacija za programsko opremo LG – Varovanje zasebnosti].
+
+Vsi prevodi tega pravilnika o zasebnosti se izdelajo za lokalne potrebe, v primeru neskladnosti med angleško in drugo različico je treba upoštevati angleško različico tega pravilnika o zasebnosti do največje mere, ki jo dovoljuje veljavni zakon v vašem območju pravne pristojnosti.
+
+2.	Pregled posodobitev programske opreme FOTA
+Vdelana programska oprema LGE na vašem mobilnem telefonu (»programska oprema«) od časa do časa morda potrebuje posodobitve ali dopolnitve, ki jih zagotavlja LGE ali pa lahko LGE zagotovi dodatne komponente za programsko opremo. Pri izvajanju posodobitve programske opreme se na vaš mobilni telefon namesti novo programsko opremo, s katero se zagotovi posodobitve, dopolnitve ali dodatne komponente. Posodobitve programske opreme lahko dodajo nove lastnosti ali funkcije, v omejenih primerih pa lahko tudi odstranijo že obstoječe lastnosti ali funkcije. Po izvedbi posodobitve programske opreme ne boste mogli več uporabljati prejšnje nameščene različice programske opreme ali pa je ne boste mogli povrniti v prejšnjo nameščeno različico. 
+
+Ker se posodobitev programske opreme izvaja prek postopka FOTA, se lahko obračuna dodatne srtoške, če novo programsko opremo prenesete prek mobilnega omrežja, kar je odvisno od paketa, ki ste ga kupili od svojega ponudnika storitev. Če se želite izogniti kakršni koli uporabi podatkov prek mobilnega omrežja za posodobitve programske opreme, morate v Nastavitvah izbrati možnost »samo Wi-Fi«. 
+
+a.	Vaše možnosti upravljanja s posodobitvami programske opreme v prihodnosti
+Ko daste svoje soglasje na ta pravilnik o zasebnosti FOTA, bo vaš mobilni telefon občasno preveril, ali je na voljo nova oziroma posodobljena programska oprema, ki jo bo namestil samodejno, kadar je na voljo (funkcija »Preveri samodejno«). 
+ Ko je programska oprema nameščena, vas bomo o tem opozorili s pomočjo pojavnega sporočila ali obvestila na vašem mobilnem telefonu. Pred uporabo programske opreme boste imeli možnost sprejema ali zavrnitve posodobitve programske opreme. Vaš mobilni teleefon bo poleg tega samodejno uporabil nameščeno programsko opremo ob polnoči (funkcija »Samodejne posodobitve«). Funkciji »Preveri samodejno« in »Samodejne posodobitve« na [Nastavitve – Sistem – Središče za posodobitve – Software update – Menija prekoračitve – Nastavitve]. Če zavrnete funkcijo Preveri samodejno zavrnete, s tem zavračate izvajanje posodobitev programske opreme v prihodnosti.
+Če je vaš mobilni telefon že v uporabi in zavrnete izvedbo posodobitve programske opreme, upoštevajte, da lahko zavrnitev namestitve posodobljene programske opreme povzroči [poslabšanje zmogljivosti vašega mobilnega telefona, težave z združljivostjo z novimi ali obstoječimi aplikacijami, in druge težave s funkcijami ali varnostjo vašega mobilnega telefona].
+
+b.	Nujne posodobitve programske opreme
+Če tako zahtevajo okoliščine, lahko izvedemo posodobitev programske opreme v skladu z našimi upravičenimi interesi, ne da bi zagotovili obvestila za posameznike ali zahtevali soglasje in ne glede na trenutne nastavitve naprave (»Nujna posodobitev programske opreme«). Primeri okoliščin, v katerih je morda potrebna nujna posodobitev programske opreme, vključujejo nevarnosti za varnost strank ali varnost podatkov ali težave v delovanju, ki lahko povzročijo obsežne motnje storitev ali neposredno grožnjo pojava takih okoliščin.
+
+3.	Informacije, ki jih družba LGE lahko pridobi od vas
+Pri izvajanju posodobitve programske opreme lahko družba LGE zbira naslednje informacije z vašega mobilnega telefona: mednarodna identiteta mobilne opreme (IMEI), serijska številka, model mobilnega telefona, različice programske opreme in/ali vdelane programske opreme, operacijski sistem telefona, mobilna koda države (MMC), koda mobilnega omrežja (MNC), storitev identifikator sporočanja v oblaku Google (GCM) in izbrani jezik. Informacije se zbira samodejno kot del postopka izvajanja posodobitve programske opreme.
+
+Kot del naše storitve zagotavljanja mobilnih storitev za vaš mobilni telefon bomo zbirali operacijske informacije, ki vključujejo sistemske dnevnike z naslovi IP. Te informacije se zbira samodejno in so nujen del za delovanje telefona.
+
+4.	Kako družba LGE uporablja informacije, ki jih pridobi
+Informacije, ki jih dobimo od vas, uporabljamo za različne namene, vključno s/z:
+-	Izvajanjem posodobitev programske opreme (vključno z nujnimi posodobitvami programske opreme), vključno s preverjanjem, ali je programska oprema posodobljena, da se potrdi pristnost vašega mobilnega telefona in dostavi primerno programsko opremo. 
+-	Potrditvijo naših obveznosti iz [naše omejene garancije za izdelek].
+-	Zagotavljanjem obvestil, ki se tičejo storitev zagotavljanja varnosti za mobilni telefon in obvestil v sili, ki so odgovor na težave z varnostjo.
+-	Zaščito naših pravic in lastnine, kar vključuje pravne postopke.
+-	Skladnost z regulativnimi zahtevami.
+-	Analiza, pregled in izboljšanje izdelkov ter storitev, ki jih nudimo.
+
+Pravna osnova, na kateri družba LGE utemeljuje obdelavo vaših osebnih podatkov, običajno vključuje eno od osnov, naštetih v nadaljevanju.
+-	Pogodba: če je potrebno z vami skleniti pogodbo.
+-	Pravni interesi: če je potrebno za namene zakonitih poslovnih interesov družbe LGE ali tretje stranke. V primeru družbe LGE to vključuje njene interese kot izdelovalec potrošniških elektronskih izdelkov in ponudnik storitev.
+-	Soglasje: tam, kjer daste svoje soglasje. Imate pravico, da svoje soglasje umaknete kadar koli.
+-	Pravna obveznost: kjer je obdelovanje potrebno zaradi skladnosti z našimi pravnimi obveznostmi.
+
+Poleg tega lahko uporabljamo tudi združene statistične podatke, ki se jih zbere med posodobitvijo programske opreme in med delovanjem mobilnega telefona, da bolje razumemo potrebe naših strank, da izboljšamo naše storitve za stranke, izdelke in storitve, ki jih ponujamo, in za raziskave ter analizo trga. Taki združeni statistični podatki ne vključujejo informacij, s katerimi bi se vas lahko razpoznalo ali se jih pripisalo fizičnim osebam.
+
+5.	Kdaj daje družba LGE informacije v skupno rabo z drugimi
+Informacij, ki jih zbiramo med posodabljanjem programske opreme in vas identificirajo ali se jih lahko pripiše fizičnim osebam, na splošno ne dajemo v skupno rabo s tretjimi strankami. Kljub temu se morate zavedati naslednjih pogojev, pod katerimi lahko damo take informacije v skupno rabo s tretjimi strankami:
+
+-	Podružnice in hčerinska podjetja. Družba LGE lahko da osebne in neosebne informacije (vključno z informacijami mobilnega telefona) v skupno rabo s svojimi podružnicami in hčerinskimi podjetji po vsem svetu, dokler je to potrebno za namene, za katere so bili podatki zbrani. Izraza »podružnice« in »hčerinske družbe« se nanaša na skupino podjetij, ki lahko uporabljajo ime LG, ali imajo skupno lastništvo oziroma nadzor nad znamkami, kot so LG CNS ali LG Electronics U.S.A., Inc;
+-	Tretji ponudniki storitev Tretji ponudniki storitev, s katerimi lahko družba LGE občasno sodeluje za ponujanje storitev v lastnem imenu, kot na primer za izpolnjevanje zahtev za storitve za stranke.
+-	Druge stranke, kadar tako zahteva zakon. Kot to zahteva sodni nalog ali drugi vladni oziroma policijski organi.
+-	Druge stranke v povezavi s transakcijami med družbami. V povezavi z dogodkom, ki se tiče družbe, kot so združitev, prestrukturiranje, prodaja ali prenos celotnega poslovanja LGE ali njegovega dela (vključno s poslovanjem oddelka ali hčerinske družbe), pri čemer mora družba LGE morebitnemu kupcu in njegovim strokovnim svetovalcem razkriti informacije.
+-	Druge stranke, kadar je potrebno zaščititi našo storitev. Za uveljavljanje naših pogodbenih pravic, zaščitne ukrepe pred prevzemanjem odgovornosti, raziskovanje suma na nezakonite dejavnosti oziroma dejanske nezakonite dejavnosti, ali preiskavo zahtevkov oziroma obtožb tretjih strank oziroma zaščito pred njimi.
+-	Druge stranke, kadar je potrebna zaščita osebne varnosti ali lastnine naše stranke v kakršni koli obliki. Da bi se zaščitilo pravice, osebno varnost ali lastnino naših strank oziroma javnosti.
+
+Vaših osebnih podatkov, zbranih med posodabljanjem programske opreme, se ne bo pod nobenim pogojem obdelovalo za namene trženja brez vašega soglasja, niti se jih ne bo dajalo v uporabo s tretjimi strankami za namene trženja brez vašega soglasja.
+
+6.	Prenos osebnih podatkov
+Mi, naše povezane družbe, hčerinske družbe in ponudniki storitev lahko uporabljajo vaše osebne informacije v državah, ki niso država, v kateri je vaš mobilni telefon, za namene, ki so opisane v tem pravilniku o zasebnosti. Zakoni za zaščito podatkov v nekaterih državah morda ne zagotavljajo iste stopnje zaščite kot v državi, kjer se nahajate. Vendar bomo pred prenosom vaših osebnih podatkov izvedli korake, s katerimi se bo zagotovilo, da bodo imeli taki podatki isto stopnjo zaščite v državi ali sodni pristojnosti, ki je prejemnica takih podatkov. Če se strinjate s tem pravilnikom o zasebnosti, se izrecno strinjate z obdelavo svojih osebnih podatkov v državah ali sodnih pristojnostih, kjer zadevni zakoni morda ne bodo zagotovili iste stopnje zaščite osebnih podatkov kot zakoni države ali sodne pristojnosti, kjer se nahajate, kar med drugim vključuje tudi Korejsko republiko ali Združene države Amerike, v skladu s tem pravilnikom o zasebnosti. 
+
+7.	Kako dolgo bo družba LGE hranila moje osebne podatke?
+Uvedli bomo smiselne korake za zagotovitev hranjenja vaših osebnih informacij toliko časa, kot bo potrebno za namen, zaradi katerih se jih je zbralo, ali kot to zahteva zadevni zakon. 
+Če zahtevate izbris svojih osebnih podatkov, ker ti niso več potrebni ali na osnovi ugovarjanja obdelavi ali zaradi trditve, da obdelava ni zakonita, imate pravico zahtevati omejitev obdelovanja, medtem ko bomo mi preverili vašo zahtevo za izbris.
+
+8.	Varnost
+S komercialno utemeljenimi prizadevanji in sledenjem splošno sprejetih industrijskih podatkovnih praks si prizadevamo varovati vaše osebne podatke pred nenamerno izgubo in nepooblaščenim dostopanjem, uporabo, spreminjanjem ter razkritjem. Kljub temu zaradi zasnove interneta, vedno spreminjajoče se tehnologije in drugih dejavnikov, ki niso pod našim nadzorom, ne moremo zagotoviti, da komunikacije med vami in našimi strežniki ne bodo izpostavljene nepooblaščenemu dostopanju tretjih strank ali da ne bo prišlo do dogodkov kršenja varnosti. Za razkritje osebnih informacij zaradi napak pri prenosu ali nepooblaščenih dejanj tretjih strank ne sprejemamo nobene odgovornosti.
+
+9.	Pravica do zavrnitve ali umika soglasja
+Pod veljavnimi lokalnimi zakoni imate morda pravico zavrniti soglasje za ta pravilnik o zasebnosti, umakniti soglasje ali drugače zahtevati, da prenehamo delati z vašimi osebnimi podatki. Da bi se uveljavilo kakršne koli take pravice, ki jih morda imate, stopite v stik z nami, kot je navedeno v tem pravilniku o zasebnosti, mi pa bomo na vaše zahteve odgovorili čim prej. 
+Poleg tega lahko umaknete svoje soglasje k nadaljnjemu zbiranju vaših osebnih informacij, tako da onemogočite zgoraj opisani funkciji »Preveri samodejno« in »Samodejne posodobitve« na svojem mobilnem telefonu. Do teh funkcij lahko dostopate v [Nastavitve – Sistem – Središče za posodobitve – Software update – Menija prekoračitve – Nastavitve].
+Vendar pa morate razumeti, da pri onemogočenju funkcij Preveri samodejno in Samodejne posodobitve lahko pride do vpliva ali omejitve operacij vašega mobilnega telefona ali storitev v njihovem delu ali celoti. Zbiranje in uporaba informacij v skladu z zgoraj opisanim postopkom je nujna za optimalno delovanje vašega mobilnega telefona.
+
+Če imate kakršna koli vprašanja o svoji pravici do zavrnitve ali o tem, kako umakniti svoje soglasje, stopite v stik z nami na lgecsvc@lge.com
+
+10.	Zaščita zasebnosti otrok
+Naši družbi je zaščita zasebnosti otrok pomembna. Zaradi tega vaš mobilni telefon ni namenjen za otroke, kot to opredeljuje zadevni lokalni zakon, osebnih informacij otrok pa namerno ne zbiramo in ne hranimo. Če izvemo ali naj obvestijo, da smo zbirali podatke otrok brez preverjanja ali soglasja staršev, bomo vse take osebne podatke takoj izbrisali.
+
+11.	Spremembe pravilnika o zasebnosti družbe LGE
+Ta pravilnik o zasebnosti lahko družba LGE občasno posodablja. Če naš pravilnik o zasebnosti materialno spremenimo, vas bomo o tem obvestili s posodobitvijo spodnjega datuma in z zagotovitvijo spremenjenega pravilnika o zasebnosti, tako da si ga boste lahko ogledali kot del posodobitev programske opreme v prihodnosti.
+
+12.	Dostopanje do vaših informacij 
+Imate pravico, da zahtevate podrobnosti o osebnih podatkih, ki jih družba LGE zbira, da bi dostopali, popravljali ali brisali svoje osebne podatke. Vendar pa morate razumeti, da morda ne bomo mogli spremeniti ali izbrisati vaših osebnih podatkov, če veljavni zakon od nas zahteva, da take podatke shranimo. Če to omogoča zakon, se morda lahko za zagotavljanje take možnosti za vas obračuna majhno plačilo. Upoštevajte, da lahko obdelavo vaših zahtev zavrnemo, če so nerazumno žaljive, ogrožajo zasebnost drugih ali so izjemno nepraktične. Poleg tega posodobitev ali izbris osebnih informacij lahko vpliva ali omeji delovanje vašega mobilnega telefona ali storitev. 
+
+Če želite izdati zahtevo za dostop, popravke ali izbris svojih osebnih podatkov, stopite v stik z nami na naslovu lgecsvc@lge.com
+
+13.	Pravica do vloge pritožbe
+Po veljavnih zakonih v EU imate pravico, da pri zadevnem nadzornem organu vložite pritožbo, povezano z obdelavo vaših osebnih podatkov. Za več informacij o vaši pravici do vloge pritožbe ali predložitve pritožbe družbi LGE stopite v stik z nami na naslovu lgecsvc@lge.com. 
+
+14.	Stik z družbo LGE v povezavi s tem pravilnikom o zasebnosti
+Če imate kakršna koli vprašanja ali pripombe na ta pravilnik o zasebnosti, stopite v stik z nami na naslovu lgecsvc@lge.com.
+
+Zadnja posodobitev: 01. nov 2017

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<!--
+    This file is used to declare music configuration depend on specific model
+    The music feature will be decided in run time for defualt feature list model.
+-->
+<music_configration>
+
+
+
+</music_configration>

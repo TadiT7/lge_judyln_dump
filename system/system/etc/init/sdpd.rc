@@ -1,0 +1,40 @@
+#Create SDP related dirs
+on post-fs-data
+    mkdir /data/sdp 0771 system system
+    mkdir /data/sdp/data 0771 system system
+    mkdir /data/sdp/meta 0700 system system
+    mkdir /data/sdp_public 0770 media_rw media_rw
+    mkdir /storage/sdp_public 0771 root sdcard_rw
+
+service sdpd /system/bin/sdpd
+    class late_start
+    socket sdpd stream 0660 system system
+#    user system
+#    group system
+    seclabel u:r:sdpd:s0
+    #ioprio be 1
+
+#on property:persist.service.sdp.enable=true
+#    start sdpd
+
+#on property:persist.service.sdp.enable=false
+#    stop sdpd
+
+# SDP, lockscreen state [S]
+on property:service.keyguard.status=0 && property:persist.service.sdp.enable=true
+    start sdp-unlock
+
+on property:service.keyguard.status=1 && property:persist.service.sdp.enable=true
+    start sdp-lock
+
+on property:service.keyguard.status=2 && property:persist.service.sdp.enable=true
+    start sdp-lock
+
+service sdp-unlock /system/bin/sdc user unlock_current_user
+    disabled
+    oneshot
+
+service sdp-lock /system/bin/sdc user lock
+    disabled
+    oneshot
+# SDP, lockscreen state [E]

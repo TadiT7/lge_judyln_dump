@@ -1,0 +1,8 @@
+﻿Sutikimas su naudotojo balso informacijos naudojimu „Google“ Automatiniam kalbos atpažinimui (toliau – „ASR“) 
+
+Ši Parking Assistant paslauga (toliau – „Paslauga“) naudoja „Google“ ASR, „Google, Inc.“ (toliau – „Google“) teikiamą funkciją, leidžiančią konvertuoti naudotojo balsą į tekstą.
+Jūsų naudojant Paslaugą suteikta balso informacija bus perduota ir saugoma „Google“. „Google“ naudos tokią informaciją jūsų balso informacijos konvertavimo į teksto tikslais ir perduos teksto informaciją „LGE“.
+Bet kokiai ASR surinktai informacijai taikoma „Google“ privatumo politika, kurią galima rasti (https://www.google.com/policies/privacy/).
+Galite pasirinkti išaktyvinti ASR naudojimą atsisakydami paslaugų „Nustatymų meniu - Teisinė informacija“.
+„LGE“ niekada nerenka ir/ar nenaudoja jokios asmeninės informacijos, įsk. naudotojo balso informaciją, ir Paslaugai naudoja tik ne asmeniškai identifikuojamą informaciją, tokią kaip teksto informaciją.
+Be to, „LGE“ niekada nenaudos teksto informacijos (ir neleis to daryti trečiosioms šalims) bet kokios Paslaugos naudotojų asmeniškai identifikuojamos informacijos sekimo ar rinkimo tikslais ir nesusies jokių per šią Paslaugą surinktų duomenų su jokia, iš bet kokio šaltinio gauta asmeniškai identifikuojama informacija.

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="memories_title_text">"You have new memories from your time in [@param/place]. Take a look back."</string>
+    <string name="memories_title_source_text">"[@param/eventTitle]<br />[@param/startTime] for [@param/duration] days"</string>
+    <string name="memories_title_source_text_no_duration" translatable="false">"[@param/eventTitle]<br />[@param/startTime]"</string>
+    <string name="memories_ok">"Look back"</string>
+    <string name="last_year_memories_title_text">"Revisit your moments a year ago. Take a look back at the memories."</string>
+</resources>

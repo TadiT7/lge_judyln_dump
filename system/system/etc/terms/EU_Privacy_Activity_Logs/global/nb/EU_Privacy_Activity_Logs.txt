@@ -1,0 +1,80 @@
+﻿Personvernretningslinjer for bruk av aktivitetslogger
+
+Denne personvernspolicyen beskriver hvordan LGE får tilgang til og bruker personinformasjonen din i sammenheng med visse LG Device Diagnostics Report Services. Les den nøye før du bruker certain LG Device Diagnostics Report Services.
+
+1. Innledning
+LG Electronics Inc. (“LGE” eller “vi”) er forpliktet til å beskytte opplysningene til enkeltpersoner og grupper som bruker LG-PC/Mac programvare. Denne LG Device Diagnostics Report Service gir ekstern tilkoblingstjeneste («Tjenester»).
+Denne personvernpolicyen angir hvordan vi samler inn, bruker og deler informasjon vi samler inn som følge av bruk av enheter og tjenester, og spesifiserer spesielt:
+
+– Hvilken informasjon LGE kan innhente fra deg:
+– hvordan LGE bruker den innhentede informasjonen
+– Når LGE deler informasjon med andre; og
+– Hvordan du kan kontrollere LGEs bruk og deling av informasjonen din.
+
+Enheten din eller LG Device Diagnostics Report Service kan gi tilgang til programvare og koblinger til andre tjenester som eies og drives av tredjeparter, inkludert operativsystemleverandører og annet innhold og applikasjonsleverandører. Disse tredjepartstjenestene er utenfor rammen av denne personvernpolicyen, og har egne policyer som gjelder innsamling, bruk og deling av informasjon i forbindelse med deres tjenester. Vi oppfordrer deg til å lese disse policyene. LGE er ikke ansvarlig for eller ansvarlig for personvernspraksisen til noen tredjepart.
+
+2. Hvilken informasjon samler LGE inn?
+Informasjonen vi mottar når du bruker tjenestene, faller inn i følgende kategorier:
+– Mobilenhetens status: Modell, programvareversjon, IMEI, serienummer, IMSI, strømstatus, batteristatus, bruk av CPU / RAM / intern lagring, gjennomsnittlig brukstid, fastvarens selvdiagnostiseringsresultat (Wi-Fi, BT, nærhetssensor, belysningssensor, fingeravtrykkssensor, osv.)
+– Nettverksstatus: Servicestatus (anrop, data), signalstyrke, stasjonsinformasjon, anropsfrekvens/-tid
+– Appinformasjon: Listen over installerte og slettede apper, appversjon, nylig utførte apper, appbrukfrekvens/-statistikk 
+– Mobiltelefonens tilkoblingsstatus: Wi-Fi, Bluetooth, GPS, øretelefon, batterilader, USB- og SD-korttilkoblingsstatuser
+– Feilinformasjon: Fastlåst skjerm, utilsiktet strømbrudd, frakoblede anrop, appfeil (fatal, unntak)
+
+3. Hvordan bruker LGE informasjonen det samler inn?
+Vi bruker den innhentede informasjonen om bruken din av tjenestene til forskjellige formål slik som:
+
+- For å identifisere og identifisere mobilenheten
+- For å utføre kundeservice og administrere servicehistorikk 
+- For å sende trykkmeldinger 
+- For å analysere historikken for service/logger/enhet for forbedret kvalitet og kundetilfredshet
+
+Vi kan kombinere informasjonen innhentet fra bruken din av tjenesten, inkludert personlig informasjon, med informasjonen du gir oss på annen måte for formålene oppgitt ovenfor.
+
+Det juridiske grunnlaget som LGE vil stole på for å behandle personinformasjonen din vil typisk være ett av følgende:
+
+– Kontrakt: når det er nødvendig å opprette en kontrakt med deg;
+– Legitime interesser: når det er nødvendig for LGE sine eller en tredjeparts legitime forretningsinteresser. For LGE vil dette inkludere dets interesser som en produsent av forbrukerelektronikkprodukter og tjenesteleverandør;
+– Samtykke: når du har valgt å gi det. Du har rett til å trekke tilbake samtykket til enhver tid; eller
+– Juridisk forpliktelse: når juridisk tiltak er nødvendig for å overholde våre juridiske forpliktelser
+
+Informasjonen gitt i de ulike underavsnittene nedenfor indikerer hvilken av de ovennevnte rettsgrunnlagene som påberopes i forhold til forskjellige kategorier av personopplysninger.
+
+4. Informasjonsdeling
+Tilknyttede selskaper og datterselskaper. LGE kan dele personlig informasjon og ikke-personlig informasjon med sine tilknyttede selskaper og datterselskaper over hele verden for de formålene som er beskrevet i denne personvernpolicyen. Begrepet «tilknyttede selskaper» eller «datterselskaper» refererer til konsernselskaper som kan bruke LG-navnet eller som har felles eierskap eller kontroll som LG CNS eller LG Electronics France S.A.R.L.
+
+Vær oppmerksom på at vi kan videre dele slik informasjon med følgende enheter:
+- Tredjeparts tjenesteleverandører. Vi kan dele din personlige informasjon og ikke-personlig informasjon med tredjeparts tjenesteleverandører for å aktivere og forbedre LG Device Diagnostics Report Service;
+
+Selv om vi generelt ikke deler informasjonen med andre tredjeparter, må du være oppmerksom på at i følgende spesielle omstendigheter kan vi videre dele informasjonen med følgende enheter;
+- Andre parter når det kreves ved lov. Som påkrevd av rettsordre eller annen myndighet eller rettshåndhevelse for å overholde juridisk prosess eller lov;
+- Andre parter i forbindelse med bedriftstransaksjoner. I forbindelse med en bedriftshendelse, som en fusjon, salg eller del av LGEs virksomhet (herunder den av en divisjon eller et datterselskap), hvor LGE må kunne utlevere informasjon til en potensiell kjøper og dennes faglige rådgivere;
+- Andre parter når det er nødvendig å beskytte tjenestene våre. For å beskytte og forsvare rettighetene våre og eiendommen vår, herunder ved rettssaker;
+- Andre parter når det gjelder å beskytte noen av våre brukeres personlige sikkerhet eller eiendom. For å beskytte den personlige sikkerheten eller eiendommen til brukerne eller offentligheten.
+
+Under ingen omstendigheter skal din personlige informasjon bli behandlet for markedsføringsformå, eller deles med tredjeparter for markedsføringsformål.
+
+5. Overføringer av personopplysninger
+Vi, våre partnere, datterselskaper og leverandører kan bruke informasjon (inkludert dine personlige opplysninger) i andre land enn der enheten din befinner seg i forbindelse med å gi deg vår LG Device Diagnostics Report Services og andre formål som er beskrevet i denne personvernpolicyen. Databeskyttelsesloven i mange land gir kanskje ikke det samme beskyttelsesnivået som de i landet du befinner deg i. Men før vi overfører den personlige informasjonen din, vil vi iverksette tiltak for å sikre at slik informasjon blir gitt samme beskyttelsesnivå. For ytterligere informasjon om hvordan vi håndterer og beskytter din personlige informasjon, kontakt oss på mc.customer-service@lge.com. 
+
+6. Hvor lenge vil LGE beholde den personlige informasjonen min?
+Vi vil beholde dine personlige opplysninger så lenge det er nødvendig for oss å gi deg applikasjonen eller andre formål som er angitt i denne personvernpolicyen.Vi bruker kriterier for å bestemme riktig oppbevaringsperiode for ulike kategorier av personlig informasjon du gir oss. For eksempel vil vi beholde informasjon som er nødvendig for å beskytte oss ved et juridisk krav, for eksempel informasjon knyttet til en kontrakt, for hele kontraktens gyldighetstid og inntil ett år etter. Etter denne perioden vil den bli slettet eller i noen tilfeller anonymisert. Når vi har samlet personopplysningene basert på ditt samtykke og vi ikke har noe annet lovlig grunnlag for å fortsette med behandlingen, dersom du senere trekker tilbake samtykket, vil vi slette dine personlige opplysninger.
+Hvis du ber om sletting av den personlige informasjonen din fordi den ikke lenger er nødvendig, eller basert på en innsigelse mot behandlingen eller et krav om at behandlingen er ulovlig, har du rett til å søke begrensninger av prosessering mens vi bekrefter forespørselen om sletting.
+
+7. Sikkerhet
+Vi bruker kommersielt fornuftig innsats for å beskytte konfidensialiteten og sikkerheten til dine personlige opplysninger. Likevel, på grunn av utformingen av Internett, evig skiftende teknologi og andre faktorer utenfor vår kontroll, kan vi likevel ikke garantere at kommunikasjonen mellom deg og våre servere vil være fri for uautorisert tilgang av tredjepartier eller at vi ikke vil bli utsatt for sikkerhetsbrudd. Vi aksepterer ikke noe ansvar for offentliggjøring av personlig informasjon på grunn av feil ved overføring, eller uautoriserte eller ulovlige handlinger fra noen tredjepart.
+
+8. Beskytte personvernet til barn
+Det er viktig for oss å beskytte barnas personvern. Av den grunn er ingen av våre tjenester rettet mot eller designet for å tiltrekke seg noen under 16 år eller hoveddelen av den aktuelle jurisdiksjonen. Vi samler heller ikke bevisst inn eller bevarer personlig informasjon fra brukere som er under 16 år eller hoveddelen av den aktuelle jurisdiksjonen. Skulle vi lære eller bli varslet om at vi har samlet inn opplysninger fra brukere under 16 år eller hoveddelen av den aktuelle jurisdiksjonen, vil vi straks slette slik personlig informasjon.
+
+9. Endringer av LGEs personvernpolicy
+Denne personvernpolicyen kan oppdateres av LGE fra tid til annen. Hvis vi foretar betydelige endringer i personvernpolitikken, oppdaterer vi deg via tjenestene, eller på andre måter. Du kan bli pålagt å bekrefte eller godta den reviderte personvernpolicyen for å fortsette å bruke tjenestene.
+
+10. Få tilgang til informasjonen din og rettighetene dine 
+I henhold til lovene i enkelte jurisdiksjoner kan det være berettiget å be om tilgang til, rette eller slette de personlige opplysningene LGE har om deg eller retten til å motsette seg eller begrense visse typer behandling av dine personlige opplysninger (eller å trekke tilbake samtykket ditt til LGE-behandlingen), eller å motta en maskinlesbar kopi av dine personlige opplysninger. Hvis loven tillater det, kan det påløpet et lite gebyr for å gi deg en slik tjeneste. Vær oppmerksom på at vi kan avvise å behandle forespørslene dine hvis de er urimelig fornærmende, truer personvernet til andre, eller er ekstremt upraktiske (der tillatt under gjeldende lov). For ytterligere informasjon eller å utøve noen av disse rettighetene, kan du kontakte oss på mc.customer-service@lge.com.
+
+11. Kontakte LGE om denne personvernpolicyen
+Hvis du har spørsmål eller kommentarer om denne personvernpolicyen eller LGEs behandling av dine personlige opplysninger, ta kontakt med vår datavernoffiser på dpo-eu@lge.com. Du har også rett til å sende inn en klage til en datavernmyndighet, selv om vi oppfordrer deg til å kontakte oss direkte for å løse eventuelle bekymringer.
+
+Sist oppdatert: 01. mars 2018
+

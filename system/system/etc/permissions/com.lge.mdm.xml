@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.lge.mdm"
+            file="/system/framework/com.lge.mdm.jar"/>
+</permissions>
+

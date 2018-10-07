@@ -1,0 +1,3 @@
+﻿Use of current location information
+
+LGE may use the location information saved on a particular device (using GPS, Wi-Fi, and mobile communication networks) to obtain the “current location information” of that device. LGE only saves the “current location information” internally on the user’s device, and does not collect, save, or store the information on its servers. Even if the user agrees to the above conditions, the service is provided only when the user activates the Google location function; and the use of the “current location information” service may be changed at any time under the setting menu of each service that uses “current location information”.

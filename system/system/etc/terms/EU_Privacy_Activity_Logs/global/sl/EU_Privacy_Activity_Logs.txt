@@ -1,0 +1,80 @@
+﻿Pravilnik o zasebnosti za uporabo dnevnikov aktivnosti
+
+V tem pravilniku o varovanju zasebnosti je opisano, kako LGE pridobi dostop do vaših osebnih informacij in kako jih uporablja v kontekstu nekaterih storitev LG Device Diagnostics Report Service. Pred uporabo storitev LG Device Diagnostics Report Service jo pozorno preberite.
+
+1. Uvod
+Družba LG Electronics Inc. ("LGE" ali "mi") je zavezana k varovanju podatkov posameznikov in skupin, ki uporabljajo LG-jevo programsko opremo za PC/Mac ("storitev"). Storitev LG Device Diagnostics Report Service zagotavlja storitev povezovanja na daljavo ("storitve").
+Ta pravilnik o zasebnosti točno določa pridobivanje, uporabo in izmenjavo podatkov, ki jih pridobimo z vašo uporabo storitev, zlasti pa določa:
+
+– katere podatke lahko od vas pridobi LGE;
+– Kako bo družba LGE uporabljala pridobljene podatke?
+– kdaj daje družba LGE informacije v skupno rabo z drugimi in,
+– kako lahko nadzorujete način, na katerega družba LGE uporablja informacije in jih daje v skupno rabo.
+
+Vaša naprava ali storitev LG Device Diagnostics Report Service lahko omogoči dostop do programskih aplikacij in povezav do drugih storitev, ki so v lasti in jih upravljajo tretje osebe, vključno s ponudniki operacijskih sistemov ter drugih vsebin in aplikacij. Pravilnik o zasebnosti ne zajema teh storitev drugih ponudnikov. Ti imajo svoje pravilnike zbiranja, uporabe in deljenja podatkov, povezane z njihovimi storitvami. Svetujemo vam, da si preberete te pravilnike. Družba LGE ni odgovorna ali zavezana k praksam zasebnosti takih tretjih strank.
+
+2. Katere informacije pridobi družba LGE?
+Informacije, ki jih lahko prejmemo, kadar uporabljate storitve, spadajo v naslednje kategorije:
+– Stanje mobilne naprave: model, različica programske opreme, IMEI, serijska številka, IMSI, stanje napajanja, stanje baterije, uporaba CPU/RAM/notranjega pomnilnika, povprečni čas uporabe, rezultat samodiagnosticiranja strojne opreme (Wi-Fi, BT, bližinsko tipalo, tipalo osvetlitve, tipalo prstnega odtisa, itd.)
+– Stanje omrežja: stanje storitve (klic, podatki), jakost signala, informacije o postaji, frekvenca/čas klicev
+– Informacije o aplikacijah: Seznam nameščenih in izbrisanih aplikacij, različica aplikacije, nedavno uporabljane aplikacije, frekvenca/statistika uporabe aplikacij 
+– Stanje povezave mobilnega telefona: Stanja povezav Wi-Fi, Bluetooth, GPS, vtiča za slušalke, polnilnika baterij, USB in kartice SD
+– Podatki o napakah: zamrznjen zaslon, neidentificirane prekinitve napajanja, prekinjeni klici, napake aplikacij (usodne, izjeme)
+
+3. Kako družba LGE uporablja informacije, ki jih pridobi?
+Podatke, ki jih pridobimo z vašo uporabo storitev, uporabimo v različne namene. Na primer:
+
+- Za identifikacijo in diagnostiko mobilne naprave
+- Za izvajanje storitev za stranke in vodenje zgodovine storitev 
+- Za pošiljanje potisnih sporočil 
+- Za analizo storitev/dnevnikov/zgodovine naprave za višjo kakovost in zadovoljstvo stranke
+
+Za zgoraj navedene namene lahko podatke, pridobljene prek storitev, vključno z osebnimi podatki, združimo s podatki, ki ste nam jih posredovali drugače.
+
+Pravna osnova, na kateri družba LGE utemeljuje obdelavo vaših osebnih podatkov, običajno vključuje eno od osnov, naštetih v nadaljevanju.
+
+– Pogodba: če je potrebno z vami skleniti pogodbo.
+– Pravni interesi: če je potrebno za namene zakonitih poslovnih interesov družbe LGE ali tretje stranke. V primeru družbe LGE to vključuje njene interese kot izdelovalec potrošniških elektronskih izdelkov in ponudnik storitev.
+– Soglasje: tam, kjer daste svoje soglasje. Imate pravico, da svoje soglasje umaknete kadar koli.
+– Pravna obveznost: kjer je obdelovanje potrebno zaradi skladnosti z našimi pravnimi obveznostmi.
+
+Informacije iz različnih podpoglavij spodaj kažejo, na kateri pravni osnovi temeljijo glede na njihovo razmerje do različnih kategorij osebnih podatkov.
+
+4. Dajanje informacij v skupno rabo
+Podružnice in hčerinska podjetja. Družba LGE lahko da osebne in neosebne informacije v skupno rabo s svojimi podružnicami in hčerinskimi družbami po vsem svetu za namene, ki so opisani v tem pravilniku o varovanju zasebnosti. Izraza »podružnice« in »hčerinske družbe« se nanaša na skupino podjetij, ki lahko uporabljajo ime LG, ali imajo skupno lastništvo oziroma nadzor nad znamkami, kot so LG CNS ali LG Electronics France S.A.R.L.
+
+Upoštevajte, da lahko dajemo take informacije v nadaljnjo skupno rabo z naslednjimi osebami:
+- Tretji ponudniki storitev. Vaše osebne in neosebne informacije lahko dajemo v skupno rabo s tretjimi ponudniki storitev, da omogočimo storitve LG Device Diagnostics Report Service.
+
+Čeprav vaših podatkov na splošno ne dajemo v skupno rabo z dodatnimi tretjimi strankami, morate upoštevati, da lahko dajemo v naslednjih državah take podatke v skupno rabo z naslednjimi osebami;
+- Druge stranke, kadar tako zahteva zakon. Kot to zahteva sodni nalog ali drugi vladni oziroma policijski organi.
+- Druge stranke v povezavi s transakcijami med družbami. V povezavi z dogodkom, ki se tiče družbe, kot so združitev, prodaja celotnega podjetja LGE ali njegovega dela (vključno s poslovanjem oddelka ali hčerinske družbe), pri čemer mora družba LGE morebitnemu kupcu in njegovim strokovnim svetovalcem razkriti informacije.
+- Druge stranke, kadar je potrebno zaščititi naše storitve. Za zaščito naših pravic in lastnine, kar vključuje pravne postopke.
+- Druge stranke, kadar je potrebna zaščita osebne varnosti ali lastnine našega uporabnika v kakršni koli obliki. Da bi se zaščitilo osebno varnost ali lastnino naših uporabnikov oziroma javnosti.
+
+Vaših osebnih informacij ne bomo pod nobenimi pogoji uporabljali za namene trženja ali jih dali v skupno rabo s tretjimi strankami za namene trženja.
+
+5. Prenos osebnih podatkov
+Naša družba, naše podružnice in dobavitelji lahko uporabljajo informacije (vključno z vašimi osebnimi informacijami) v državah, ki niso država, kjer uporabljate svojo napravo, da bi se vam zagotovilo vaše storitve LG Device Diagnostics Report Service in za kakršen koli drug namen, ki je opisan v tem Varovanje zasebnosti. Zakoni za zaščito podatkov v mnogih od teh držav morda ne zagotavljajo iste stopnje zaščite kot v državi, kjer se nahajate. Vendar bomo pred prenosom vaših osebnih podatkov izvedli korake, s katerimi se bo zagotovilo, da bodo imeli taki podatki isto stopnjo zaščite. Za več podatkov o tem, kako ravnati in zaščititi svoje osebne podatke, stopite v stik z nami na naslovu: mc.customer-service@lge.com. 
+
+6. Kako dolgo bo družba LGE hranila moje osebne podatke?
+Vaše osebne podatke bomo hranili toliko časa, kot bo potrebno, da bi vam zagotovili storitev ali za druge namene, ki so opisani v tem pravilniku o varovanju zasebnosti. Ustrezen čas hranjenja podatkov za različne kategorije osebnih podatkov, ki nam jih zaupate, določimo z merili. Tako bomo, na primer, podatke, ki so potrebni za našo zaščito v primeru pravnih zahtevkov, kot so podatki o pogodbi, hranili v času trajanja pogodbe in do eno leto po tem. Ko to obdobje mine, bodo podatki izbrisani, v nekaterih primerih pa bodo anonimizirani. V primeru, ko vaše osebne podatke zberemo na osnovi vašega soglasja in nimamo druge pravne osnove za nadaljevanje s tako obdelavo, bomo vaše osebne podatke izbrisali, če naknadno umaknete svoje soglasje.
+Če zahtevate izbris svojih osebnih podatkov, ker ti niso več potrebni ali na osnovi ugovarjanja obdelavi ali zaradi trditve, da obdelava ni zakonita, imate pravico zahtevati omejitve obdelovanja, medtem ko bomo mi preverili vašo zahtevo za izbris.
+
+7. Varnost
+Zaščito zaupnosti in varnosti vaših osebnih podatkov izvajamo na komercialno primeren način. Kljub temu zaradi zasnove interneta, vedno spreminjajoče se tehnologije in drugih dejavnikov, ki niso pod našim nadzorom, ne moremo zagotoviti, da komunikacije med vami in našimi strežniki ne bodo izpostavljene nepooblaščenemu dostopanju tretjih strank ali da ne bo prišlo do dogodkov kršenja varnosti. Za razkritje osebnih informacij zaradi napak pri prenosu ali nepooblaščenih dejanj tretjih strank ne sprejemamo nobene odgovornosti.
+
+8. Zaščita zasebnosti otrok
+Naši družbi je zaščita zasebnosti otrok pomembna. Nobena od storitev zato ni namenjena za nikogar do 16. leta starosti v zadevni sodni pristojnosti. Poleg tega zavestno ne zbiramo ali shranjujemo osebnih podatkov uporabnikov, ki so mlajši od 16 let v zadevni sodni pristojnosti. Če izvemo ali naj obvestijo, da smo zbirali podatke uporabnikov, ki so mlajši od 16 let v zadevni sodni pristojnosti, bomo vse take osebne podatke takoj izbrisali.
+
+9. Spremembe pravilnika o varovanju zasebnosti družbe LGE
+Ta pravilnik o varovanju zasebnosti lahko družba LGE občasno posodablja. V primeru bistvene spremembe pravilnika o varovanju zasebnosti vas bomo o tem obvestili prek storitve ali kako drugače. Za nadaljnjo uporabo naših storitev boste morda morali potrditi oziroma se strinjati z revidiranim pravilnikom o varovanju zasebnosti.
+
+10. Dostopanje do svojih podatkov in pravic 
+V skladu z zakoni v nekaterih sodnih pristojnostih imate lahko pravico zahtevati dostop do svojih osebnih podatkov, ki jih hrani družba LGE o vas, in njihov popravek oziroma izbris, ali pravico do ugovarjanja proti nekaterim tipom obdelovanja vaših osebnih podatkov, oziroma njihove omejitve (oziroma do umika svojega soglasja za obdelavo, ki jo izvaja družba LGE), ali prejeti strojno berljivo kopijo svojih osebnih podatkov. Če to omogoča zakon, se morda lahko za zagotavljanje take možnosti za vas obračuna majhno plačilo. Upoštevajte, da lahko obdelavo vaših zahtev zavrnemo, če so nerazumno žaljive, ogrožajo zasebnost drugih ali so izjemno nepraktične (kjer to dopušča veljavni zakon). Za več informacij oziroma uveljavljanje katere koli svoje pravice stopite v stik z nami na naslovu: mc.customer-service@lge.com.
+
+11. Stik z LGE glede tega Varovanje zasebnosti
+Če imate kakršna koli vprašanja ali komentarje o tem Varovanje zasebnosti ali obdelavo vaših osebnih podatkov, ki jo izvaja LGE, stopite v stik z našim uslužbencem za zaščito podatkov na naslovu: dpo-eu@lge.com. Poleg tega imate pravico vložiti pritožbo pri oblasti za zaščito podatkov, čeprav vas želimo spodbuditi, da najprej stopite v neposredni stik z nami, da skupaj rešimo kakršne koli skrbi.
+
+Zadnja posodobitev: 01. marec 2018
+

@@ -1,0 +1,8 @@
+service lgupdate_verifier /system/bin/lgupdate_verifier
+    class late_start
+    user root
+    group cache system
+    priority -20
+    ioprio rt 0
+    oneshot
+

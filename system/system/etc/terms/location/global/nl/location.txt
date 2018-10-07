@@ -1,0 +1,3 @@
+﻿Gebruik van actuele locatie-informatie
+
+LGE kan locatie-informatie gebruiken die is opgeslagen op het toestel (met gebruik van GPS, Wi-Fi en mobiele communicatienetwerken) voor het verkrijgen van de “actuele locatie-informatie” van het toestel. LGE slaat de “actuele locatie-informatie” alleen intern op het toestel van de gebruiker op en zal de informatie niet verzamelen, opslaan of bewaren op haar servers. Zelfs als u akkoord gaat met het bovenstaande, wordt de service alleen voorzien wanneer de gebruiker de Google-locatiefunctie inschakelt, en het gebruik van de “actuele locatie-informatie”-service kan op enig moment worden gewijzigd onder het instellingenmenu van elke service die “actuele locatie-informatie” gebruikt.

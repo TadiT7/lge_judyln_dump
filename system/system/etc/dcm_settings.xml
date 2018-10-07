@@ -1,0 +1,2747 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Last modified : 2013/10/23 -->
+<!-- This xml has been created by auto-generator program -->
+<!-- To modify, please visit to below MLM site and follow the guide instead of fixing it manually -->
+<!-- [http://collab.lge.com/main/pages/viewpage.action?pageId=132028877] -->
+<!-- If any problem occurred, please contact to us [D6-4team-3p@lge.com] -->
+
+<profiles version="8">
+
+<profile>
+    <siminfo
+        operator="TEST(default)"
+        country="TEST"
+        mcc="001"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,3000,5000,1,32"
+        ipmtu="1500"
+    />
+    <windowSize
+        windefault="8096,87380,110208,4096,16384,110208"
+        lte="2097152,4194304,8388608,262144,524288,1048576"
+        umts="58254,349525,3461120,58254,349525,3461120"
+        hspa="40778,244668,3461120,16777,140625,3461120"
+        hsupa="61167,367002,3461120,8738,140625,3461120"
+        hsdpa="61167,367002,3461120,8738,140625,3461120"
+        hspap="122334,734003,3461120,32040,192239,3461120"
+        edge="8096,87380,110208,4096,16384,70800"
+        gprs="8096,87380,110208,4096,8760,48000"
+        evdo_b="8096,87380,3461120,4096,16384,3461120"
+        ehrpd="4096,87380,349600,86480,87380,110208"
+        evdo="4096,24546,86440,31280,87380,110208"
+        gpass="536,12864,19296,536,12864,19296"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TEST"
+        country="TEST"
+        mcc="001"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,60000,3000,5000,1,32"
+        ipmtu="1500"
+    />
+    <windowSize
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="KK default"
+        country="NA"
+        mcc="002"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param=""
+    />
+    <windowSize
+        windefault="4096,87380,110208,4096,16384,110208"
+        lte="524288,1048576,2097152,262144,524288,1048576"
+		umts="4094,87380,110208,4096,16384,110208"
+        hspa="4094,87380,262144,4096,16384,262144"
+        hsupa="4094,87380,262144,4096,16384,262144"
+        hsdpa="4094,87380,262144,4096,16384,262144"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,8760,11680,4096,8760,11680"
+        evdo="4094,87380,262144,4096,16384,262144"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="LGE"
+        country="KR"
+        mcc="450"
+        mnc="00"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1"
+        ipmtu="1440"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="GR"
+        mcc="202"
+        mnc="05"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1340"
+    />
+</profile>
+<!-- 18/02/2015 siddeshakumar.ur@lge.com TMO FD requirement [START]-->
+<profile>
+    <siminfo
+        operator="TMO"
+        country="RO"
+        mcc="226"
+        mnc="06"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="NL"
+        mcc="204"
+        mnc="20"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="NL"
+        mcc="204"
+        mnc="16"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="Serbia"
+        mcc="220"
+        mnc="04"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="DE"
+        mcc="262"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="AT"
+        mcc="232"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="AT"
+        mcc="232"
+        mnc="07"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="SK"
+        mcc="231"
+        mnc="04"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="SK"
+        mcc="231"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="RO"
+        mcc="226"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="MK"
+        mcc="294"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="GR"
+        mcc="202"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="CZ"
+        mcc="230"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="HR"
+        mcc="219"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<!-- 18/02/2015 siddeshakumar.ur@lge.com TMO FD requirement [END]-->
+<profile>
+    <siminfo
+        operator="VDF"
+        country="NL"
+        mcc="204"
+        mnc="04"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="PROXIMUS"
+        country="BE"
+        mcc="206"
+        mnc="01"
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="SFR"
+        country="FR"
+        mcc="208"
+        mnc="09"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="SFR"
+        country="FR"
+        mcc="208"
+        mnc="10"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="LPM"
+        country="FR"
+        mcc="208"
+        mnc="10"
+        mvno_type="gid"
+        mvno_match_data="4C504D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="NRJ"
+        country="FR"
+        mcc="208"
+        mnc="26"
+        mvno_type="gid"
+        mvno_match_data="4E524A31"
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="ES"
+        mcc="214"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TLF"
+        country="ES"
+        mcc="214"
+        mnc="07"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1500"
+    />
+</profile>
+<!-- 18/02/2015 siddeshakumar.ur@lge.com TMO FD requirement [START]-->
+<profile>
+    <siminfo
+        operator="TMO"
+        country="HU"
+        mcc="216"
+        mnc="30"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<!-- 18/02/2015 siddeshakumar.ur@lge.com TMO FD requirement [END]-->
+<profile>
+    <siminfo
+        operator="VDF"
+        country="HU"
+        mcc="216"
+        mnc="70"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TEL2"
+        country="HR"
+        mcc="219"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="RO"
+        mcc="226"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="SWC"
+        country="CH"
+        mcc="228"
+        mnc="01"
+    />
+    <settings
+        ipmtu="1340"
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="UK"
+        mcc="234"
+        mnc="15"
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="H3G"
+        country="UK"
+        mcc="234"
+        mnc="20"
+    />
+    <settings
+        ipmtu="1440"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="H3G"
+        country="UK"
+        mcc="235"
+        mnc="94"
+    />
+    <settings
+        ipmtu="1440"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="H3G"
+        country="IR"
+        mcc="272"
+        mnc="05"
+    />
+    <settings
+        ipmtu="1440"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TEL2"
+        country="HR"
+        mcc="240"
+        mnc="07"
+        mvno_type="imsi"
+        mvno_match_data="24007695xxxxxxx"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1450"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TEL2"
+        country="HR"
+        mcc="240"
+        mnc="07"
+        mvno_type="imsi"
+        mvno_match_data="24007696xxxxxxx"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1450"
+    />
+</profile>
+
+<profile>
+    <siminfo
+        operator="TEL2"
+        country="HR"
+        mcc="240"
+        mnc="07"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1450"
+    />
+</profile>
+
+<profile>
+    <siminfo
+        operator="VIP"
+        country="HR"
+        mcc="219"
+        mnc="10"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="IT"
+        mcc="222"
+        mnc="10"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,3000,300000,5000,5000,1,1"
+        ipmtu="1340"
+    />
+</profile>
+<!-- 2018-03-22 vasanth.jegathesan@lge.com & jabbar.mohammed@lge.com FD requirement [START] -->
+<profile>
+    <siminfo
+        operator="H3G"
+        country="IT"
+        mcc="222"
+        mnc="99"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,3000,3000,5000,1,0"
+        ipmtu="1440"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="WIND"
+        country="IT"
+        mcc="222"
+        mnc="88"
+    />
+    <settings
+       fastdormancy_param="1,0,0,1000,5000,3000,3000,5000,1,0"
+    />
+</profile>
+<!-- 2018-03-22 vasanth.jegathesan@lge.com & jabbar.mohammed@lge.com FD requirement [END] -->
+<profile>
+    <siminfo
+        operator="VDF"
+        country="CZ"
+        mcc="230"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="A1"
+        country="AT"
+        mcc="232"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,3000,5000,1,0"
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="ORG"
+        country="AT"
+        mcc="232"
+        mnc="05"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="Bob"
+        country="AT"
+        mcc="232"
+        mnc="11"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,3000,5000,1,0"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="PLS"
+        country="PL"
+        mcc="260"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,10000,10000,5000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<!-- 18/02/2015 siddeshakumar.ur@lge.com TMO FD requirement [START]-->
+<profile>
+    <siminfo
+        operator="TMO"
+        country="PL"
+        mcc="260"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<!-- 18/02/2015 siddeshakumar.ur@lge.com TMO FD requirement [END]-->
+<profile>
+    <siminfo
+        operator="ORG"
+        country="PL"
+        mcc="260"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1500"
+    />
+    <windowSize
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="DE"
+        mcc="262"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="PT"
+        mcc="268"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMN"
+        country="PT"
+        mcc="268"
+        mnc="06"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="IE"
+        mcc="272"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="O2"
+        country="IE"
+        mcc="272"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MET"
+        country="IE"
+        mcc="272"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDL"
+        country="AL"
+        mcc="276"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="MT"
+        mcc="278"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="CY"
+        mcc="280"
+        mnc="01"
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="BG"
+        mcc="284"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="SI"
+        mcc="293"
+        mnc="40"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="AU"
+        mcc="505"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="NZ"
+        mcc="530"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="SRR"
+        country="FR"
+        mcc="647"
+        mnc="10"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VDF"
+        country="ZA"
+        mcc="655"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,1"
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="ATT"
+        country="US"
+        mcc="310"
+        mnc="170"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,16"
+        ipmtu="1410"
+    />
+    <windowSize
+        windefault="8096,87380,3461120,4096,16384,3461120"
+        lte="524288,1048576,3461120,524288,1048576,3461120"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,3461120,4096,16384,3461120"
+        gprs="8096,87380,3461120,4096,16384,3461120"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="ATT"
+        country="US"
+        mcc="310"
+        mnc="410"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,16"
+        ipmtu="1410"
+    />
+    <windowSize
+        windefault="8096,87380,3461120,4096,16384,3461120"
+        lte="524288,1048576,3461120,524288,1048576,3461120"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,3461120,4096,16384,3461120"
+        gprs="8096,87380,3461120,4096,16384,3461120"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="ATT"
+        country="US"
+        mcc="310"
+        mnc="030"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,16"
+        ipmtu="1410"
+    />
+    <windowSize
+        windefault="8096,87380,3461120,4096,16384,3461120"
+        lte="524288,1048576,3461120,524288,1048576,3461120"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,3461120,4096,16384,3461120"
+        gprs="8096,87380,3461120,4096,16384,3461120"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="ATT"
+        country="US"
+        mcc="310"
+        mnc="280"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,16"
+        ipmtu="1410"
+    />
+    <windowSize
+        windefault="8096,87380,3461120,4096,16384,3461120"
+        lte="524288,1048576,3461120,524288,1048576,3461120"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,3461120,4096,16384,3461120"
+        gprs="8096,87380,3461120,4096,16384,3461120"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="ATT"
+        country="US"
+        mcc="310"
+        mnc="380"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,16"
+        ipmtu="1410"
+    />
+    <windowSize
+        windefault="8096,87380,3461120,4096,16384,3461120"
+        lte="524288,1048576,3461120,524288,1048576,3461120"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,3461120,4096,16384,3461120"
+        gprs="8096,87380,3461120,4096,16384,3461120"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="ATT"
+        country="US"
+        mcc="310"
+        mnc="560"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,16"
+        ipmtu="1410"
+    />
+    <windowSize
+        windefault="8096,87380,3461120,4096,16384,3461120"
+        lte="524288,1048576,3461120,524288,1048576,3461120"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,3461120,4096,16384,3461120"
+        gprs="8096,87380,3461120,4096,16384,3461120"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="ATT"
+        country="US"
+        mcc="310"
+        mnc="950"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,16"
+        ipmtu="1410"
+    />
+    <windowSize
+        windefault="8096,87380,3461120,4096,16384,3461120"
+        lte="524288,1048576,3461120,524288,1048576,3461120"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,3461120,4096,16384,3461120"
+        gprs="8096,87380,3461120,4096,16384,3461120"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="ATT"
+        country="US"
+        mcc="311"
+        mnc="180"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,16"
+        ipmtu="1410"
+    />
+    <windowSize
+        windefault="8096,87380,3461120,4096,16384,3461120"
+        lte="524288,1048576,3461120,524288,1048576,3461120"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,3461120,4096,16384,3461120"
+        gprs="8096,87380,3461120,4096,16384,3461120"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="AIO"
+        country="US"
+        mcc="310"
+        mnc="150"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,5000,5000,1,16"
+        ipmtu="1410"
+    />
+    <windowSize
+        windefault="8096,87380,3461120,4096,16384,3461120"
+        lte="524288,1048576,3461120,524288,1048576,3461120"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,3461120,4096,16384,3461120"
+        gprs="8096,87380,3461120,4096,16384,3461120"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="SKT"
+        country="KR"
+        mcc="450"
+        mnc="05"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,5000,5000,1,4"
+        ipmtu="1440"
+    />
+    <windowSize
+        lte="524288,2560000,2560000,262144,524288,1048576"
+        umts="4094,87380,1220608,4096,16384,1220608"
+        hspa="4094,87380,1220608,4096,16384,1220608"
+        hsupa="4094,87380,1220608,4096,16384,1220608"
+        hsdpa="4094,87380,1220608,4096,16384,1220608"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="KT"
+        country="KR"
+        mcc="450"
+        mnc="08"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,600000,10000,5000,1"
+        ipmtu="1450"
+    />
+    <windowSize
+        lte="524288,2560000,2560000,262144,524288,1048576"
+        umts="4094,87380,1220608,4096,16384,1220608"
+        hspa="4094,87380,1220608,4096,16384,1220608"
+        hsupa="4094,87380,1220608,4096,16384,1220608"
+        hsdpa="4094,87380,1220608,4096,16384,1220608"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="LGU"
+        country="KR"
+        mcc="450"
+        mnc="06"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,20000,3000,5000,1"
+        ipmtu="1428"
+    />
+    <windowSize
+        lte="524288,2560000,2560000,262144,524288,1048576"
+        umts="4094,87380,1220608,4096,16384,1220608"
+        hspa="4094,87380,1220608,4096,16384,1220608"
+        hsupa="4094,87380,1220608,4096,16384,1220608"
+        hsdpa="4094,87380,1220608,4096,16384,1220608"
+        ehrpd="4094,87380,262144,4096,16384,262144"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="CTC"
+        country="CN"
+        mcc="460"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,600000,3000,5000,1"
+        ipmtu="1400"
+    />
+    <windowSize
+        lte="524288,1048576,2560000,262144,524288,1048576"
+        umts="4094,87380,1220608,4096,16384,1220608"
+        hspa="4094,87380,1220608,4096,16384,1220608"
+        hsupa="4094,87380,1220608,4096,16384,1220608"
+        hsdpa="4094,87380,1220608,4096,16384,1220608"
+        ehrpd="4094,87380,262144,4096,16384,262144"
+        evdo="4096,64860,129720,23460,46920,64860"
+        evdo_b="4096,262200,524400,65536,131072,262144"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="CTC"
+        country="CN"
+        mcc="460"
+        mnc="11"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,600000,3000,5000,1"
+        ipmtu="1400"
+    />
+    <windowSize
+        lte="524288,1048576,2560000,262144,524288,1048576"
+        umts="4094,87380,1220608,4096,16384,1220608"
+        hspa="4094,87380,1220608,4096,16384,1220608"
+        hsupa="4094,87380,1220608,4096,16384,1220608"
+        hsdpa="4094,87380,1220608,4096,16384,1220608"
+        ehrpd="4094,87380,262144,4096,16384,262144"
+        evdo="4096,64860,129720,23460,46920,64860"
+        evdo_b="4096,262200,524400,65536,131072,262144"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="DCM"
+        country="JP"
+        mcc="440"
+        mnc="10"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,1000,60000,5000,5000,1,3"
+        ipmtu="1500"
+    />
+    <windowSize
+        windefault="8096,87380,110208,4096,16384,110208"
+        lte="524288,1048576,3461120,262144,524288,1048576"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,110208,4096,16384,35040"
+        gprs="8096,87380,110208,4096,8760,11680"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="SBM"
+        country="JP"
+        mcc="440"
+        mnc="20"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,1000,7000,7000,5000,1"
+        ipmtu="1422"
+    />
+    <windowSize
+        windefault="8096,87380,110208,4096,16384,110208"
+        lte="524288,1048576,3461120,262144,524288,1048576"
+        umts="8096,140625,3461120,4096,140625,3461120"
+        hspa="8096,140625,3461120,4096,140625,3461120"
+        hsupa="8096,140625,3461120,4096,140625,3461120"
+        hsdpa="8096,140625,3461120,4096,140625,3461120"
+        hspap="8096,140625,3461120,4096,140625,3461120"
+        edge="8096,87380,110208,4096,16384,35040"
+        gprs="8096,87380,110208,4096,8760,11680"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="KDDI"
+        country="JP"
+        mcc="440"
+        mnc="50"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,15000,3000,5000,1,0"
+        ipmtu="1420"
+    />
+    <windowSize
+        windefault="4096,87380,110208,4096,16384,110208"
+        lte="524288,1048576,2097600,262144,524288,1048576"
+        umts="4094,87380,110208,4096,16384,110208"
+        hspa="4094,87380,262144,4096,16384,262144"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,8760,11680,4096,8760,11680"
+        evdo_b="4096,262200,524400,65536,131072,262144"
+        ehrpd="4096,262200,524000,65536,131072,262144"
+        evdo="4096,64860,132260,23460,46920,64860"
+        gpass="536,12864,19296,536,12864,19296"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="KDDI"
+        country="JP"
+        mcc="440"
+        mnc="127"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,15000,3000,5000,1,0"
+        ipmtu="1420"
+    />
+    <windowSize
+        windefault="4096,87380,110208,4096,16384,110208"
+        lte="524288,1048576,2097600,262144,524288,1048576"
+        umts="4094,87380,110208,4096,16384,110208"
+        hspa="4094,87380,262144,4096,16384,262144"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,8760,11680,4096,8760,11680"
+        evdo_b="4096,262200,524400,65536,131072,262144"
+        ehrpd="4096,262200,524000,65536,131072,262144"
+        evdo="4096,64860,132260,23460,46920,64860"
+        gpass="536,12864,19296,536,12864,19296"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="KDDI"
+        country="JP"
+        mcc="440"
+        mnc="51"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,15000,3000,5000,1,0"
+        ipmtu="1420"
+    />
+    <windowSize
+        windefault="4096,87380,110208,4096,16384,110208"
+        lte="524288,1048576,2097600,262144,524288,1048576"
+        umts="4094,87380,110208,4096,16384,110208"
+        hspa="4094,87380,262144,4096,16384,262144"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,8760,11680,4096,8760,11680"
+        evdo_b="4096,262200,524400,65536,131072,262144"
+        ehrpd="4096,262200,524000,65536,131072,262144"
+        evdo="4096,64860,132260,23460,46920,64860"
+        gpass="536,12864,19296,536,12864,19296"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="BELL"
+        country="CA"
+        mcc="302"
+        mnc="610"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,2000,5000,1"
+        ipmtu="1500"
+    />
+    <windowSize
+        windefault="4096,87380,704512,4096,16384,110208"
+        lte="524288,1048576,2560000,262144,524288,1048576"
+        umts="4094,87380,704512,4096,16384,110208"
+        hspa="4094,87380,704512,4096,16384,262144"
+        hsupa="4094,87380,704512,4096,16384,262144"
+        hsdpa="4094,87380,704512,4096,16384,262144"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,30000,30000,4096,8760,11680"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="SaskTel"
+        country="CA"
+        mcc="302"
+        mnc="780"
+        mvno_type="gid"
+        mvno_match_data="5A"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1358"
+    />
+    <windowSize
+        windefault="4096,87380,704512,4096,16384,110208"
+        lte="524288,1048576,2560000,262144,524288,1048576"
+        umts="4094,87380,704512,4096,16384,110208"
+        hspa="4094,87380,704512,4096,16384,262144"
+        hsupa="4094,87380,704512,4096,16384,262144"
+        hsdpa="4094,87380,704512,4096,16384,262144"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,30000,30000,4096,8760,11680"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="SaskTel"
+        country="CA"
+        mcc="204"
+        mnc="04"
+        mvno_type="gid"
+        mvno_match_data="5A"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1,0"
+        ipmtu="1358"
+    />
+    <windowSize
+        windefault="4096,87380,704512,4096,16384,110208"
+        lte="524288,1048576,2560000,262144,524288,1048576"
+        umts="4094,87380,704512,4096,16384,110208"
+        hspa="4094,87380,704512,4096,16384,262144"
+        hsupa="4094,87380,704512,4096,16384,262144"
+        hsdpa="4094,87380,704512,4096,16384,262144"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,30000,30000,4096,8760,11680"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="Telenor"
+        country="Serbia"
+        mcc="220"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MTS"
+        country="Serbia"
+        mcc="220"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VIP"
+        country="Serbia"
+        mcc="220"
+        mnc="05"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TNR"
+        country="ME"
+        mcc="297"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+    />
+</profile>
+<!-- 18/02/2015 siddeshakumar.ur@lge.com TMO FD requirement [START]-->
+<profile>
+    <siminfo
+        operator="TMO"
+        country="ME"
+        mcc="297"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,5000,3000,5000,1"
+    />
+</profile>
+<!-- 18/02/2015 siddeshakumar.ur@lge.com TMO FD requirement [END]-->
+<profile>
+    <siminfo
+        operator="M-TEL"
+        country="ME"
+        mcc="297"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="RGS"
+        country="CA"
+        mcc="302"
+        mnc="720"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,3720000,2000,5000,1"
+        ipmtu="1430"
+    />
+    <windowSize
+        windefault="4096,87380,704512,4096,16384,110208"
+        lte="524288,1048576,2560000,262144,524288,1048576"
+        umts="4094,87380,704512,4096,16384,110208"
+        hspa="4094,87380,704512,4096,16384,262144"
+        hsupa="4094,87380,704512,4096,16384,262144"
+        hsdpa="4094,87380,704512,4096,16384,262144"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,30000,30000,4096,8760,11680"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="FIDO"
+        country="CA"
+        mcc="302"
+        mnc="370"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,3660000,2000,5000,1"
+        ipmtu="1430"
+    />
+    <windowSize
+        windefault="4096,87380,704512,4096,16384,110208"
+        lte="524288,1048576,2560000,262144,524288,1048576"
+        umts="4094,87380,704512,4096,16384,110208"
+        hspa="4094,87380,704512,4096,16384,262144"
+        hsupa="4094,87380,704512,4096,16384,262144"
+        hsdpa="4094,87380,704512,4096,16384,262144"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,30000,30000,4096,8760,11680"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MTS Primary IMSI"
+        country="CA"
+        mcc="302"
+        mnc="660"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,3660000,2000,5000,1"
+        ipmtu="1430"
+    />
+    <windowSize
+        windefault="4096,87380,704512,4096,16384,110208"
+        lte="524288,1048576,2560000,262144,524288,1048576"
+        umts="4094,87380,704512,4096,16384,110208"
+        hspa="4094,87380,704512,4096,16384,262144"
+        hsupa="4094,87380,704512,4096,16384,262144"
+        hsdpa="4094,87380,704512,4096,16384,262144"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,30000,30000,4096,8760,11680"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TLS"
+        country="CA"
+        mcc="302"
+        mnc="220"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,60000,3000,5000,1"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,704512,4096,16384,110208"
+        lte="524288,1048576,2560000,262144,524288,1048576"
+        umts="4094,87380,704512,4096,16384,110208"
+        hspa="4094,87380,704512,4096,16384,262144"
+        hsupa="4094,87380,704512,4096,16384,262144"
+        hsdpa="4094,87380,704512,4096,16384,262144"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,30000,30000,4096,8760,11680"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TLS"
+        country="CA"
+        mcc="302"
+        mnc="221"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,60000,3000,5000,1"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,704512,4096,16384,110208"
+        lte="524288,1048576,2560000,262144,524288,1048576"
+        umts="4094,87380,704512,4096,16384,110208"
+        hspa="4094,87380,704512,4096,16384,262144"
+        hsupa="4094,87380,704512,4096,16384,262144"
+        hsdpa="4094,87380,704512,4096,16384,262144"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,30000,30000,4096,8760,11680"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TEL"
+        country="AU"
+        mcc="505"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1358"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="OPT"
+        country="AU"
+        mcc="505"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="0"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="SHB"
+        country="SG"
+        mcc="525"
+        mnc="05"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="STL"
+        country="SG"
+        mcc="525"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="STL"
+        country="SG"
+        mcc="525"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MON"
+        country="SG"
+        mcc="525"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MON"
+        country="SG"
+        mcc="525"
+        mnc="04"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="CLR"
+        country="PL"
+        mcc="330"
+        mnc="110"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1,16"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TCL"
+        country="MX"
+        mcc="334"
+        mnc="020"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1,2"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VIV"
+        country="BR"
+        mcc="724"
+        mnc="06"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VIV"
+        country="BR"
+        mcc="724"
+        mnc="10"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VIV"
+        country="BR"
+        mcc="724"
+        mnc="11"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VIV"
+        country="BR"
+        mcc="724"
+        mnc="23"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,10000,5000,5000,1"
+        ipmtu="1500"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="260"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="160"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="200"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="210"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="220"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="230"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="240"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="250"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="270"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="300"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="310"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="660"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="TMO"
+        country="US"
+        mcc="310"
+        mnc="800"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="260"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="160"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="200"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="210"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="220"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="230"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="240"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="250"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="270"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="300"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="310"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="660"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="MPCS"
+        country="US"
+        mcc="310"
+        mnc="800"
+        mvno_type="gid"
+        mvno_match_data="6D"
+    />
+    <settings
+        fastdormancy_param="1,0,0,1000,5000,300000,2000,2000,0,19"
+        ipmtu="1440"
+    />
+    <windowSize
+        windefault="4096,87380,524288,4096,16384,110208"
+        lte="2097152,4194304,8388608,524288,1048576,2560000"
+        umts="21135,131070,1056768,6144,24576,165312"
+        hspa="18300,131070,1056768,6144,24576,393216"
+        hsupa="6141,131070,1056768,6144,24576,393216"
+        hsdpa="18300,131070,1056768,6144,24576,393216"
+        hspap="31455,131070,1830912,6144,24576,1830912"
+        edge="8192,26280,704512,4096,16384,110208"
+        gprs="8192,8760,704512,4096,8760,110208"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="SPCS"
+        country="US"
+        mcc="310"
+        mnc="120"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param=""
+        ipmtu="1422"
+    />
+    <windowSize
+        windefault="4096,87380,110208,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="4094,87380,110208,4096,16384,110208"
+        hspa="4094,87380,1220608,4096,16384,1220608"
+        hsupa="4094,87380,1220608,4096,16384,1220608"
+        hsdpa="4094,87380,1220608,4096,16384,1220608"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,8760,11680,4096,8760,11680"
+        ehrpd="4094,87380,262144,4096,16384,262144"
+        evdo="4094,87380,262144,4096,16384,262144"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="VZW"
+        country="US"
+        mcc="311"
+        mnc="480"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param=""
+        ipmtu="1428"
+    />
+    <windowSize
+        windefault="4096,87380,110208,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="4094,87380,110208,4096,16384,110208"
+        hspa="4094,87380,1220608,4096,16384,1220608"
+        hsupa="4094,87380,1220608,4096,16384,1220608"
+        hsdpa="4094,87380,1220608,4096,16384,1220608"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,8760,11680,4096,8760,11680"
+        evdo="4094,87380,262144,4096,16384,262144"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="H3G"
+        country="HK"
+        mcc="454"
+        mnc="03"
+    />
+    <settings
+        ipmtu="1340"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="H3G"
+        country="HK"
+        mcc="454"
+        mnc="04"
+    />
+    <settings
+        ipmtu="1200"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="CMCC"
+        country="CN"
+        mcc="460"
+        mnc="00"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1400"
+    />
+</profile>
+
+<profile>
+    <siminfo
+        operator="CMCC"
+        country="CN"
+        mcc="460"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1400"
+    />
+</profile>
+
+<profile>
+    <siminfo
+        operator="CMCC"
+        country="CN"
+        mcc="460"
+        mnc="02"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1400"
+    />
+</profile>
+
+<profile>
+    <siminfo
+        operator="CMCC"
+        country="CN"
+        mcc="460"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1400"
+    />
+</profile>
+
+<profile>
+    <siminfo
+        operator="CMCC"
+        country="CN"
+        mcc="460"
+        mnc="07"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1400"
+    />
+
+</profile>
+
+<profile>
+    <siminfo
+        operator="CMCC"
+        country="CN"
+        mcc="460"
+        mnc="08"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1400"
+    />
+</profile>
+
+<profile>
+    <siminfo
+        operator="APT"
+        country="CN"
+        mcc="466"
+        mnc="05"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1420"
+    />
+</profile>
+
+<profile>
+    <siminfo
+        operator="USC"
+        country="US"
+        mcc="311"
+        mnc="580"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        fastdormancy_param=""
+        ipmtu="1422"
+    />
+    <windowSize
+        windefault="4096,87380,110208,4096,16384,110208"
+        lte="2097152,4194304,8388608,1048576,3145728,4194304"
+        umts="4094,87380,110208,4096,16384,110208"
+        hspa="4094,87380,1220608,4096,16384,1220608"
+        hsupa="4094,87380,1220608,4096,16384,1220608"
+        hsdpa="4094,87380,1220608,4096,16384,1220608"
+        hspap="4094,87380,1220608,4096,16384,1220608"
+        edge="4093,26280,35040,4096,16384,35040"
+        gprs="4092,8760,11680,4096,8760,11680"
+        ehrpd="4094,87380,262144,4096,16384,262144"
+        evdo="4094,87380,262144,4096,16384,262144"
+    />
+</profile>
+<!-- 03/01/2018 vinodh.kumara@lge.com &.shridhar.bhat@lge.com.MTN IRAN cell MTU requirement [START]-->
+<profile>
+    <siminfo
+        operator="MTN"
+        country="IRAN"
+        mcc="432"
+        mnc="35"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1440"
+    />
+</profile>
+<!-- 03/01/2018 vinodh.kumara@lge.com &.shridhar.bhat@lge.com.MTN IRAN cell MTU requirement [END]-->
+<!-- 03/01/2018 vinodh.kumara@lge.com &.shridhar.bhat@lge.com.MTN IRAN cell MTU requirement [START]-->
+<profile>
+    <siminfo
+        operator="MCI"
+        country="IRAN"
+        mcc="432"
+        mnc="11"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1300"
+    />
+</profile>
+<!-- 03/01/2018 vinodh.kumara@lge.com &.shridhar.bhat@lge.com.MTN IRAN cell MTU requirement [END]-->
+<!-- 2018/01/16 vasanth.jegathesan@lge.com & shridhar.bhat@lge.com LGP_DATA_TCPIP_MPTCP_GLOBAL_SET [START]-->
+<profile>
+    <siminfo
+        operator="AIS"
+        country="TH"
+        mcc="520"
+        mnc="01"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1400"
+    />
+</profile>
+<profile>
+    <siminfo
+        operator="AIS"
+        country="TH"
+        mcc="520"
+        mnc="03"
+        mvno_type=""
+        mvno_match_data=""
+    />
+    <settings
+        ipmtu="1400"
+    />
+</profile>
+<!-- 2018/01/16 vasanth.jegathesan@lge.com & shridhar.bhat@lge.com LGP_DATA_TCPIP_MPTCP_GLOBAL_SET [END]-->
+</profiles>

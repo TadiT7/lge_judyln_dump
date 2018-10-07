@@ -1,0 +1,4 @@
+service platform-hal-1-0 /vendor/bin/hw/vendor.lge.hardware.platform@1.0-service
+    class hal
+    user system
+    group system

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<profiles>
+    <!-- Default -->
+    <profile>
+        <siminfo mcc="" mnc="" country="" operator=""/>
+        <item name="nfc_default"> yes </item>
+        </profile>
+
+    <!-- AL : Albania -->
+    <profile>
+        <siminfo mcc="276" mnc="02" country="Albania" operator="Vodafone"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (VDL) -->
+        </profile>
+    <!-- FR : France -->
+    <profile>
+        <siminfo mcc="208" mnc="10" country="France" operator="SFR"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (LA POSTE MOBILE) -->
+        </profile>
+    <profile>
+        <siminfo mcc="208" mnc="15" country="France" operator="FRE"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (FRE) -->
+        </profile>
+    <!-- RE : France Reunion -->
+    <profile>
+        <siminfo mcc="647" mnc="10" country="France Reunion" operator="SFR Reunion"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (SRR)-->
+        </profile>
+    <!-- DE : Germany -->
+    <profile>
+        <siminfo mcc="262" mnc="02" country="Germany" operator="Vodafone"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (VD2)-->
+        </profile>
+    <!-- GR : Greece-->
+    <profile>
+        <siminfo mcc="202" mnc="05" country="Greece" operator="Vodafone"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (VDX) -->
+        </profile>
+    <!-- HU : Hungary -->
+    <profile>
+        <siminfo mcc="216" mnc="01" country="Hungary" operator="Pannon"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (PNN)-->
+        </profile>
+    <!-- MK : Macedonia -->
+    <profile>
+        <siminfo mcc="294" mnc="02" country="Macedonia" operator="Cosmofon"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (ONY)-->
+        </profile>
+    <profile>
+        <siminfo mcc="294" mnc="03" country="Macedonia" operator="VIP Operator"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (VPM)-->
+        </profile>
+    <!-- MT : Malta -->
+    <profile>
+        <siminfo mcc="278" mnc="01" country="Malta" operator="Vodafone"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (VDM)-->
+        </profile>
+    <!-- PL : Poland -->
+    <profile>
+        <siminfo mcc="260" mnc="06" country="Poland" operator="Play"/>
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (P4P)-->
+        </profile>
+    <!-- ES : Spain -->
+    <profile>
+        <siminfo mcc="214" mnc="03" country="Spain" operator="Orange"/> <!-- Carrefour -->
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (Carrefour) -->
+        </profile>
+    <profile>
+        <siminfo mcc="214" mnc="06" country="Spain" operator="Vodafone"/> <!-- Eroski Movil / R_CABLE / Telecable-->
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (EROSKI_MOVIL/R_CABLE/TELECABLE)-->
+        </profile>
+    <profile>
+        <siminfo mcc="214" mnc="07" country="Spain" operator="Movistar"/> <!-- Telefonica-->
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (TLF/JAZZTEL) -->
+        </profile>
+    <profile>
+        <siminfo mcc="214" mnc="19" country="Spain" operator="Simyo"/> <!-- KPN -->
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (KPS) -->
+        </profile>
+    <profile>
+        <siminfo mcc="214" mnc="21" country="Spain" operator="Jazztel"/> <!-- Jazztel -->
+        <item name="nfc_default"> no </item> <!-- OPEN_Global (JAZZTEL) -->
+        </profile>
+</profiles>

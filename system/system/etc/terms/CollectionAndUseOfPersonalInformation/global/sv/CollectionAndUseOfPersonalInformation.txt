@@ -1,0 +1,109 @@
+﻿Sekretesspolicy
+
+Denna sekretesspolicy beskriver hur LGE får åtkomst till och använder din personliga information i kontexten för mjukvaruuppdateringstjänsten. Läs den noggrant innan du använder mjukvaruuppdateringstjänsten.
+
+1.	Introduktion
+LG Electronics Inc. (“LGE” eller “vi”) arbetar för att skydda informationen för de personer och grupper som använder mobiltelefoner från LGE. Denna sekretesspolicy anger hur vi samlar in, använder och delar information som vi samlar in från din LGE-mobiltelefon och, anger speciellt följande:
+-	Översikt över FOTA-mjukvaruuppdateringar;
+-	Information som LGE kan införskaffa från dig;
+-	Hur LGE använder informationen som samlas in;
+-	När LGE delar information med andra; 
+-	Överföringar utomlands av personliga data
+-	Hur länge sparar LGE min personliga information?
+-	Sekretess
+-	Rätten att neka till eller dra tillbaka sitt samtycke
+-	Skydda barnens personuppgifter
+-	Ändringar i LGE:s sekretesspolicy
+-	Åtkomst till din information
+-	Rätt att logga ett klagomål; och
+-	Kontakta LGE kring denna sekretesspolicy
+
+Denna policy gäller bara för information som samlas in av LGE från din LGE-mobiltelefon för att utföra en uppdatering av firmware via en Firmware Over-the-Air-process (“FOTA”) (en “mjukvaruuppdatering”). Denna policy gäller inte för några andra produkter eller tjänster från LGE, inklusive mobilappar som erbjuds av eller tillhandahålls av LGE. Denna policy gäller inte heller för några produkter eller tjänster som erbjuds av tredje parter, inklusive operativsystemsleverantörer, annat innehålle eller applikationsleverantörer eller din nätverksoperatör. Produkter och tjänster som ligger utanför området för denna sekretesspolicy har egna policier som gäller för insamling, användning och delning av information, och vi uppmuntrar dig att läsa dessa policier. LGE ansvarar inte för sekretessrutiner för tredje part.
+
+Om du nyligen har köpt den här mobiltelefonen krävs det att du utför en mjukvaruuppdatering enligt beskrivningen i denna sekretesspolicy före användning, för att säkerställa att din mobiltelefon fungerar som den ska och har de senaste funktionerna, funktionaliteterna och säkerhetsinställningarna. Vid frågor, kontakta oss enligt instruktionerna i denna policy.
+
+Denna policy finns tillgänglig för granskning på sökvägen [Inställningar – System – Om telefonen – Juridisk information – Juridiska dokument för mjukvaran från LG – Sekretesspolicy].
+
+Alla översättningar av denna sekretesspolicy görs för lokala krav och i händelse av skillnader mellan den engelska versionen och icke engelska versioner av den här policyn gäller den engelska policyn, i den maximala utsträckning som tillåts enligt gällande lag i din jurisdiktion.
+
+2.	Översikt över uppdateringar av FOTA-mjukvaran
+Med jämna mellanrum kan LGE-firmware på din mobiltelefon (“Mjukvaran”) kräva uppdateringar eller tillägg som tillhandahålls av LGE, eller så kan LGE göra tilläggskomponenter till mjukvaran. Om du utför en mjukvaruuppdatering installeras den nya mjukvaran på din mobiltelefon för att tillhandahålla dessa uppdateringar, tillägg eller tilläggskomponenter. Mjukvaruuppdateringarna kan lägga till nya funktioner eller egenskaper och i begränsade fall ta bort befintliga funktioner eller egenskaper. Efter slutförande av mjukvaruuppdateringen kan du inte längre använda och får inte längre ångra tidigare installerad version av mjukvaran. 
+
+Eftersom mjukvaruuppdateringen utförs genom en FOTA-process, kan ytterligare kostnader tillkomma, om du hämtar mjukvaran över ett mobilt nätverk, beroende på din nätverksoperatör och serviceplan. Om du vill undvika användning av mobila nätverksdata för mjukvaruuppdateringar ska du välja alternativet “Endast Wi-Fi” under Inställningar. 
+
+a.	Dina alternativ för hantering av framtida mjukvaruuppdateringar
+När du samtycker till denna FOTA-sekretesspolicy, ysöker din mobiltelefon efter ny eller uppdaterad mjukvara med jämna mellanrum och installerar automatiskt ny eller uppdaterad mjukvara när den är tillgänglig (funktionen “Kontrollera automatiskt”). Efter att mjukvaran installerats, varnar vi dig genom att använda ett popup-meddelande eller en avisering på din mobiltelefon. Du kan välja att godkänna eller avvisa mjukvaruuppdateringen innan du verkställer mjukvaran. Din mobiltelefon verkställer automatiskt installerad mjukvara vid midnatt (“Automatiska uppdateringar”). Du kan avvisa dessa med funktionerna “Kontrollera automatiskt” och “Automatiska uppdateringar” på sökvägen [Inställningar – System – Uppdateringscenter – Mjukvaruuppdatering – överflödesmeny – Inställningar].  Om du avvisar Kontrollera automatiskt, avvisar du effektivt framtida användning av mjukvaruuppdateringar.
+Om din mobiltelefon är redo att användas och du bestämmer dig för att utföra en mjukvaruuppdatering ska du notera att om du underlåter att installera den uppdaterade mjukvaran kan det resultera i [försämrning av prestandan för din mobiltelefons kompatibiliet med nya eller befintliga appar, och andra fel med funktioner eller säkerhetsfunktioner i din mobiltelefon].
+
+b.	Brådskande mjukvaruuppdateringar
+Om omständigheterna kräver det kan vi utföra en mjukvaruuppdatering i enlighet med våra juridiska intressen, utan att uppge något individuellt meddelande eller söka samtycke och oavsett aktuella enhetsinställningar (en “Brådskande mjukvaruuppdatering”). Exempel på omständigheter som kan kräva en brådskande mjukvaruuppdatering inkluderar hot mot kundsäkerhet eller datasekretess, eller driftsproblem som kan resultera i signifikanta avbrott av tjänster eller förestående sannolikhet för sådana omständigheter.
+
+3.	Information som LGE kan inhämta från dig
+Vid utförande av en mjukvaruuppdatering kan, LGE samla in följande information från din mobiltelefon: International Mobile Equipment Identity (IMEI), serienummer, mobiltelefonsmodell, mjukvaru- och /eller firmware-versioner, telefonens operativsystem, mobile country code (MCC), mobile network code (MNC), Google Cloud Messaging (GCM) identifierare och valt språk. Denna information samlas in automatiskt som del av processen i att utföra en mjukvaruuppdatering.
+
+Som en del i vår roll att erbjuda mobila tjänster för din mobiltelefon samlar vi in operationell information, inklusive systemloggar med IP-adresser. Denna information samlas in automatiskt och är en nödvändig del av telefonanvändningen.
+
+4.	Hur använder LGE informationen som hämtas?
+Vi använder informationen som hämtas från dig i olika syften, inklusive:
+-	Att utföra mjukvaruuppdateringen (inklusive brådskande mjukvaruuppdateringar), inklusive att kontrollera om mjukvaran är uppdaterad för att autentisera din mobiltelefon och att leverera rätt mjukvara; 
+-	Att bekräfta våra åtaganden under [vår Begränsade produktgaranti];
+-	Att tillhandahålla aviseringar gällande säkerhetstjänster för mobiltelefonen och nödaviseringar som svar på säkerhetsfel;
+-	Att skydda och försvara våra rättigheter och egenskaper, inklusive i juridiska förhandlingar;
+-	Att efterleva reglmässiga krav och
+-	Att analysera, granska och förbättra prdukterna och tjänsterna vi erbjuder.
+
+Den juridiska grunden på vilken LGE förlitar sig på behandlar din personliga information typiskt på ett av följande sätt;
+-	Avtal: där det krävs för att skapa ett avtal med dig;
+-	Juridiska intressen: där det krävs i syfte för LGE eller en tredje parts juridiska affärsintressen. För LGE inkluderar detta intressen i egenskap av elektronisk produkttillverkare och tjänsteleverantör;
+-	Samtycke: där du har valt att uppge det. Du har rätten att dra tillbaka ditt samtycke när som helst; eller
+-	Juridiskt åtagande: där behandling krävs för efterlevnad av dina juridiska krav
+
+Vi kan även samla statistiska data under en mjukvaruuppdatering och under användning av mobiltelefonen för att bättre förstå våra kunders behov, att förbättra vår kundvård och våra produkter och tjänster som vi erbjuder, och för marknadsundersökningar och -analys. Sådana samlade statistiska data innehåller inte information som identifierar eller kan hänföras till verkliga personer.
+
+5.	När LGE lämnar ut information till andra
+Vi lämnar i allmänhet inte ut information till tredje part som vi samlar in under mjukvaruuppdateringen och som identifierar eller kan hänföras till verkliga personer. Inte desto mindre ska du vara medveten om följande omständigheter där vi kan lämna ut sådan information till följande tredje parter:
+
+-	Filialer och dotterbolag. LGE kan lämna ut personlig och icke personlig information (inklusive mobiltelefonsinformation) till sina filialer och dotterbolag jorden runt, under försättning att det krävs i syften för vilka den samlades in. Termen ‘filialer’ eller ‘dotterbolag’ hänvisar till koncerner som kan använda LG-namnet eller som har gemensamt ägande eller kontroll, såsom LG CNS eller LG Electronics U.S.A., Inc.;
+-	Leverantörer av tredjepartstjänst. Till tredjepartsleverantörer som LGE kan engagera för att erbjuda tjänster å deras vägnar från tid till annan, såsom att uppfylla kundens tjänstebegäranden;
+-	Andra parter när lagen kräver det. Enligt det som krävs för domstolsordern eller annan myndighet eller lagefterlevande myndigheter för att uppfylla den juridiska processen eller lagen;
+-	Andra parter kopplade till företagstransaktioner. I anslutning till en företagshändelse, såsom en fusion, rekonstruktion, försäljning eller överlåtelse av hela eller delar av LGE:s verksamhet (inklusive en avdelning eller ett dotterbolag), där LGE kan behöva lämna ut information till en ptoentiell köpare och dess professionella rådgivare;
+-	Andra parter när det krävs för att skydda vår tjänst. För att utnyttja våra avtalsmässiga rättigheter, vidta säkerhetsföreskrifter mot ansvarsfrågan, undersöka misstänkta eller faktiska olagliga åtgärder, eller för att undersöka eller försvara oss själva mot krav från trejde part eller överträdelser; eller
+-	Andra parter när det krävs för att skydda någon av våra kunders personliga säkerhet eller egendom. För att skydda rättigheter, personlig säkerhet eller egendom för våra kunder eller allmänheten.
+
+Under inga omständigheter ska din personliga information samlas in under mjukvaruuppdateringen som ska behandlas i marknadsföringssyfte, utan ditt samtycke och inte heller delas med tredje part i marknadsföringssyfte utan ditt samtycke.
+
+6.	Överföringar av personliga data
+Vi, våra filialer, dotterbolag och tjänsteleverantörer kan använda din personliga information i andra länder än där din mobiltelefon finns, i syften som beskrivs i den här sekretesspolicyn. Dataskyddslagar i vissa länder kan inte erbjuda samma nivå av skydd som de i landet där du finns. Före överföring av din personliga information, vidtar vi dock stegen för att säkerställa att sådan information får samma skyddsnivå i mottagarlandet eller jurisdiktionen. Genom att godkänna denna sekretesspolicy uttrycker du ditt samtycke till bearbetning av din personliga information i länder eller jurisdiktioner där tillämpliga lagar inte ger samma skyddsnivå som lagarna i landet eller jurisdiktionen där du finns, inklusive och utan begränsning till, Republiken Korea eller USA, i enlighet med denna sekretesspolicy. 
+
+7.	Hur länge sparar LGE min personliga information?
+Vi vidtar skäliga steg för att säkerställa att vi sparar din personliga information så länge det behövs i syften för vilka den samlades in, eller enligt vad som krävs enligt gällande lag. 
+Om du begär att din personliga information ska raderas permanent på grund av att den inte längre behövs, eller baserat på en invändning mot bearbetning eller krav på att bearbetningen är olaglig, har du tätt att söka förbud för bearbetninge under tiden vi verifierar begäran om raderingen.
+
+8.	Säkerhet
+Vi använder kommersiellt skäliga ansträngningar och följer allmänna, godkända rutiner för industridata för att skydda din personliga information mot oavsiktlig förlust och från obehörig åtkomst, användning och modifiering och utlämning. Inte desto mindre, på grund av utformningen av Internet, ständigt föränderlig teknik och andra faktorer som ligger bortom vår kontroll, kan vi inte garantera att kommunikationer mellan dig och våra servrar sker fritt från obehörig åtkomst från tredje part eller att vi inte utsätts för säkerhetsbrott. Vi tar inget ansvar för utlämning av personlig information på grund av fel i överföring eller obehörig eller olaglig aktivitet från tredje part.
+
+9.	Rätt att neka eller dra tillbaka sitt samtycke
+Under tillämplig lokal lag, kan du ha rätten att inte samtycka till denna sekretesspolicy, att dra tillbaka ditt samtycke eller på annat sätt begära att vi upphör med hanteringen av personlig information om dig. För att utöva sådana rättigheter som du kan ha ber vi dig kontakta oss enligt det som uppges i denna policy, och vi svarar på din begäran så snabbt vi kan. 
+Utöver detta kan du dra tillbaka ditt samtycke till ytterligare insamling av din personliga information genom att inaktivera funktionerna “Kontrollera automatiskt” och “Automatiska uppdateringar” på din mobiltelefon, som beskrivs ovan. Dessa funktioner kan du få åtkomst till på sökvägen [Inställningar – System – Uppdateringscenter – Mjukvaruuppdatering – överflödesmeny – Inställningar]. 
+Se till att om du inaktiverar funktionerna Kontrollera automatiskt och Automatiska uppdateringar, kan det påverka eller begränsa användningen av din mobiltelefon eller tjänster helt eller delvis. Insamlingen och användningen av informationen, så som den beskrivs ovan, är nödvändig för optimal användning av din mobiltelefon. 
+
+Vid frågor om din rätt att neka eller dra tillbaka ditt samtycke, kontakta oss på lgecsvc@lge.com
+
+10.	Skydda barnens personuppgifter
+Att skydda barnens personuppgifter är viktigt för oss. Av den anledningen är din mobiltelefon inte avsedd att användas av barn enligt de riktlinjer som ges av nationell lag, och vi samlar inte medvetet in eller sparar personlig information från barn. Skulle vi få veta att vi har samlat in information från ett barn utan föregående samtycke från en förälder raderar vi omedelbart sådan personlig information.
+
+11.	Ändringar i LGE:s sekretesspolicy
+Denna sekretesspolicy kan med jämna mellanrum uppdateras av LGE. Om vi gör en materialändring i vår sekretesspolicy, informerar vi dig om uppdatering av datum nedan och genom att erbjuda den modifierade sekretesspolicyn, för din granskning som del av en framtida mjukvaruuppdatering.
+
+12.	Åtkomst till din information 
+Du har rätt att begära detaljer om din personliga information som LGE samlar in för åtkomst, korrigering eller radering av din personliga information. Observera dock att vi inte kan förändra eller radera din personliga information om det krävs enligt gällande lag att informationen sparas. Om det tillåts enligt lag, kan en liten avgift för att du får den här tjänsten tas ut. Observera att vi kan neka till att behandla din begäran om den är oskäligt kravfylld, om den utsätter sekretessen för andra för risk eller är extremt ppraktisk. Dessutom kan uppdatering eller radering av personlig information påverka eller begränsa användningen av din mobil eller tjänster. 
+
+Om du vill göra en beställning för att få årkomst, korrigera eller radera din personliga information ska du kontakta oss på lgecsvc@lge.com
+
+13.	Rätten att logga ett klagomål
+Under tillämplig lokal lag inom EU, har du rätten att logga ett klagomål kopplat till bearbetningen av dina personliga data hos relevant övervakande myndighet. För mer information om din rätt att logga ett klagomål eller arkivera ett klagomål hos LGE, kontakta oss på lgecsvc@lge.com. 
+
+14.	Kontakta LGE kring denna sekretesspolicy
+Om du har frågor eller kommentarer kring denna sekretesspolicy ska du kontakta oss på e-post på adressen lgecsvc@lge.com.
+
+Senast uppdaterad: 1 nov, 2017

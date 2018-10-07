@@ -1,0 +1,63 @@
+﻿Privacy Policy for Using Activity Logs
+
+Note: By consenting to this Privacy Policy, you give us permission to use your data as described herein. Your consent is voluntary. If you do not grant your consent, however, we will not be able to provide services to you; in this case, you cannot use certain LG Device Diagnostics Report Services ("LG Service"). You may retrieve the terms of your consent at any time in the LG Service and may also revoke your consent at any time by sending a message to: mc.customer-service@lge.com. 
+
+1. Introduction
+LG Electronics Inc. (“LGE” or “we”) is committed to protecting the information of the individuals and groups who use LG Service contained therein. This Privacy Policy sets out how we collect, use, and share information that we obtain as a result of your use of services and, in particular, sets out:
+- What information LGE may obtain from you or LG Service;
+- How LGE uses the information that it obtains;
+- When LGE shares information with others; and
+- How you may control LGE’s use and sharing of your information.
+
+LG Service may provide access to software application and links to other services owned and operated by third parties including operating system providers and other content and application providers. These third party services are outside the scope of this Privacy Policy and have their own policies that apply to the collection, use, and sharing of information in connection with their services. We encourage you to read those policies. LGE is not responsible or liable for the privacy practices of such third parties.
+
+2. What information does LGE obtain?
+LGE will collect the following information:
+① Mobile device status: Model, software version, IMEI, serial number, IMSI, power status, battery status, CPU/RAM/internal storage usage, average usage time, hardware self-diagnosis result (Wi-Fi, BT, proximity sensor, illumination sensor, fingerprint sensor, etc.)
+② Network status: Service status (call, data), signal strength, station information, call frequency/time
+③ Application information: The list of installed and deleted apps, app version, recently executed apps, app usage frequency/statistics 
+④ Mobile phone connection status: Wi-Fi, Bluetooth, GPS, ear-jack, battery charger, USB, and SD Card connection statuses
+⑤ Error information: Frozen screen, unintended power-offs, disconnected calls, application errors (fatal, exception)
+
+3. How will LGE use the information it obtains?
+We use information obtained from you for various purposes, including:
+- To identify and diagnose mobile device
+- To perform customer services and manage service history 
+- To send push messages 
+- To analyze service/logs/device history for improved quality and customer satisfaction
+
+We may combine information obtained from you, including personal information, with information that you provide to us by other means, for the purposes consistent with this Privacy Policy. 
+
+4. Information Sharing
+We generally do not share with third parties the information we receive as a result of you using LG Service. Nevertheless, please be aware of the following circumstances where we may share such information with the following entities:
+- Affiliates and Subsidiaries. LGE may share personal information and non-personal information (including device infomration) with its affiliates and subsidiaries around the world only as long as necessary for the purposes for which it was collected. The term ‘affiliates’ or ‘subsidiaries’ refers to group companies that may be using LG name or that has common ownership or control such as LG CNS or LG Electronics U.S.A.,INC.("LGEUS");
+- Third Party Service Providers. To third party vendors that LGE may engage to provide services on its behalf from time to time, such as to fulfill customer service requests;
+- Other Parties When Required by Law. As required by court order or other government or law enforcement authorities in order to comply with legal process or law;
+- Other Parties in Connection with Corporate Transactions. In connection with a corporate event, such as a merger or sale of all or part of LGE’s business (including that of a division or subsidiary), where LGE may need to disclose information to a potential buyer and its professional advisers;
+- Other Parties When it is Necessary to Protect Our Service. In order to protect and defend our rights and property, including by way of legal proceedings;
+- Other Parties When it is to Protect Any of Our Users’ Personal Safety or Property. In order to protect the personal safety or property of our users or the public.
+
+Under no circumstances shall your personal information be processed for marketing purposes, nor shared with third parties for marketing purposes.
+
+5. Overseas Transfers
+We, our affiliates, subsidiaries, and suppliers may use information (including your personal information) in countries other than where your device is located in connection with providing you with our LG Service and any other purposes outlined in this Privacy Policy. The data protection laws in many of these countries may not offer the same level of protection as those in the country where you are located. Before transferring your personal information, however, we will take steps to ensure that such information will be afforded the same level of protection. By agreeing to this Privacy Policy you expressly consent to us and our business associates and suppliers processing your data in any jurisdiction, including, without limitation, Republic of Korea or the United States in accordance with this Privacy Policy. 
+
+6. How long will LGE keep my personal information?
+We will take reasonable steps to make sure that we keep your personal information for as long as is necessary for us to provide you with LG Service or for the purpose for which it was collected, or as required by applicable law.
+
+7. Security
+We use commercially reasonable efforts to safeguard the confidentiality of your personal information. Nevertheless, due to the design of the Internet, ever-changing technology, and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties or that we will not be subject to security breaches. We do not accept any responsibility for the disclosure of personal information due to errors in transmission or unauthorized or unlawful acts of third parties.
+
+8. Protecting the Privacy of Children
+Protecting the privacy of children is important to us. For that reason, LG Service is not directed at anyone under 14 years old or the age of majority in the relevant jurisdiction and it is not structured specifically to attract anyone under 14. We also do not knowingly collect or maintain personal information from users who are under 14. Should we learn or be notified that we have collected information from users under the age of 14 years old or the age of majority in the relevant jurisdiction, we will promptly delete such personal information.
+
+9. Changes to LGE's Privacy Policy
+This Privacy Policy may be updated by LGE from time to time. If we make a material change to our Privacy Policy, we will update you through LG website or other means. If you do not consent to the updated privacy policy, LG Service may be restricted.
+
+10. Accessing Your Information 
+Under the laws of some jurisdictions, you are entitled to request details about your personal information LGE collects and to correct inaccuracies in your personal information or otherwise oppose, for legitimate purposes, the processing of your personal information. If permitted by law, a small fee for providing you with such service may be charged. Please note that we may decline to process your requests if they are unreasonably abusive, jeopardize the privacy of others, or are extremely impractical. If you would like to make a request to access, rectify, cancel or oppose to the processing of your personal information, please contact us at mc.customer-service@lge.com.
+
+11. Contacting LGE about this Privacy Policy
+If you have any questions or comments about this Privacy Policy please contact mc.customer-service@lge.com.
+
+Last updated: Jun 22, 2017

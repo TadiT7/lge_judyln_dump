@@ -1,0 +1,80 @@
+﻿Aktivitāšu žurnālu izmantošanas Konfidencialitātes politika
+
+Šī Konfidencialitātes politika apraksta to, kā LGE iegūst piekļuvi un izmanto jūsu personisko informāciju saistībā ar atsevišķiem LG ierīces diagnostikas ziņojumu pakalpojumiem. Rūpīgi to izlasiet pirms LG ierīces diagnostikas ziņojumu pakalpojumu izmantošanas.
+
+1. Ievads
+Uzņēmums LG Electronics Inc. („LGE” vai „mēs”) ir apņēmies aizsargāt to personu un grupu informāciju, kas izmanto LG PC/Mac programmatūru. Ar šo LG ierīces diagnostikas ziņojumu pakalpojumu tiek nodrošināts tālvadības savienojuma pakalpojums („Pakalpojumi”).
+Šī Konfidencialitātes politika nosaka to, kā mēs ievācam, izmantojam un koplietojam informāciju, kuru iegūstam, kad jūs izmantojat Pakalpojumus, un it īpaši tā nosaka tālāk norādītos jautājumus:
+
+– kādu informāciju LGE var iegūt no jums;
+– kā LGE izmanto informāciju, ko tā iegūst;
+– kādos gadījumos LGE koplieto informāciju ar citiem; un
+– kā jūs varat kontrolēt to, kā LGE izmanto un koplieto jūsu informāciju.
+
+Jūsu ierīce vai LG ierīces diagnostikas ziņojumu pakalpojums var nodrošināt piekļuvi programmatūras lietojumprogrammām un saitēm uz citiem pakalpojumiem, kas pieder un ko nodrošina trešās personas, tostarp operētājsistēmas nodrošinātāji, kā arī citi satura un lietojumprogrammu nodrošinātāji. Uz šiem trešo personu pakalpojumiem neattiecas šī Konfidencialitātes politika, un tiem ir pašiem savas politikas, kas nosaka informācijas vākšanu, izmantošanu un koplietošanu saistībā ar viņu pakalpojumiem. Mēs aicinām jūs izlasīt šīs politikas. LGE neatbild un neuzņemas atbildību par šādu trešo personu rīcību konfidencialitātes jomā.
+
+2. Kādu informāciju LGE iegūst?
+Informācija, ko varam saņemt, kad jūs lietojat pakalpojumus, tiek iedalīta šādās kategorijās:
+– Mobilās ierīces statuss: Modelis, programmatūras versija, IMEI, sērijas numurs, IMSI, jaudas statuss, akumulatora statuss, CPU/RAM/iekšējās krātuves lietojums, vidējais lietošanas laiks, aparatūras pašdiagnostikas rezultāti (Wi-Fi, BT, tuvuma sensors, apgaismojuma sensors, pirkstu nospiedumu sensors utt.).
+– Tīkla statuss: Pakalpojuma statuss (zvani, dati), signāla stiprums, informācija par staciju, zvanu biežums/laiks.
+– Informācija par lietotnēm: Instalēto un izdzēsto lietotņu saraksts, lietotnes versija, nesen izmantotās lietotnes, lietotņu izmantošanas biežums/statistika. 
+– Mobilā tālruņa savienojuma statuss: Wi-Fi, Bluetooth, GPS, austiņas, akumulatora lādētājs, USB un SD kartes savienojuma statusi.
+– Informācija par kļūdām: ekrāns nereaģē, nejauši strāvas padeves traucējumi, pārtraukti zvani, lietotņu kļūdas (fatāla, izņēmums).
+
+3. Kā LGE izmanto informāciju, ko tas iegūst?
+Informāciju, ko mēs iegūstam no jums Pakalpojumu izmantošanas laikā, mēs izmantojam dažādiem nolūkiem, tostarp:
+
+- lai identificētu un diagnosticētu mobilo ierīci;
+- lai nodrošinātu klientu apkalpošanu un pārvaldītu apkalpošanas vēsturi; 
+- lai sūtītu pašpiegādes ziņojumus; 
+- lai analizētu pakalpojumu/žurnālu/ierīces vēsturi un uzlabotu kvalitāti, klientu apmierinātības līmeni.
+
+Mēs varam apvienot no Pakalpojumiem iegūto informāciju, tostarp personisko informāciju, ar to informāciju, ko esat mums snieguši citā veidā, iepriekš norādītajos nolūkos.
+
+Juridiskais pamats, balstoties uz kuru LGE apstrādās jūsu personisko informāciju, parasti ir viens no tālāk norādītajiem:
+
+– Līgums: ja ir nepieciešams noslēgt ar jums līgumu;
+– Likumīgas intereses: ja tas nepieciešams LGE mērķiem vai trešās personas likumīgām uzņēmējdarbības interesēm. Uzņēmumam LGE tas ietvers uzņēmuma, kā sadzīves elektroierīču ražotāja un pakalpojumu sniedzēja intereses;
+– Piekrišana: ja būsit izvēlējušies to sniegt. Jums ir tiesības jebkurā brīdī atsaukt savu piekrišanu; vai
+– Juridiskas saistības: ja apstrāde ir nepieciešama mūsu juridisko saistību izpildei.
+
+Tālāk norādītajās apakšnodaļās sniegtā informācija norāda, kurš no iepriekš minētajiem juridiskajiem pamatojumiem tiek izmantots saistībā ar personiskās informācijas dažādām kategorijām.
+
+4. Informācijas koplietošana
+Filiāles un meitas sabiedrības. LGE var koplietot personisko informāciju un informāciju, kas nav personiska informācija, ar savām filiālēm un meitas sabiedrībām visā pasaulē šajā Konfidencialitātes politikā noteiktajiem mērķiem. Termins „filiāles” vai „meitas sabiedrības” attiecas uz grupas uzņēmumiem, kuri var izmantot LG nosaukumu vai kuriem ir kopīgas īpašumtiesības vai kontrole, piemēram, LG CNS vai LG Electronics France S.A.R.L.
+
+Ņemiet vērā, ka mēs varam koplietot šādu informāciju ar tālāk norādītajām personām:
+- Trešo personu pakalpojumu sniedzēji. Mēs varam koplietot jūsu personisko informāciju un informāciju, kas nav personiska informācija, ar trešo personu pakalpojumu sniedzējiem, lai iespējotu LG ierīces diagnostikas ziņojumu pakalpojumu.
+
+Neskatoties uz to, ka parasti mēs ar citām trešajām personām nekoplietojam šādu informāciju, ņemiet vērā, ka tālāk norādītajos apstākļos mēs varam koplietot šādu informāciju ar tālāk norādītajām personām:
+- Citas likumā noteiktās personas. Saskaņā ar tiesas lēmumu vai citu valdības vai tiesībsargājošās iestādes rīkojumu, lai ievērotu juridisko procesu vai likumu;
+- Citas personas, kas ir saistītas ar uzņēmuma transakcijām. Saistībā ar korporatīvo notikumu, piemēram, LGE visa uzņēmuma vai tā daļas (tai skaitā filiāles vai meitas sabiedrības) apvienošanu vai pārdošanu, ja LGE var rasties nepieciešamība izpaust informāciju potenciālajam pircējam un tā profesionālajiem konsultantiem;
+- Citas personas, ja tas ir nepieciešams mūsu pakalpojumu aizsardzībai. Lai aizsargātu un aizstāvētu mūsu tiesības un īpašumu, tostarp tiesvedības ceļā.
+- Citas personas, lai aizsargātu jebkuru mūsu lietotāju personīgo drošību vai īpašumu. Lai aizsargātu mūsu lietotāju vai sabiedrības personīgo drošību vai īpašumu.
+
+Nekādā gadījumā jūsu personiskā informācija netiks apstrādāta mārketinga nolūkos, kā arī netiks koplietota ar trešajām personām mārketinga nolūkos.
+
+5. Personas datu pārsūtīšana
+Mēs, mūsu meitas uzņēmumi, filiāles un piegādātāji var izmantot informāciju (tostarp jūsu personisko informāciju) valstīs, kas nav jūsu ierīces atrašanās valstis, saistībā ar LG ierīces diagnostikas ziņojumu pakalpojuma sniegšanu jums un citiem nolūkiem, kas norādīti šajā Konfidencialitātes politikā. Datu aizsardzības likumi daudzās no šīm valstīm var nenodrošināt tādu pašu aizsardzības līmeni, kāds ir jūsu mītnes valstī. Taču pirms jūsu personiskās informācijas pārsūtīšanas mēs veiksim pasākumus, lai nodrošinātu, ka šādai informācijai tiktu nodrošināts tāds pats aizsardzības līmenis. Lai uzzinātu plašāku informāciju par to, kā mēs apstrādājam un aizsargājam jūsu personisko informāciju, sazinieties ar mums pa e-pastu mc.customer-service@lge.com. 
+
+6. Cik ilgi LGE uzglabās manu personisko informāciju?
+Mēs saglabāsim jūsu personisko informāciju tik ilgi, cik tas būs nepieciešams, lai nodrošinātu jums pakalpojumus, vai citiem šajā Konfidencialitātes politikā aprakstītajiem mērķiem. Mēs piemērojam dažādus kritērijus, lai noteiktu atbilstošu saglabāšanas periodu jūsu sniegtās personiskās informācijas dažādām kategorijām. Piemēram, mēs saglabāsim informāciju, kas ir nepieciešama, lai aizsargātu mūs juridiskajā prasībā, piemēram, informāciju par līgumu, visā līguma darbības laikā un vēl aptuveni vienu gadu pēc tam. Pēc šā perioda beigām tā tiks izdzēsta vai dažos gadījumos anonimizēta. Ja mēs ievācām personisko informāciju, pamatojoties uz jūsu piekrišanu, un mums nav citu likumīgu pamatu šādas apstrādes turpināšanai, tad, ja jūs vēlāk atsauksiet savu piekrišanu, mēs izdzēsīsim jūsu personisko informāciju.
+Ja pieprasāt dzēst savu personisko informāciju tāpēc, ka tā vairs nav vajadzīga, vai ir pamatots iebildums pret apstrādi, vai tiek izvirzīta prasība par to, ka apstrāde ir pretlikumīga, jums ir tiesības pieprasīt apstrādes ierobežojumu, kamēr mēs pārbaudām jūsu dzēšanas pieprasījumu.
+
+7. Drošība
+Mēs rīkojamies komerciāli pamatoti, lai aizsargātu jūsu personiskās informācijas konfidencialitāti un drošību. Tomēr, ņemot vērā interneta būtību, pastāvīgi mainīgās tehnoloģijas un citus faktorus, kas nav mūsu kontrolē, mēs nevaram garantēt, ka saziņai starp jums un mūsu serveriem nesankcionēti nepiekļūs trešās personas, vai arī mēs netiksim pakļauti drošības pārkāpumiem. Mēs neuzņemamies nekādu atbildību par personiskas informācijas izpaušanu nosūtīšanas kļūdu vai trešo personu neatļautu vai nelikumīgu darbību dēļ.
+
+8. Bērnu konfidencialitātes aizsargāšana
+Bērnu konfidencialitātes aizsargāšana mums ir svarīga. Šā iemesla dēļ neviens no mūsu pakalpojumiem nav veidots tā, lai piesaistītu par 16 gadiem jaunākas personas vai personas, kas ir nepilngadīgas konkrētajā jurisdikcijā. Tāpat mēs apzināti nevācam un nesaglabājam personisko informāciju no lietotājiem, kas ir jaunāki par 16 gadiem vai ir nepilngadīgi konkrētajā jurisdikcijā. Ja mēs uzzināsim vai tiksim informēti, ka esam ievākuši informāciju no lietotājiem, kas ir jaunāki par 16 gadiem vai ir nepilngadīgi konkrētajā jurisdikcijā, mēs nekavējoties izdzēsīsim šādu personisko informāciju.
+
+9. LGE Konfidencialitātes politikas izmaiņas
+LGE laiku pa laikam var atjaunināt šo Konfidencialitātes politiku. Ja mēs būtiski mainīsim mūsu Konfidencialitātes politiku, mēs informēsim jūs, izmantojot Pakalpojumus vai citus līdzekļus. Iespējams, ka jums būs jāapstiprina vai jāpiekrīt pārskatītajai Konfidencialitātes politikai, lai varētu turpināt izmantot Pakalpojumus.
+
+10. Piekļuve jūsu informācijai un jūsu tiesības 
+Saskaņā ar dažu jurisdikciju tiesību aktiem jums var būt tiesības pieprasīt piekļuvi LGE rīcībā esošajai personiskajai informācijai par jums vai tiesības iebilst, vai ierobežot jūsu personiskās informācijas dažus apstrādes veidus (vai atsaukt savu piekrišanu LGE apstrādei), vai saņemt jūsu personiskās informācijas mašīnlasāmu kopiju. Ja tiesību aktos tas ir paredzēts, var tikt iekasēta neliela maksa par šādu pakalpojumu sniegšanu. Ņemiet vērā, ka mēs varam atteikties apstrādāt jūsu pieprasījumus, ja tie ir nepamatoti aizvainojoši, apdraud citu personu konfidencialitāti vai ir ļoti nepraktiski (ciktāl to atļauj piemērojamie tiesību akti). Lai uzzinātu plašāku informāciju vai īstenotu kādu no šīm tiesībām, sazinieties ar mums pa e-pastu mc.customer-service@lge.com.
+
+11. Sazināšanās ar LGE par šo Konfidencialitātes politika
+Ja jums ir kādi jautājumi vai komentāri par šo Konfidencialitātes politika vai to, kā LGE apstrādā jūsu personisko informāciju, sazinieties ar mūsu datu aizsardzības speciālistu pa e-pasta adresi dpo-eu@lge.com. Jums ir arī tiesības iesniegt sūdzību datu aizsardzības iestādē, taču mēs aicinām jūs no sākuma sazināties tieši ar mums, lai atrisinātu visus jautājumus.
+
+Pēdējo reizi atjaunināts: 2018. gada 1. marts
+

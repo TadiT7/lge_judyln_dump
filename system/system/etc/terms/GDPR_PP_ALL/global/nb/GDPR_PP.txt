@@ -1,0 +1,105 @@
+Personvernpolicy
+
+Denne personvernspolicyen beskriver hvordan LGE får tilgang til og bruker personinformasjonen dinl Informasjon i sammenheng med programvareoppdateringstjenesten. Les den nøye før du bruker programvareoppdateringstjenesten.
+
+1.	Innledning
+LG Electronics Inc. (‘LGE’ eller ‘vi’) er forpliktet til å beskytte informasjonen til de enkeltpersoner og grupper som bruker LGE-mobiltelefoner. Denne personvernpolicyen angir hvordan vi samler inn, bruker og deler informasjon som vi samler inn fra LGE-mobiltelefonen din, og spesifiserer spesielt:
+-	Oversikt over FOTA-programvareoppdateringene;
+-	Informasjon LGE kan samle inn fra deg;
+-	Hvordan LGE bruker informasjonen det samler inn;
+-	Når LGE deler informasjon med andre; 
+-	Oversjøiske overføringer av personopplysninger
+-	Hvor lenge vil LGE beholde den personlige informasjonen min?
+-	Sikkerhet
+-	Rett til å nekte eller tilbakekalle samtykket
+-	Beskytte personvernet til barn
+-	Endringer av LGEs personvernpolicy
+-	Få tilgang til informasjonen din
+-	Rett til å sende inn en klage; og
+-	Kontakte LGE om denne personvernpolicyen
+
+Denne policyen gjelder bare for informasjon som er samlet inn av LGE fra LGE-mobiltelefonen din, for å utføre en oppdatering av fastvare via en Fastvare over luften (‘FOTA’)-prosess (en ‘Programvareoppdatering’). Denne policyen gjelder ikke for andre produkter eller tjenester av LGE, inkludert mobilapper som tilbys eller leveres av LGE. Denne policyen gjelder heller ikke for produkter eller tjenester som tilbys av tredjeparter, inkludert operativsystemleverandører, annet innhold eller appleverandører eller nettoperatøren din. Produkter og tjenester som ikke er omfattet av denne personvernpolicyen, har egne policyer som gjelder innsamling, bruk og deling av informasjon, og vi oppfordrer deg til å lese disse policyene. LGE er ikke ansvarlig for eller ansvarlig for personvernspraksisen til noen tredjepart.
+
+Hvis du nylig har kjøpt denne mobiltelefonen, er det nødvendig å utføre en programvareoppdatering som beskrevet i denne personvernpolicyen før bruk, for å sikre at mobiltelefonen fungerer riktig og har våre nyeste funksjoner, funksjonalitet og sikkerhetsinnstillinger. Hvis du har noen spørsmål, kan du kontakte oss slik det er oppgitt i denne policyen.
+
+Denne policyen er tilgjengelig for din gjennomgang når som helst på [Innstillinger – System – Om telefonen – Juridisk informasjon – Juridiske dokumenter for LG programvare – Personvernregler].
+
+Eventuelle oversettelser av denne personvernpolicyen er gjort for lokale krav og i tilfelle av uoverensstemmelse mellom engelsk og en ikke-engelsk versjon, skal den engelske versjonen av denne policyen gjelde, i den grad det er tillatt iht. gjeldende lov i din jurisdiksjon.
+
+2.	Oversikt over FOTA-programvareoppdateringene
+Fra tid til annen kan LGE-fastvaren på mobiltelefonen din (‘Programvaren’) kreve oppdateringer eller tillegg som LGE tilbyr, eller LGE kan gi tilleggskomponenter til programvaren. Det å utføre en programvareoppdatering vil installere ny programvare på mobiltelefonen din for å levere disse oppdateringene, tilleggene eller tilleggskomponentene. Programvareoppdateringer kan legge til nye egenskaper eller funksjoner, og i begrensede tilfeller fjerne eksisterende egenskaper eller funksjoner. Etter at du har fullført programoppdateringen, kan du ikke lenger bruke eller rulle tilbake til den forrige installerte versjonen av programvaren. 
+
+Fordi programvareoppdateringen utføres via en FOTA-prosess, kan det hende at det påløper tilleggsavgifter hvis du laster ned ny programvare over et mobilnettverk, alt avhengig av nettverksleverandøren og tjenesteabonnementet. Hvis du ønsker å unngå bruk av mobilnettverksdata for programvareoppdateringer, velg ‘Kun Wi-Fi’-alternativet under Innstillinger. 
+
+a.	Alternativene dine for å administrere fremtidige programvareoppdateringer
+Med funksjonen "Sjekk automatisk" aktivert, vil mobilen din søke etter ny eller oppdatert programvare fra tid til annen, og automatisk laste ned ny eller oppdatert programvare når den er tilgjengelig (‘Sjekk automatisk’-funksjonen). Etter at programvaren er installert, vil vi varsle deg ved å bruke en oppsprettmelding eller en varslingsmelding på mobiltelefonen din. Du vil ha muligheten til å godta eller avslå programvareoppdateringen før du bruker programvaren. Mobiltelefonen din vil også automatisk bruke den installerte Programvare ved midnatt (‘Automatiske oppdateringer-funksjonen). Du kan avslå funksjonene ‘Sjekk automatisk‘ og ‘Automatiske oppdateringer‘ via [Innstillinger – System – Oppdateringssenter – Oppdater programvare – Overskridelse-menyen – Innstillinger].  Hvis du avslår Sjekk automatisk, avslår du å kunne utføre fremtidige programvareoppdateringer.
+Hvis mobiltelefonen din allerede er i bruk, og du avviser å utføre en programvareoppdatering, må du være oppmerksom på at manglende installasjon av oppdatert programvare kan føre til [forringelse av ytelsen til mobiltelefonen din, kompatibilitetsproblemer med nye eller eksisterende apper og andre problemer med funksjoner eller sikkerhet på mobiltelefonen din].
+
+Du kan i tillegg tilbakekalle samtykket til ytterligere innsamling av den personlige informasjonen din ved å deaktivere funksjonene ‘Sjekk automatisk’ og ‘Automatiske oppdateringer’ på mobiltelefonen, som beskrevet ovenfor. Disse funksjonene får du tilgang til via [Innstillinger – System – Oppdateringssenter – Oppdater programvare – Overskridelse-menyen – Innstillinger]. 
+Vi ber deg for øvrig være oppmerksom på at hvis du deaktiverer funksjonene Sjekk automatisk og Automatiske oppdateringer, kan det påvirke eller begrense driften av mobiltelefonen eller tjenestene dine, delvis eller fullstendig. Innsamlingen og bruken av informasjonen, som beskrevet ovenfor, er nødvendig for optimal drift av mobiltelefonen. 
+
+Hvis du har spørsmål om retten til å nekte eller å trekke tilbake samtykket, kan du kontakte oss på mc.customer-service@lge.com.
+
+b.	Presserende programvareoppdateringer
+Hvis omstendighetene krever det, kan vi utføre en programvareoppdatering i henhold til de legitime interessene våre, uten å gi individuelt varsel eller søke samtykke, og uavhengig av gjeldende enhetsinnstillinger (en ‘Preserende programvareoppdatering’). Eksempler på omstendigheter som kan kreve en presserende programvareoppdatering, inkluderer trusler mot kundesikkerhet eller datasikkerhet, eller driftsproblemer som kan føre til betydelig forstyrrelse av tjenestene, eller nært forestående sannsynlighet for slike forhold.
+
+3.	Informasjon LGE kan samle inn fra deg
+Ved utførelse av en programvareoppdatering kan LGE samle inn følgende informasjon fra mobiltelefonen din: Internasjonal mobilutstyrsidentitet (IMEI), serienummer, mobiltelefonmodell, programvare og/eller fastvareversjoner, telefonens operativsystem, mobillandskode (MCC), mobilnettverkskode (MNC), Google Cloud Messaging (GCM)-identifikator og valgt språk. Denne informasjonen samles automatisk som en del av prosessen med å utføre en programvareoppdatering.
+
+Som en del av rollen vår i å levere mobiltjenester til mobiltelefonen, samler vi inn driftsinformasjon, inkludert systemlogger med IP-adresser. Denne informasjonen samles automatisk og det er en nødvendig del av telefondriften.
+
+4.	Hvordan bruker LGE informasjonen det samler inn?
+Vi bruker informasjon samlet inn fra deg til forskjellige formål, inkludert:
+-	For å utføre programvareoppdateringen (inkludert eventuelle presserende programvareoppdateringer), herunder for å sjekke om programvaren er oppdatert, for å autentisere mobiltelefonen din og å levere riktig programvare; 
+-	For å bekrefte forpliktelsene våre i henhold til [vår begrensede produktgaranti];
+-	For å gi beskjed om mobiltelefonsikkerhetstjenester og nødvarsler som svar på sikkerhetsproblemer;
+-	For å beskytte og forsvare rettighetene våre og eiendommen vår, herunder ved rettssaker;
+-	For å overholde regelverkskravene; og
+-	For å analysere, vurdere og forbedre produktene og tjenestene vi tilbyr.
+
+Det juridiske grunnlaget som LGE vil stole på for å behandle personinformasjonen din vil typisk være ett av følgende:
+-	Kontrakt: når det er nødvendig å opprette en kontrakt med deg;
+-	Legitime interesser: når det er nødvendig for LGE sine eller en tredjeparts legitime forretningsinteresser. For LGE vil dette inkludere dets interesser som en produsent av forbrukerelektronikkprodukter og tjenesteleverandør;
+-	Samtykke: når du har valgt å gi det. Du har rett til å trekke tilbake samtykket til enhver tid; eller
+-	Juridisk forpliktelse: når juridisk tiltak er nødvendig for å overholde våre juridiske forpliktelser
+
+Vi kan også bruke aggregerte statistiske data samlet inn under en programvareoppdatering og under drift av mobiltelefonen for bedre å forstå kundens behov, for å forbedre kundeservicen vår, samt produktene og tjenestene vi tilbyr, og for markedsundersøkelser og analyser. Slike aggregerte statistiske data inneholder ikke opplysninger som identifiserer eller kan tilskrives fysiske personer.
+
+5.	Når LGE deler informasjon med andre
+Vi deler vanligvis ikke med noen tredjepart informasjonen vi samlerinn under programvareoppdateringen som identifiserer eller kan tilskrives fysiske personer. Du skal for øvrig være oppmerksom på følgende omstendigheter der vi kan dele slik informasjon med følgende tredjeparter:
+
+-	Tilknyttede selskaper og datterselskaper. LGE kan dele personlig informasjon og ikke-personlig informasjon (inkludert mobiltelefoninformasjon) med tilknyttede selskaper og datterselskaper over hele verden, men bare så lenge det er nødvendig for det formålet den ble samlet inn. Begrepet «tilknyttede selskaper» eller «datterselskaper» refererer til konsernselskaper som kan bruke LG-navnet eller som har felles eierskap eller kontroll som LG CNS eller LG Electronics USA, Inc.;
+-	Tredjeparts tjenesteleverandører. Til tredjepartsleverandører som LGE kan engasjere for å yte tjenester på vegne av dem fra tid til annen, for eksempel for å oppfylle kundeserviceforespørsler;
+-	Andre parter når det kreves ved lov. Som påkrevd av rettsordre eller annen myndighet eller rettshåndhevelse for å overholde juridisk prosess eller lov;
+
+Selv om vi generelt ikke deler informasjonen med andre tredjeparter, må du være oppmerksom på at i følgende spesielle omstendigheter kan vi videre dele informasjonen med følgende enheter;
+-	Andre parter i forbindelse med bedriftstransaksjoner. I forbindelse med en bedriftshendelse, som en fusjon, restrukturering, salg eller overføring av hele eller deler av LGEs virksomhet (herunder den av en divisjon eller et datterselskap), hvor LGE må kunne utlevere informasjon til en potensiell kjøper og dennes faglige rådgivere;
+-	Andre parter når det er nødvendig å beskytte tjenesten vår. For å håndheve våre kontraktsrettigheter, ta forholdsregler mot ansvar, undersøke mistenkte eller faktiske ulovlige aktiviteter, eller å undersøke eller forsvare oss mot tredjeparts krav eller påstander; eller
+-	Andre parter når det gjelder å beskytte noen av våre kunders personlige sikkerhet eller eiendom. For å beskytte våre kunders eller offentlighetens rettigheter, personlig sikkerhet eller eiendom.
+
+Under ingen omstendigheter skal din personlige informasjon som ble samlet inn under programoppdateringen bli behandlet for markedsføringsformål uten ditt samtykke, eller deles med tredjeparter for markedsføringsformål uten ditt samtykke.
+
+6.	Overføringer av personopplysninger
+Vi, våre partnere, datterselskaper og tjenesteleverandører kan bruke din personlige informasjon i andre land enn hvor mobiltelefonen din befinner seg, for de formålene som er beskrevet i denne personvernpolicyen. Databeskyttelsesloven i enkelte land gir kanskje ikke det samme beskyttelsesnivået som de i landet du befinner deg i. Men før vi overfører den personlige informasjonen din, vil vi iverksette tiltak for å sikre at slik informasjon blir gitt samme beskyttelsesnivå i mottakerlandet eller jurisdiksjonen.
+
+7.	Hvor lenge vil LGE beholde den personlige informasjonen min?
+Vi vil beholde dine personlige opplysninger så lenge det er nødvendig for oss å gi deg applikasjonen eller andre formål som er angitt i disse personvernretningslinjene. Vi bruker kriterier for å bestemme riktig oppbevaringsperiode for ulike kategorier av personlig informasjon du gir oss.
+Det er viktig for selskapet å samle inn og bruke personlig informasjon for å kunne tilby programvareoppdateringstjenester. Vær oppmerksom på at bruk/levering av mange deler av tjenesten kan være begrenset dersom du ikke godtar innsamlingen. Vi samler inn og bruker personlig informasjon fra informasjonsemnet. Oppbevarer det også til formålet med slik innsamling og bruk er oppfylt. Derfor er det selskapets prinsipp at det bruker og lagrer personlig informasjon i perioden med bruk av tjenesten.
+Hvis du ber om sletting av den personlige informasjonen din fordi den ikke lenger er nødvendig, eller basert på en innsigelse mot behandlingen eller et krav om at behandlingen er ulovlig, har du rett til å søke begrensning av prosessering mens vi bekrefter forespørselen om sletting.
+
+8.	Sikkerhet
+Vi bruker kommersielt fornuftig innsats for å beskytte konfidensialiteten og sikkerheten til dine personlige opplysninger. Likevel, på grunn av utformingen av Internett, evig skiftende teknologi og andre faktorer utenfor vår kontroll, kan vi likevel ikke garantere at kommunikasjonen mellom deg og våre servere vil være fri for uautorisert tilgang av tredjepartier eller at vi ikke vil bli utsatt for sikkerhetsbrudd. Vi aksepterer ikke noe ansvar for offentliggjøring av personlig informasjon på grunn av feil ved overføring, eller uautoriserte eller ulovlige handlinger fra noen tredjepart.
+
+9.	Beskytte personvernet til barn
+Det er viktig for oss å beskytte barnas personvern. Av den grunn er ingen av våre tjenester rettet mot eller designet for å tiltrekke seg noen under 16 år eller hoveddelen av den aktuelle jurisdiksjonen. Vi samler heller ikke bevisst inn eller bevarer personlig informasjon fra brukere som er under 16 år eller hoveddelen av den aktuelle jurisdiksjonen. Skulle vi lære eller bli varslet om at vi har samlet inn opplysninger fra brukere under 16 år eller hoveddelen av den aktuelle jurisdiksjonen, vil vi straks slette slik personlig informasjon.
+
+10.	Endringer av LGEs personvernpolicy
+Denne personvernpolicyen kan oppdateres av LGE fra tid til annen. Hvis vi foretar en vesentlig endring av personvernpolicyen, oppdaterer vi deg via mobilenheten eller på andre måter. Du kan bli pålagt å bekrefte eller godta den reviderte personvernpolicyen for å fortsette å bruke programvareoppdateringstjenesten.
+
+11.	Få tilgang til informasjonen din og rettighetene dine
+I henhold til lovene i enkelte jurisdiksjoner kan det være berettiget å be om tilgang til, rette eller slette de personlige opplysningene LGE har om deg eller retten til å motsette seg eller begrense visse typer behandling av dine personlige opplysninger (eller å trekke tilbake samtykket ditt til LGE-behandlingen), eller å motta en maskinlesbar kopi av dine personlige opplysninger. Hvis loven tillater det, kan det påløpet et lite gebyr for å gi deg en slik tjeneste. Vær oppmerksom på at vi kan avvise å behandle forespørslene dine hvis de er urimelig fornærmende, truer personvernet til andre, eller er ekstremt upraktiske (der tillatt under gjeldende lov). For ytterligere informasjon eller å utøve noen av disse rettighetene, kan du kontakte oss på mc.customer-service@lge.com.
+
+12.	Kontakte LGE om denne personvernpolicyen
+Hvis du har spørsmål eller kommentarer om denne personvernpolicyen eller LGEs behandling av dine personlige opplysninger, ta kontakt med LG Electronics Inc. på mc.customer-service@lge.com. Du har også rett til å sende inn en klage til en databeskyttelsesmyndighet, selv om vi oppfordrer deg til å kontakte oss direkte for å løse eventuelle bekymringer.
+
+Sist oppdatert: 01. desember 2017

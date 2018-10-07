@@ -1,0 +1,109 @@
+﻿Politique de confidentialité
+
+La présente Politique de confidentialité décrit la manière dont LGE a accès et utilise vos renseignements personnels dans le contexte du Service des mises à niveau du logiciel. Veuillez lire le document au complet avant d’utiliser le Service des mises à niveau du logiciel.
+
+1.	Introduction
+LG Electronics Inc. (« LGE » ou « nous ») est engagé à protéger les renseignements des individus et groupes qui utilisent les téléphones mobiles LGE. La présente Politique de confidentialité définit la manière dont nous recueillons, utilisons et partageons les renseignements qui sont recueillis de votre téléphone mobile LGE et, en particulier, définit :
+-	Aperçu des Mises à niveau du logiciel FOTA;
+-	Les renseignements que LGE peut obtenir de vous;
+-	Comment LGE utilise-t-elle les renseignements obtenus;
+-	À quel moment LGE partage-t-elle ces renseignements avec autrui; 
+-	Transferts des données personnelles outre-mer
+-	Combien de temps LGE conserve-t-elle mes renseignements personnels?
+-	Sécurité
+-	Droit au refus ou Consentement à se retirer
+-	Protéger la vie privée des enfants
+-	Modifications à la Politique de confidentialité de LGE
+-	Accéder à vos renseignements
+-	Droit de déposer une plainte; et
+-	Contacter LGE concernant la présente Politique de confidentialité
+
+La présente Politique s’applique seulement aux renseignements recueillis par LGE de votre téléphone mobile LGE pour effectuer une mise à niveau de microgiciel via un processus « FOTA » (Microgiciel par voie aérienne) (une « Mise à niveau du logiciel »). La présente Politique ne s’applique pas aux autres produits ou services offerts par LGE, y compris les applis pour mobiles offertes ou fournies par LGE. La présente Politique ne s’applique également pas aux produits ou services offerts par autrui, y compris les fournisseurs de systèmes d’opération, les fournisseurs d’applis ou de d'autres contenus ou votre fournisseur de réseau. Les produits ou services hors de la portée de la présente Politique de confidentialité sont dotés de leurs propres politiques relatives à la collecte, à l'utilisation et au partage des renseignements liés à leurs produits ou services. Nous vous encourageons à lire ces politiques. LGE n'est pas responsable des pratiques de respect de la vie privée de ces tiers.
+
+Si vous avez récemment acheté ce téléphone mobile, il est nécessaire d'effectuer une Mise à niveau du logiciel comme décrit dans cette Politique de confidentialité avant utilisation, afin de s'assurer que les fonctions de votre téléphone mobile fonctionnent correctement et que le téléphone a nos options, fonctions et paramètres de sécurité les plus récents. Si vous avez des questions, veuillez nous contacter comme décrit dans la présente Politique.
+
+La présente Politique est disponible pour consultation en tout temps sur [Paramètres – Système – À propos du téléphone – Informations légales – Conditions générales pour les logiciels LG – Politique de confidentialité].
+
+Toute traduction de la présente Politique de confidentialité est réalisée pour les exigences locales et en cas de différences entre les versions anglaises et non anglaises, la version anglaise de la présente Politique doit régir dans la mesure non interdite par la loi locale de votre juridiction.
+
+2.	Aperçu des Mises à niveau du logiciel FOTA
+De temps en temps, le micrologiciel LGE sur votre appareil mobile (le « Logiciel ») peut nécessiter des mises à niveau ou des ajouts fournis par LGE, ou LGE peut fournir des composants d’ajout au Logiciel. Effectuer une Mise à niveau du logiciel installera un nouveau Logiciel sur votre appareil mobile afin de fournir ces mises à niveau, ajouts ou composants d'ajout. Les Mises à niveau du logiciel peuvent ajouter  de nouvelles options ou fonctions et, dans certains cas, peuvent enlever des options ou des fonctions existantes. Une fois la Mise à niveau réussie, vous ne pourrez plus utiliser et ne pourrez pas revenir à la version du logiciel installée antérieurement. 
+
+Parce que la Mise à niveau du logiciel est effectuée via un processus FOTA, des frais supplémentaires peuvent s’appliquer si vous téléchargez un nouveau Logiciel sur un réseau cellulaire, selon votre fournisseur de réseau et plan de services. Si vous désirez éviter toute utilisation de données sur réseau cellulaire pour les Mises à niveau du logiciel, veuillez sélectionner l’option « Wi-Fi seulement » sous Paramètres. 
+
+a.	Vos options pour gérer les futures Mises à niveau du logiciel
+Lorsque vous consentez à la présente Politique de confidentialité FOTA, votre appareil mobile vérifiera, de temps en temps, un Logiciel nouveau ou mise à niveau et installera le Logiciel nouveau ou mis à niveau lorsqu’il devient disponible (fonction « Vérifier automatiquement »). Une fois le Logiciel installé, nous vous aviserons grâce à un avis contextuel ou d’un message de notification sur votre appareil mobile. Vous aurez l’option d'accepter ou de décliner la Mise à niveau du logiciel avant d’appliquer le Logiciel. Votre appareil mobile va également appliquer automatiquement le Logiciel installé à minuit (fonction « Mises à jour automatiques »). Vous pouvez décliner ces fonctions « Vérifier automatiquement » et « Mises à jour automatiques » sur [Paramètres – Système – Centre de mises à jour – Mise à jour logiciel – Menu Overflow – Paramètres].  Si vous déclinez Vérifier automatiquement, vous déclinez effectivement la réalisation de toute future Mise à niveau du logiciel.
+Si votre appareil mobile est déjà en utilisation et que vous déclinez une Mise à niveau du logiciel, veuillez noter qu’un échec à installer un Logiciel mis à niveau peut entraîner une [dégradation des performances de votre appareil mobile, des problèmes de compatibilité avec des applis nouvelles ou existantes, et d’autres problèmes avec les options ou la sécurité de votre appareil mobile].
+
+b.	Mises à niveau urgentes du logiciel
+Si les circonstances l'exigent, nous pouvons effectuer une Mises à niveau du logiciel suite à nos intérêts légitimes, sans fournir de notification individuelle ou rechercher le consentement, et sans égards pour les paramètres actuels de l’appareil (une « Mise à niveau urgente du logiciel »). Des exemples de circonstances qui peuvent nécessiter une Mise à niveau urgente du logiciel comprennent les menaces à la sécurité du client ou à la sécurité des données, ou des problèmes de fonctionnement qui peuvent entraîner une interruption significative des services, ou une forte probabilité de telles circonstances.
+
+3.	Les renseignements que LGE peut obtenir de vous
+Lors d’une Mise à niveau du logiciel, LGE peut recueillir les renseignements suivants de votre appareil mobile : Identité de l’équipement mobile internationale (IMEI), numéro de série, modèle de l’appareil mobile, versions du logiciel ou du micrologiciel, système d'exploitation de l’appareil, code de pays de l’appareil (MCC), code de réseau de l’appareil (MNC), identifiant Google Cloud Messaging (GCM) et langue choisie. Ces renseignements sont recueillis automatiquement comme partie du processus d’effectuer une Mise à niveau du logiciel.
+
+Comme partie de notre rôle de fournir des services de cellulaire à votre appareil mobile, nous recueillerons de l’information opérationnelle, y compris les journaux du système avec les adresses IP. Ces renseignements sont recueillis automatiquement et sont une partie nécessaire du fonctionnement de l’appareil.
+
+4.	Comment LGE utilise-t-elle les renseignements obtenus?
+Nous utiliserons les renseignements que nous obtenons de votre part à diverses fins, y compris :
+-	Effectuer la Mise à niveau du logiciel (y compris toute Mise à niveau urgente du logiciel), y compris vérifier si le Logiciel est mis à niveau, authentifier votre appareil mobile et fournir le Logiciel approprié. 
+-	Pour confirmer nos obligations selon [notre Garantie de produit limitée];
+-	Pour fournir des notifications concernant les notifications urgentes et les services de sécurité de l’appareil mobile en réponse à des questions de sécurité;
+-	Pour protéger et défendre nos droits et nos biens, y compris en intentant des poursuites judiciaires;
+-	Pour nous conformer aux exigences réglementaires; et
+-	Pour analyser, examiner et améliorer les produits et services que nous offrons.
+
+La base légale sur laquelle LGE s’appuie pour traiter vos renseignements personnels sera typiquement un des cas suivants;
+-	Contrat : où il est nécessaire d'effectuer un contrat avec vous;
+-	Intérêts légitimes : où il est nécessaire pour les fins des intérêts commerciaux légitimes de LGE ou d’un tiers. Pour LGE, cela comprendra ses intérêts en tant que fabricant de produits électroniques et fournisseur de services pour consommateurs;
+-	Consentement : où vous avez choisi de le fournir. Vous avez le droit de retirer votre consentement en tout temps; ou
+-	Obligation légale : où le traitement est nécessaire pour se conformer à nos obligations légales
+
+Nous pouvons également utiliser des données statistiques regroupées recueillies lors d’une Mise à niveau du logiciel et lors de l’utilisation de l’appareil mobile pour mieux comprendre les besoins de nos clients, pour améliorer notre service à la clientèle, et les produits et services que nous offrons, et à des fins de recherche et d'analyse du marché. De telles données statistiques regroupées ne contiennent pas des renseignements qui identifient ou peuvent être attribués à des personnes naturelles.
+
+5.	Lorsque LGE partage des renseignements avec autrui
+Nous ne partageons pas, en règle générale, les renseignements recueillis avec des tiers lors d’une Mise à niveau du logiciel qui identifie ou qui peut être attribuée à des personnes naturelles. Quoi qu’il en soit, soyez conscient des circonstances suivantes où nous pouvons partager de tels renseignements avec les tiers suivants :
+
+-	Sociétés affiliées et filiales. LGE peut partager des renseignements personnels et non-personnels (y compris l’information de l’appareil mobile) avec ses sociétés affiliées et filiales partout au monde seulement si nécessaire aux fins pour lesquelles ces renseignements sont recueillis. Les termes « sociétés affiliées » et « filiales » désignent des entreprises du groupe qui peuvent utiliser le nom LG ou dont LG a acquis la propriété ou le contrôle, telles que LG CNS, LG Electronics U.S.A., Inc.;
+-	Fournisseurs de services tiers. À des vendeurs tiers que LGE peut engager pour fournir des services en son nom de temps en temps, comme répondre aux demandes de services de la clientèle;
+-	Autres groupes lorsque requis par la loi. Comme requis par une ordonnance légale ou toute autre autorité gouvernementale ou des forces de l’ordre afin de se conformer à un processus légal ou à la loi;
+-	Autres groupes en lien avec des transactions commerciales. En lien avec un événement commercial, comme une fusion, restructuration, vente ou transfert de toute ou d’une partie des activités commerciales de LGE (y compris celle d’une division ou d’une filiale), où LGE peut devoir dévoiler de l’information à un acheteur potentiel et ses conseillers professionnels;
+-	Autres groupes lorsqu’il est nécessaire de protéger notre service. Pour renforcer nos droits contractuels, prendre des précautions contre des responsabilités, enquêter des activités illégales soupçonnées ou actuelles, ou enquêter ou nous défendre contre des réclamations ou des allégations de tiers; ou
+-	Autres groupes lorsqu’il s’agit de protéger la propriété ou la sécurité personnelle de l’un de nos clients. Pour protéger les droits, la sécurité ou les biens personnels de nos clients ou du public.
+
+En aucun cas vos renseignements personnels recueillis lors de la Mise à niveau du logiciel ne seront traités à des fins de marketing sans votre consentement, ni partagés avec des tiers à des fins de marketing sans votre consentement.
+
+6.	Transfert des données personnelles
+Nous, nos filiales, sociétés affiliées et fournisseurs de services pouvons utiliser vos renseignements personnels dans d’autres pays que celui où se trouve votre téléphone mobile, aux fins décrites dans la présente Politique de confidentialité. Les lois de protection des données dans certains de ces pays peuvent ne pas offrir le même niveau de protection que ceux dans le pays où vous êtes situé. Par contre, avant de transférer vos informations personnelles, nous prendrons des mesures pour s’assurer qu’une telle information recevra le même niveau de protection dans le pays ou la juridiction du destinataire. En acceptant la présente Politique de confidentialité, vous consentez expressément au traitement de vos renseignements personnels dans les pays ou juridictions où les lois en vigueur peuvent ne pas fournir le même niveau de protection des renseignements personnels que les lois du pays ou de la juridiction où vous êtes situé, incluant, mais sans s’y limiter, la République de Corée et les États-Unis, en conformité avec la présente Politique de confidentialité. 
+
+7.	Combien de temps LGE conserve-t-elle mes renseignements personnels?
+Nous prendrons des mesures raisonnables pour faire en sorte que nous conservions vos renseignements personnels aussi longtemps que nécessaire aux fins pour lesquelles ils ont été recueillis, ou comme requis par la loi en vigueur. 
+Si vous demandez l'effacement de vos renseignements personnels parce que non plus requis, ou selon une objection au traitement ou à une réclamation que le traitement est illégal, vous avez le droit de rechercher la restriction de traitement alors que nous vérifions votre demande d'effacement.
+
+8.	Sécurité
+Nous utilisons des efforts commercialement raisonnables et suivons les pratiques de données généralement acceptées dans l’industrie pour protéger vos renseignements personnels contre la perte accidentelle et l’accès, l’utilisation, la modification et la divulgation non autorisés. Quoi qu’il en soit, à cause de la conception de l’Internet, de la technologie toujours en évolution, et d’autres facteurs hors de notre contrôle, nous ne pouvons pas garantir que les communications entre vous et nos serveurs seront exemptes d’accès non-autorisés par des tiers ou que nous ne serons pas sujets à des bris de sécurité.  Nous n'acceptons aucune responsabilité pour la divulgation de renseignements personnels suite à des erreurs de transmission ou à des actes illégaux ou non autorisés de tiers.
+
+9.	Droit au refus ou Consentement à se retirer
+Selon la loi locale en vigueur, vous pourriez avoir le droit de refuser de consentir à la présente Politique de confidentialité, à retirer votre consentement ou à, autrement, demander que nous cessions de gérer les renseignements personnels vous concernant. Pour exercer de tels droits que vous pourriez avoir, veuillez nous contacter comme décrit dans la présente Politique, et nous répondrons à votre demande dès que possible. 
+De plus, vous pouvez retirer votre consentement à des collectes supplémentaires de vos renseignements personnels en désactivant les fonctions « Vérifier automatiquement » et « Mises à jour automatiques » sur votre appareil mobile, lesquelles sont décrites ci-dessus. Ces fonctions peuvent être accédées sur [Paramètres – Système – Centre de mises à jour – Mise à jour logiciel – Menu Overflow – Paramètres]. 
+Par contre, veuillez comprendre que si vous désactivez les fonctions Vérifier automatiquement et Mises à jour automatiques, cela peut toucher ou restreindre le fonctionnement de votre appareil mobile ou de vos services, en partie ou en tout. La collecte et l’utilisation des renseignements, comme décrit ci-dessus, sont nécessaires pour le fonctionnement optimal de votre appareil mobile. 
+
+Si vous avez des questions concernant votre droit à refuser ou sur comment retirer votre consentement, veuillez nous contacter à lgecsvc@lge.com
+
+10.	Protéger la vie privée des enfants
+La protection de la vie privée des enfants nous tient à cœur. Pour cette raison, votre appareil mobile n'est pas conçu pour les enfants comme défini par la loi locale en vigueur, et nous ne recueillons pas et ne conservons pas, de manière volontaire, des renseignements personnels d'enfants. Si nous devions apprendre ou être avisés que nous avons recueilli des renseignements sur un enfant sans vérification du consentement parental, nous supprimerons rapidement ces renseignements personnels.
+
+11.	Modifications à la Politique de confidentialité de LGE
+La présente Politique de confidentialité peut être mise à jour par LGE de temps en temps. Si nous effectuons un changement de contenu à notre Politique de confidentialité, nous vous laisserons savoir en mettant à jour la date ci-dessous et en fournissant la Politique de confidentialité modifiée pour votre révision comme partie d’une Mise à niveau du logiciel future.
+
+12.	Accéder à vos renseignements 
+Vous avez le droit de demander les détails des renseignements personnels que LGE recueille vous concernant, afin d’accéder, corriger ou supprimer ces renseignements personnels. Par contre, veuillez comprendre que nous ne pourrions pas être en mesure de modifier ou de supprimer vos renseignements personnels si nous sommes requis, par la loi en vigueur, de conserver ces renseignements. Si permis par la loi, un léger frais pour vous fournir un tel service vous sera chargé. Veuillez noter que nous pourrions refuser de traiter vos demandes si elles sont abusives au-delà de toute raison, nuisent à la vie privée d'autrui ou sont extrêmement pas pratiques. De plus, la mise à jour ou la suppression de vos renseignements personnels peut toucher ou restreindre le fonctionnement de votre appareil mobile ou de vos services. 
+
+Si vous désirez effectuer une demande pour accéder, corriger ou supprimer vos renseignements personnels, veuillez nous contacter à lgecsvc@lge.com
+
+13.	Droit de déposer une plainte
+Selon la loi locale en vigueur dans l’UE, vous avez le droit de déposer une plainte par rapport au traitement de vos renseignements personnels avec l’autorité de supervision pertinente. Pour plus d'informations sur votre droit à déposer une plainte ou pour en déposer une avec LGE, veuillez nous contacter à lgecsvc@lge.com. 
+
+14.	Contacter LGE concernant la présente Politique de confidentialité
+Si vous avez des questions ou des commentaires concernant la présente Politique de confidentialité, veuillez nous contacter par courriel à lgecsvc@lge.com.
+
+Dernière mise à jour : 01 nov. 2017

@@ -1,0 +1,92 @@
+######## init.mid.service.rc ########
+
+on boot
+    start midd
+
+# LGE service
+service mtsd /vendor/bin/mtsd
+    class late_start
+    oneshot
+    socket mtsd.port stream 660 system system
+
+on property:sys.mts.forcemts=1
+    start mtsd
+
+on property:sys.mts.forcemts=0
+    stop mtsd
+
+on property:ro.boot.laf=MID && property:ro.minios.bootstart=1
+    class_start mid_service
+
+# MiniOS service
+service midd /vendor/bin/midd
+    class mid_service
+    user root
+    group root
+    seclabel u:r:recovery:s0
+
+service lafmid_svc /sbin/lafmid_cmd_service
+    class mid_service
+    user root
+    group root
+    seclabel u:r:recovery:s0
+
+service minios_ril /sbin/minios_ril
+    class mid_service
+    user root
+    group radio root
+    seclabel u:r:recovery:s0
+
+service ril-daemon-mtk /vendor/bin/mtkrild
+    class core
+    socket mrild stream 660 root radio
+    socket mrild2 stream 660 root radio
+    socket mrild3 stream 660 root radio
+    socket mrild4 stream 660 root radio
+    socket rild-ims stream 660 root radio
+    socket rild-debug stream 660 radio system
+    socket rild-oem stream 660 radio system
+    socket rild-mtk-ut stream 660 radio net_bt
+    socket rild-mtk-ut-2 stream 660 radio net_bt
+    socket rild-mtk-modem stream 660 radio system
+    socket rild-atci stream 660 root radio
+    socket rild-mal stream 660 radio system
+    socket rild-mal-at stream 660 radio system
+    socket rild-vsim stream 660 root radio
+    socket rild-mbim stream 660 root radio
+    socket msap_uim_socket1 stream 660 radio radio
+    socket msap_uim_socket2 stream 660 radio radio
+    user root
+    group radio cache inet misc audio sdcard_r sdcard_rw log system
+    disabled
+    oneshot
+
+on property:ril.mtk=1
+    start ril-daemon-mtk
+
+# FACTORY FRP CHECK
+on property:sys.bluefactorymode=*
+    factory_frp_check
+
+# force terminate bootanimation
+on property:init.svc.bootanim=running
+    stop bootanim
+
+# For mid encryption exception
+on encrypt_in_minios
+    start surfaceflinger
+    exec - root -- /system/bin/vdc --wait cryptfs enablecrypto inplace default
+    # vold will set vold.decrypt to trigger_restart_min_framework (default
+    # encryption)
+
+service rm_encrypt_prop /system/bin/vdc --wait cryptfs delfield SystemLocale
+    disabled
+    oneshot
+
+service mount_encrypt /system/bin/vdc --wait cryptfs mount_encrypted_data
+    disabled
+    oneshot
+
+service keymaster_create /system/bin/vdc --wait cryptfs pre_keymaster_create_key
+    disabled
+    oneshot

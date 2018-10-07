@@ -1,0 +1,63 @@
+﻿Sekretesspolicy för användning av aktivitetsloggar
+
+Obs! Genom att godkänna vår sekretesspolicy ger du oss tillstånd att använda dina data i enlighet med avtalet. Ditt godkännande är valfritt. Om du inte ger ditt godkännande kan vi dock inte tillhandahålla tjänster till dig. I det här fallet innebär det att du inte kan använda LG Device Diagnostics Report Services ("LG-tjänsten"). Du kan när som helst hämta villkoren för ditt godkännande när som helst i LG-tjänsten och kan när som helst återkalla ditt godkännande genom att skicka ett meddelande till: mc.customer-service@lge.com 
+
+1. Introduktion
+LG Electronics Inc. (“LGE” eller “vi”) arbetar engagerat för att skydda informationen för de personer och grupper som använder LG-tjänsten som finns däri. Denna sekretesspolicy anger hur vi samlar in, använder och delar information som vi inhämtar i anslutning till din användning av tjänsterna, och anger i synnerhet:
+- Vilken information som LGE kan erhålla av dig eller LG-tjänsten;
+- Hur LGE använder den insamlade informationen;
+- När LGE delar informationen med andra; och
+- Hur du kan kontrollera LGE:s användning och delning av din information.
+
+LG-tjänsten tillhandahåller åtkomst till programvara och länkar till andra tjänster som ägs och drivs av tredje parter, inklusive operativsystemleverantörer och andra innehålls- och programleverantörer. Dessa tjänster från tredje part omfattas inte av denna sekretesspolicy utan har egna policyer som gäller för insamling, användning och delning av information i anslutning till deras tjänster. Vi rekommenderar att du läser dessa policier. LGE ansvarar inte för sekretesspolicyn från sådana tredje parter.
+
+2. Vilken information samlar LGE in?
+LGE samlar in följande information:
+① Mobil enhetsstatus: Modell, mjukvaruversion, IMEI, serienummer, IMSI, strömstatus, batteristatus, CPU/RAM/intern lagringsanvändning, genomsnittlig användningstid, hårdvarusjälvdiagnosresultat (Wi-Fi, BT, närhetssensor, ljussensor, fingeravtryckssensor, etc.)
+② Nätverksstatus: Tjänstestatus (samtal, data), signalstyrka, stationsinformation, samtalsfrekvens/tid
+③ Applikationsinformation: Listan över installerade och raderade appar, appversion, senast verkställda appar, appanvändningsfrekvens/statistik 
+④ Anslutningsstatus för mobiltelefon: Wi-Fi, Bluetooth, GPS, hörlursuttag, batteriladdare, USB, och status för SD-kortanslutning
+⑤ Felinformation: Fryst skärm, oavsiktliga avstängningar, frånkopplade samtal, programfel (kritiska, undantag)
+
+3. Hur använder LGE informationen som hämtas?
+Vi använder informationen som hämtas från dig i olika syften, inklusive:
+- För att identifiera och diagnostisera mobil enhet
+- För att utföra kundtjänster och hantera tjänstehistorik 
+- För att skicka push-meddelanden. 
+- För att analysera tjänst/loggar/enhetshistorik för förbättrad kvalitet och ökad kundnöjdhet
+
+Vi kan kombinera information som inhämtats från dig, inklusive personlig information, med information som du tillhandahåller till oss på annat sätt, i syften som är i enlighet med den här sekretesspolicyn. 
+
+4. Informationsdelning
+Vi delar i allmänhet inte med oss av informationen till tredje part, som vi tar emot som resultat av att du använder Tjänsten. Icke desto mindre ber vi dig observera följande omständigheter då vi kan komma att dela sådan information med följande parter:
+- Filialer och dotterbolag. LGE kan lämna ut personlig och icke personlig information (inklusive enhetsinformation) till sina filialer och dotterbolag jorden runt, under försättning att det krävs i syften för vilka den samlades in. Termen‘filialer’ eller ‘dotterbolag’ hänvisar till en grupp företag som kan använda LG:s namn eller som har gemensamt ägande eller kontroll, såsom LG CNS eller LG Electronics U.S.A.,INC. ("LGEUS").
+- Leverantörer av tredjepartstjänst. Till tredjepartsleverantörer som LGE kan engagera för att erbjuda tjänster å deras vägnar från tid till annan, såsom att uppfylla kundens tjänstebegäranden;
+- Andra parter när lagen kräver det. Enligt det som krävs för domstolsordern eller annan myndighet eller lagefterlevande myndigheter för att uppfylla den juridiska processen eller lagen;
+- Andra parter kopplade till företagstransaktioner. I anslutning till en företagshändelse, såsom en fusion eller försäljning av hela eller delar av LGE:s företag (inklusive en avdelning eller ett dotterbolag), där LGE kan behöva lämna ut information till en potentiell köpare och dess professionella rådgivare;
+- Andra parter när det krävs för att skydda vår tjänst. För att skydda och bevara våra rättigheter och vår egendom, inklusive genom juridiska processer:
+- Andra parter när det handlar om att skydda våra användares säkerhet eller egendom. För att skydda personlig säkerhet eller egendom för våra användare eller allmänheten.
+
+Under inga omständigheter ska din personliga information behandlas i marknadsföringssyfte och inte heller delas med tredje part i marknadsföringssyfte.
+
+5. Överföring över landsgränser
+Vi, våra filialer, dotterbolag och leverantörer kan använda information (inklusive din personliga information) i andra länder än där din enhet är placerad kopplat till att tillhandahålla dig LG-tjänsten och i andra syften som beskrivs i den här sekretesspolicyn. Dataskyddslagarna i många av dessa länder kan inte erbjuda samma grad av skydd som de i landet där du finns. Innan du överför din personliga information vidtar vi dock följande steg för att säkerställa att sådan information får samma skyddsnivå. Genom att godkänna denna sekretesspolicy lämnar du ditt uttryckliga medgivande till att vi och våra företagspartners och leverantörer behandlar dina data i alla jurisdiktioner, inklusive, men inte begränsat till, Korea och USA, i enlighet med denna sekretesspolicy. 
+
+6. Hur länge sparar LGE min personliga information?
+Vi vidtar skäliga steg för att säkerställa att vi bevarar din personliga information så länge det behövs för oss, för att tillhandahålla tjänsterna eller i de syften den samlades in för, eller i enlighet med gällande lag.
+
+7. Säkerhet
+Vi vidtar affärsmässigt skäliga åtgärder för att hålla dina personuppgifter konfidentiella. Inte desto mindre, på grund av utformningen av Internet, ständigt föränderlig teknik och andra faktorer som ligger bortom vår kontroll, kan vi inte garantera att kommunikationer mellan dig och våra servrar sker fritt från obehörig åtkomst från tredje part eller att vi inte utsätts för säkerhetsbrott. Vi tar inget ansvar för utlämning av personlig information på grund av fel i överföring eller obehörig eller olaglig aktivitet från tredje part.
+
+8. Skydda sekretessen för barn
+Det är viktigt för oss att skydda sekretessen för barn. Av den orsaken är LG-tjänsten inte riktad till någon under 14 år eller åldern för majoriteten i relevant jurisdiktion och den är inte strukturerad specifikt för att locka någon under 14 år eller åldern för majoriteten i relevant jurisdiktion, specifikt för att locka personer under 14 år. Vi samlar inte heller medvetet in eller lagrar personuppgifter från användare som är yngre än 14 år. Om vi skulle få information om att vi har samlat in information från användare under 14 år eller majoriteten i relevant jurisdikation, kommer vi omedelbart att radera sådan personig information.
+
+9. Ändringar i LGE:s sekretesspolicy
+Den här sekretesspolicyn kan uppdateras av LGE med jämna mellanrum. Om vi gör en betydande ändring i vår sekretesspolicy meddelar vi dig om uppdateringen, antingen via tjänsterna eller på något annat sätt. Om du inte godkänner den uppdaterade sekretesspolicyn kan LG-tjänsten begränsas.
+
+10. Åtkomst till din information 
+Enligt lagen i vissa jurisdiktioner har du rätt att begära uppgifter om den personliga information som LGE samlar in om dig, och att korrigera felaktigheter i din personliga information eller på annat sätt, i legitima syften, motsätta dig behandling av din personliga information. Om det tillåts enligt lag tillämpas ibland en liten avgift för att erbjuda dig en sådan tjänst. Lägg märke till att vi kan neka att behandla dina begäran om de är orimligt kränkande, äventyrar andras integritet eller är särskilt opraktiska. Om du vill framställa en begäran att få tillgång till, rätta, upphäva eller motsätta dig behandling av din personliga information, kan du kontakta oss på mc.customer-service@lge.com.
+
+11. Kontakta LGE om denna sekretesspolicy
+Om du har frågor eller kommentarer till denna sekretesspolicy kan du kontakta mc.customer-service@lge.com.
+
+Senast uppdaterad: 22 juni, 2017

@@ -1,0 +1,3 @@
+﻿Geçerli konum bilgilerinin kullanımı
+
+LGE, cihazın “geçerli konum bilgisini” elde etmek üzere (GPS, Wi-Fi ve mobil iletişim ağlarını kullanarak) cihazda kayıtlı konum bilgilerini kullanabilir. LGE, bu “geçerli konum bilgisini” yalnızca dahili olarak kullanıcının cihazına kaydeder ve bu bilgileri toplamaz, kaydetmez ve kendi sunucularında saklamaz. Yukarıdaki belirtilenleri kabul etseniz dahi, bu hizmet yalnızca kullanıcı Google konum işlevini etkinleştirdiğinde sağlanır ve “geçerli konum bilgisi” hizmetinin kullanımı istenildiği zaman, “geçerli konum bilgisi”ni kullanan her bir hizmetin ayarlar menüsünden değiştirilebilir.

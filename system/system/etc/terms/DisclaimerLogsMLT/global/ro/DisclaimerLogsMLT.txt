@@ -1,0 +1,23 @@
+﻿Jurnalul de activități
+
+Pentru a îmbunătăți experiența generală a utilizatorului și pentru a îmbunătăți depanarea dispozitivului, Jurnalul de activități sunt stocate pe dispozitivul dvs. mobil LGE. Jurnalul de activități sunt stocate exclusiv pe dispozitivul dvs. mobil și nu sunt transferate către LGE sau către terțe părți, cu excepția cazului în care s-a convenit altfel, printr-un acord separat. 
+
+Jurnalele conțin următoarele informații: 
+- Starea dispozitivului mobil: modelul, versiunea software, numărul IMEI, numărul unic de identificare, IMSI, alimentarea, starea bateriei, CPU/RAM /spațiul intern de stocare utilizat, durata medie de utilizare, rezultatele autodiagnosticării a hardware-ului (Wi-Fi, BT, senzorul de proximitate, senzorul de lumină, senzorul de amprentă, etc.) 
+- Starea rețelei
+- Informații despre aplicație, ocaziile/statistica de utilizare a aplicațiilor
+- Starea conexiunii dispozitivului dvs. mobil
+- Informații despre erori: ecran înghețat, opriri neintenționate, apeluri întrerupte, erori la aplecații
+- Setarea dispozitivului mobil
+
+Informațiile accesate de LGE pot fi folosite separat, în mod combinat sau în mod grupat. LGE folosește informațiile pentru a înțelege mai bine nevoile clienților noștri, pentru a îmbunătăți asistența acordată clienților și pentru a îmbunătăți produsele și serviciile oferite. De exemplu, informațiile din Jurnal activități permite LGE investigarea și remedierea erorilor de rețea, a problemelor de conexiune și a problemelor survenite la baterie.
+
+Dacă faceți clic pe „Sunt de acord” vă exprimați acordul ca LGE și părțile terțe care acționează în numele LGE (precum menționat mai jos), să acceseze și să utilizeze informațiile din Jurnalul de activități generat pe dispozitivul dvs. LGE poate partaja informațiile din Jurnalul de activități cu următoarele terțe părți:
+- entitățile afiliate și subunitățile (societățile comerciale care fac parte din LGE, care sunt controlate de LGE sau care fac sunt menționați ca proprietari în cadrul LGE); și
+- agenții și furnizorii e servicii, care sunt supuse obligației de păstrare a confidențialității și care folosesc informațiile exclusiv în numele LGE sau care livrează produse și prestează servicii către dvs. sau care au relații contractuale cu dvs.
+LGE este exonerat de orice obligații și răspundere, care derivă din practicile terțelor părți privind asigurarea confidențialității.
+LGE va solicita colectarea de informații din Jurnalul de activități când folosiți LGE After Service(A/S) sau Serviciul Restaurare. Când folosiți aceste servicii acordul dvs. va fi solicitat separat.
+Deși acest Jurnal de activități este generat în dispozitivul dvs., indiferent dacă dvs. sunteți de acord, sau nu, trebuie să faceți clic pe „De acord" pentru ca LG să acceseze aceste informații. Dacă doriți ca LG să nu acceseze informațiile din jurnalul dvs. de activități, puteți bloca oricând accesul nostru la informațiile din jurnalul dvs. de activități, accesând [Setări – Sistem – Despre telefon – Jurnalul de activități]. Pentru a înțelege modul în care folosim informațiile dvs., inclusiv informațiile din Jurnalul de activități, vă rugăm consultați politica noastră de confidențialitate accesând [Setări – Sistem – Despre telefon – Informaţii legale – Documentele juridice pentru LG Software – Politica de confidenţialitate].
+
+Acest document intitulat Jurnalul de activități a fost tradus în scopul respectării legislațiilor naționale. În cazul în care apar diferențe între textul scris în limba engleză, și textele scrise în alte limbi, se va lua în considerare versiunea în limba engleză, în limita în care acest fapt nu este interzis de legislația țării dvs.
+

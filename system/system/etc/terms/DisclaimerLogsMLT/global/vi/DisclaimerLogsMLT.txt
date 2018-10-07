@@ -1,0 +1,23 @@
+﻿Nhật ký hoạt động
+
+Để cải thiện trải nghiệm tổng thể cho người sử dụng và nâng cao khả năng khắc phục sự cố thiết bị, Nhật ký Hoạt động được khởi tạo và lưu trữ trên thiết bị di động LGE của bạn. Nhật ký hoạt độngđược lưu trữ riêng trên thiết bị của bạn và không được truyền qua môi trường không dây đến LGE hoặc bất kỳ bên thứ ba nào trừ khi được đồng ý khác đi bằng thỏa thuận riêng.
+
+Nhật ký bao gồm các thông tin sau đây:
+- Tình trạng thiết bị di động: Mẫu, phiên bản phần mềm, IMEI, số nhận dạng duy nhất, IMSI, tình trạng điện năng, tình trạng pin, việc sử dụng CPU/RAM/bộ lưu trữ trong, thời gian sử dụng trung bình, kết quả tự chẩn đoán phần cứng (Wi-Fi, BT, bộ cảm biến độ gần, bộ cảm biến chiếu sáng, bộ cảm biến dấu vân tay, v.v…)
+- Tình trạng mạng
+- Thông tin về ứng dụng, con số thông kê/lượng sử dụng ứng dụng
+- Tình trạng kết nối của thiết bị di động của bạn
+- Thông tin về lỗi: Màn hình đóng băng, tắt nguồn không cố ý, cuộc gọi bị ngắt kết nối, lỗi ứng dụng
+- Cài đặt thiết bị di động
+
+Các mục thông tin do LGE truy cập có thể được sử dụng riêng hoặc kết hợp dưới dạng tổng hợp. LGE sử dụng thông tin để hiểu rõ hơn nhu cầu của khách hàng, để cải thiện mức độ chăm sóc khác hàng của chúng tôi và các sản phẩm và dịch vụ mà chúng tôi cung cấp. Ví dụ như, thông tin Nhật ký Hoạt động giúp cho LGE, các vấn đề về kết nối và các vấn đề về pin. 
+
+Bằng cách bấm vào “đồng ý”, bạn đã đồng ý cho phép LG và bất kỳ bên thứ ba nào hành động nhân danh LG (như được mô tả dưới đây), được truy cập và sử dụng thông tin Nhật ký Hoạt động được khởi tạo bởi thiết bị của bạn. LGE có thể chia sẻ thông tin Nhật ký Hoạt động với các bên thứ ba dưới đây:
+- chi nhánh và công ty con (nghĩa là công ty kiểm soát, bị kiểm soát bởi hoặc thuộc quyền sở hữu chung hoặc kiểm soát với danh nghĩa là LGE); và
+- đại lý và nhà cung cấp dịch vụ bị ràng buộc bởi các nghĩa vụ về bảo mật và chỉ sử dụng thông tin nhân LGE hoặc giao các sản phẩm và dịch vụ theo yêu cầu, hoặc thực hiện nghĩa vụ theo hợp đông đối với bạn.
+LGE không chịu trách nhiệm hoặc chịu trách nhiệm pháp lý đối với việc thực hành bảo mật của các bên thứ ba.
+LGE cũng sẽ yêu cầu thu thập thông tin Nhật ký Hoạt động khi bạn sử dụng Dịch vụ Hậu mãi (After Service - A/S) hoặc Dịch vụ Tân trang của LGE. Bạn sẽ được yêu cầu riêng xem liệu bạn có đồng ý với điều này hay không bất cứ khi nào bạn sử dụng dịch vụ này.
+Mặc dù thông tin Nhật ký Hoạt động này được khởi tạo trong thiết bị của bạn dù bạn có đồng ý hay không, trừ khi bạn đã bấm vào “đồng ý”, nếu không LG sẽ không được truy cập thông tin đó. Nếu bạn không muốn LGE truy cập thông tin Nhật ký Hoạt động của bạn, bạn có thể chặn việc chúng tôi truy cập thông tin Nhật ký Hoạt động vào bất cứ lúc nào từ các cài đặt [Cài đặt – Hệ thống – Giới thiệu về điện thoại – Nhật ký hoạt động]. Để hiểu tổng quát về cách chúng tôi xử lý thông tin của bạn, bao gồm thông tin Nhật ký Hoạt động, vui lòng xem chính sách về quyền riêng tư của chúng tôi trong [Cài đặt – Hệ thống – Giới thiệu về điện thoại – Thông tin pháp lý – Các tài liệu pháp lý cho Phần mềm LG – Chính sách bảo mật].
+
+Mọi bản dịch của tài liệu Nhật ký hoạt động này đều được thực hiện theo yêu cầu tại địa phương và trong trường hợp có sự khác biệt giữa phiên bản tiếng Anh và phiên bản không phải tiếng Anh, phiên bản tiếng Anh của Nhật ký hoạt động này sẽ điều chỉnh, trong chừng mực tối đa mà luật địa phương trong khu vực pháp lý của bạn cho phép.
+

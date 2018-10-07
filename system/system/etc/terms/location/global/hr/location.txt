@@ -1,0 +1,3 @@
+﻿Primjena informacija o trenutnoj lokaciji
+
+LGE moe koristiti infomracije o lokaciji koje su spremljene na telefonu (pomoću GPS-a, Wi-Fi veze i mobilnih komunikacijskih mreža) za pribavljanje „informacija o trenutnoj lokaciji“ uređaja. LGE pohranjuje „informacije o trenutnoj lokaciji“ samo interno na uređaju korisnika i ne prikuplja, sprema i ne čuva informacije na svojim poslužiteljima. Čak i ako se slažete s gornjim usluga se pruža samo kada korisnik aktivira funkciju Google lokacije, a primjena usluge „informacije o trenutnoj lokaciji“ može se promijeniti u bilo kojem trenutku u postavkama izbornika svake usluge koja koristi „informacije o trenutnoj lokaciji“.

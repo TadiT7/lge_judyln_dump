@@ -1,0 +1,11 @@
+service mediacodec /vendor/bin/hw/android.hardware.media.omx@1.0-service
+    class main
+    user mediacodec
+    group camera drmrpc mediadrm audio
+    ioprio rt 4
+    writepid /dev/cpuset/foreground/tasks
+
+# [S][CodecParser_Framework] support dtsdec
+on post-fs-data
+    mkdir /data/misc/dts 0771 media camera
+# [E][CodecParser_Framework] support dtsdec

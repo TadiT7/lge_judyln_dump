@@ -1,0 +1,109 @@
+﻿Politica de confidenţialitate
+
+În Politica de confidenţialitate sunt descrise modurile în care LGE obține accesa la informațiile dvs. personale și folosește aceste informații în scopul prestării serviciului Actualizările de software. Vă rugăm citiți cu atenție înainte de utilizarea serviciului Actualizările de software.
+
+1.	Introducere
+LG Electronics Inc. („LGE” sau „noi”) este dedicată protejării informațiilor persoanelor și grupurilor, care folosesc telefoanele mobile LGE. Politica de confidenţialitate stabilește modurile în care colectăm, folosim și partajăm informațiile colectate prin intermediul telefonului dvs. mobil LGE, accentuând în special aspectele legate de următoarele:
+-	prezentarea generală a actualizărilor de software FOTA;
+-	informațiile pe care LGE le poate obține despre dvs;
+-	modurile în care LGE folosește informațiile obținute;
+-	ocaziile cu care LGE partajează informații cu alte entități; 
+-	transferarea în străinătate a datelor persoanelor
+-	perioada de păstrare a informațiilor personale de către LGE
+-	securitate
+-	dreptul de a refuza sau retrage acordul
+-	asigurarea confidențialității informațiilor copiilor
+-	modificările aduse Politicii de confidențialitate LGE
+-	accesarea informațiilor dvs.
+-	dreptul de a înainta o plângere și
+-	contactarea LGE în legătură cu prezenta Politică de confidențialitate
+
+Prezenta Politică de confidențialitate se referă exclusiv la informațiile colectate de LGE prin intermediul telefonului dvs. mobil LGE, în scopul actualizării firmware cu folosirea procedurii Firmware Over-the-Air („FOTA”) („Actualizare software”). Această Politică de confidențialitate nu este valabilă în cazul celorlalte produse sau servicii LGE, inclusiv în cazul aplicațiilor furnizate sau oferite de LG pentru utilizare pe dispozitive mobile. De asemenea, această Politică de confidențialitate nu este valabilă în oricăror produse sau servicii oferite de terțe părți, cum sunt furnizorii sistemelor de operare, furnizorii de diferite conținuturi sau aplicații sau operatorul dvs. Produsele și serviciile nesupuse prevederilor prezentei Politici de confidențialitate sunt supuse propriilor politici referitoare la colectarea, utilizarea și partajarea informațiilor, motiv pentru care recomandăm citirea politicilor în cauză. LGE este exonerat de orice obligații și răspundere, care derivă din practicile terțelor părți privind asigurarea confidențialității.
+
+Dacă ați achiziționat recent acest telefon mobil, înainte de utilizare este necesară actualizarea software-ului, precum menționat în această Politică de confidențialitate, în scopul asigurării funcționării corespunzătoare a telefonului mobil și a actualizării caracteristicilor, funcțiilor și a setărilor de securitate. Pentru mai multe informații vă rugăm contactați-ne, folosind modalitățile menționate în această Politică de confidențialitate.
+
+Pentru a vizualiza oricând această Politică de confidențialitate vă rugăm accesați [Setări – Sistem – Despre telefon – Informații legale – Documente juridice pentru LG Software – Politica de confidenţialitate].
+
+Acest document intitulat Politică de confidențialitate a fost tradus în scopul respectării legislațiilor naționale. În cazul în care apar diferențe între textul scris în limba engleză, și textele scrise în alte limbi, se va lua în considerare versiunea în limba engleză, în limita în care acest fapt nu este interzis de legislația țării dvs.
+
+2.	Prezentarea generală a actualizărilor de software FOTA
+Este posibil ca la anumite intervale de timp LGE firmware de pe telefonul dvs.(„software”) să necesite actualizări sau suplimente furnizate de LGE sau este posibil ca LGE să adauge programe de completare la software. Actualizarea software-ului cauzează instalarea de software nou pe telefonul dvs. mobil, în scopul furnizării actualizărilor, a suplimentelor sau a programelor de completare. Actualizarea software-ului poate cauza adăugarea de caracteristici sau de funcții noi, însă în anumite cazuri poate cauza și eliminarea anumitor caracteristici sau funcții. După actualizarea software-ului utilizarea versiunii anterioare a software-ului sau revenirea la versiunea anterioară a software-ului nu mai sunt posibile. 
+
+Deoarece actualizarea software-ului are loc printr-o procedură FOTA, descărcarea software-ului cu folosirea internetului mobil poate cauza costuri suplimentare, în funcție de politica furnizorului dvs. și de planul dvs. tarifar. Dacă doriți să preveniți actualizarea software-ului prin rețeaua mobilă, selectați opțiunea „Doar Wi-Fi” din meniul Setări. 
+
+a.	Opțiunile dvs. de gestionare în viitor a actualizării software-ului
+Dacă acceptați această Politică de confidențialitate FOTA, telefonul dvs. va căuta la anumite intervale software nou sau actualizat, și va instala automat software-ul nou sau actualizat, când acesta este disponibil (funcția „Verifica automat”). După instalarea software-ului sistemul va fișa un mesaj într-o fereastră pop-up sau un mesaj de notificare pe telefonul dvs. mobil. Astfel, aveți posibilitatea de a accepta sau de a respinge actualizarea software-ului. Telefonul dvs. mobil va actualiza software-ul instalat la miezul nopții (funcția „Actualizări automate”). Pentru dezactivarea funcțiilor „Verifica automat” și „Actualizări automate” accesați [Setări – Sistem – Centru de actualizare – Actualizări software – Meniului excedent – Setări].  Dezactivarea funcției Verifica automat implică respingerea oricărei actualizări ulterioare a software-ului.
+Dacă telefonul dvs. mobil este deja folosit și dvs. refuzați actualizarea software-ului, este posibil, ca neinstalarea software-ului actualizat să cauzeze [scăderea performanței, probleme de compatibilitate cu aplicațiile noi sau existente sau alte probleme legate de funcții sau de siguranță.].
+
+b.	Actualizările de urgență ale software-ului
+În cazul în care este necesar, suntem îndreptățiți la actualizarea software-ului în scopul protejării intereselor noastre, fără trimiterea unei notificări prealabile și fără solicitarea acordului dvs., și indiferent de setările curente ale dispozitivului („Actualizarea de urgență a software-ului”). Astfel de situații, care impun necesitatea actualizării de urgență a software-ului, pot fi de exemplu: amenințarea securității clientului, a datelor sau a funcționări, care poate cauza întreruperea furnizării serviciilor sau orice alte situații similare.
+
+3.	informațiile pe care LGE le poate obține despre dvs.
+Pe durata actualizării software-ului LGE poate colecta următoarele informații de pe telefonul dvs. mobil: codul unic de identificare al telefonului (IMEI), numărul serial, modelul telefonului mobil, versiunea software și/sau firmware, sistemul de operare al telefonului, codul de țară al telefonului mobil (MCC), codul rețelei mobile (MNC), identificatorul Google Cloud Messaging (GCM) și limba selectată. Aceste informații sunt colectate în mod automat, car parte a procedurii de actualizare a software-ului.
+
+În calitatea noastră de furnizori de servicii mobile către telefonul dvs. mobil, vom colecta informații despre utilizarea telefonului, inclusiv jurnalele de sistem cu adresele IP. Această colectare de informații are loc în mod automat, fiind necesare pentru funcționarea optimă a telefonului.
+
+4.	Modurile în care LGE folosește informațiile obținute
+Informațiile colectate de la dvs. sunt utilizate în diferite scopuri, inclusiv:
+-	pentru actualizarea software-ului (inclusiv actualizarea de urgență a software-ului), pentru verificarea faptului dacă software-ul este actualizat la zi, pentru autentificarea telefonului dvs. mobil și pentru furnizarea software-ului corespunzător; 
+-	pentru îndeplinirea obligațiilor noastre conform [Garanției limitate a produsului];
+-	pentru comunicarea notificărilor referitoare la serviciile de securitate destinate telefonului mobil și a notificărilor de urgență, ca răspuns la problemele de securitate;
+-	pentru protejarea și apărarea drepturilor și proprietăților noastre, inclusiv prin mijloace legale;
+-	pentru îndeplinirea prevederilor legale; și
+-	pentru a analiza și îmbunătăți produsele și serviciile oferite.
+
+Cadrul legal în baza căruia LGE va procesa informațiile dvs. personale este dat, de obicei, de următoarele;
+-	contractul: în cazul în care avem obligația de a încheia un contract cu dvs.;
+-	interesele legitime: în cazurile în care este necesar pentru interesele de afaceri legitime ale LGE sau ale unei terțe părți. În aceste cazuri sunt incluse și interesele LGE, în calitate de producător de produse electronice de consum și de furnizor de servicii;
+-	acordul: în cazurile în care v-ați exprimat acordul. Aveți posibilitatea de a vă retrage oricând acordul; sau
+-	obligațiile legală: în cazurile în care procesarea informațiilor este necesară în scopul îndeplinirii obligațiilor legale
+
+De asemenea, pe durata actualizării software-ului și a utilizării telefonului mobil, suntem îndreptățiți la colectarea de informații statistice, în scopul înțelegerii nevoilor clienților, în scopul îmbunătățirii serviciului nostru clienți și a serviciilor oferite, în scopul efectuării de cercetări și de analize de piață. Astfel de date statistice nu conțin informații de identificare personală și nu se referă la persoanele fizice.
+
+5.	Ocaziile cu care LGE partajează informații cu alte entități
+De obicei, nu partajăm cu entități terțe informațiile colectate pe durata actualizării software-ului,. în special dacă aceste informații pot fi folosite în scop de identificare sau dacă se pot referi la persoane fizice. Cu toate acestea, vă rugăm acordați atenție circumstanțelor menționate mai jos, deoarece acestea se referă la situațiile în care astfel de informații sunt partajate cu următoarele entități terțe:
+
+-	Entitățile afiliate și subunitățile. LGE este îndreptățit la partajarea informațiilor cu caracter personal și nepersonal (inclusiv informații legate de telefonul mobil) cu entitățile afiliate și cu subunitățile sale, indiferent de locația acestora, însă doar în limita în care aceste informații sunt folosite în scopurile pentru care au fost colectate. Termenul de ‘entitate afiliată’ sau ‘subunitate’ se referă la grupuri de firme care folosesc denumirea LG sau care au caracter de proprietar sau de membru, precum LG CNS sau LG Electronics U.S.A., Inc.;
+-	Furnizori terți Către entități terțe contractate de LGE în scopul de furniza uneori servicii în numele său, de exemplu servicii de asistare clienți;
+-	Alte entități, dacă este obligatoriu prin lege. Dacă acest fapt este impus prin decizii ale instanțelor de judecată, de guvern sau de alte autorități competente, în scopul îndeplinirii procedurilor și prevederilor legale;
+-	Alte entități implicate în tranzacțiile dintre societățile comerciale. În cazul unor evenimente legate de diferite societăți comerciale, cum sunt fuzionările, restructurările, vânzările sau transferurile parțiale sau totale ale activităților LGE (inclusiv vânzarea sau transferarea unei divizii sau subunități) - în asemenea cazuri este posibil ca LGE să fie obligat la divulgarea de informații către cumpărătorul potențial și către consilierii profesionali ai acestuia;
+-	Alte părți în scopul protejării serviciilor noastre. În scopul aplicării drepturilor noastre contractuale, în scopul implementării măsurilor de precauție legate de răspundere, în scopul investigării fraudelor posibile sau reale, sau în scopul de a ne apăra împotriva plângerilor și acuzațiilor comunicate de terțe părți; sau
+-	Alte părți, în scopul protejării clienților noștri sau a proprietății noastre. În scopul protejării drepturilor și în scopul asigurării siguranței personale a clienților noștri sau a publicului.
+
+Informațiile personale colectate pe durata actualizării software-ului vor fi folosite în scopuri de marketing doar cu acordul dvs. și vor fi comunicate către terțe părți în scopuri de marketing doar după obținerea acordului dvs.
+
+6.	Transferarea datelor persoanelor
+Noi, afiliații noștri, subunitățile noastre și furnizorii de servicii suntem/sunt îndreptățiți la utilizarea informațiilor dvs. personale și în alte țări, decât cea în care se află telefonul dvs. mobil, însă doar î scopurile menționate în această Politică de confidențialitate. Este posibil, ca în anumite țări, legislația privind protecția datelor să nu fie la fel de severă ca legislația aferentă aplicabilă în țara dvs. Însă, premergător transferării informațiilor dvs. personale vom implementa toate măsurile necesare, în scopul asigurării faptului că în țara/jurisdicția destinatară informațiile dvs. personale sunt protejate cu aceeași strictețe.  Prin acceptarea prezentei Politici de confidențialitate vă exprimați acordul referitor la utilizarea informațiilor dvs. personale în țări sau jurisdicții, în care prevederile legale aplicabile nu conferă informațiilor dvs. personale același grad de protecție, ca legea aplicabilă în țara sau jurisdicția dvs., inclusiv, dar nu limitat la: Republica Coreea sau Statele Unite ale Americii, în conformitate cu prevederile prezentei Politici de confidențialitate. 
+
+7.	Perioada de păstrare a informațiilor personale de către LGE
+Vom lua toate măsurile necesare în scopul asigurării faptului că informațiile dvs. personale sunt păstrate doar cât timp acest fapt este necesar și în scopul pentru care au fost colecționate sau în conformitate cu prevederile legale aplicabile. 
+În cazul în care solicitați ștergerea informațiilor dvs. personale, deoarece stocarea acestora nu mai este necesară, sau din cauza unei obiecții legate de procesarea acestora sau dacă sunteți de părere că procesarea acestor informații nu este legală, sunteți îndreptățit(ă) la solicitarea restricționării procesării, cât timp noi analizăm solicitarea dvs. legată de ștergere.
+
+8.	Securitate
+Depunem toate eforturile rezonabile din punct de vedere comercial și implementăm toate practicile acceptabile de industrie în scopul protejării informațiilor dvs. personale împotriva pierderii sau utilizării neautorizate, precum și împotriva modificărilor și a dezvăluirilor. Cu toate acestea, din cauza structurii internetului, a tehnologiei expuse la modificări continue și din cauza altor evenimente asupra cărora nu avem control, nu putem garanta protecția împotriva accesului neautorizat de către terțe părți a comunicării dvs. cu serverele noastre, sau faptul că securitatea acestor comunicări nu este viciată. Suntem exonerați de orice răspundere în cazul dezvăluirii informațiilor personale cauzate de erori survenite pe durata transmiterii, a activităților neautorizate sau a activităților ilegale comise de terțe părți.
+
+9.	Dreptul de a refuza sau retrage acordul
+Conform prevederilor legale aplicabile sunteți îndreptățit(ă) la refuzarea acordului legat de această Politică de confidențialitate, la retragerea acordului sau la solicitarea întreruperii utilizării informațiilor dvs. personale. În scopul exersării acestor drepturi vă rugăm contactați-ne, folosind mijloacele menționate în această Politică de confidențialitate. Desigur, vom depune toate eforturile pentru a răspunde cât mai repede solicitării dvs. 
+De asemenea, aveți posibilitatea de a vă retrage acordul referitor la colectarea ulterioară a informațiilor dvs. personale, prin dezactivarea funcțiilor „Verifica automat” și „Actualizări automate” de pe telefonul dvs. mobil, precum menționat mai sus. Pentru dezactivarea acestor funcții accesați [Setări – Sistem – Centru de actualizare – Actualizare software – Meniului excedent – Setări]. 
+Vă rugăm, rețineți că dezactivarea funcțiilor Verifica automat și Actualizări automate poate afecta sau restricționa parțial sau total  funcționarea telefonului dvs. mobil sau al serviciilor. Colectarea și utilizarea informațiilor precum menționat mai sus, sunt necesare pentru funcționarea și utilizarea optimă a telefonului dvs. mobil. 
+
+Pentru mai multe informații legate de dreptul dvs. de a refuza sau de a retrage acordul dvs. vă rugăm contactați-ne la adresa de e-mail lgecsvc@lge.com
+
+10.	Asigurarea confidențialității informațiilor copiilor
+Asigurarea confidențialității informațiilor copiilor este importantă pentru noi. Din acest motiv, telefonul dvs. mobil nu este destinat utilizării de către copii, precum definit în prevederile legale aplicabile în țara dvs. De asemenea, dorim să specificăm faptul că noi nu colectăm și nu stocăm în mod intenționat informații personale ale copiilor. În cazul în care, aflăm sau suntem notificați în legătură cu faptul că am colecționat informații de la un copil, fără verificarea acordului parental, vom șterge imediat informațiile personale în cauză.
+
+11.	Modificările aduse Politicii de confidențialitate LGE
+Este posibil, ca LGE să actualizeze din când în când prezenta Politică de confidențialitate. În cazul modificării materiale a prezentei Politici de confidențialitate, vom comunica acest fapt prin actualizarea datei menționate mai jos și prin afișarea Politicii de confidențialitate modificate, pentru ca dvs. să aveți posibilitatea de a o vizualiza, ca parte a actualizării viitoare a software-ului.
+
+12.	Accesarea informațiilor dvs. 
+Sunteți îndreptățit(ă) la solicitarea de detalii despre informațiile dvs. personale colectate de LGE în scop de accesare, de corectare sau de ștergere a informațiilor dvs. personale. Cu toate acestea, vă rugăm rețineți faptul că nu întotdeauna avem posibilitatea de a modifica sau de a șterge informațiile dvs. personale, dacă prevederile legale aplicabile ne obligă la păstrarea acestor informații. În limita permisă de lege, este posibilă perceperea unei mici sume pentru furnizarea acestui serviciu. Vă rugăm rețineți, că suntem îndreptățiți la respingerea procesării cererii dvs., dacă cererea în cauză este neargumentată, abuzivă, dacă periclitează confidențialitatea informațiilor altor persoane sau dacă nu sunt poate fi implementată. De asemenea, actualizarea sau ștergerea informațiilor personale poate afecta sau restricționa funcționarea telefonului dvs. mobil sau a serviciilor. 
+
+Pentru înaintarea unei cereri de accesare, de rectificare sau de ștergere a informațiilor dvs. personale, vă rugăm contactați-ne la adresa lgecsvc@lge.com
+
+13.	Dreptul de a înainta o plângere
+Conform prevederilor legale aplicabile în UE sunteți îndreptățit(ă) la înaintarea de reclamații referitoare la procesarea informațiilor dvs. personale, reclamația fiind întocmită împreună cu autoritatea competentă. Pentru mai multe informații despre dreptul dvs. de a înainta reclamații către LGE, vă rugăm contactați-ne la adresa lgecsvc@lge.com. 
+
+14.	Contactarea LGE în legătură cu prezenta Politică de confidențialitate
+Pentru mai multe informații sau pentru observații legate de această Politică de confidențialitate, vă rugăm contactați-ne prin e-mail la adresa lgecsvc@lge.com.
+
+Data ultimei actualizări: 01. noiembrie 2017

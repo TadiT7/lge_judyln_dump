@@ -1,0 +1,108 @@
+﻿Política de Privacidade
+
+Esta Política de Privacidade descreve como a LGE acessa e usa sua informação pessoal coletada em decorrência do uso do Serviço de Atualização de Software. Leia atentamente antes de usar o Serviço de Atualização de Software.
+
+1.	Introdução
+A LG Electronics, Inc. ("LGE" ou "nós") está empenhada em proteger as informações dos indivíduos ou grupos que utilizam os dispositivos móveis LGE. Esta Política de Privacidade define como coletamos, usamos e compartilhamos as informações que obtemos como resultado do uso do telefone LGE e, em particular, define:
+-	Visão Geral de Atualizações do Software FOTA;
+-	Informações que a LGE pode obter de você;
+-	Como a LGE utiliza a informação que obtém;
+-	Quando a LGE compartilha informações com terceiros;
+-	Transferências internacional de informação
+-	Por quanto tempo a LGE manterá minhas informações pessoais?
+-	Segurança 
+-	Direito de recusar ou revogar seu consentimento
+-	Protegendo a Privacidade das Crianças
+-	Mudanças na Política de Privacidade da LGE
+-	Acessando suas informações
+-	Direito de Apresentar uma Reclamação; e 
+-	Entre em Contato com a LGE referente a Presente Política de Privacidade
+
+Esta Política de Privacidade se aplica apenas às informações obtidas pela LGE em decorrência do uso do seu telefone LGE ao atualizar o firmware por meio da tecnologia FOTA (Firmware Over-the-Air), ("Atualização de Software"). Esta Política de Privacidade não se refere a quaisquer outros produtos ou serviço LGE, incluindo aplicativos oferecidos ou fornecidos pela LGE. Esta Política de Privacidade também não se refere a qualquer produto ou serviço oferecido através de terceiros, incluindo provedores de sistemas operacionais, outros provedores de conteúdo ou aplicativos e de sua operadora. Produtos e serviços fora dos propósitos descritos nesta Política de Privacidade têm suas próprias políticas que se aplicam à obtenção, uso e compartilhamento de informações, nós encorajamos você a ler tais políticas. A LGE não é responsável pelas práticas de privacidade de terceiros.
+
+Se você adquiriu recentemente esse telefone, é necessário realizar Atualização de Software conforme descrito nesta Política de Privacidade antes de utilizá-lo, para garantir que o seu telefone funcione corretamente e tenha recursos, funcionalidades e configurações segurança atualizados. Se tiver qualquer dúvida, entre em contato conosco conforme descrito no presente documento.
+
+Esta Política de Privacidade está disponível e pode ser visualizada em: [Ajustes – Sistema – Sobre o telefone – Informações legais – Documentos legais para Software LG – Política de privacidade].
+
+Qualquer tradução deste Política de Privacidade será feita para os requisitos locais e, no caso de discrepância entre o inglês e quaisquer versões em outros idiomas, a versão em inglês deste Política de Privacidade deverá prevalecer, na medida em que não é proibido pela lei local na sua jurisdição.
+
+2.	Visão Geral Atualizações de Software FOTA
+O firmware LGE no seu telefone ("Software") pode requerer atualizações ou suplementos fornecidos pela LGE, ou a LGE poderá fornecer componentes adicionais ao Software de tempos em tempos. A realização da atualização de software irá instalar um novo Software em seu telefone para fornecer atualizações, suplementos ou componentes adicionais. As atualizações de software podem adicionar novos recursos ou funcionalidades e, em casos limitados, podem remover funcionalidades ou funções pré-existentes. Após finalizar a Atualização de Software, você pode não ser capaz de reverter e voltar para a versão anterior do Software.
+
+Como Atualização de Software é por meio da tecnologia FOTA, podem ser aplicadas cobranças adicionais se você baixar o Software usando dados móveis, dependendo da sua operadora e do plano de dados. Se você deseja evitar qualquer uso de dados móveis para atualizações de software, vá em Ajustes, e, em seguida, selecione a opção "Somente Wi-Fi".
+
+a.	Opções para gerenciar Atualizações de Software futuras
+Quando você concorda com esta Política de Privacidade FOTA, seu telefone irá verificar de tempos em tempos se há o software novo ou atualização disponível, caso haja atualização disponível, o telefone irá instalar automaticamente o Software ou atualização (opção, "Verificar automaticamente"). Após concluir o processo de atualização, você receberá uma notificação pop-up ou uma mensagem em seu telefone. Você terá a opção de aceitar ou recusar a Atualização de Software antes iniciar o processo de atualização. O seu telefone também irá aplicar automaticamente o software instalado à meia-noite (opção, "Atualizações automáticas"). Você pode recusar através das opções, "Verificar automaticamente" e "Atualizações automáticas" em: [Ajustes – Sistema – Centro de atualização – Atualização de software – Menu lateral – Ajustes].
+Se você recusar a opção de Verificar automaticamente, você está expressamente recusando futuras atualizações de software.
+Se você já estive usando o seu telefone e recusar a Atualização de Software, caso você não instale a atualização do Software poderá resultar em [redução do desempenho do seu celular, problemas de compatibilidade com aplicativos novos ou existentes e entre outros problemas como recursos ou segurança do seu telefone].
+
+b.	Atualização de Software Urgentes
+Caso seja necessário, podemos realizar uma Atualização de Software de acordo com nossos interesses legítimos, sem aviso prévio ou solicitação de consentimento e independentemente das configurações atuais do dispositivo ("Atualização de Software Urgente"). Exemplos de circunstâncias que podem exigir Atualização de Software Urgente incluem possíveis ameaças à segurança do cliente ou segurança das informações, ou problemas operacionais que podem resultar em interrupção significativa de serviços ou probabilidade iminente de tais circunstâncias.
+
+3.	Informações que a LGE pode obter de você
+Ao executar Atualização de Software, a LGE pode obter as seguintes informações referente ao seu telefone: Identificação Internacional de Equipamento Móvel (IMEI), número de série, modelo do aparelho, software e ou versões de firmware, sistema operacional, código do país (MCC) código de rede móvel (MNC), ID do Google Cloud Messaging (GCM) e idioma selecionado. Tais informações são obtidas automaticamente como parte do processo de execução da atualização de software.
+
+Em conformidade ao nosso de serviços de telefonia para o seu dispositivo, iremos obter informações operacionais, incluindo registros de sistema, com endereços IP. Essa informação é obtida automaticamente, processo fundamenta para funcionamento do telefone.
+
+4.	Como a LGE utiliza a informação que obtém?
+Usamos as informações obtidas sobre você para vários propósitos, como:
+-	Para realizar Atualização de Software (incluindo Atualizações de Software Urgentes); para verificar se o Software está atualizado, para autenticar o seu telefone e disponibilizar o Software correto; 
+-	Para confirmar nossas obrigações decorrentes sob os termos da [Garantia Limitada do Produto];
+-	Para fornecer notificações relacionadas aos serviços de segurança do dispositivo móvel e notificações de emergência relacionados a questões de segurança;
+-	A fim de proteger e defender nossos direitos e bens, incluindo por meio de processos judiciais;
+-	Para cumprir os requisitos regulamentares; e
+-	A fim de melhorar o fornecimento de produtos e serviços que oferecemos.
+
+A base jurídica no qual a LGE irá processar suas informações pessoais será uma das seguintes;
+-	Contrato: para contatá-lo quando necessário;
+-	Interesses legítimos: quando for necessário para a LGE ou de interesses comerciais legítimos de terceiros. No caso da LGE, incluirá interesses, como fabricante de produtos eletrônicos e provedor de serviços;
+-	Consentimento: quando concedido. Você poderá revogar o seu consentimento a qualquer momento; ou 
+-	Obrigações legais: quando for necessário para o cumprimento de obrigações legais.
+
+Podemos utilizar dados estatísticos obtidos em decorrência do uso da Atualização de Software e durante a utilização do dispositivo móvel, melhor entender as necessidades dos nossos clientes, melhorar o atendimento ao cliente, produtos e serviços que oferecemos e para pesquisas de mercado e análises. Esses dados estatísticos agregados não contêm informações que identifiquem ou possam ser atribuídas a pessoas físicas.
+
+5.	Quando a LGE compartilha informações com terceiros 
+Não compartilhamos com terceiros as informações obtidas durante Atualização de Software que identifiquem ou possam ser atribuída a pessoas físicas. No entanto, podemos compartilhar tais informações com terceiros nos seguintes casos:
+-	Afiladas e Subsidiários. A LGE pode compartilhar informações pessoas e não pessoais (incluindo informações do dispositivo móvel) com as suas afiliadas e subsidiárias em todo o mundo, apenas quando for necessário para proposito nas quais tais informações foram obtidas. O termo "afiliadas" ou "subsidiárias" refere-se a empresas do grupo que posam estar usando o nome da LG ou quem tem propriedade ou controle comum, como LG CNS ou LG Electronics U.S.A., Inc.; 
+-	Provedores de Serviços de Terceiros. Para fornecedores terceirizados que a LGE pode se comprometer a prestar serviços em seu nome, de tempos em tempos, a fim de melhor atendê-lo;
+-	Outras Partes Quando Exigido por Lei. Conforme ordem judicial ou outras autoridades governamentais ou as autoridades de aplicação de lei a fim de cumprir com o processo legal ou de direito.
+-	Outras Partes em Conexão com Transações Corporativas. Em conexão com um evento corporativo, como uma fusão ou venda de todo ou parte dos negócios da LGE (incluindo a divisão ou subsidiária), onde a LGE pode precisar divulgar informações para um comprador potencial e seus consultores profissionais.
+-	Outras Partes Quando Necessário Proteger Nosso Serviço. Para fazer valer nossos direitos contratuais, tomar precauções contra responsabilidade, investigar possíveis atividades ilegais suspeitas ou reais, investigar ou nos defender contra reclamações ou alegações de terceiros; ou
+-	Outras Partes Para Proteger Qualquer Segurança Pessoal ou Propriedade dos Nossos Clientes. A fim de proteger os direitos, a segurança pessoal ou a propriedade de nossos clientes ou do público.
+
+Sob nenhuma circunstância, as informações pessoais obtidas em decorrência da Atualização de Software serão processadas para fins de marketing sem seu consentimento, nem compartilhadas com terceiros para fins de marketing sem o seu consentimento.
+
+6.	Transferência de dados pessoais 
+Nós, nossos afiliados, subsidiários e fornecedores podem usar as informações (incluindo suas informações pessoais) em países diferentes de onde seu celular esteja localizado para fins descritos nesta Política de Privacidade. As leis de proteção de dados em muitos desses países podem não oferecer o mesmo nível de proteção que aqueles em seu país de residência. No entanto, antes de se transferir, tomaremos medidas para assegurar que tais informações terão o mesmo nível de proteção que as existentes sob as leis de proteção de dados aplicáveis no país onde você está localizado. Ao concordar com esta Política de Privacidade você expressamente consente conosco e com nossos associados comerciais e fornecedores em processar seus dados em qualquer jurisdição, incluindo, mas não limitando-se, a Coreia e os Estados Unidos da América, em conformidade com esta Política de Privacidade.
+
+7.	Por quanto tempo a LGE manterá minhas informações pessoais?
+Tomaremos as medidas possíveis para garantir a segurança das suas informações pessoais durante o processo de obtenção ou conforme exigido pela legislação aplicável. Se você solicitar que suas informações pessoais sejam deletadas devido a não utilização das mesmas, ou com base em objeção ao processamento ou uma reivindicação de que o processamento seja ilegal, você tem o direito de buscar a restrição de processamento enquanto verificamos a sua solicitação de remoção.
+
+8.	Segurança
+Utilizamos os esforços comerciais possíveis para proteger a confidencialidade de suas informações pessoais. No entanto, devido ao desenho da Internet, tecnologia em constante mudança e outros fatores externos de nosso controle, não podemos garantir que as comunicações entre você e os Servidores de LG serão livres de acesso não autorizado por terceiros ou que não estaremos sujeitos a violações da segurança. Não aceitamos qualquer responsabilidade pela divulgação de informações pessoais devido a erros na transmissão ou atos ilegais ou não autorizados de terceiros ou sua decisão de divulgar suas informações pessoais.
+
+9.	 Direito de Recursar ou Revogar Consentimento 
+De acordo com a legislação local aplicável, você pode ter o direito de se recusar a consentir na presente Política de Privacidade, revogar o consentimento ou solicitar que deixemos de tratar suas informações pessoais. Para exercer os seus direitos, entre em contato conosco conforme previsto nesta Política de Privacidade, e responderemos ao seu pedido o mais rápido possível. 
+Além disso, você poderá revogar o consentimento de obtenção de informações pessoais, desativando as funções "Verificar automaticamente" e "Atualizações automáticas" no seu dispositivo móvel, conforme descrito acima. Essas funções podem ser acessadas em: [Ajustes – Sistema – Centro de atualização – Atualização de software – Menu lateral – Ajustes]. No entanto, entenda que, se você desativar as funções Verificar automaticamente e Atualizações automáticas, isso pode afetar ou restringir a funcionamento parcial do seu dispositivo móvel ou serviços, ou no todo.
+A obtenção e uso da informação, conforme descrito acima, são necessários para a funcionamento do seu dispositivo.
+
+Se você tiver qualquer dúvida sobre o direito de revogar ou como revogar o seu consentimento, entre em contato conosco no lgecsvc@lge.com
+
+10.	Protegendo a Privacidade das Crianças
+Proteger a privacidade das crianças é importante para nós. Por essa razão, não coletamos de forma consciente ou mantemos informações pessoais de crianças, conforme definido pela lei aplicável, conscientemente não coletamos informações pessoais de criança. Se soubermos ou se formos notificados de que coletamos informações de pessoais de crianças, excluiremos imediatamente tais informações pessoais.
+
+11.	Mudanças na Política de Privacidade da LGE
+Esta Política de Privacidade pode ser atualizada pela LGE há qualquer tempo. Caso haja quaisquer alterações significativa na presente Política de Privacidade, e iremos notificá-lo atualizando a data abaixo e fornecendo a Política de Privacidade atualizada como parte de futuras atualizações de softwares.
+
+12.	Acessando sua Informação 
+Você tem o direito solicitar detalhes sobre suas informações pessoais obtidas pela LGE para acessar, corrigir e excluir. No entanto, entenda que talvez não possamos alterar ou excluir suas informações pessoais se for exigido pela lei aplicável para manter essa informação. Se permitido pelas leis, uma pequena taxa para fornecer esse serviço pode ser cobrada. Se permitido pelas leis, uma pequena taxa para fornecer esse serviço pode ser cobrada. Por favor, note que podemos recusar processar seus pedidos se eles são injustamente abusivos, prejudicar a privacidade de outros ou são extremamente impraticáveis. Além disso, atualizar ou excluir informações pessoais podem afetar ou restringir a operação do seu celular ou serviços. 
+
+Se você quiser solicitar o seu acesso, rever o excluir informações pessoais, entre em contato conosco no lgecsvc@lge.com
+
+13.	Direito de Apresentar uma Reclamação
+De acordo com a legislação local aplicável na UE, você tem o direito de apresentar uma reclamação em relação ao processamento de seus dados pessoais com a autoridade de supervisão relevante. Para obter mais informações sobre o seu direito de apresentar uma reclamação ou apresentar uma reclamação junto a LGE, entre em contato conosco no lgecsvc@lge.com.
+
+14.	Entrar em Contato com a LGE referente a presente Política de Privacidade
+Se você tiver dúvidas ou comentários sobre esta Política de Privacidade, entre em contato conosco pelo e-mail lgecsvc@lge.com.
+
+Última atualização: 01 de novembro de 2017

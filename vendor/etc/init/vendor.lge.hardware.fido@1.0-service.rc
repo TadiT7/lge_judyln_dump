@@ -1,0 +1,8 @@
+#
+# Copyright(c) 2015 by LG Electronics. Confidential and Proprietary All Rights Reserved.
+#
+
+service fido-lge-1-0 /vendor/bin/hw/vendor.lge.hardware.fido@1.0-service
+    class hal
+    user system
+    group system

@@ -1,0 +1,4 @@
+service rescontrol-hal-1-0 /vendor/bin/hw/vendor.lge.hardware.powerhint.rescontrol@1.0-service
+    class hal
+    user system
+    group system

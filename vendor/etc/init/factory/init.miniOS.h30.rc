@@ -1,0 +1,265 @@
+#################################################################
+# H3.0 executable process
+
+service h30_mainmodule /sbin/python /factory/minios/run.py apps.h30.common.h30_mainmodule
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_autodetect /sbin/python /factory/minios/run.py apps.h30.AutoDetect.h30_autodetect
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_accel /sbin/python /factory/minios/run.py apps.h30.Accelerator.h30_accel
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_gyro /sbin/python /factory/minios/run.py apps.h30.Gyro.h30_gyro
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_nfc /sbin/python /factory/minios/run.py apps.h30.Nfc.h30_nfc
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_nfc_swp /sbin/python /factory/minios/run.py apps.h30.NfcSwp.h30_nfcswp
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_otg /sbin/python /factory/minios/run.py apps.h30.Otg.h30_otg
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_wlc /sbin/python /factory/minios/run.py apps.h30.Wlc.h30_wlc
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_hdmi /sbin/python /factory/minios/run.py apps.h30.HDMI.h30_hdmi
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_proxi /sbin/python /factory/minios/run.py apps.h30.Proxi.h30_proxi
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_fingerprint /sbin/python /factory/minios/run.py apps.h30.FingerPrint.h30_fingerprint
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_light /sbin/python /factory/minios/run.py apps.h30.Light.h30_light
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_gps /sbin/python /factory/minios/run.py apps.h30.GPS.h30_gps
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_wifi /sbin/python /factory/minios/run.py apps.h30.Wifi.h30_wifi
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_dmboneseg /sbin/python /factory/minios/run.py apps.h30.DMB_ONESEG.h30_dmboneseg
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_hvdcp /sbin/python /factory/minios/run.py apps.h30.HVDCP.h30_hvdcp
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_touch /sbin/python /factory/minios/run.py apps.h30.Touch.h30_touch
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_irrc /sbin/python /factory/minios/run.py apps.h30.IrRC.h30_irrc
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_magnetic /sbin/python /factory/minios/run.py apps.h30.Magnetic.h30_magnetic
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_ws /sbin/python /factory/minios/run.py apps.h30.WS.h30_ws
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service Hmq /sbin/Hmq
+    class late_start
+    user root
+    group root
+
+service OST_JManager /sbin/python /factory/minios/run.py service.jigmanager.rs232_str
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_pre_result /sbin/python /factory/minios/run.py apps.h30.Preresult.h30_pre_result
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_result /sbin/python /factory/minios/run.py apps.h30.Result.h30_result
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_optional /sbin/python /factory/minios/run.py apps.h30.optional.h30_optional
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_receiver /sbin/OneStop_Receiver
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_earmp3 /sbin/python /factory/minios/run.py apps.h30.EarMP3.h30_earmp3
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_loopback /sbin/python /factory/minios/run.py apps.h30.Loopback.h30_loopback
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_speaker /sbin/python /factory/minios/run.py apps.h30.Speaker.h30_speaker
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+#service h30_vibrator /sbin/python /factory/minios/run.py apps.h30.Vibrator.h30_vibrator
+service h30_vibrator /sbin/OneStop_Vibrator
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_mic /sbin/python /factory/minios/run.py apps.h30.Mic.h30_mic
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_fm /sbin/python /factory/minios/run.py apps.h30.Fm.h30_fm
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+#service h30_cameraois /sbin/OneStop_CameraOIS
+service h30_cameraois /sbin/python /factory/minios/run.py apps.h30.CameraOIS.h30_cameraois
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_cameraa /sbin/python /factory/minios/run.py apps.h30.Camera.h30_cameraapple
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_camerab /sbin/python /factory/minios/run.py apps.h30.Camera.h30_camerabanana
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_camerac /sbin/python /factory/minios/run.py apps.h30.Camera.h30_cameracherry
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service h30_camerad /sbin/OneStop_CameraDurian
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+on property:ost.start=1
+    start h30_mainmodule
+    setprop bluetooth.ble.kill 1

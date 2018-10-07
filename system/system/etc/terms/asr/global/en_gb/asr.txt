@@ -1,0 +1,8 @@
+﻿Consent to user voice information for Google Automatic Speech Recognition (“ASR”) 
+
+This Parking Assistant service (“Service”) uses Google ASR, a function provided by Google, Inc. (“Google”), to enable us to convert user voice to text.
+The voice information required to enable you to use the Service will be transmitted to and stored by Google. Google will use this information for the purpose of converting your voice information to text information and transmit the text information to LGE.
+Any information collected by ASR is governed by Google’s own Privacy Policy, which can be found at (https://www.google.com/policies/privacy/).
+You may choose to deactivate the use of ASR by withdraw the services in “Options menu > Legal info”.
+LGE never collects and/or uses any personal information, including user voice information, and only uses non-personally identifiable information such as text information for the purposes of the Service.
+Furthermore, LGE will never use the user’s text information, nor allow any third party to use the said information, to track or collect any personally identifiable information of visitors to the Service, and will not associate any data gathered from this Service with any personally identifiable information originating from any other source.

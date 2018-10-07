@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="memories_title_text">"[@param/place]에서의 특별한 시간을 추억 앨범에 담았습니다. 잠시 그 순간들을 둘러 보세요."</string>
+	<string name="memories_title_source_text">"[@param/eventTitle]&lt;br /&gt;[@param/startTime] [@param/duration]일간의 추억"</string>
+	<string name="memories_ok">"추억 앨범 보기"</string>
+	<string name="last_year_memories_title_text">"작년 이맘때의 소중한 순간을 앨범으로 간직하고 있습니다. 사진을 보며 지난 추억을 떠올려 보세요."</string>
+</resources>

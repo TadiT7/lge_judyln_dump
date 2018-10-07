@@ -1,0 +1,3 @@
+﻿Použití aktuálních informací o poloze
+
+LGE může používat informace o poloze uložené v zařízení (pomocí GPS, Wi-Fi a mobilních komunikačních sítí), aby získala "aktuální informace o poloze" zařízení. LGE pouze ukládá informace o "aktuální poloze" na zařízení uživatele a neshromažďuje, neukládá ani neuchovává informace na svých serverech. I když souhlasíte s výše uvedeným, služba je poskytována pouze tehdy, když uživatel povolí funkci Google lokace a použití služby "aktuální informace o poloze" může být kdykoli změněno v nabídce nastavení každé služby, která používá "aktuální informace o poloze".

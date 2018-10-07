@@ -1,0 +1,27 @@
+﻿Aktivitāšu žurnāli
+
+Lai uzlabotu vispārējo lietotāju pieredzi un pilnveidotu iekārtu traucējumu novēršanu, jūsu LGE mobilajā ierīcē tiek izveidoti un saglabāti aktivitāšu žurnāli.
+
+Žurnālos tiek ietverta šāda informācija:
+- Mobilās ierīces statuss: modelis, programmatūras versija, IMEI, unikālais identifikācijas numurs, IMSI, jaudas statuss, akumulatora statuss, CPU/RAM/iekšējās krātuves lietojums, vidējais lietošanas laiks, aparatūras pašdiagnostikas rezultāti (Wi-Fi, BT, tuvuma sensors, apgaismojuma sensors, pirkstu nospiedumu sensors utt.);
+- Tīkla statuss;
+- Informācija par lietojumprogrammu, lietojumprogrammas izmantošanas uzskaiti/statistiku;
+- Jūsu mobilās ierīces savienojuma statuss;
+- Informācija par kļūdām: ekrāns nereaģē, nejauši strāvas padeves traucējumi, pārtraukti zvani, lietotņu kļūdas;
+- Mobilās ierīces iestatīšana.
+
+Aktivitāšu žurnāli tiek glabāti tikai jūsu ierīcē un netiek nosūtīti bezvadu režīmā LGE vai jebkurai trešajai personai, ja vien nepastāv atsevišķa vienošanās.
+Visu informāciju, kas nonākusi LGE rīcībā, var izmantot atsevišķi vai apkopotā veidā. LGE izmanto šādu informāciju, lai labāk izprastu mūsu klientu vajadzības, uzlabotu mūsu klientu apkalpošanu, kā arī mūsu piedāvātos produktus un pakalpojumus. Piemēram, Aktivitāšu žurnālu informācija ļauj LGE izpētīt un novērst tīkla kļūdas, savienojuma problēmas un problēmas ar akumulatoru. 
+
+LGE var koplietot Aktivitāšu žurnālu informāciju ar tālāk norādītajām trešajām personām:
+- saistītie un meitasuzņēmumi (t.i., uzņēmumi, kuri kontrolē, kurus kontrolē vai kuriem ar LGE ir kopīgi īpašnieki vai vadība); un
+- aģenti un pakalpojumu sniedzēji, kuriem ir saistoši konfidencialitātes pienākumi un kuri izmanto informāciju tikai LGE vārdā vai nodrošina pieprasītos produktus un pakalpojumus, vai citādi izpilda līgumsaistības attiecībā uz jums.
+
+LGE neatbild un neuzņemas atbildību par trešo personu rīcību konfidencialitātes jomā.
+
+LGE pieprasīs Aktivitāšu žurnālu informācijas ievākšanu, ja izmantosiet LGE Pēcpārdošanas pakalpojumus (P/P) vai Atjaunošanas pakalpojumus. Šo pakalpojumu izmantošanas laikā jums tiks atsevišķi jautāts.
+
+Neskatoties uz to, ka Aktivitāšu žurnāli informācija tiek ģenerēta jūsu ierīcē neatkarīgi no tā, vai jūs tam piekrītat vai nē, LG nepiekļūs šai informācijai, ja nebūsiet uzklikšķinājis/-usi „Labi”, arī tad, ja vēlāk sniegsiet piekrišanu atsevišķā vienošanās dokumentā. Ja nevēlaties, lai LGE piekļūtu jūsu Aktivitāšu žurnāla informācijai, jūs varat jebkurā brīdī nobloķēt piekļuvi jūsu Aktivitāšu žurnāla informācijai iestatījumos [Iestatījumi – Sistēma – Par tālruni – Aktivitāšu žurnāli]. Lai saprastu, kā LGE parasti izmanto jūsu informāciju, tostarp Aktivitāšu žurnālu informāciju, skatiet mūsu Konfidencialitātes politiku [Iestatījumi – Sistēma – Par tālruni – Juridiskā informācija – LG programmatūras juridiskie dokumenti – Konfidencialitātes politika].
+
+Šo Aktivitāšu žurnālu dokumenta tulkojumi tiek sagatavoti atbilstoši vietējām prasībām, un, pastāvot neatbilstībām starp tekstu angļu valodā un jebkurā citā valodā, noteicošais ir teksts angļu valodā, ciktāl to neaizliedz vietējie likumi jūsu jurisdikcijā.
+

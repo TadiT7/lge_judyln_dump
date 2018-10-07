@@ -1,0 +1,3 @@
+﻿Wykorzystywanie informacji o bieżącej lokalizacji
+
+Firma LGE może wykorzystywać informacje o lokalizacji zapisane na urządzeniu (obejmuje GPS, Wi-Fi i sieci komórkowe) w związku z uzyskiwaniem „informacji o bieżącej lokalizacji” urządzenia. Firma LGE zapisuje „informacje o bieżącej lokalizacji” wyłącznie na urządzeniu użytkownika — nie gromadzi, nie zapisuje ani nie przechowuje takich informacji na swoich serwerach. Nawet jeśli wyrazisz zgodę na powyższe warunki, usługa będzie świadczona wyłącznie wtedy, gdy włączysz funkcję lokalizacji Google. Warunki dotyczące usług opartych na „ informacjach o bieżącej lokalizacji” mogą ulec zmianie w dowolnej chwili. Znajdziesz je w menu ustawień każdej usługi wykorzystującej „informacje o bieżącej lokalizacji”.

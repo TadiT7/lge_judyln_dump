@@ -1,0 +1,23 @@
+﻿Log aktiviti
+
+Untuk meningkatkan pengalaman pengguna keseluruhan dan meningkatkan penyelesaian masalah peranti, Log aktiviti dihasilkan dan disimpan pada peranti mudah alih LGE anda. Log aktiviti disimpan secara eksklusif pada peranti anda dan tidak dipindahkan melalui udara ke LGE atau mana-mana pihak ketiga melainkan dipersetujui sebaliknya oleh perjanjian berasingan. 
+
+Log ini termasuk maklumat berikut: 
+- Status peranti mudah alih: Model, versi perisian, IMEI, nombor pengenalan unik, IMSI, status kuasa, status bateri, penggunaan CPU/RAM/storan dalaman, masa penggunaan purata, hasil diagnosis kendiri perkakasan (Wi-Fi, BT, sensor jarak dekat, sensor pencahayaan, sensor cap jari dan lain-lain) 
+- Status rangkaian
+- Maklumat mengenai aplikasi, kiraan/statistik penggunaan aplikasi
+- Status sambungan peranti mudah alih anda
+- Maklumat ralat: Skrin beku, kuasa dimatikan tanpa sengaja, panggilan terputus, ralat aplikasi
+- Tetapan peranti mudah alih
+
+Item maklumat yang diakses oleh LGE boleh digunakan secara individu atau digabungkan dalam bentuk agregat. LGE menggunakan maklumat ini untuk lebih memahami keperluan pelanggan, meningkatkan khidmat pelanggan serta produk dan perkhidmatan yang kami tawarkan. Sebagai contoh, maklumat Log aktiviti membolehkan LGE menyiasat dan membetulkan ralat rangkaian, masalah sambungan dan isu bateri. 
+
+Dengan mengklik “setuju”, anda bersetuju untuk membenarkan LGE dan pihak ketiga tertentu yang bertindak bagi pihak LGE (seperti yang diterangkan di bawah), untuk mengakses dan menggunakan maklumat Log aktiviti yang dihasilkan oleh peranti anda. LGE boleh berkongsi maklumat Log aktiviti dengan pihak ketiga berikut:
+- sekutu dan subsidiari (bererti syarikat yang mengawal, dikawal oleh atau berada di bawah pemilikan atau kawalan bersama seperti LGE); dan
+- ejen dan pembekal perkhidmatan yang terikat dengan kewajipan kerahsiaan dan yang menggunakan maklumat itu hanya untuk pihak LGE atau untuk menyampaikan produk dan perkhidmatan yang diminta, atau sebaliknya untuk memenuhi kewajipan kontrak kepada anda.
+LGE tidak bertanggungjawab terhadap amalan privasi pihak ketiga.
+LGE juga akan meminta untuk mengumpul maklumat Log aktiviti apabila anda menggunakan Perkhidmatan Selepas Perkhidmatan (A/S) atau Pembaharuan daripada LGE. Anda akan diminta secara berasingan pada masa menggunakan perkhidmatan ini sama ada anda bersetuju dengan perkara ini.
+Walaupun maklumat Log aktiviti dihasilkan dalam peranti anda sama ada anda bersetuju atau tidak, melainkan anda telah mengklik “setuju” LG tidak akan mengakses maklumat tersebut. Jika anda tidak mahu LGE mengakses maklumat Log aktiviti anda, anda boleh pada bila-bila masa menyekat akses kami kepada maklumat Log aktiviti anda daripada tetapan [Tetapan – Sistem – Mengenai telefon – Log aktiviti]. Untuk memahami cara LGE secara umumnya mengendalikan maklumat anda, termasuk maklumat Log aktiviti, sila rujuk polisi peribadian kami dalam [Tetapan – Sistem – Mengenai telefon – Maklumat sah – Dokumen undang-undang untuk Perisian LG – Polisi Peribadian].
+
+Mana-mana terjemahan untuk dokumen Log aktiviti ini dilakukan bagi keperluan tempatan dan jika terdapat percanggahan antara versi Bahasa Inggeris dan mana-mana versi bukan Bahasa Inggeris, versi Bahasa Inggeris bagi dokumen Log aktiviti ini akan mengawal, setakat yang dibenarkan oleh undang-undang tempatan dalam bidang kuasa anda.
+

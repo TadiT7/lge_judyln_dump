@@ -1,0 +1,109 @@
+﻿Privacy Policy
+
+This Privacy Policy describes how LGE gains access to and uses your personal information in the context of Software Updates Service. Please read it carefully before using Software Updates Service.
+
+1.	Introduction
+LG Electronics Inc. (“LGE” or “we”) is committed to protecting the information of those individuals and groups who use LGE mobile phones. This Privacy Policy sets out how we collect, use, and share information that we collect from your LGE mobile phone and, in particular, sets out:
+-	Overview of FOTA Software Updates;
+-	Information LGE may obtain from you;
+-	How LGE uses the information that it obtains;
+-	When LGE shares information with others; 
+-	Overseas Transfers of personal data
+-	How long will LGE keep my personal information?
+-	Security
+-	Right to Refuse or withdraw Consent
+-	Protecting the Privacy of Children
+-	Changes to LGE's Privacy Policy
+-	Accessing Your Information
+-	Right to Lodge a Complaint; and
+-	Contacting LGE about this Privacy Policy
+
+This Policy applies only to information collected by LGE from your LGE mobile phone to perform an update of firmware via a Firmware Over-the-Air (“FOTA”) process (a “Software Update”). This Policy does not apply to any other products or services of LGE, including mobile apps offered or provided by LGE. This Policy also does not apply to any products or services offered by third parties, including operating system providers, other content or application providers or your network carrier. Products and services outside the scope of this Privacy Policy have their own policies that apply to the collection, use, and sharing of information, and we encourage you to read those policies. LGE is not responsible or liable for the privacy practices of third parties.
+
+If you have recently purchased this mobile phone, it is necessary to perform a Software Update as described in this Privacy Policy before use, in order to ensure that your mobile phone functions properly and has our most up-to-date features, functionality and security settings. If you have any questions, please contact us as provided in this Policy.
+
+This Policy is available for your review at any time at [Settings – System – About phone – Legal info – Legal Documents for LG Software – Privacy Policy].
+
+Any translation of this Privacy Policy is done for local requirements and in the event of a discrepancy between the English and any non-English version, the English version of this Policy shall govern, to the maximum extent permitted by applicable law in your jurisdiction.
+
+2.	Overview of FOTA Software Updates
+From time to time, the LGE firmware on your mobile phone (the “Software”) may require updates or supplements provided by LGE, or LGE may provide add-on components to the Software. Performing a Software Update will install new Software on your mobile phone in order to supply these updates, supplements or add-on components. Software Updates may add new features or functions and, in limited cases, may remove existing features or functions. After completing the Software Update, you may no longer use and may not be able to roll back to the previous installed version of the Software. 
+
+Because the Software Update is performed via a FOTA process, additional charges may apply if you download new Software over a cellular network, depending on your network carrier and service plan. If you wish to avoid any use of cellular network data for Software Updates, please select the “Wi-Fi only” option under Settings. 
+
+a.	Your options for managing future Software Updates
+When you consent to this FOTA Privacy Policy, your mobile phone will check for new or updated Software from time to time and automatically install new or updated Software when it is available (“Check automatically” function). After the Software is installed, we will alert you using a pop-up notice or a notification message on your mobile phone. You will have the option to accept or decline the Software Update before applying the Software. Your mobile phone will also automatically apply the installed Software at midnight (“Automatic updates” function). You can decline these “Check automatically” and “Automatic updates” functions at [Settings – System – Update Center – Software Update – Overflow Menu – Settings].  If you decline Check automatically, you are effectively declining to perform future Software Updates.
+If your mobile phone is already in use and you decline to perform a Software Update, please note that failure to install updated Software may result in [degradation of performance of your mobile phone, compatibility issues with new or existing apps, and other issues with features or security of your mobile phone].
+
+b.	Urgent Software Updates
+If circumstances require, we may perform a Software Update pursuant to our legitimate interests, without providing individual notification or seeking consent, and regardless of current device settings (an “Urgent Software Update”). Examples of circumstances that may require an Urgent Software Update include threats to customer safety or data security, or operational issues that may result in significant disruption of services, or imminent likelihood of such circumstances.
+
+3.	Information LGE may obtain from you
+In performing a Software Update, LGE may collect the following information from your mobile phone: International Mobile Equipment Identity (IMEI), serial number, mobile phone model, software and/or firmware versions, phone operating system, mobile country code (MCC), mobile network code (MNC), Google Cloud Messaging (GCM) identifier and selected language. This information is collected automatically as part of the process of performing a Software Update.
+
+As part of our role in providing cellular services to your mobile phone, we will collect operational information, including system logs with IP addresses. This information is collected automatically and it is a necessary part of operation of the phone.
+
+4.	How will LGE use the information it obtains?
+We use information obtained from you for various purposes, including:
+-	To perform the Software Update (including any Urgent Software Updates), including to check whether the Software is up-to-date, to authenticate your mobile phone, and to deliver the appropriate Software; 
+-	To confirm our obligations under the [our Limited Product Warranty];
+-	To provide notifications relating to mobile phone security services and emergency notifications in response to safety issues;
+-	To protect and defend our rights and property, including by way of legal proceedings;
+-	To comply with regulatory requirements; and
+-	To analyze, review and improve the products and services we offer.
+
+The legal basis on which LGE will rely on to process your personal information will typically be one of the following;
+-	Contract: where it is necessary to perform a contract with you;
+-	Legitimate interests: where it is necessary for the purposes of LGE or a third party’s legitimate business interests. For LGE, this will include its interests as a consumer electronics products manufacturer and service provider;
+-	Consent: where you have chosen to provide it. You have the right to withdraw your consent at any time; or
+-	Legal obligation: where the processing is necessary for compliance with our legal obligations
+
+We may also use aggregate statistical data collected during a Software Update and during operation of the mobile phone to better understand our customers’ needs, to improve our customer care and products and services that we offer, and for market research and analytics. Such aggregate statistical data does not contain information that identifies or may be attributed to natural persons.
+
+5.	When LGE shares information with others
+We generally do not share with third parties the information we collect during the Software Update that identifies or may be attributed to natural persons. Nevertheless, please be aware of the following circumstances where we may share such information with the following third parties:
+
+-	Affiliates and Subsidiaries. LGE may share personal information and non-personal information (including mobile phone information) with its affiliates and subsidiaries around the world only so long as necessary for the purposes for which it was collected. The term ‘affiliates’ or ‘subsidiaries’ refers to group companies who may be using LG name or who has common ownership or control such as LG CNS or LG Electronics U.S.A., Inc.;
+-	Third Party Service Providers. To third party vendors that LGE may engage to provide services on its behalf from time to time, such as to fulfill customer service requests;
+-	Other Parties When Required by Law. As required by court order or other government or law enforcement authorities in order to comply with legal process or law;
+-	Other Parties in Connection with Corporate Transactions. In connection with a corporate event, such as a merger, restructuring, sale or transfer of all or part of LGE’s business (including that of a division or subsidiary), where LGE may need to disclose information to a potential buyer and its professional advisers;
+-	Other Parties When it is Necessary to Protect Our Service. To enforce our contractual rights, take precautions against liability, investigate suspected or actual illegal activities, or to investigate or defend ourselves against third party claims or allegations; or
+-	Other Parties When it is to Protect Any of Our Customers’ Personal Safety or Property. In order to protect the rights, personal safety or property of our customers or the public.
+
+Under no circumstances shall your personal information collected during the Software Update be processed for marketing purposes without your consent, nor shared with third parties for marketing purposes without your consent.
+
+6.	Transfers of personal data
+We, our affiliates, subsidiaries and service providers may use your personal information in countries other than where your mobile phone is located, for the purposes described in this Privacy Policy. Data protection laws in some countries may not offer the same level of protection as those in the country where you are located. However, before transferring your personal information, we will take steps to ensure that such information will be afforded the same level of protection in the recipient country or jurisdiction. By agreeing to this Privacy Policy you expressly consent to processing of your personal information in countries or jurisdictions where applicable laws may not provide the same level of protection of personal information as the laws of the country or jurisdiction where you are located, including, without limitation, Republic of Korea or United States, in accordance with this Privacy Policy. 
+
+7.	How long will LGE keep my personal information?
+We will take reasonable steps to make sure that we keep your personal information for as long as is necessary for the purpose for which it was collected, or as required by applicable law. 
+If you request erasure of your personal information because it is no longer needed, or based on an objection to the processing or a claim that the processing is unlawful, you have the right to seek the restriction of processing while we verify your request for erasure.
+
+8.	Security
+We use commercially reasonable efforts and follow generally accepted industry data practices to safeguard your personal information against accidental loss and from unauthorized access, use, alteration and disclosure. Nevertheless, due to the design of the Internet, ever-changing technology, and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties or that we will not be subject to security breaches. We do not accept any responsibility for the disclosure of personal information due to errors in transmission or unauthorized or unlawful acts of third parties.
+
+9.	Right to Refuse or Withdraw Consent
+Under applicable local law, you may have the right to refuse to consent to this Privacy Policy, to withdraw consent or to otherwise request that we cease handling personal information about you. To exercise any such rights that you may have, please contact us as provided in this Policy, and we will respond to your request as soon as possible. 
+In addition, you may withdraw consent to further collection of your personal information by disabling the “Check automatically” and “Automatic updates” functions on your mobile phone, which are described above. These functions may be accessed at [Settings – System – Update Center – Software Update – Overflow Menu – Settings]. 
+However, please understand that if you disable the Check automatically and Automatic updates functions, it may affect or restrict the operation of your mobile phone or services, in part or in whole. The collection and use of the information, as described above, is necessary for the optimal operation of your mobile phone. 
+
+If you have any questions about your right to refuse or how to withdraw consent, please contact us at lgecsvc@lge.com
+
+10.	Protecting the Privacy of Children
+Protecting the privacy of children is important to us. For that reason, your mobile phone is not intended for children as defined by applicable local law, and we do not knowingly collect or maintain personal information from children. Should we learn or be notified that we have collected information from a child without verification of parental consent, we will promptly delete such personal information.
+
+11.	Changes to LGE's Privacy Policy
+This Privacy Policy may be updated by LGE from time to time. If we make a material change to our Privacy Policy, we will let you know by updating the date below and by providing the modified Privacy Policy for your review as part of a future Software Update.
+
+12.	Accessing Your Information 
+You are entitled to request details about your personal information LGE collects to access, correct or delete your personal information. However, please understand that we may not be able to alter or delete your personal information if we are required under applicable law to maintain that information. If permitted by laws, a small fee for providing you with such service may be charged. Please note that we may decline to process your requests if they are unreasonably abusive, jeopardize the privacy of others, or are extremely impractical. In addition, updating or deleting personal information may affect or restrict the operation of your mobile phone or services. 
+
+If you would like to make a request to access, rectify, or delete your personal information, please contact us at lgecsvc@lge.com
+
+13.	Right to Lodge a Complaint
+Under applicable local law in the EU, you have the right to lodge a complaint in relation to the processing of your personal data with the relevant supervisory authority. For more information about your right to lodge a complaint or to file a complaint with LGE, please contact us at lgecsvc@lge.com. 
+
+14.	Contacting LGE about this Privacy Policy
+If you have any questions or comments about this Privacy Policy please contact us by email at lgecsvc@lge.com.
+
+Last updated: Nov, 01, 2017

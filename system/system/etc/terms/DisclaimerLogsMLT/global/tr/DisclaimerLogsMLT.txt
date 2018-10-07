@@ -1,0 +1,23 @@
+﻿Aktivite günlükleri
+
+Genel kullanıcı deneyimini iyileştirmek ve cihaz sorunlarını gidermek için Aktivite günlükleri oluşturulur ve LGE mobil cihazınızda saklanır. Aktivite günlükleri yalnızca cihazınızda saklanır ve ayrı bir sözleşme ile aksi kabul edilmedikçe, uzaktan LGE'ye veya herhangi bir üçüncü tarafa aktarılmaz. 
+
+Günlükler aşağıdaki bilgileri içerir: 
+- Mobil cihaz durumu: Model, yazılım sürümü, IMEI, benzersiz tanımlama numarası, IMSI, güç durumu, pil durumu, CPU / RAM / dahili depolama kullanımı, ortalama kullanım süresi, donanımın kendi kendini teşhis sonucu (Wi-Fi, BT, yakınlık sensörü, aydınlatma sensörü, parmak izi sensörü vb.) 
+- Ağ durumu
+- Uygulama, uygulama kullanım sayısı / istatistikler hakkında bilgi
+- Mobil cihazınızın bağlantı durumu
+- Hata bilgisi: Donmuş ekran, istenmeyen kapanmalar, bağlantısı kopan çağrılar, uygulama hataları
+- Mobil cihaz ayarı
+
+LGE tarafından erişilen bilgi maddeleri tek tek kullanılabilir veya toplu halde birleştirilebilir. LGE bu bilgiyi, müşterilerimizin ihtiyaçlarını daha iyi anlamak, sunduğumuz müşteri hizmetleri, ürünleri ve hizmetlerini geliştirmek için kullanır. Örneğin, Etkinlik Günlüğü bilgileri, LGE'nin ağ hatalarını, bağlantı problemlerini ve pil sorunlarını araştırmasına ve bunları düzeltmesine olanak tanır. 
+
+"Onay” seçeneğine tıklayarak, LGE'nin ve LGE adına (aşağıda açıklandığı gibi) hareket eden bazı üçüncü tarafların cihazınız tarafından oluşturulan Etkinlik Günlüğü bilgilerine erişmesine ve kullanmasına izin vermiş olursunuz. LGE, Etkinlik Günlüğü bilgilerini aşağıdaki üçüncü taraflarla paylaşabilir:
+- iştiraklere ve bağlı ortaklıklara (LGE tarafından kontrol edilen, kontrol eden veya LGE ile ortak sahiplik veya kontrol altında olan şirketleri ifade eder); ve
+- gizlilik yükümlülüklerine tabi olan ve yalnızca LGE adına veya talep edilen ürün ve hizmetleri sunmak için veya başka bir şekilde sözleşmesel bir yükümlülüğün yerine getirilmesi için acentelere ve servis sağlayıcılara.
+LGE üçüncü şahısların gizlilik uygulamalarından sorumlu veya yükümlü değildir.
+LGE, Servis Sonrası Hizmeti (A/S) veya Yenileme Hizmetini kullandığınızda da Etkinlik Günlüğü bilgilerini toplamayı talep edecektir. Bunu kabul etmeniz, bu hizmetleri kullanırken ayrı olarak sizden istenecektir.
+Etkinlik Günlüğü bilgileri, cihazınızda oluşturulmuş olsa da, "onay" seçeneğine tıklamadıkça LG bu bilgilere erişmez. LGE'nin Etkinlik Günlüğü bilgilerinize erişmesini istemiyorsanız, [Ayarlar – Sistem – Telefon hakkında – Aktivite günlükleri] ayarlarından Etkinlik Günlüğünüzde olan bilgiye erişimi istediğiniz zaman engelleyebilirsiniz. LGE'nin Etkinlik Günlüğü bilgileri de dahil olmak üzere genel olarak bilgilerinizi nasıl işlediğini anlamak için lütfen [Ayarlar – Sistem – Telefon hakkında – Yasal bilgiler – LG Yazılımı için Yasal Belgeler – Gizlilik ilkesi] bölümündeki gizlilik politikamıza göz atın.
+
+Bu Etkinlik Günlüğü'nün herhangi bir çevirisi yerel gereklilikler için yapılır ve İngilizce ile İngilizce olmayan herhangi bir versiyon arasında bir uyuşmazlık olması durumunda, bu Etkinlik Günlüğü'nün İngilizce versiyonu, kendi yargı alanınızdaki geçerli yasaların izin verdiği ölçüde geçerli olacaktır.
+

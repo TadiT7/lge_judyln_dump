@@ -1,0 +1,8 @@
+﻿Consentimento para utilizar as informações de voz para o Reconhecimento de Voz Automático ("ASR") da Google 
+
+Este serviço de Parking Assistant ("Serviço") utiliza o ASR da Google, uma função disponibilizada pela Google, Inc. ("Google"), que nos permite converter a voz do utilizador em texto.
+As informações de voz para a sua utilização do Serviço serão transmitidas à Google e armazenadas. A Google utilizará estas informações para a finalidade de converter as suas informações de voz em informações de texto e transmitir as informações de texto à LGE.
+Quaisquer informações recolhidas pelo ASR são regidas pela Política de Privacidade da Google, a qual pode ser consultada em https://www.google.com/policies/privacy/.
+Pode optar por desativar a utilização do ASR recusando os serviços em "Menu de opções - Informações legais".
+A LGE nunca recolhe e/ou utiliza quaisquer informações pessoais, incluindo informações de voz do utilizador, e utiliza apenas informações não pessoalmente identificáveis, como as informações de texto para o Serviço.
+Adicionalmente, a LGE nunca utilizará (nem permitirá que terceiros utilizem) as informações de texto para rastrear ou recolher quaisquer informações de identificação pessoal de visitantes do Serviço e não associará quaisquer dados obtidos deste Serviço a quaisquer informações de identificação pessoal de qualquer fonte.

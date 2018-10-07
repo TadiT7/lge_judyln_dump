@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<permissions>
+<!--LGE-->
+    <allow-lg-bg-service package="com.lge.sprintserver" />
+    <allow-lg-bg-service package="com.lge.drmservice" />
+    <allow-lg-bg-service package="com.lge.embms.mmwservice" />
+    <allow-lg-bg-service package="com.lge.embmsmodemservice" />
+    <allow-lg-bg-service package="com.lge.embms_vzw_q" />
+    <allow-lg-bg-service package="com.lge.quicktools" />
+    <allow-lg-bg-service package="com.qualcomm.embms" />
+    <allow-lg-bg-service package="org.simalliance.openmobileapi.service" />
+    <allow-lg-bg-service package="com.lt.dra" />
+    <allow-lg-bg-service package="com.lt.echolocate" />
+    <allow-lg-bg-service package="com.lge.maagent" />
+
+<!-- DCM -->
+    <allow-lg-bg-service package="com.nttdocomo.android.osv" />
+    <allow-lg-bg-service package="com.nttdocomo.android.tapandpay" />
+    <allow-lg-bg-service package="com.nttdocomo.android.homeagent" />
+
+    <allow-lg-bg-service package="jp.co.nttdocomo.carriermail" />
+    <allow-lg-bg-service package="jp.co.nttdocomo.lcsapp" />
+    <allow-lg-bg-service package="com.nttdocomo.android.applicationmanager" />
+    <allow-lg-bg-service package="com.nttdocomo.android.remotelock" />
+    <allow-lg-bg-service package="com.nttdocomo.android.wipe" />
+    <allow-lg-bg-service package="jp.co.nttdocomo.saigaiban" />
+    <allow-lg-bg-service package="com.nttdocomo.android.idmanager" />
+    <allow-lg-bg-service package="com.nttdocomo.android.anmane2" />
+    <allow-lg-bg-service package="com.nttdocomo.android.atf" />
+    <allow-lg-bg-service package="com.nttdocomo.android.iconcier" />
+    <allow-lg-bg-service package="com.nttdocomo.osaifu.tsmproxy" />
+    <allow-lg-bg-service package="com.nttdocomo.android.phonemotion" />
+    <allow-lg-bg-service package="com.nttdocomo.android.epsmodecontrol" />
+
+    <allow-lg-bg-service package="com.nttdocomo.android.pf.dcmippushaggregator" />
+    <allow-lg-bg-service package="com.nttdocomo.android.areamail" />
+
+<!-- LGU -->
+    <allow-lg-bg-service package="com.lguplus.lgugpsnwps" />
+</permissions>

@@ -1,0 +1,80 @@
+﻿Datenschutzrichtlinie für die Verwendung von Aktivitätsprotokollen
+
+Diese Datenschutzrichtlinie legt dar, in welcher Form LGE Zugriff auf Ihre personenbezogenen Daten im Zusammenhang mit bestimmten LG Device Diagnostics Report-Diensten erhält und diese verwendet. Bitte lesen Sie diese vor einer Verwendung der LG Device Diagnostics Report-Dienste sorgfältig durch.
+
+1. Einführung
+LG Electronics, Inc. („LGE“ oder „wir“) setzt sich für den Schutz von Informationen und personenbezogenen Daten der Personen und Gruppen ein, welche die LG PC/Mac Software in Anspruch nehmen. Dieser LG Device Diagnostics Report-Dienst bietet einen Remote-Verbindungsdienst („Dienste“).
+Diese Datenschutzrichtlinie legt dar, wie wir Informationen, die wir als Resultat der Benutzung der Services erhalten, erfassen, verwenden und weitergeben, insbesondere:
+
+– Welche Daten LGE von Ihnen möglicherweise erhält;
+– Wie LGE die erhaltenen Informationen verwendet;
+– Wann LGE Informationen mit Anderen austauscht; sowie
+– Wie Sie die Verwendung und den Austausch Ihrer personenbezogenen Informationen durch LGE kontrollieren können.
+
+Sowohl Ihr Gerät als auch der LG Device Diagnostics Report-Dienst bieten einen möglichen Zugriff auf Softwareanwendungen und Links zu anderen Diensten, die Dritten gehören und von diesen betrieben werden, einschließlich Betriebssystemanbietern und weiteren Anbietern von Inhalten und Anwendungen. Diese Dienste von Drittanbietern fallen nicht in den Geltungsbereich dieser Datenschutzrichtlinie, sondern werden durch eigene Richtlinien geregelt, die für die Erfassung, Verwendung und Weitergabe von Informationen im Zusammenhang mit diesen Diensten gelten. Wir empfehlen Ihnen, diese Richtlinien zu lesen. LGE ist für die Datenschutzpraktiken von Dritten weder verantwortlich noch haftbar.
+
+2. Welche Informationen erhält LGE?
+Die Informationen, die wir möglicherweise erhalten, dass Sie die Dienste nutzen, fallen unter folgende Kategorien:
+– Status des mobilen Geräts: Modell, Softwareversion, IMEI, Seriennummer, IMSI, Stromversorgungsstatus, Akkustatus, CPU/RAM/interne Speicherauslastung, durchschnittliche Nutzungsdauer, Hardware-Selbstdiagnoseergebnis (Wi-Fi, BT, Näherungssensor, Beleuchtungssensor, Fingerabdrucksensor, usw.)
+– Netzwerkstatus: Dienststatus (Anruf, Daten), Signalstärke, Stationsinformationen, Anrufhäufigkeit/-zeitpunkt
+– Anwendungsinformationen: Die Liste der installierten und gelöschten Apps, App-Version, zuletzt ausgeführte Apps, Häufigkeit/Statistiken der App-Nutzung 
+– Mobiltelefonverbindungsstatus: Wi-Fi-, Bluetooth-, GPS-, Ohrhörer-, Akkuladegerät-, USB- und Speicherkarten-Verbindungsstatus
+– Fehlerinformationen: Eingefrorener Bildschirm, unbeabsichtigte Ausschaltungen, unterbrochene Anrufe, Anwendungsfehler (schwerer Ausnahmefehler)
+
+3. Wie verwendet LGE die erhaltenen Informationen?
+Die Daten, die wir aufgrund Ihrer Nutzung der Dienste erhalten, benutzen wir u. a. für folgende Zwecke:
+
+- Zur Identifizierung und zur Diagnose eines Mobilgeräts
+- Um Kundendienste zu erbringen und den Dienstverlauf zu verwalten 
+- Um Push-Nachrichten zu senden 
+- Um Dienst-/Protokoll-/Geräteverlauf für eine verbesserte Qualität und Kundenzufriedenheit zu analysieren
+
+Wir können Daten, die wir aus der Nutzung der Dienste erhalten, einschließlich personenbezogener Daten, für die oben genannten Zwecke mit Daten kombinieren, die Sie uns auf anderem Wege zur Verfügung stellen.
+
+Die rechtliche Grundlage, auf der sich LGE bei der Verarbeitung Ihrer personenbezogenen Daten stützt, ist in der Regel eine der folgenden;
+
+– Vertrag: wo es notwendig ist, einen Vertrag mit Ihnen zu schließen;
+– Berechtigte Interessen: Wo dies für die Zwecke von LGE oder der legitimen Geschäftsinteressen eines Dritten erforderlich ist. Für LGE beinhaltet dies seine Interessen als Hersteller und Dienstleister von Produkten der Unterhaltungselektronik;
+– Einwilligung: Wo Sie gewählt haben, eine solche bereitzustellen. Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen; oder
+– Rechtliche Verpflichtung: wo die Verarbeitung zur Einhaltung unserer gesetzlichen Verpflichtungen erforderlich ist
+
+Aus den Informationen in den verschiedenen Unterabschnitten geht hervor, auf welche der oben genannten Rechtsgrundlagen in Bezug auf verschiedene Kategorien von personenbezogenen Daten zurückgegriffen wird.
+
+4. Weitergabe von Informationen
+Verbundene Unternehmen und Tochtergesellschaften. LGE kann personenbezogene und nicht-personenbezogene Informationen mit seinen verbundenen Unternehmen und Tochtergesellschaften in der ganzen Welt, für die in dieser Datenschutzrichtlinien beschriebenen Zwecke, teilen. Der Begriff „verbundene Unternehmen“ oder „Tochtergesellschaften“ bezieht sich auf Konzernunternehmen, die möglicherweise den LG Namen tragen oder ein gemeinsames Eigentum oder eine gemeinsame Steuerfunktion wie LG CNS oder LG France, S.A.R.L. haben.
+
+Bitte beachten Sie, dass wir diese Informationen auch weiterhin mit den nachfolgend genannten Unternehmen teilen können:
+- Drittanbieter von Diensten. Ihre personenbezogenen und nicht personenbezogenen Daten können an Drittanbieter weitergeben werden, um den LG Device Diagnostics Report-Dienst zu ermöglichen;
+
+Während wir Informationen im Allgemeinen nicht an weitere Dritte weitergeben, beachten Sie bitte, dass wir unter den folgenden besonderen Umständen die Informationen weiter mit den nachfolgend genannten Unternehmen teilen können;
+- Weitere Parteien, falls dies gesetzlich vorgeschrieben ist. Wenn dies durch gerichtliche Anordnung oder sonstigen Regierungs- oder Vollzugsbehörden erforderlich wird, um rechtlichen Verfahren oder dem Gesetz Genüge zu tun;
+- Weitere Parteien im Zusammenhang mit Unternehmenstransaktionen. Im Zusammenhang mit einem Ereignis des Unternehmens, etwa einer Verschmelzung oder dem Verkauf des ganzen oder Teile des Geschäftsbetriebes der LGE (einschl. dem einer Sparte oder einer Tochtergesellschaft), anlässlich dessen LGE einem potentiellen Käufer sowie dessen professionellen Beratern gegenüber gezwungen ist, Informationen bekannt zu geben;
+- Weitere Parteien, falls dies notwendig ist, um unsere Dienste zu schützen. Zum Schutz unserer Rechte und unseres Eigentums, dies auch auf gerichtlichem Wege;
+- Mit anderen Parteien, falls dies zu irgendeinem Schutz der persönlichen Sicherheit oder um das Eigentum unseres Benutzers zu schützen, notwendig ist. Um die persönliche Sicherheit oder das Eigentum unserer Benutzer oder der Öffentlichkeit zu schützen.
+
+Unter keinen Umständen dürfen Ihre personenbezogenen Informationen zu Marketingzwecken verarbeitet, oder mit Dritten für Werbezwecke geteilt werden.
+
+5. Übertragung personenbezogener Daten
+Wir, unsere verbundenen Unternehmen, Tochtergesellschaften und Lieferanten können Informationen (einschließlich Ihrer personenbezogenen Daten) in anderen Ländern im Zusammenhang mit der Bereitstellung unseres LG Device Diagnostics Report-Dienstes und für weitere in dieser Datenschutzrichtlinie beschriebenen Zwecke verwenden, jedoch nicht in demjenigen, in dem sich Ihr Gerät befindet. Die Datenschutzgesetze vieler dieser Länder bieten möglicherweise nicht dasselbe Maß an Schutz wie das Land, in dem Sie sich befinden. Bevor wir jedoch Ihre personenbezogenen Daten weitergeben, werden wir Schritte unternehmen, die sicherstellen, dass diese Informationen den gleichen Schutz genießen. Für weitere Informationen darüber, wie wir mit Ihren personenbezogenen Daten umgehen und wie wir diese schützen, kontaktieren Sie uns bitte unter mc.customer-service@lge.com.
+
+6. Wie lange bewahrt LGE meine personenbezogenen Informationen auf?
+Wir werden Ihre personenbezogenen Informationen so lange aufbewahren, wie es nötig ist, Sie mit dem Dienst zu versorgen oder für andere Zwecke, wie in dieser Datenschutzrichtlinie beschrieben. Wir wenden Kriterien an, um die angemessene Aufbewahrungsfrist für verschiedene Kategorien solcher personenbezogener Daten zu bestimmen, die Sie uns zur Verfügung stellen. Zum Beispiel werden wir Informationen, die dafür benötigt werden, um uns bei einem Rechtsanspruch zu schützen, wie z. B. Informationen zu einem Vertrag, für die Dauer des Vertrags und bis zu einem Jahr danach aufbewahren. Nach Ablauf dieser Frist werden diese gelöscht oder in einigen Fällen anonymisiert. Wo immer wir die personenbezogenen Daten aufgrund Ihrer Einwilligung erfasst haben und wir keine andere rechtmäßige Grundlage haben, um diese Verarbeitung fortzusetzen, werden wir Ihre personenbezogenen Daten löschen, falls Sie Ihre Einwilligung später widerrufen.
+Sollten Sie eine Löschung Ihrer personenbezogenen Daten beantragen, weil diese nicht mehr benötigt werden oder ein Widerspruchs gegen die Verarbeitung besteht oder behauptet wird, dass die Verarbeitung rechtswidrig sei, haben Sie das Recht, die Verarbeitung einzuschränken, während wir Ihre Anfrage auf Löschung überprüfen.
+
+7. Sicherheit
+Wir verwenden kommerziell angemessene Praktiken, um die Vertraulichkeit und Sicherheit Ihrer personenbezogenen Informationen sicherzustellen. Dennoch können wir, aufgrund der Entwicklung des Internets, der sich ständig verändernden Technologien und aufgrund anderer Faktoren, die sich unserer Kontrolle entziehen, nicht garantieren, dass die Kommunikation zwischen Ihnen und unseren Servern von unautorisierten Zugriffen Dritter frei bleiben werden oder dass wir nicht Opfer von Sicherheitslücken werden. Wir übernehmen keine Verantwortung für das Bekanntwerden personenbezogener Informationen infolge von Übertragungsfehlern oder unautorisierten oder ungesetzlichen Handlungen durch Drittparteien.
+
+8. Der Schutz der Privatsphäre von Kindern
+Der Datenschutz bei Kindern ist uns wichtig. Aus diesem Grund ist keine unserer Dienstleistungen darauf ausgerichtet oder dafür konzipiert, jemanden unter 16 Jahren oder unter der Volljährigkeit innerhalb der entsprechenden Gerichtsbarkeit anzusprechen. Wir erfassen oder pflegen auch nicht wissentlich personenbezogene Daten von Nutzern, die jünger als 16 Jahre alt sind oder in der jeweiligen Gerichtsbarkeit noch keine Volljährigkeit erreicht haben. Sollten wir Kenntnis davon erhalten oder benachrichtigt werden, dass wir Informationen von Nutzern unter 16 Jahren oder unterhalb der Volljährigkeit in der jeweiligen Gerichtsbarkeit erfasst haben, werden wir diese personenbezogenen Daten umgehend löschen.
+
+9. Änderungen an der Datenschutzrichtlinien von LGE
+Diese Datenschutzrichtlinien kann von Zeit zu Zeit durch LGE aktualisiert werden. Wenn wir eine wesentliche Änderung an unserer Datenschutzrichtlinie vornehmen, setzen wir Sie via Services oder auf anderem Wege darüber in Kenntnis. Es kann für Sie erforderlich werden, die geänderte Datenschutzrichtlinien zu bestätigen oder ihr zuzustimmen, um die Dienste weiterhin verwenden zu können.
+
+10. Zugriff auf Ihre Informationen und Ihre Rechte 
+Gemäß den Gesetzen einiger Gerichtsbarkeiten kann das Recht auf Auskunft, Berichtigung oder Löschung der personenbezogenen Informationen, die LGE über Sie besitzt, oder auf das Recht, bestimmte Arten der Verarbeitung Ihrer personenbezogenen Daten zu erheben oder einzuschränken (oder um Ihre Zustimmung zur LGE-Verarbeitung zu widerrufen), bestehen oder darauf, eine maschinenlesbare Kopie Ihrer personenbezogenen Informationen zu erhalten. Sofern gesetzlich zulässig kann Ihnen für diese Dienste eine geringe Gebühr in Rechnung gestellt werden. Bitte beachten Sie, dass wir die Bearbeitung Ihrer Anfragen ablehnen können, falls diese uns als in unangemessener Weise missbräuchlich erscheinen, die Privatsphäre anderer gefährden oder sich als äußerst unpraktisch herausstellen (soweit dies nach geltendem Recht zulässig ist). Für weitere Informationen oder um eines dieser Rechte auszuüben, kontaktieren Sie uns bitte unter mc.customer-service@lge.com.
+
+11. Sich wegen dieser Datenschutzrichtlinien an LGE wenden
+Falls Sie Fragen oder Kommentare zu dieser Datenschutzrichtlinien oder zur Verarbeitung Ihrer personenbezogenen Daten durch LGE haben, wenden Sie sich bitte über dpo-eu@lge.com an unseren Datenschutzbeauftragten. Sie haben außerdem das Recht, eine Beschwerde bei einer Datenschutzbehörde einzureichen, obwohl wir Sie dazu ermutigen möchten, sich zuerst an uns zu wenden, um etwaige Bedenken auszuräumen.
+
+Zuletzt aktualisiert: 01. März 2018
+

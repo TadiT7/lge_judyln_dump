@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Configure>
+    <Config operator="" country="HK" device="">
+    </Config>
+
+    <Config operator="OPEN" country="HK" device="">
+         <ConfigFileName> libnfc-nxp-hk.conf </ConfigFileName>
+         <FirmwareFileName targetdevice="judyln"> libpn553_fw </FirmwareFileName>
+         <NfcCoverSupport targetdevice="judyln"> false </NfcCoverSupport>
+    </Config>
+</Configure>

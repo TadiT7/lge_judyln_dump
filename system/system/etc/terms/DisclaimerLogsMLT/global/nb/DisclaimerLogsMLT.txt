@@ -1,0 +1,23 @@
+﻿Aktivitetslogger
+
+For å forbedre den generelle brukeropplevelsen og forbedre feilsøking på enheten, genereres og lagres aktivitetslogger på LGE-mobilenheten din. Aktivitetslogger lagres utelukkende på enheten din og overføres ikke OTA til LGE eller noen tredjepart, med mindre annet er avtalt med en separat avtale. 
+
+Loggene inneholder følgende informasjon: 
+- Mobilenhetens status: Modell, programvareversjon, IMEI, unikt identifikasjonsnummer, IMSI, strømstatus, batteristatus, bruk av CPU / RAM / intern lagring, gjennomsnittlig brukstid, fastvarens selvdiagnostiseringsresultat (Wi-Fi, BT, nærhetssensor, belysningssensor, fingeravtrykkssensor, osv.) 
+- Nettverksstatus
+- Informasjon om appen, appbrukstelling/-statistikk
+- Tilkoblingsstatusen til mobilenheten din
+- Feilinformasjon: Fastlåst skjerm, utilsiktet strømbrudd, frakoblede anrop, appfeil
+- Innstilling av mobilenhet
+
+Informasjonselementene som LGE har tilgang til, kan brukes enkeltvis eller kombinert i samlet form. LGE bruker informasjonen til å bedre forstå kundens behov, for å forbedre kundeservicen vår, samt produktene og tjenestene vi tilbyr. Aktivitetslogginformasjonen gjør det f.eks. mulig for LGE å undersøke og utbedre nettverksfeil, tilkoblings- og batteriproblemer. 
+
+Ved å klikke på «Godta», samtykker du i å la LGE, og visse tredjeparter som handler på vegne av LGE (som beskrevet nedenfor), få tilgang til og bruke aktivitetslogginformasjonen generert av enheten. LGE kan dele aktivitetslogginformasjonen med følgende tredjeparter:
+- tilknyttede selskaper og datterselskaper (herunder selskaper som kontrollerer, kontrolleres av eller er under felles eierskap eller kontroll som LGE); og
+- agenter og tjenesteleverandører som er bundet av konfidensialitetsforpliktelser og som bare bruker informasjonen på vegne av LGE eller leverer forespurte produkter og tjenester, eller på annen måte oppfyller en kontraktsforpliktelse for deg.
+LGE er ikke ansvarlig for eller ansvarlig for personvernspraksisen til noen tredjepart.
+LGE vil også be om å samle inn aktivitetslogginformasjonen når du bruker LGE After Service (A/S) eller gjenopprettingstjenesten. Du vil bli spurt separat når du bruker disse tjenestene, uansett om du samtykker til dette eller ikke.
+Selv om aktivitetslogginformasjonen genereres innen enheten, enten du samtykker eller ikke, med mindre du har klikket på ‘enig’, vil LG ikke få tilgang til slik informasjon. Hvis du ikke ønsker at LGE får tilgang til aktivitetslogginformasjonen din, kan du når som helst blokkere tilgangen vår til aktivitetslogginformasjonen fra innstillingene [Innstillinger – System – Om telefonen – Aktivitetslogger]. For å forstå hvordan LGE generelt håndterer informasjonen din, inkludert aktivitetslogginformasjonen, kan du se personvernpolicyen vår i [Innstillinger – System – Om telefonen – Juridisk informasjon – Juridiske dokumenter for LG programvare – Personvernregler].
+
+Eventuelle oversettelser av dette aktivitetsloggdokumentet er gjort for lokale krav og i tilfelle av uoverensstemmelse mellom engelsk og en ikke-engelsk versjon, skal den engelske versjonen av dette aktivitetsloggdokumentet gjelde, i den grad det er tillatt iht. gjeldende lov i din jurisdiksjon.
+

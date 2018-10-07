@@ -1,0 +1,109 @@
+﻿Tietosuojakäytäntö
+
+Tämä Tietosuojakäytäntö kuvaa kuinka LGE hankkii pääsyn ja käyttää henkilökohtaisia tietojasi ohjelmistopäivitysten osalta. Lue se huolellisesti ennen ohjelmistopäivitysten palvelun käyttöä.
+
+1.	Johdanto
+LG Electronics Inc. (“LGE” tai “me”) on omistautunut suojaamaan niiden henkilöiden ja ryhmien tietoja jotka käyttävät LG Smart TV-palveluita. Tämä Tietosuojakäytäntö määrittelee miten keräämme, käytämme, ja jaamme tietoja joita keräämme LGE-matkapuhelimestasi ja erityisesti määrittää:
+-	FOTA-ohjelmistopäivitykset;
+-	Tiedot, joita LGE saattaa hankkia sinulta;
+-	Miten LGE käyttää hankkimiaan tietoja;
+-	Milloin LGE jakaa tietoja muiden kanssa; 
+-	Henkilökohtaisten tietojen siirto muihin maihin
+-	Kuinka pitkään LGE säilyttää henkilökohtaisia tietojani?
+-	Turvallisuus
+-	Oikeus kieltäytyä tai peruuttaa hyväksyntä
+-	Lasten yksityisyyden suojaus
+-	Muutokset LGE:n Tietosuojakäytäntöyn
+-	Omien tietojen tarkasteleminen
+-	Oikeus valittaa; ja
+-	Yhteydenotto LGE:lle tähän Tietosuojakäytäntöyn liittyen
+
+Tätä menettelyä sovelletaan vain LGE:n keräämiin tietoihin LGE-matkapuhelimestasi laiteohjelman päivittämiseksi Firmware Over-the-Air (“FOTA”) -menettelytavalla (“Ohjelmistopäivitys”). Tätä menettelytapaa ei sovelleta LGE:n mihinkään muihin tuotteisiin tai palveluihin mukaan lukien LGE:n toimittamat tai tarjoamat matkapuhelinsovellukset. Tätä sääntöä ei sovelleta mihinkään tuotteisiin tai palveluihin, jotka ovat kolmansien osapuolten tarjoamia, mukaan lukien järjestelmätoimittajat, muut sisällöt tai sovellustoimittajat tai verkkopalveluiden tarjoajasi. Tuotteet ja palvelut, jotka ovat tämän Tietosuojakäytäntön ulkopuolella ja käsittävät omia suojalausuntoja joita sovelletaan tietojen keräykseen, käyttöön ja jakamiseen, ja kehotamme sinua käymään läpi kyseiset käytännöt. LGE ei ole vastuussa tai vastuullinen koskien Tietosuojakäytäntön käytäntöjä kolmansien osapuolten osalta.
+
+Jos olet vasta lähiaikoina hankkinut tämän matkapuhelimen, on välttämätöntä suorittaa ohjelmistopäivitys tässä Tietosuojakäytännössä mainitulla tavalla ennen käyttöä, jotta voidaan varmistaa, että matkapuhelimesi toimii oikein ja omaa kaikkein viimeisimmät päivityksen ominaisuudet, toiminnollisuudet ja turva-asetukset. Jos sinulla on kysyttävää, ota meihin yhteyttä tässä käytännössä ilmaistulla tavalla.
+
+Tämä käytäntö on saatavana tarkastettavaksesi milloin vain kohdassa [Asetukset – Järjestelmä – Tietoja puhelimesta – Juridiset tiedot – LG-ohjelmistojen oikeudelliset asiakirjat – Tietosuojakäytäntö].
+
+Kaikki tämän Tietosuojakäytäntön käännökset ovat tehtyjä paikallisia vaatimuksia varten ja mikäli englannin kielisen ja ei-englannin kielisen version välillä on eroja, englannin kielinen versio toimii vallitsevana paikallisen lain sallimissa enimmäisrajoissa.
+
+2.	FOTA-ohjelmistopäivitysten yleiskatsaus
+Ajoittain, LGE-laiteohjelmisto matkapuhelimessasi (“Ohjelmisto”) saattaa vaatia LGE:n toimittamia päivityksiä tai lisäosia tai LGE saattaa toimittaa lisäosia ohjelmistoon. Ohjelmistopäivityksen suorittaminen asentaa uuden ohjelmiston matkapuhelimeesi näiden päivitysten, lisien tai lisäosien toimittamiseksi. Ohjelmistopäivitykset saattavat lisätä uusia ominaisuuksia ja rajoitetuissa tapauksissa, saattavat poistaa olemassa olevia ominaisuuksia tai toimintoja. Ohjelmistopäivityksen päättymisen jälkeen, et ehkä voi enää käyttävät ja et voi siirtyä takaisin aikaisempaan ohjelmiston asennettuun versioon. 
+
+Koska ohjelmistopäivitys suoritetaan FOTA:n menettelytavan välityksellä, lisäkustannuksia saatetaan soveltaa, jos lataat uuden ohjelmiston matkapuhelinverkon välityksellä, riippuen verkkopalveluiden toimittajastasi sekä palvelutilauksen sisällöstä. Jos toivot välttäväsi käyttämästä tiedonsiirtoa matkapuhelinverkossa ohjelmistopäivityksille, valitse “Vain Wi-Fi” -valinta asetuksissa. 
+
+a.	Vaihtoehtosi tulevaisuuden ohjelmistopäivitysten hallinnan osalta
+Hyväksyessäsi tämän FOTA-tietosuojakäytännön, matkapuhelimesi tarkistaa uudet tai päivitetyt ohjelmistot ajoittain ja automaattisesti asentaa uuden tai päivitetyn ohjelmiston, kun se on saatavana (“Tarkista automaattisesti” -toiminto). Kun ohjelmisto on asennettu, lähetämme sinulle hälytyksen käyttämällä ponnahdusilmoitusta tai ilmoitusviestiä matkapuhelimessasi. Sinulla on vaihtoehtona hyväksyä tai hylätä ohjelmistopäivitys ennen ohjelmiston soveltamista. Matkapuhelimesi automaattisesti soveltaa asennetun ohjelmiston puolen yön aikaan (“Automaattiset päivitykset” -toiminto). Voit kieltäytyä näistä “Tarkista automaattisesti” ja “Automaattiset päivitykset” -toiminnoista kohdassa [Asetukset – Järjestelmä – Päivityskeskus – Ohjelmistopäivitys – Ylivuotovalikkoa – Asetukset]. Jos kieltäydyt kohdassa Tarkista automaattisesti, kieltäydyt käytännössä suorittamasta kaikki tulevaisuuden päivitykset.
+Jos matkapuhelimesi on jo käytössä ja kieltäydyt ohjelmistopäivityksen suorittamisesta, huomaa, että päivitetyn ohjelmiston asentaminen saattaa tuottaa [matkapuhelimesi suorituskyvyn heikkenemisen, yhteensopivuusongelmia uusien tai olemassa olevien sovellusten osalta, ja muita ongelmia matkapuhelimesi ominaisuuksissa tai turvallisuudessa].
+
+b.	Kiireelliset ohjelmistopäivitykset
+Jos olosuhteet vaativat, voimme suorittaa ohjelmistopäivityksen omien laillisten intressiemme täyttämiseksi, toimittamatta yksilöllisiä ilmoituksia tai pyytämättä hyväksyntää ja huolimatta nykyisen laitteen asetuksista (“Kiireellinen ohjelmistopäivitys”). Esimerkkejä olosuhteista, jotka voivat vaatia kiireellistä ohjelmistopäivitystä ovat asiakkaan tai tietojen turvallisuus tai toiminnalliset sisällöt, jotka saattavat tuottaa merkittäviä palveluiden keskeytymisiä tai välittömän sen kaltaisten olosuhteiden todennäköisyyden.
+
+3.	Tiedot, joita LGE saattaa hankkia sinulta
+Suorittaessa ohjelmistopäivityksen, LGE saattaa kerätä seuraavat tiedot matkapuhelimestasi: Kansainvälinen matkapuhelinlaitteen tunnus (International Mobile Equipment Identity - IMEI), sarjanumero, matkapuhelimen malli, ohjelmisto- ja/tai laiteohjelmistoversiot, puhelimen käyttöjärjestelmä, matkapuhelimen maatunnus (mobile country code - MCC), matkapuhelinverkon koodi (mobile network code - MNC), Google Cloud Messaging (GCM) -tunnus ja valittu kieli. Nämä tiedot kerätään automaattisesti osana ohjelmistopäivityksen toimenpidemenetelmän suorittamista.
+
+Osana rooliamme tuottaa matkapuhelinpalveluja matkapuhelintasi varten, keräämme toiminnollisia tietoja, mukaan lukien järjestelmälokit ja IP-osoitteet. Tiedot kerätään automaattisesti ja kyseessä on puhelimen käytön oleellinen osa.
+
+4.	Miten LGE käyttää hankkimiaan tietoja?
+Käytämme sinulta hankittuja tietoja useisiin eri tarkoituksiin, mukaan lukien:
+-	Ohjelmistopäivityksen suoritus (mukaan lukien kaikki kiireelliset ohjelmistopäivitykset), mukaan lukien tarkistus ohjelmiston ajantasaisuudesta, matkapuhelimesi todennus ja asianmukaisen ohjelmiston toimitus; 
+-	Velvollisuuksiemme vahvistamiseksi kohdassa [rajoitettu Tuotetakuumme];
+-	Toimittaaksemme ilmoituksia liittyen matkapuhelimen turvallisuuspalveluihin ja hätäilmoituksiin turvallisuuskysymyksiin liittyen;
+-	Suojataksemme ja puolustaaksemme oikeuksiamme ja omaisuuttamme, mukaan lukien tavat joita käytetään oikeudellisessa menettelyssä;
+-	Noudattaaksemme lainsäädäntöön perustuvia vaatimuksia; ja
+-	Analysoidaksemme, arvioidaksemme ja kehittääksemme tarjoamiamme tuotteita ja palveluita;
+
+Laillinen perusta, johon LGE tukeutuu käsitelläkseen henkilökohtaisia tietojasi, on tyypillisesti yksi seuraavista;
+-	Sopimus: tilanteet, joissa on tarpeellista muodostaa sopimus kanssasi;
+-	Lailliset intressit: sen ollessa tarpeellista LGE:n intressien tai kolmannen osapuolen laillisten liiketoimintaintressien osalta. LGE:tä varten, tämä käsittää sen intressit kuluttajaelektroniikkatuotteiden valmistajana ja palvelutoimittajana;
+-	Hyväksyntä: missä olet valinnut toimittaa suostumuksesi. Sinulla on oikeus kumota hyväksyntäsi milloin vain; tai
+-	Laillinen vaatimus: milloin käsittely on tarpeellista laillisten velvoitteidemme mukaisesti
+
+Saatamme myös käyttää tilastollisia yhteenvetoja, jotka ovat kerättyjä ohjelmistopäivityksen aikana sekä matkapuhelimen käytön aikana ymmärtääksemme paremmin asiakkaidemme tarpeita, parantaaksemme asiakaspalvelua sekä tuotteita ja palveluita, joita tarjoamme ja markkinatutkimuksia ja analytiikkaa. Kyseisen kaltaiset tilastollisten tietojen yhteenvedot eivät sisällä tietoja, jotka tunnistavat tai voidaan liittää luonnollisiin henkilöihin.
+
+5.	Milloin LGE jakaa tietoja muiden kanssa
+Yleisesti ottaen, emme jaa ohjelmistopäivityksen aikana keräämiämme sen kaltaisia tietoja kolmansien osapuolten kanssa, joiden perusteella tunnistetaan tai ne voidaan liittää luonnollisiin henkilöihin. Kuitenkin, huomioi seuraavat olosuhteet joissa me saatamme jakaa sen kaltaista tietoa seuraavien kolmansien osapuolten kanssa:
+
+-	Kumppanit ja tytäryhtiöt. LGE saattaa jakaa henkilökohtaisia tietoja sekä ei-henkilökohtaisia tietoja (mukaan lukien matkapuhelimen tiedot) sen kumppaneiden ja tytäryhtiöiden kanssa kaikkialla maailmassa, niin kauan kuin on tarvittavaa tarkoitusten osalta, joita varten se kerättiin. Termi ‘kumppanit’ tai ‘tytäryhtiöt’ viittaavat yritysten ryhmään, jotka voivat käyttää LG:n nimeä tai jolla on yhteinen omistussuhde tai hallinta kuten LG CNS tai LG Electronics U.S.A., Inc.;
+-	Kolmansien osapuolten palvelutoimittajat. Kolmansien osapuolten kauppiaille joita LGE saattaa käyttää toimittamaan palveluita puolestaan ajoittain, kuten asiakaspalvelun pyyntöjen täyttö;
+-	Muut tahot lain vaatimalla tavalla. Vaadittaessa oikeuden päätöksen tai muun hallituksen tai lainvalvonnan auktoriteettien toimesta jotta voidaan noudattaa laillista käytäntöä tai lakia;
+-	Muut tahot liittyen yrityksen toiminnallisiin tapahtumiin. Liiketoiminnallisen tapahtuman yhteydessä, kuten LGE:n liiketoimintojen sulautuminen, rakenneuudistus, liiketoiminnan osan myynti tai siirto (mukaan lukien jaos tai tytäryhtiö), jossa LGE saattaa joutua paljastamaan tietoja mahdolliselle ostajalle ja tämän ammattimaisille neuvonantajille;
+-	Muut tahot, kun on tarvittavaa suojata palveluamme. Vahvistaaksemme sopimuksellisia oikeuksiamme, suorittaaksemme suojauksia vastuilta, tutkiaksemme epäiltyjä tai varsinaisia laittomia toimintoja tai tutkiaksemme tai suojataksemme itseämme kolmansien osapuolten vaatimuksilta tai väitteiltä; tai
+-	Muilta osapuolilta sen suojatessa mitään asiakkaidemme henkilökohtaista turvallisuutta tai omaisuutta. Jotta voimme suojata käyttäjiemme henkilökohtaisen tai julkisen turvallisuuden, oikeudet, omaisuuden.
+
+Missään olosuhteissa, henkilökohtaiset tietosi, joita kerätään ohjelmistopäivityksen aikana, eivät tule käsitellyiksi markkinointitarkoituksia varten ilman suostumustasi, eikä niitä jaeta kolmansille osapuolille markkinointitarkoituksia varten ilman suostumustasi.
+
+6.	Henkilötietojen siirrot
+Me, sekä kumppanimme, tytäryhtiömme ja palveluntoimittajat, saattavat käyttää henkilökohtaisia tietojasi muissa maissa kuin missä puhelimesi sijaitsee, tässä tietosuojassa kuvattuja tarkoituksia varten. Tietosuojalait joissain maissa eivät ehkä tarjoa saman tason suojausta kuin lait maassa jossa oleskelet. Kuitenkaan, ennen henkilökohtaisten tietojesi siirtämistä, suoritamme toimenpiteitä, jotta sen kaltaisille tiedoille suodaan saman tason suojaus ne vastaanottavassa maassa tai lainsäädäntöalueella. Hyväksymällä tämän tietosuojan sinä nimenomaisesti annat hyväksyntäsi henkilökohtaisten tietojesi käsittelyyn maissa tai lainsäädäntöalueilla, joissa sovellettavat lait eivät ehkä anna henkilökohtaisten tietojen vastaavan tason suojausta kuin lait maassa tai lainsäädäntöalueella, jossa oleskelet, mukaan lukien Korean tasavalta tai Yhdysvallat, tämän tietosuojan mukaisesti. 
+
+7.	Kuinka pitkään LGE säilyttää henkilökohtaisia tietojani?
+Suoritamme kohtuullisesti toimenpiteitä varmistaaksemme, että pidämme henkilökohtaiset tietosi niin pitkään kuin on tarvittavaa niiden keräystarkoitusta varten tai vaaditaan sovellettavan lain osalta. 
+Jos pyydät henkilökohtaisten tietojesi pois pyyhintää, koska niitä ei enää tarvita, tai pohjautuen vastaväitteeseen tai väitteeseen, että käsittely on laitonta, sinulla on oikeus hakea käsittelyn rajoitusta, samalla kun me todennamme pyyntösi poispyyhinnän osalta.
+
+8.	Turvallisuus
+Käytämme kaupallisesti kohtuullisia toimenpiteitä ja noudatamme yleisesti hyväksyttyjä teollisuuden tietojen käsittelyn menetelmiä turvataksemme henkilökohtaiset tiedot vahingossa tapahtuvalta menetykseltä, valtuuttamattomalta pääsyltä, käytöltä, muuntamiselta ja paljastamiselta. Tästä huolimatta, johtuen Internetin muodoista, jatkuvasti muuttuvasta teknologiasta sekä muista tekijöistä jotka eivät ole hallittavissamme, emme voi taata että viestintä sinun ja palvelimiemme välillä tulee olemaan vapaa valtuuttamattomasta pääsystä kolmansien osapuolten osalta tai että emme ole turvallisuusuhkien alaisia. Emme omaa mitään vastuuta henkilökohtaisten tietojen paljastamisesta tämän johtuessa tiedonsiirron virheistä tai valtuuttamattomista tai laittomista kolmansien osapuolten toimista.
+
+9.	Oikeus kieltäytyä tai peruuttaa hyväksyntä
+Sovellettavan paikallisen lain mukaisesti, sinulla saattaa olla oikeus kieltäytyä antamasta hyväksyntääsi tälle tietosuojakäytännölle, peruuttaa hyväksyntäsi tai muutoin pyytää, että lopetamme henkilökohtaisten, sinua koskevien tietojen käsittelyn. Käyttääksesi oikeuttasi minkään sen kaltaisen oikeuden osalta, joka sinulla saattaa olla, ota meihin yhteyttä tässä tietosuojassa kuvatulla tavalla ja vastaamme pyyntöösi mahdollisimman pian. 
+Lisäksi, voit peruuttaa hyväksyntäsi henkilökohtaisten tietojesi jatkuvalle keräykselle poistamalla käytöstä “Tarkista automaattisesti” ja “Automaattiset päivitykset” -toiminnot matkapuhelimessasi, jotka ovat kuvattuina yllä olevassa. Näihin toimintoihin voidaan siirtyä kohdassa [Asetukset – Järjestelmä – Päivityskeskus – Ohjelmistopäivitys – Ylivuotovalikkoa – Asetukset]. 
+Kuitenkin, huomaa, että jos poistat käytöstä Tarkista automaattisesti ja Automaattiset päivitykset -toiminnot, se saattaa vaikuttaa tai rajoittaa matkapuhelimesi tai palveluiden käyttöä kokonaisuudessaan tai osittain. Tietojen keräys ja käyttö, kuten kuvattuna yllä olevassa on välttämätöntä matkapuhelimesi optimaalisen käytön osalta. 
+
+Jos sinulla on mitään kysymyksiä koskien oikeuttasi kieltäytyä tai kuinka peruuttaa hyväksyntä, ota meihin yhteyttä osoitteessalgecsvc@lge.com
+
+10.	Lasten yksityisyyden suojaus
+Lasten yksityisyyden suojaus on meille tärkeää. Tästä syystä johtuen, matkapuhelintasi ei ole tarkoitettu lasten käyttöön kuten määritelty paikallisesti sovellettavassa laissa, emmekä me tietoisesti kerää tai pidä henkilökohtaisia tietoja lapsista. Mikäli tietoomme tulee tai meille ilmoitetaan että olemme keränneet tietoja lapselta ilman vanhempien hyväksynnän todentamista, poistamme viipymättä kaikki sen kaltaiset tiedot.
+
+11.	Muutokset LGE:n Tietosuojakäytäntöyn
+Tätä Tietosuojakäytäntöä voidaan päivittää LGE:n toimesta ajoittain. Jos suoritamme kohtuullisen muutoksen Tietosuojakäytäntöyn, tiedotamme sinulle päivittämällä alla olevan päivämäärän ja toimittamalla muutetun Tietosuojakäytäntön tarkistettavaksesi osana tulevaisuuden ohjelmistopäivitystä.
+
+12.	Omien tietojen tarkasteleminen 
+Olet oikeutettu pyytämään tietoja koskien henkilökohtaisia tietojasi, joita LGE kerää siirtyäkseen, korjatakseen tai poistaakseen henkilökohtaisten tietojesi osalta. Kuitenkin, huomaa, että emme ehkä voi muuntaa tai poistaa henkilökohtaisia tietojasi, jos meidät on velvoitettu sovellettavan lain puitteissa säilyttämään kyseiset tiedot. Mikäli lait sallivat, pientä kustannusta saatetaan soveltaa kyseisen kaltaisen palvelun toimittamiseksi. Huomioi, että saatamme kieltäytyä käsittelemästä pyyntöjäsi, mikäli ne ovat kohtuuttoman väärinkäytöksellisiä, vaarantavat muiden yksityisyyden, tai ovat äärettömän epäkäytännöllisiä. Lisäksi, henkilökohtaisten tietojen päivitys tai poisto saattaa rajoittaa matkapuhelimesi tai palveluiden käyttöä. 
+
+Jos haluat tehdä pyynnön siirtyä henkilökohtaisiin tietoihisi, oikaista tai poistaa henkilökohtaisia tietojasi, ota meihin yhteyttä osoitteessa lgecsvc@lge.com
+
+13.	Oikeus kirjata valitus
+Sovellettavan lain mukaisesti EU:ssa, sinulla on oikeus kirjata valitus liittyen henkilökohtaisten tietojesi käsittelyyn oleellisen valvovan viranomaisen puitteissa. Lisätietoja koskien oikeuttasi kirjata valitus LGE:n kanssa, ota meihin yhteyttä osoitteessa lgecsvc@lge.com. 
+
+14.	Yhteydenotto LGE:lle tähän Tietosuojakäytäntöyn liittyen
+Mikäli sinulla on mitään kysymyksiä tai kommentteja tähän Tietosuojakäytäntöyn liittyen, ole hyvä ja ota yhteyttä osoitteeseenlgecsvc@lge.com.
+
+Viimeksi päivitetty 01.11.2017

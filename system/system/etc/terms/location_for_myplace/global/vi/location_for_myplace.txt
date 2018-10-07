@@ -1,0 +1,6 @@
+﻿Sử dụng thông tin vị trí hiện tại cho dịch vụ Vị trí của tôi
+
+Dịch vụ Vị trí của tôi này ("Dịch vụ") sử dụng thông tin vị trí của thiết bị của người sử dụng để phân tích mẫu vị trí mà người sử dụng đã ở đó trong khoảng thời gian dài và cung cấp chứng năng tự động nhận ra vị trí đó, hoặc cho phép người sử dụng chỉ định bằng tay một vị trí là "Vị trí của tôi"(ví dụ như, nhà, nơi làm việc). Việc phân tích mẫu vị trí liên tục có thể tự động làm thay đổi vị trí được chỉ định trước đó.
+Mặc dù Dịch vụ này sử dụng thông tin vị trí (trạm thu phát gốc (BTS), GPS, Wi-Fi, các vị trí mạng (NLP)) được lưu trữ trong thiết bị người sử dụng, LG Electronics Inc.(LGE) không bao giờ thu thập hoặc sử dụng thông tin vị trí người sử dụng và chỉ sử dụng và lưu trữ trong thiết bị người sử dụng.
+Dịch vụ này bắt đầu tự động nhận ra các vị trí mà người sử dụng đã ở trong khoảng thời gian dài bắt đầu từ khi người sử dụng đồng ý sử dụng thông tin vị trí hiện tại của thiết bị người sử dụng và tiếp tục trừ khi người sử dụng ngừng sử dụng Dịch vụ bằng cách tắt tùy chọn chức năng tương ứng.  
+Tuy nhiên, LGE sẽ chỉ sử dụng thông tin vị trí hiện tại của người sử dụng nếu người sử dụng bật tùy chọn sử dụng dịch vụ định vị thiết bị của Google.

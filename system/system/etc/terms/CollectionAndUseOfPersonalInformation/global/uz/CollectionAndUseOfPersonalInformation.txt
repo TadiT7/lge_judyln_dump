@@ -1,0 +1,108 @@
+﻿Maxfiylik siyosati
+
+Ushbu Maxfiylik siyosati LGE kompaniyasining Dasturiy ta’minot yangilanishlari xizmati bo’yicha qanday qilib shaxsiy ma’lumotlaringizga kirish huquqini qo’lga kiritishi va ulardan foydalanishini bayon qiladi. Dasturiy ta’minot yangilanishlari xizmatidan foydalanishdan avval uni diqqat bilan o’qib chiqing.
+
+1.	Kirish
+LG Electronics Inc. (“LGE” yoki “biz”) LGE mobil telefonlaridan foydalanuvchi shaxslar yoki guruhlarning ma’lumotlarini himoya qilishga intiladi. Bu Maxfiylik siyosati biz LGE mobil telefoningizdan to’playdigan ma’lumotlarni qanday to’plashimiz, foydalanishimiz va baham ko’rishimizni, xususan quyidagilarni belgilab beradi:
+-	FOTA Dasturiy ta’minot yangilanishlarining qisqacha bayoni;
+-	LGE sizdan to’plashi mumkin bo’lgan ma’lumotlar;
+-	LGE kompaniyasining o’zi oladigan ma’lumotlardan qanday foydalanishi;
+-	LGE kompaniyasining bu ma’lumotlarni qachon boshqalar bilan baham ko’rishi; 
+-	Shaxsiy ma’lumotlarning xorijiy davlarga o’tkazishlar
+-	LGE shaxsiy ma’lumotlarni qancha vaqt saqlab turadi?
+-	Xavfsizlik
+-	Rozilikni rad qilish yoki chaqirib olish huquqi
+-	Bolalarning maxfiyligini himoya qilish
+-	LGE Maxfiylik siyosatiga o’zgartirishlar kiritish
+-	Ma’lumotlaringizga kirish
+-	Shikoyat berish huquqi; va
+-	Ushbu Maxfiylik siyosati to’g’risida LGE ga murojaat qilish
+
+Ushbu Siyosat Havo-orqali Mikrodastur (Firmware Over-the-Air (“FOTA”)) jarayoni (“Dasturiy ta’minot yangilanishi”) orqali mikrodasturni yangilash uchun LGE tomonidan LGE mobil telefoningizdan ma’lumotlar to’planishiga nisbatan qo’llaniladi. Bu Siyosat LGE kompaniyasining boshqa hech qanday mahsuloti yoki xizmatiga, jumladan LGE tomonidan taklif yoki taqdim etiladigan mobil ilovalarga nisbatan qo’llanilmaydi. Bu Siyosat uchinchi tomonlar, jumladan operatsion tizim ta’minotchilari, boshqa kontent yoki ilova ta’minotchilari yoki tarmoq operatoringiz tomonidan taqdim etiladigan boshqa har qanday mahsulot yoki xizmatga nisbatan ham qo’llanilmaydi. Ushbu Maxfiylik siyosati qamrovidan tashqarida bo’lgan mahsulotlar va xizmatlar ma’lumotlarni to’plash, ulardan foydalanish va ularni baham ko’rishga nisbatan qo’llaniluvchi siyosatlariga egadir va biz o’sha siyosatlarni o’qib chiqishingizni tavsiya qilamiz. LGE uchinchi tomonlarning maxfiylik amaliyotlari uchun javobgarlik yoki mas’uliyatni o’z zimmasiga olmaydi.
+
+Agar siz bu mobil telefonni yaqinda xarid qilgan bo’lsangiz, mobil telefoningizning to’g’ri ishlashi va eng so’nggi xususiyatlar, funksiyalar va xavfsizlik sozlamalariga ega bo’lishini kafolatlash uchun undan foydalanishdan avval ushbu Maxfiylik siyosatida bayon qilingani kabi Dasturiy ta’minotni yangilashni bajarish zarur.
+
+Bu Siyosatni istalgan vaqtda [Sozlamalari – Tizim – Telefon haqida – Yuridik ma'lumot – LG Dasturiy ta'minoti uchun yuridik hujjatlar – Konfidensiallik siyosati] da ko’rib chiqish mumkin.
+
+Ushbu Maxfiylik siyosatining har qanday tarjimasi mahalliy talablarga ko’ra amalga oshiriladi va uning ingliz tilidagi va boshqa tildagi versiyasi o’rtasida nomuvofiqliklar mavjud bo’lgan hollarda ushbu Maxfiylik siyosatining inglizcha versiyasi yurisdiksiyangizdagi mahalliy qonunchilik bo’yicha taqiqlanmagan darajada amal qiladi.
+
+2.	FOTA Dasturiy ta’minot yangilanishlarining qisqacha bayoni
+Vaqti-vaqti bilan mobil telefoningizdagi LGE mikrodasturi (“Dasturiy ta’minot”) LGE tomonidan taqdim etiladigan yangilanishlar yoki to’ldirishlarni talab qilishi yoki LGE Dasturiy ta’minotga qo’shimcha komponentlarni taqdim etishi mumkin. Dasturiy ta’minotni yangilashni bajarish ushbu yangilanishlar, qo’shimchalar yoki qo’shimcha komponentlarni yetkazib berish maqsadida mobil telefoningizga yangi Dasturiy ta’minotni o’rnatadi. Dasturiy ta’minot yangilanishslari yangi xususiyatlar yoki funksiyalarni qo’shishi va cheklangan hollarda mavjud xususiyatlar yoki funksiyalarni olib tashlashi mumkin. Dasturiy ta’minotni yangilashni bajargandan keyin siz Dasturiy ta’minotning avvalroq o’rnatilgan versiyasidan boshqa foydalana olmasligingiz yoki bu versiyasiga qaytara olmasligingiz mumkin. 
+
+Dasturiy ta’minotni yangilash FOTA jarayoni orqali bajarilishi tufayli tarmoq operatoringiz va tarif rejangizga bog’liq ravishda yangi Dasturiy ta’minot uyali tarmoq orqali yuklab olingan hollarda qo’shimcha to’lovlar olinishi mumkin. Agar siz Dasturiy ta’minot yangilanishlari uchun hech qanday tarmoq ma’lumotlaridan foydalanishni xohlamasangiz, Parametrlarda "Faqat Wi-Fi" opsiyasini tanlashingiz kerak. 
+
+a.	Kelajakdagi Dasturiy ta’minot yangilanishlarini boshqarish uchun sizning opsiyalaringiz
+FOTA Maxfiylik siyosatiga rozilik berganingizda mobil telefoningiz vaqti-vaqti bilan yangi yoki yangilangan Dasturiy ta’minotning mavjudligini tekshirib turadi va u mavjud bo’lganida yangi yoki yangilangan Dasturiy ta’minotni avtomatik ravishda o’rnatadi (“Avtomatik tekshirish” funksiyasi). Dasturiy ta’minot o’rnatilgandan keyin biz mobil telefoningizdagi suzib chiquvchi eslatma yoki bildirishnoma xabaridan foydalangan holda sizni xabardor qilamiz. Sizda Dasturiy ta’minotni qo’llashdan avval Dasturiy ta’minot yangilanishini qabul qilish yoki rad qilish opsiyasi mavjud bo’ladi. Mobil telefoningiz ham yarim tunda o’rnatilgan Dasturiy ta’minotni avtomatik ravishda qo’llaydi (“Avtomatik yangilanishlar” funksiyasi). Siz ushbu “Avtomatik tekshirish” va “Avtomatik yangilanishlar” funksiyalarini [Sozlamalari – Tizim – Yangilash markazi – Dasturiy ta'minot yangilovi – Ortiqcha to'lish menyusini – Sozlamalar] da rad qilishingiz mumkin.  Agar siz Avtomatik tekshirish ni rad qilsangiz, kelajakda Dasturiy ta’minotni yangilashlarni bajarishni samarali tarzda rad qilasiz.
+Agar mobil telefoningizdan allaqachon foydalanilayotgan bo’lsa va siz Dasturiy ta’minotni yangilashni bajarishni rad qilsangiz, shuni yodda tutingki, yangilangan Dasturiy ta’minotni o’rnatishdagi xatolik [mobil telefoningiz ishlash sifatining pasayishi, yangi yoki mavjud ilovalarning mosligi bilan bog’liq muammolar hamda mobil telefoningiz xususiyatlari yoki xavfsizligi bilan bog’liq boshqa muammolar] ga olib kelishi mumkin.
+b.	Shoshilinch dasturiy ta’minot yangilanishlari
+Holatlar talab qilgan hollarda biz qonuniy manfaatlarimizda mos holda alohida bildirishnoma taqdim etmasdan yoki rozilik so’ramasdan turib hamda qurilmaning joriy sozlamalaridan qat’iy nazar Dasturiy ta’minotni yangilashni bajarishimiz mumkin (“Shoshilinch dasturiy ta’minot yangilanishi”). Shoshilinch dasturiy ta’minot yangilanishini talab qiluvchi holatlarda misollarga mijoz xavfsizligi yoki ma’lumotlar xavfsizligiga bo’lgan tahdidlar yoki xizmatlarning jiddiy buzilishlari yoki bunday holatlarning so’zsiz yuzaga kelishi ehtimoliga olib kelishi mumkin bo’lgan ishlash bilan bog’liq muammolar kiradi.
+
+3.	LGE sizdan olishi mumkin bo’lgan ma’lumotlar
+Dasturiy ta’minot yangilanishini bajarishda LGE mobil telefoningizdan quyidagi ma’lumotlarni to’plashi mumkin: Xalqaro mobil jihoz identifikatori (IMEI), seriya raqami, mobil telefon modeli, dasturiy ta’minot va/yoki mikrodastur versiyalari, telefon operatsion tizimi, mamlakatning mobil aloqa kodi (MCC), mobil tarmoq kodi (MNC), Google Cloud Messaging (GCM) identifikatori va tanlangan til. Bu ma’lumotlar Dasturiy ta’minot yangilanishini bajarish jarayonining bir qismi sifatida avtomatik ravishda to’planadi.
+
+Mobil telefoningizga uyali aloqa xizmatlarini ko’rsatishdagi rolimizning bir qismi sifatida biz ishlatish ma’lumotlarini, jumladan IP-manzillari bilan birgalikda tizim jurnallarini to’playmiz. Bu ma’lumotlar avtomatik ravishda to’planadi va bu telefonni ishlatishning zaruriy qismi bo’lib hisoblanadi.
+
+4.	LGE o’zi oladigan ma’lumotlardan qanday foydalanadi?
+Biz sizdan oladigan ma’lumotlardan turli maqsadlarda, jumladan quyidagilar uchun foydalanamiz:
+-	Dasturiy ta’minot yangilanishini (jumladan har qanday Shoshilinch dasturiy ta’minot yangilanishlari) bajarish, jumladan Dasuriy ta’minotning yangilangan ekanligini tekshirish, mobil telefoningizning haqiqiyligini tekshirish va mos Dasturiy ta’minotni yetkazish berish; 
+-	[Bizning Mahsulotga nisbatan cheklangan kafolatimiz] ostidagi majburiyatlarimizni tasdiqlash;
+-	Mobil telefon xavfsizligini ta’minlash xizmatlari bilan bog’liq bildirishnomalar hamda xavfsizlik bilan bog’liq muammolarga javoban favqulodda bildirishnomalar bilan ta’minlash;
+-	Jumladan ishni sudda ko’rib chiqish yo’li orqali huquqlarimiz va mulklarimizni himoya va muhofaza qilish;
+-	Me’yoriy talablarga amal qilish; va
+-	O’zimiz taqdim etadigan mahsulotlar va xizmatlarni tahlil qilish, qayta ko’rib chiqish va yaxshilash uchun.
+
+LGE tomonidan shaxsiy ma’lumotlaringizni qayta ishlanishiga huquqiy asos sifatida odatda quyidagilardan biri bo’ladi;
+-	Shartnoma: siz bilan shartnoma tuzish zarur bo’lgan hollarda;
+-	Qonuniy manfaatlar: LGE yoki uchinchi tomonning qonuniy biznes manfaatlari maqsadlari uchun zarur bo’lgan hollarda. LGE uchun bu uning maishiy elektronika mahsulotlari ishlab chiqaruvchisi va xizmat ko’rsatuvchi sifatidagi manfaatlarini o’z ichiga oladi;
+-	Rozilik: siz bunday rozilikni taqdim etishni tanlagan hollarda. Siz o’z roziligingizni istalgan vaqtda chaqirib olish huquqiga egasiz; yoki
+-	Huquqiy majburiyat: huquqiy majburiyatlarimizni bajarish uchun qayta ishlash zarur bo’ladigan hollarda
+
+Mijozlarimizning ehtiyojlarini yaxshiroq tushinish, mijozlarimizga xizmat ko’rsatish sifatini hamda o’zimiz taqdim etadigan mahsulot va xizmatlarni yaxshilash va bozorni o’rganish va tahlil qilish uchun biz Dasturiy ta’minot yangilanishi vaqtida va mobil telefonni ishlatish davomida to’plangan umumlashtirilgan statistik ma’lumotlardan ham foydalanishimiz mumkin. Bunday umumlashtirilgan statistik ma’lumotlar tarkibida alohida shaxslarni tanituvchi yoki ularga xos deb topilishi mumkin bo’lgan ma’lumotlar mavjud bo’lmaydi.
+
+5.	LGE ma’lumotlarni qachon boshqalar bilan baham ko’radi
+Biz odatda o’zimiz Dasturiy ta’minotni yangilash vaqtida to’playdigan alohida shaxslarni tanituvchi yoki ularga xos deb topilishi mumkin bo’lgan ma’lumotlarni uchunchi tomonlar bilan baham ko’rmaymiz. Shunga qaramasdan shuni yodda tutingki, quyidagi hollarda biz bunday ma’lumotlarni quyidagi uchinchi tomonlar bilan baham ko’rishimiz mumkin:
+
+-	Filiallar va sho’ba kompaniyalar bilan. LGE shaxsiy va shaxsiy bo’lmagan ma’lumotlarni (jumladan mobil telefon haqidagi ma’lumotlar) butun dunyodagi o’z filiallari va sho’ba kompaniyalari bilan faqat ularning to’planishidan ko’zlangan maqsadlar uchun zarur bo’lgan vaqt davomidagina baham ko’radi. “Filiallar” yoki “sho’ba kompaniyalar” termini LG CNS yoki LG Electronics U.S.A., Inc. kabi LG nomidan foydalanuvchi yoki umumiy boshqaruv yoki egalikka ega bo’lgan kompaniyalar guruhini anglatadi;
+-	Uchinchi tomon xizmat ko’rsatuvchilar bilan. LGE vaqti-vaqti bilan o’z nomidan xizmatlar ko’rsatish, jumladan mijozlarning xizmatlarga bo’lgan talablarini bajarish uchun jalb qilishi mumkin bo’lgan uchinchi tomon ta’minotchilariga;
+-	Qonunlarda talab qilingan hollarda boshqa tomonlar bilan. Yuridik jarayon yoki qonunlar talablarni bajarish uchun sud qarori yoki boshqa hukumat yoki huquqni himoya qilish organlari tomonidan talab qilingan hollarda;
+-	Korporativ tranzaksiyalar bilan bog’liq holda boshqa tomonlar bilan. Birlashish, qayta tashkillashtirish, LGE biznesining (jumladan bo’linma yoki sho’ba korxona biznesining) hammasini yoki bir qismini sotish yoki o’tkazish bilan bog’liq holda, bunda LGE ehtimoliy xaridor va uning professional maslahatchilariga ma’lumotlarni oshkor qilishi mumkin;
+-	Xizmatlarimizni himoya qilish zarur bo’lgan hollarda boshqa tomonlar bilan. Shartnomaviy huquqlarimizga amal qilinishini ta’minlash, javobgarlikka qarshi ehtiyot choralarini ko’rish, gumon qilingan yoki haqiqatdagi noqonuniy harakatlarni o’rganib chiqish yoki boshqa tomonlarning da’volari yoki ayblovlarini o’rganib chiqish yoki ulardan o’zimizni himoya qilish uchun; yoki
+-	Istalgan mijozimizning shaxsiy xavfsizligi yoki mulkini himoya qilish zarur bo’lgan hollarda boshqa tomonlar bilan. Mijozlarimiz yoki ommaning huquqlari, shaxsiy xavfsizligi yoki mulkini himoya qilish maqsadida.
+
+Har qanday holatda ham Dasturiy ta’minotni yangilash jarayonida to’plangan shaxsiy ma’lumotlaringiz sizning roziligingizni olmasdan turib marketing maqsadlarida qayta ishlanmaydi yoki sizning roziligingizsiz marketing maqsadlarida uchinchi tomonlar bilan baham ko’rilmaydi.
+
+6.	Shaxsiy ma’lumotlarni o’tkazishlar
+Biz, filiallarimiz, sho’ba kompaniyalarimiz va xizmat ta’minotchilarimiz shaxsiy ma’lumotlaringizdan ushbu Maxfiylik siyosatida bayon qilingan maqsadlar uchun mobil telefoningiz joylashgan mamlakatdan boshqa mamlakatlarda foydalanishlari mumkin. Ayrim mamlakatlardagi ma’lumotlarni himoya qilish to’g’risidagi qonunlar siz joylashgan mamlakatdagi ma’lumotlarni himoya qilish to’g’risidagi qonunlar bilan bir xil darajadagi himoyani taqdim etmasligi mumkin. Biroq shaxsiy ma’lumotlaringizni o’tkazishdan avval biz qabul qiluvchi mamlakat yoki yurisdiktsiyada bu ma’lumotlarga nisbatan shu darajadagi himoya taqdim etilishini kafolatlash uchun choralarni ko’ramiz. Ushbu Maxfiylik siyosatiga roziligingizni bildirish orqali siz shaxsiy ma’lumotlaringizni tegishli qonunlar o’zingiz joylashgan mamlakat yoki yurisdiktsiya qonunlari bilan bir xil darajadagi shaxsiy ma’lumotlar himoyasi bilan ta’minlamasligi mumkin bo’lgan mamlakatlar yoki yurisdiktsiyalarda, jumladan Koreya Respublikasi yoki Amerika Qo’shma Shtatlarida ushbu Maxfiylik siyosatiga mos holda qayta ishlanishiga yaqqol tarzda roziligingizni berasiz. 
+
+7.	LGE shaxsiy ma’lumotlarimni qancha muddat saqlab turadi?
+Biz shaxsiy ma’lumotlaringizni ularning to’planishidan ko’zlangan maqsadlarga zarur bo’lgan yoki tegishli qonunlarda talab qilingan muddat saqlab turishimizni kafolatlash uchun tegishli choralarni ko’ramiz. 
+Agar siz ularning boshqa kerak bo’lmasligi tufayli yoki qayta ishlanishiga e’tiroz yoki qayta ishlanishining noqonuniyligi to’g’risidagi da’vo asosida shaxsiy ma’lumotlaringizning o’chirib yuborilishini talab qilsangiz, biz sizning o’chirib yuborish to’g’risidagi talabingizni o’rganib chiqayotgan vaqtda qayta ishlanishini cheklab qo’yilishini talab qilish huquqiga egasiz.
+
+8.	Xavfsizlik
+Biz shaxsiy ma’lumotlaringizni tasodifiy yo’qotishlar va ruxsatsiz kirish, foydalanish, o’zgartirish va oshkor qilishlardan himoya qilish uchun tijoriy jihatdan maqbul choralardan foydalanamiz va umum qabul qilingan sanoat ma’lumotlari amaliyotlariga amal qilamiz. Shunga qaramasdan internetning tuzilishi, doimiy o’zgarib boruvchi texnologiyalar va nazoratimizdan tashqarida bo’lgan boshqa omillar tufayli siz bilan serverlarimiz o’rtasidagi aloqaning uchinchi tomonlar tomonidan ruxsatsiz kirishlardan holi bo’lishiga yoki bizga nisbatan xavfsizlik buzilishlarining bo’lmasligiga kafolat bera olmaymiz. Biz o’tkazishdagi xatoliklar yoki uchinchi tomonlarning ruxsatsiz yoki noqonuniy harakatlari tufayli shaxsiy ma’lumotlarning oshkor qilinishi uchun hech qanday javobgarlikni o’z zimmamizga olmaymiz.
+
+9.	Rozlikni rad qilish yoki chaqirib olish huquqi
+Tegishli mahalliy qonunlarga ko’ra siz ushbu Maxfiylik siyosatiga rozilikni rad qilish, chaqirib olish yoki siz to’g’ringizdagi shaxsiy ma’lumotlarni ushlab turishimizni to’xtatishni boshqa tarzda talab qilish huquqiga ega bo’lishingiz mumkin. Sizda bo’lishi mumkin bo’lgan har qanday shu kabi huquqlardan foydalanish uchun ushbu Siyosatda keltirilgani kabi bizga murojaat qiling va biz sizning talabingizga iloji boricha tezroq javob beramiz. 
+Bundan tashqari siz yuqorida bayon qilingani kabi mobil telefoningizdagi “Avtomatik tekshirish” va “Avtomatik yangilanishlar” funksiyalarini o’chirib qo’yish orqali shaxsiy ma’lumotlaringizning keyingi to’planishida roziligingizni chaqirib olishingiz mumkin. Bu funksiyalarga [Sozlamalari – Tizim – Yangilash markazi – Dasturiy ta'minot yangilovi – Ortiqcha to'lish menyusini – Sozlamalar] da kirish mumkin. 
+Biroq shuni bilingki, agar Avtomatik tekshirish va Avtomatik yangilanishlar funksiyalarini o’chirib qo’ysangiz, bu mobil telefoningiz yoki xizmatlarning ishlashiga ta’sir qilishi yoki ularni qisman yoki butunlay cheklab qo’yishi mumkin. Ma’lumotlarni yuqorida bayon qilingani kabi to’plash yoki ulardan foydalanish mobil telefoningizning optimal ishlashi uchun zarurdir. 
+
+Agar sizda qanday qilib rozilikni rad qilish yoki chaqirib olish to’g’risida savollar bo’lsa, lgecsvc@lge.com elektron pochta manzili orqali bizga murojaat qiling
+
+10.	Bolalarning maxfiyligini himoya qilish
+Bolalarning maxfiyligini himoya qilish biz uchun muhimdir. Shu sababli tegishli mahalliy qonunlarda belgilab berilgani kabi mobil telefoningiz bolalar uchun mo’ljallanmagan va biz bilib turgan holda bolalardan shaxsiy ma’lumotlarni to’plamaymiz yoki bunday ma’lumotlarni saqlamaymiz. Ota-onaning roziligini tekshirmasdan turib boladan ma’lumotlarni to’plaganimizni bilib qolganimizda yoki bizga bu to’g’risida xabar qilinganda biz bunday shaxsiy ma’lumotlarni darhol o’chirib tashlaymiz.
+
+11.	LGE Maxfiylik siyosatiga o’zgartirishlar kiritish
+Ushbu Maxfiylik siyosati LGE tomonidan vaqti-vaqti bilan yangilab turilishi mumkin. Agar biz Maxfiylik siyosatimizga o’zgarishlar kiritsak, quyidagi sanani yangilash yoki kelajakdagi Dasturiy ta’minot yangilanishining bir qismi sifatida ko’rib chiqishingiz uchun o’zgartirilgan Maxfiylik siyosatini taqdim etish orqali sizni bu to’g’risida xabardor qilamiz.
+
+12.	Ma’lumotlaringizga kirish 
+Siz shaxsiy ma’lumotlaringizga kirish, ularga tuzatish kiritish yoki ularni o’chirish uchun LGE to’playdigan shaxsiy ma’lumotlaringiz to’g’risidagi tafsilotlarni talab qilish huquqiga egasiz. Biroq shuni bilingki, bizdan tegishli qonunlar tomonidan bunday ma’lumotlarni saqlab turish talab qilingan hollarda shaxsiy ma’lumotlarni o’zgartira yoki o’chira olmasligimiz mumkin. Qonunlarda ruxsat berilgan hollarda sizga bunday xizmatni taqdim etganlik uchun oz miqdordagi to’lov olinishi mumkin. Shuni yodda tutingki, agar ular sababsiz tarzda haqoratlovchi, boshqalarning dahlsizligini buzuvchi yoki o’ta darajada amalga oshirib bo’lmaydigan bo’lgan hollarda biz sizning talabingizni qayta ishlashni rad qilishimiz mumkin. Bundan tashqari shaxsiy ma’lumotlarni yangilash yoki o’chirish mobil telefoningiz yoki xizmatlarning ishlashiga ta’sir qilishi yoki ularni cheklab qo’yishi mumkin. 
+
+Agar siz shaxsiy ma’lumotlaringizga kirish, ularga tuzatish kiritish yoki ularni o’chirib tashlashni talab qilmoqchi bo’lsangiz, lgecsvc@lge.com elektron pochta manzili orqali bizga murojaat qiling
+
+13.	Shikoyat berish huquqi
+YeI dagi tegishli mahalliy qonunga ko’ra siz tegishli nazorat organiga shaxsiy ma’lumotlaringizning qayta ishlanishiga oid shikoyat berish huquqiga egadirsiz. O’zingizning shikoyat berish yoki LGE ga shikoyat taqdim etish huquqingiz to’g’risida batafsil ma’lumotlar olish uchun lgecsvc@lge.com elektron pochta manzili orqali bizga murojaat qiling. 
+
+14.	Ushbu Maxfiylik siyosati to’g’rsida LGE ga murojaat qilish
+Agar sizda ushbu Maxfiylik siyosati to’g’risida savollar yoki fikr-mulohazalar mavjud bo’lsa, lgecsvc@lge.com elektron pochta manzili orqali bizga murojaat qiling.
+
+So’nggi yangilanish sanasi: 1 noyabr 2017 yil

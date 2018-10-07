@@ -1,0 +1,80 @@
+﻿Privacybeleid voor het gebruiken van activiteitenlogboeken
+
+Dit Privacybeleid omschrijft hoe LGE toegang verkrijgt tot en uw persoonlijke informatie gebruikt in de context van LG Device Diagnostics Report Services. Lees het aandachtig voorafgaand aan het gebruik van de LG Device Diagnostics Report Services.
+
+1. Introductie
+LG Electronics, Inc. ('LGE' of 'wij/we') verplicht zich ertoe om de informatie van personen en groepen die gebruikmaken van de LG PC-/Mac-software adequaat te beschermen. De LG Device Diagnostics Report Service biedt een verbindingsservice op afstand ('Services').
+In dit Privacybeleid wordt beschreven hoe we de informatie die we verkrijgen door uw gebruik van de Services verzamelen, gebruiken en delen. Specifiek wordt beschreven:
+
+– Welke informatie LGE van u kan verkrijgen;
+– Hoe LGE de verkregen informatie gebruikt;
+– Wanneer LGE informatie deelt met anderen; en
+– Hoe u het gebruik en delen van uw informatie door GE kunt regelen.
+
+Uw toestel of de LG Device Diagnostics Report Service biedt toegang tot softwaretoepassingen en koppelingen naar andere services die eigendom zijn van en worden geëxploiteerd door derden, met inbegrip van aanbieders van besturingssystemen en andere aanbieders van inhoud en applicaties. Dergelijke services van derden vallen buiten de reikwijdte van dit Privacybeleid omdat deze hun eigen beleidsregels hanteren ten aanzien van het verzamelen, gebruiken en delen van informatie in verband met hun services. Wij moedigen u aan om dat beleid te lezen. LGE is niet verantwoordelijk of aansprakelijk voor de privacypraktijken van dergelijke derden.
+
+2. Welke informatie wordt verkregen door LGE?
+De informatie die wij kunnen ontvangen bij uw gebruik van de Services valt in de volgende categorieën:
+– Status mobiel toestel: Model, softwareversie, IMEI, serienummer, IMSI, voedingsstatus, batterijstatus, gebruik van CPU/RAM/interne opslag, gemiddelde gebruikstijd, resultaat zelfdiagnose hardware (Wi-Fi, BT, afstandssensor, verlichtingssensor, vingerafdruksensor, enz.)
+– Netwerkstatus: Service-status (oproep, data), signaalsterkte, stationinformation, oproepfrequentie/-tijd
+– Informatie toepassing: De lijst van geïnstalleerde en verwijderde apps, recent uitgevoerde apps, gebruikerfrequentie/statistieken app 
+– Status mobiele telefoonverbinding: Wifi, Bluetooth, GPS, koptelefoonaansluiting, batterij-oplader, verbindingsstatussen USB en SD-kaart
+– Foutinformatie: Vastgelopen scherm, onbedoelde stroomuitvallen, verbroken oproepen, toepassingsfouten (fataal, exceptie)
+
+3. Hoe zal LGE de verkregen informatie gebruiken?
+We gebruiken de door uw gebruik van de Services verkregen informatie voor verschillende doeleinden, zoals:
+
+- Om mobiel apparaat te identificeren en te diagnosticeren
+- Om klantenservices uit te voeren en service-geschiedenis te beheren 
+- Om push-berichten te versturen 
+- Om service-/logboek-/apparaatgeschiedenis te analyseren voor het verbeteren van kwaliteit en klanttevredenheid
+
+We kunnen voor de bovenstaande doeleinden informatie die we hebben verkregen via de Services, met inbegrip van persoonsgegevens, combineren met gegevens die u op andere manieren aan ons hebt verstrekt.
+
+De wettelijke basis waarop LGE vertrouwt voor het verwerken van uw persoonlijke informatie, is normaliter een van het volgende;
+
+– Contract: wanneer het nodig is om een contract met u aan te gaan;
+– Legitieme belangen: waar het nodig is voor de doeleinden van LGE of de legitieme zakelijke belangen van een derde. Voor LGE omvat dit haar belangen als fabrikant van elektronische consumentenproducten en serviceprovider.
+– Instemming: wanneer u ervoor hebt gekozen om dit te geven. U hebt het recht om uw instemming op enig moment in te trekken; of
+– Wettelijke verplichting: wanneer de verwerking noodzakelijk is voor naleving van onze wettelijke verplichtingen
+
+De informatie die wordt verstrekt in de diverse subonderdelen hieronder, geeft aan op welke van de bovenstaande juridische grondslagen wordt vertrouwd met betrekking tot verschillende categorieën persoonlijke informatie.
+
+4. Informatie delen
+Aangesloten ondernemingen en dochterondernemingen. LGE kan persoonlijke informatie en niet-persoonlijke informatie delen met haar aangesloten ondernemingen en dochterondernemingen over de hele wereld voor de doeleinden als omschreven in dit Privacybeleid. De term ‘aangesloten ondernemingen’ of ‘dochterondernemingen’ verwijst naar groepsbedrijven die de LG-naam kunnen gebruiken of die gemeenschappelijk eigendom of zeggenschap hebben, zoals LG CNS of LG Electronics France S.A.R.L.
+
+Denk eraan dat wij dergelijke informatie verder kunnen delen met de volgende entiteiten:
+- Externe serviceproviders. Wij kunnen uw persoonlijke informatie en niet-persoonlijke informatie delen met derde serviceproviders om de LG Device Diagnostics Report Service mogelijk te maken;
+
+Hoewel wij over het algemeen geen informatie delen met aanvullende derden, moet u eraan denken dat wij de informatie onder de volgende specifieke omstandigheden verder kunnen delen met de volgende entiteiten;
+- Overige partijen wanneer wettelijk verplicht. Als vereist door een gerechtelijk bevel of andere overheids- of wetshandhavingsinstanties om te voldoen aan een juridisch proces of wetgeving;
+- Overige partijen in verband met zakelijke transacties. In verband met een bedrijfsevenement, zoals een fusie of verkoop van het gehele of een deel van het bedrijf van LGE (inclusief dat van een divisie of dochteronderneming), waarbij LGE informatie kan moeten onthullen aan een potentiële koper en haar professionele adviseurs;
+- Overige partijen wanneer het nodig is om onze services te beschermen. Voor het beschermen en verdedigen van onze rechten en eigendom, inclusief via juridische procedures;
+- Overige partijen wanneer dit gaat om het beschermen van de persoonlijke veiligheid of eigendommen van enige van onze gebruikers. Voor het beschermen van de persoonlijke veiligheid of eigendom van onze gebruikers of het publiek.
+
+In geen geval zal uw persoonlijke informatie worden verwerkt voor marketingdoeleinden, en ook niet worden gedeeld met derden voor marketingdoeleinden.
+
+5. Overdrachten van persoonlijke gegevens
+Wij, onze aangesloten ondernemingen, dochterondernemingen en leveranciers kunnen informatie (inclusief uw persoonlijke informatie) gebruiken in andere landen dan waar uw toestel zich bevindt, in verband met het u aanbieden van de services van LG Device Diagnostics Report Services en enige andere doeleinden die worden omschreven in dit Privacybeleid. De wetten inzake gegevensbescherming in veel van deze landen bieden wellicht niet dezelfde mate van bescherming als die in het land waar u zich bevindt. Voorafgaand aan het overdragen van uw persoonlijke informatie nemen wij echter stappen om ervoor te zorgen dat dergelijke informatie dezelfde mate van bescherming krijgt. Voor meer informatie over de manier waarop wij uw persoonlijke informatie behandelen en beschermen, neemt u contact met ons op via mc.customer-service@lge.com.
+
+6. Hoe lang bewaart LGE mijn persoonlijke informatie?
+Wij bewaren uw persoonlijke informatie zo lang als voor ons nodig is om u de Service te bieden of voor andere doeleinden als uiteengezet in dit Privacybeleid. Wij passen criteria toe voor het bepalen van de juiste bewaartermijn voor verschillende categorieën van persoonlijke informatie die u ons verstrekt. Wij bewaren bijvoorbeeld informatie die nodig is om ons te beschermen bij een rechtsvordering, zoals informatie met betrekking tot een contract, voor de levensduur van het contract en tot één jaar daarna. Na deze periode wordt het verwijderd, of in sommige gevallen geanonimiseerd. Wanneer wij de persoonlijke informatie hebben verzameld op basis van uw instemming en wij hebben verder geen rechtsgrondslag om door te gaan met die verwerking, verwijderen wij uw persoonlijke informatie als u daarna uw instemming intrekt.
+Als u vraagt om wissen van uw persoonlijke informatie omdat het niet meer nodig is, of gebaseerd op een bezwaar op de verwerking of een claim dat de verwerking onwettig is, hebt u het recht om te streven naar de beperkingen van verwerking terwijl wij uw verzoek om wissen verifiëren.
+
+7. Beveiliging
+Wij doen in zakelijk opzicht al het redelijke voor het beveiligen van de vertrouwelijkheid en beveiliging van uw persoonlijke informatie. Desalniettemin kunnen wij, vanwege het ontwerp van het internet, steeds veranderende technologie en andere factoren buiten onze controle, niet garanderen dat communicatie tussen u en onze servers vrij is van onbevoegde toegang door derden of dat wij niet onderhevig zijn aan beveiligingsinbreuken. Wij nemen geen verantwoordelijkheid voor de onthulling van persoonlijke informatie vanwege fouten bij verzending of onbevoegde of onwettige handelingen van derden.
+
+8. De privacy van kinderen beschermen
+Het beschermen van de privacy van kinderen is belangrijk voor ons. Om die reden zijn geen van onze Services gericht aan of ontworpen voor het aantrekken van personen van jonger dan 16 jaar of de meerderjarige leeftijd in de relevante jurisdictie. Wij verzamelen of onderhouden ook niet bewust persoonlijke informatie van gebruikers die jonger zijn dan 16 jaar, of de meerderjarige leeftijd in de relevante jurisdictie. Als wij erachter komen dat wij informatie van gebruikers van jonger dan 16 jaar of de meerderjarige leeftijd in de relevante jurisdictie hebben verzameld, dan verwijderen wij dergelijke persoonlijke informatie direct.
+
+9. Wijzigingen aan het Privacybeleid van LGE
+Dit Privacybeleid kan van tijd tot tijd worden bijgewerkt door LGE. In geval van belangrijke wijzigingen in ons Privacybeleid zullen wij u informeren via de Services of via andere middelen. U kunt vereist zijn om het gereviseerde Privacybeleid te bevestigen of hiermee akkoord te gaan om de Services te kunnen blijven gebruiken.
+
+10. Toegang tot uw informatie en uw rechten
+Onder de wetten van sommige jurisdicties, kunnen wij het recht hebben om toegang te vragen tot, of rectificatie of verwijdering van de persoonlijke informatie die LGE over u bewaart, of het recht om bezwaar te maken tegen of om bepaalde soorten verwerking van uw persoonlijke informatie te beperken (of om uw instemming met verwerking door LGE in te trekken), of om een door een computer leesbare kopie van uw persoonlijke informatie te ontvangen. Indien wettelijk toegestaan kan een kleine vergoeding om u een dergelijke service te bieden, in rekening worden gebracht. Denk eraan dat wij kunnen weigeren om uw verzoeken te verwerken als deze onredelijk onrechtmatig zijn, de privacy van anderen in gevaar brengen of uiterst onpraktisch zijn (indien dit is toegestaan onder toepasselijk recht). Voor meer informatie of om enige van deze rechten uit te oefenen, neemt u contact met ons op via mc.customer-service@lge.com.
+
+11. Contact opnemen met LGE over dit Privacybeleid
+In geval van enige vragen of opmerkingen over dit Privacybeleid of LGE’s verwerking van uw persoonlijke gegevens, neemt u contact op met onze Functionaris Gegevensbescherming via dpo-eu@lge.com. U hebt tevens het recht om een klacht in te dienen bij een autoritweit voor gegevensbescherming hoewel wij u aan zouden moedigen om eerst direct contact met ons op te nemen om enige zorgen op te lossen.
+
+Laatst bijgewerkt: 1 maart 2018
+

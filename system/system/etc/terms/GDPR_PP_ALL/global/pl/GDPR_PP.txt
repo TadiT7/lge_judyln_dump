@@ -1,0 +1,105 @@
+Zasady zachowania poufności informacji
+
+Niniejsza Zasady zachowania poufności informacji określa zasady pozyskiwania i wykorzystywania danych osobowych użytkowników przez LGE w kontekście usługi Aktualizacji oprogramowania. Prosimy o uważne zapoznanie się z jej treścią przed przystąpieniem do korzystania z Usługi Aktualizacji Oprogramowania.
+
+1.	Wprowadzenie
+LG Electronics Inc. („LGE” lub „my”) zobowiązuje się do ochrony informacji należących do osób lub grup osób, które korzystają z telefonów LGE. Niniejsza Zasady zachowania poufności informacji określa zasady gromadzenia, wykorzystywania i przekazywania przez nas informacji, które uzyskujemy w wyniku korzystania przez użytkownika z telefonu LGE, a w szczególności obejmuje:
+-	Opis ogólny aktualizacji oprogramowania przez FOTA;
+-	Informacje, które LGE może pozyskać od użytkownika;
+-	Sposoby wykorzystywania pozyskiwanych informacji;
+-	Przypadki przekazywania informacji osobom trzecim; 
+-	Zasady przekazywania danych osobowych do państw trzecich;
+-	Okres przechowywania danych osobowych;
+-	Środki bezpieczeństwa;
+-	Prawo do odmowy lub wycofania zgody;
+-	Ochrona prywatności dzieci;
+-	Zmiany Polityki prywatności LGE;
+-	Dostęp do danych użytkownika;
+-	Prawo do złożenia skargi;
+-	Możliwość kontaktu z LGE w sprawie Polityki prywatności.
+
+Niniejsza Zasady zachowania poufności informacji stosuje się jedynie do informacji pozyskiwanych przez LGE z telefonu LGE do przeprowadzenia aktualizacji oprogramowania sprzętowego za pośrednictwem procesu Firmware Over-the-Air („FOTA”) („Aktualizacja oprogramowania”). Niniejsza Polityka nie dotyczy innych produktów lub usług LGE, w tym aplikacji mobilnych oferowanych lub dostarczanych przez LGE. Niniejsza Polityka nie dotyczy również produktów lub usług oferowanych przez osoby trzecie, w tym przez dostawców systemów operacyjnych, dostawców innych treści i aplikacji lub operatora sieci. Produkty i usługi, które nie mieszczą się w zakresie niniejszej Polityki prywatności, posiadają własne polityki, które regulują kwestie gromadzenia, wykorzystywania i przekazywania informacji. Zachęcamy do zapoznania się z treścią takich polityk. LGE nie ponosi odpowiedzialności za praktyki w zakresie prywatności stosowane przez osoby trzecie.
+
+Przed użyciem nowego telefonu należy przeprowadzić Aktualizację oprogramowania zgodnie z procedurą opisaną w niniejszej Polityce prywatności, aby upewnić się, że telefon będzie działał prawidłowo oraz posiada najaktualniejsze funkcje i ustawienia zabezpieczeń. W razie pytań, prosimy o kontakt pod adresem określonym w niniejszej Polityce.
+
+Treść niniejszej Polityki jest dostępna na stronie [Ustawienia – System – Informacje o telefonie – Informacje prawne – Dokumenty Prawne Oprogramowania LG – Zasady zachowania poufności informacji].
+
+Wszelkie przekłady niniejszej Polityki prywatności zostały sporządzone w celu zachowania zgodności z wymogami lokalnymi. W przypadku jakichkolwiek rozbieżności pomiędzy angielską wersją językową a innymi wersjami językowymi, decydujące znaczenie ma Zasady zachowania poufności informacji w wersji angielskiej (o ile obowiązujące przepisy lokalne w jurysdykcji użytkownika nie stanowią inaczej).
+
+2.	Aktualizacja oprogramowania przez FOTA
+Oprogramowanie sprzętowe LGE na telefonie („Oprogramowanie”) może niekiedy wymagać przeprowadzenia aktualizacji lub uzupełnień dostarczonych przez LGE lub LGE może dostarczyć elementy dodatkowe do Oprogramowania. Przeprowadzenie Aktualizacji oprogramowania skutkuje zainstalowaniem na telefonie nowego Oprogramowania wraz z dostarczonymi aktualizacjami, uzupełnieniami lub elementami dodatkowymi. Zaktualizowana wersja Oprogramowania może zawierać nowe funkcje oraz, w niektórych przypadkach, usuwać istniejące funkcje. Po Aktualizacji oprogramowania użytkownik nie może dłużej korzystać z poprzedniej wersji Oprogramowania i nie ma możliwości jej przywrócenia. 
+
+Z uwagi na to, że Aktualizacja oprogramowania przeprowadzana jest za pośrednictwem procesu FOTA, pobranie nowej wersji Oprogramowania może wiązać się z naliczeniem dodatkowych opłat sieciowych w zależności od operatora sieci i planu taryfowego. Aby uniknąć pobierania Aktualizacji oprogramowania za pośrednictwem połączenia danych sieciowych, należy w Ustawieniach wybrać opcję „Aktualizuj tylko przez Wi-Fi”. 
+
+a.	Opcje zarządzania Aktualizacjami oprogramowania
+Po włączeniu funkcji „Sprawdź automatycznie” telefon komórkowy będzie okresowo wyszukiwał nowe lub zaktualizowane oprogramowanie i automatycznie pobierał nowe lub zaktualizowane oprogramowanie, gdy jest dostępne (funkcja „Sprawdź automatycznie”). O dokonanej instalacji Oprogramowania powiadomimy użytkownika za pośrednictwem wyskakującego okienka lub komunikatu w telefonie. Przed zastosowaniem nowej wersji Oprogramowania użytkownik ma możliwość zaakceptowania lub odrzucenia Aktualizacji. Telefon o północy automatycznie zastosuje zainstalowane Oprogramowanie (Funkcja „Aktualizacje automatyczne”). Funkcje „Sprawdź automatycznie” i „Aktualizacje automatyczne” można wyłączyć w obszarze [Ustawienia – System – Centrum aktualizacji – Aktualizacja oprogramowania – Pływającego menu – Ustawienia]. Wyłączenie funkcji „Sprawdź automatycznie” spowoduje zaprzestanie przeprowadzania Aktualizacji oprogramowania w przyszłości.
+W przypadku telefonów już używanych, w których wyłączono funkcję przeprowadzania Aktualizacji oprogramowania, niezainstalowanie zaktualizowanego Oprogramowania może skutkować [pogorszeniem się działania telefonu, problemami z kompatybilnością z nowymi lub istniejącymi aplikacjami lub innymi problemami z funkcjonalnością lub bezpieczeństwem telefonu].
+
+Użytkownik może dodatkowo wycofać zgodę na dalsze gromadzenie informacji osobistych poprzez wyłączenie funkcji „Sprawdź automatycznie” i „Aktualizacje automatyczne” w telefonie, co zostało opisane powyżej. Funkcje te dostępne są w obszarze [Ustawienia – System – Centrum aktualizacji – Aktualizacja oprogramowania – Pływającego menu – Ustawienia]. 
+Równocześnie prosimy zauważyć, że wyłączenie funkcji„Sprawdź automatycznie” i „Aktualizacje automatyczne” może wpłynąć na lub ograniczyć działanie telefonu lub usług, w części lub w całości.  Jak opisano powyżej, gromadzenie i wykorzystywanie informacji jest niezbędne dla optymalnego działania telefonu. 
+
+W razie wszelkich pytań na temat prawa użytkownika do odmowy lub wycofania zgody, prosimy o kontakt pod adresem mc.customer-service@lge.com.
+
+b.	Pilne aktualizacje oprogramowania
+Jeżeli wymagają tego okoliczności, LGE, kierując się swoimi uzasadnionymi interesami, może przeprowadzić Aktualizację oprogramowania bez powiadomienia użytkownika i bez jego zgody, bez względu na aktualne ustawienia urządzenia („Pilna aktualizacja oprogramowania”). Do okoliczności, które mogą wymagać przeprowadzenia Pilnej aktualizacji oprogramowania, należą zagrożenie bezpieczeństwa klientów i bezpieczeństwa danych lub problemy operacyjne, które mogą skutkować poważnymi zakłóceniami w dostawie usług, lub duże prawdopodobieństwo wystąpienia takich okoliczności.
+
+3.	Informacje, które LGE może pozyskać od użytkownika
+LGE może gromadzić następujące informacje z telefonu użytkownika do przeprowadzenia Aktualizacji oprogramowania: zaszyfrowany numer IMEI, numer seryjny, model telefonu, wersja oprogramowania i/lub oprogramowania sprzętowego, system operacyjny telefonu, kod komórkowy kraju (MCC), kod sieci komórkowej (MNC), identyfikator Google Cloud Messaging (GCM) i wybrany język. Informacje te gromadzone są automatycznie w ramach procesu przeprowadzania Aktualizacji oprogramowania.
+
+Ponadto, gromadzenie informacji operacyjnych, w tym logów systemowych i adresów IP, jest konieczne ze względu na dostarczanie przez LGE usług komórkowych do telefonu. Informacje te gromadzone są automatycznie i są niezbędne do prawidłowego działania telefonu.
+
+4.	W jaki sposób LGE wykorzystuje pozyskane informacje?
+Informacje pozyskane od użytkownika wykorzystujemy w różnych celach, w tym do:
+-	Przeprowadzania Aktualizacji oprogramowania (także Pilnych aktualizacji oprogramowania), w tym sprawdzenia, czy użytkownik korzysta z najnowszej wersji oprogramowania, uwierzytelnienia telefonu użytkownika i dostarczenia odpowiedniego Oprogramowania; 
+-	Potwierdzenia naszych obowiązków wynikających z [Ograniczonej gwarancji];
+-	Przesyłania powiadomień związanych z mobilnymi usługami bezpieczeństwa oraz powiadomień o awariach dotyczących bezpieczeństwa;
+-	Ochrony i obrony praw i mienia LGE, w tym na drodze sądowej;
+-	Spełniania wymogów regulacyjnych; oraz
+-	Analizowania, weryfikacji i poprawy oferowanych przez nas produktów czy usług.
+
+Przetwarzanie informacji osobistych przez LGE zwykle opiera się na jednej z poniższych podstaw prawnych:
+-	Umowa: gdy jest to konieczne w celu realizacji umowy z użytkownikiem;
+-	Uzasadnione interesy: gdy jest to konieczne ze względu na uzasadnione interesy handlowe LGE lub interesy osób trzecich. Dla LGE uzasadnione interesy obejmują interesy firmy jako producenta urządzeń elektroniki użytkowej i dostawcy usług;
+-	Zgoda: gdy użytkownik zdecydował się na udzielenie zgody. Użytkownik ma prawo w każdej chwili wycofać swoją zgodę; lub
+-	Obowiązek prawny: gdy przetwarzanie jest konieczne w celu wypełnienia zobowiązań prawnych LGE.
+
+LGE może również wykorzystywać zbiorcze dane statystyczne zgromadzone w trakcie Aktualizacji oprogramowania i w trakcie działania telefonu w celu lepszego zrozumienia potrzeb klientów, poprawy obsługi klienta oraz oferowanych produktów i usług, a także w celu przeprowadzenia badań i analiz rynkowych. Zbiorcze dane statystyczne nie zawierają informacji, które umożliwiają identyfikację osoby fizycznej lub mogą być jej przypisane.
+
+5.	Przekazywanie informacji osobom trzecim
+LGE zasadniczo nie przekazuje osobom trzecim informacji gromadzonych w trakcie Aktualizacji oprogramowania, które umożliwiają identyfikację osoby fizycznej lub mogą być jej przypisane. Należy jednak mieć świadomość, że w następujących okolicznościach LGE może dzielić się takimi informacjami z wymienionymi niżej podmiotami:
+
+-	Spółki stowarzyszone i zależne. LGE może przekazywać informacje osobiste i nieosobiste (w tym informacje o urządzeniu) swoim spółkom stowarzyszonym i zależnym na całym świecie jedynie tak długo, jak jest to konieczne dla celów, dla których zostały zgromadzone. Termin „spółki stowarzyszone” lub „spółki zależne” odnosi się do spółek Grupy, które mogą posługiwać się nazwą LG bądź mieć wspólnego właściciela lub znajdować się pod wspólną kontrolą LG, takich jak LG CNS czy LG Electronics U.S.A., Inc.;
+-	Zewnętrzni dostawcy usług. Informacje mogą być przekazywane zewnętrznym sprzedawcom angażowanym niekiedy przez LG w celu dostarczania usług w imieniu LGE, takich jak zarządzanie obsługą klienta;
+
+Nie udostępniamy informacji innym stronom trzecim, ale w wyjątkowych okolicznościach (patrz poniżej) udostępnimy je następujących podmiotom.
+-	Inne strony, jeśli wymaga tego prawo. W zakresie, w którym jest to wymagane przez postanowienie sądu lub innego urzędu państwowego czy też organu ścigania w celu spełnienia wymogów procedury prawnej bądź obowiązujących przepisów prawa;
+-	Inne strony w związku z transakcjami korporacyjnymi. W związku ze zdarzeniem korporacyjnym, takim jak fuzja, restrukturyzacja, zbycie lub przekazanie w całości lub w części przedsiębiorstwa LGE (w tym oddziału lub spółki zależnej), w ramach którego konieczne może być ujawnienie przez LGE informacji potencjalnemu nabywcy i jego profesjonalnym doradcom;
+-	Inne strony, gdy jest to konieczne do ochrony naszych usług. W celu egzekwowania naszych praw wynikających z umowy, zabezpieczenia się przed pociągnięciem do odpowiedzialności, prowadzenia dochodzenia w sprawie domniemanych lub faktycznych działań niezgodnych z prawem lub obrony przed roszczeniami lub zarzutami ze strony osób trzecich; lub
+-	Inne strony, gdy jest to konieczne do ochrony bezpieczeństwa osobistego lub mienia naszych klientów. W celu ochrony praw, bezpieczeństwa osobistego i mienia naszych klientów lub innych osób.
+
+Informacje osobiste gromadzone w trakcie Aktualizacji oprogramowania nie mogą w żadnym wypadku być przetwarzane w celach marketingowych bez zgody użytkownika, ani przekazywane stronom trzecim w celach marketingowych bez zgody użytkownika.
+
+6.	Przekazywanie danych osobowych za granicę
+LGE, nasze spółki stowarzyszone, spółki zależne i dostawcy usług możemy wykorzystywać informacje osobiste użytkownika w krajach innych niż te, w których znajduje się urządzenie, dla celów określonych w niniejszej Polityce prywatności. Przepisy z zakresu ochrony danych w wielu spośród tych krajów mogą nie zapewniać tego samego poziomu ochrony co te, obowiązujące w kraju, w którym znajduje się użytkownik. Przed przekazaniem informacji osobistych użytkownika podejmiemy jednak kroki w celu upewnienia się, że tego rodzaju informacje będą miały zapewnioną ochronę na tym samym poziomie, co w kraju lub jurysdykcji źródłowej.
+
+7.	Okres przechowywania danych osobowych
+Twoje dane osobowe firma przechowa przez okres, w którym będzie dostarczała aplikację lub realizowała inne zadania nakreślone w Zasady zachowania poufności informacji. W celu prawidłowego określenia okresu przechowywania stosujemy różne kryteria związane z rodzajami udostępnionych danych osobowych.
+Firma musi gromadzić i przetwarzać dane osobowe. W przeciwnym wypadku nie może dostarczać usług w zakresie aktualizacji oprogramowania. Pamiętaj, że realizacja części obowiązków umownych może być niemożliwa w przypadku braku zgody na te czynności. Firma gromadzi i przetwarza dane osobowe w związku z przedmiotem informacji. Dane są przechowywane w okresie, w którym są niezbędne do realizacji zobowiązań. Dlatego w założeniu firma przetwarza i przechowuje dane osobowe w okresie świadczenia usługi.
+Użytkownikowi przysługuje prawo złożenia wniosku o usunięcie informacji osobistych, które nie są już potrzebne, lub na podstawie sprzeciwu wobec przetwarzania danych lub podejrzenia bezprawnego przetwarzania danych. Ponadto, użytkownikowi przysługuje prawo wniesienia o ograniczenie przetwarzania informacji w trakcie weryfikacji wniosku o ich usunięcie.
+
+8.	Bezpieczeństwo
+Podejmujemy wszelkich komercyjnie uzasadnionych starań w celu ochrony i zachowania pofuności danych osobowych. Jednak z uwagi na strukturę internetu, stały postęp technologiczny i inne czynniki pozostające poza naszą kontrolą, nie jesteśmy w stanie zagwarantować, że komunikacja pomiędzy użytkownikiem a naszymi serwerami będzie wolna od nieuprawnionego dostępu osób trzecich lub że LGE nie padnie ofiarą naruszeń zabezpieczeń. Nie bierzemy żadnej odpowiedzialności za przypadki ujawnienia informacji osobistych wskutek błędów w transmisji czy nieuprawnionych bądź niedozwolonych działań osób trzecich.
+
+9.	Ochrona prywatności dzieci
+Ochrona prywatności dzieci jest dla nas niezwykle ważną kwestią. Dlatego żadna z naszych usług nie jest skierowana do użytkowników, którzy nie ukończyli szesnastego roku życia lub nie osiągnęli wieku dojrzałości w danej jurysdykcji. Nigdy świadomie nie zbieramy ani nie gromadzimy danych osobowych użytkowników, którzy nie ukończyli szesnastego roku życia lub nie osiągnęli wieku dojrzałości w danej jurysdykcji. Jeśli okaże się, że firma zgromadziła dane osobowe użytkownika, który nie ukończył szesnastego roku życia lub nie osiągnął wieku dojrzałości w danej jurysdykcji, zostaną one natychmiast usunięte.
+
+10.	Zmiany w Zasady zachowania poufności informacji firmy LGE
+Firma LGE będzie okresowo zmieniała niniejszą politykę prywatności. O wprowadzeniu istotnych zmian w Zasady zachowania poufności informacji powiadomimy użytkowników za pośrednictwem urządzenia przenośnego lub w inny sposób. Aby możliwe było dalsze korzystanie z usługi Aktualizacje Oprogramowania, czasami konieczne może być potwierdzenie odbioru powiadomienia o zmianach lub wyrażenie zgody na nową politykę prywatności.
+
+11.	Dostęp użytkownika do danych i prawa użytkownika
+W niektórych jurysdykcjach możliwe jest złożenie wniosku o dostęp do danych osobowych użytkownika przechowywanych przez firmę LGE, sprostowanie ich lub usunięcie, wyłączenie lub ograniczenie niektórych sposobów przetwarzania danych osobowych (lub cofnięcie zgody na przetwarzanie danych przez firmę LGE), a także wydanie czytelnego wydruku przechowywanych przez firmę danych osobowych. Za takie usługi może zostać naliczona drobna opłata, jeśli prawo tego nie zakazuje. Pamiętaj, że możemy odmówić przetworzenia takiego wniosku, jeśli jest obraźliwy, narusza prywatność innych osób lub wyjątkowo niepraktyczny (jeśli jest to przewidziane w obowiązującym prawie). Aby uzyskać szczegółowe informacje lub skorzystać z jednego ze środków prawnych, napisz do nas na adres mc.customer-service@lge.com.
+	
+12.	Kontakt z firmą LGE w sprawie niniejszej Zasady zachowania poufności informacji
+W przypadku jakichkolwiek pytań lub opinii dotyczących niniejszej Zasady zachowania poufności informacji lub przetwarzania danych osobowych przez firmę LGE, skontaktuj się z firmą LG Electronics Inc., pisząc na adres mc.customer-service@lge.com. Każdemu użytkownikowi przysługuje prawo odwołania się do organu ochrony danych, ale w pierwszej kolejności zachęcamy do bezpośredniego kontaktu. Zrobimy wszystko, aby rozstrzygnąć wszystkie niejasności.
+	
+Ostatnia aktualizacja: 1 grudnia 2017

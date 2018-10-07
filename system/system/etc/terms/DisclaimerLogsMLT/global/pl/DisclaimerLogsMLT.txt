@@ -1,0 +1,23 @@
+﻿Dziennik aktywności
+
+W celu poprawy ogólnego komfortu obsługi urządzenia i skuteczności systemu rozwiązywania problemów na urządzeniu mobilnym LGE generowany jest i przechowywany Dziennik aktywności. Dziennik aktywności przechowywany jest wyłącznie na urządzeniu i nie jest przekazywany bezprzewodowo do LGE lub jakichkolwiek osób trzecich, o ile nie uzgodniono inaczej w osobnym porozumieniu. 
+
+Dziennik informacji zawiera następujące informacje: 
+- Status urządzenia mobilnego: Model, wersja oprogramowania, IMEI, niepowtarzalny numer identyfikacyjny, IMSI, stan zasilania, stan baterii, wykorzystanie pamięci CPU/RAM/wewnętrznej, przeciętny czas użytkowania, wynik diagnostyki sprzętu (Wi-Fi, BT, czujnik zbliżeniowy, czujnik podświetlenia, czujnik dotykowy, itp.) 
+- Status sieci
+- Informacje o aplikacji, statystyki użytkowania aplikacji
+- Status połączenia urządzenia mobilnego
+- Informacje o błędach: Ekran nie reaguje, samoistne wyłączanie się telefonu, przerwane połączenia, błędy aplikacji
+- Ustawienia urządzenia mobilnego
+
+Informacje dostępne dla LGE mogą być wykorzystywane indywidualnie lub w postaci zbiorczej. LGE wykorzystuje takie informacje w celu lepszego zrozumienia potrzeb klientów, poprawy obsługi klienta oraz oferowanych produktów i usług. Na przykład, informacje z Dziennika aktywności umożliwiają LGE badać i rozwiązywać problemy z siecią, połączeniem lub baterią. 
+
+Wybierając przycisk „Zgadzam się”, użytkownik zezwala LGE i niektórym osobom trzecim działającym w imieniu LGE (jak określono poniżej) na dostęp do generowanego przez urządzenie Dziennika aktywności i wykorzystanie zawartych w nim danych. LGE może przekazać informacje z Dziennika aktywności następującym osobom trzecim:
+- spółkom stowarzyszonym i zależnym (spółkom, które posługują się nazwą LGE, mają wspólnego właściciela lub znajdują się pod wspólną kontrolą); oraz
+- przedstawicielom i dostawcom usług zobowiązanym do zachowania zasad poufności, którzy wykorzystują takie informacje wyłącznie w imieniu LGE lub w celu dostarczenia zamówionych produktów bądź usług lub wykonania innych zobowiązań umownych wobec użytkownika.
+LGE nie ponosi odpowiedzialności za praktyki w zakresie prywatności stosowane przez osoby trzecie.
+LGE wystąpi o zgodę na gromadzenie informacji z Dziennika aktywności w przypadku korzystania z usług serwisu i naprawy LGE. Użytkownik zostanie wówczas poproszony o osobne wyrażenie zgody przed przystąpieniem do usługi.
+Dziennik aktywności generowany jest automatycznie w telefonie użytkownika, bez względu na to, czy wyraził on na to zgodę. LGE uzyskuje dostęp do zawartych w nim informacji wyłącznie, jeżeli użytkownik wyraził na to zgodę poprzez wybór przycisku „Zgadzam się”. Jeżeli użytkownik nie chce udostępniać LGE informacji z Dziennika aktywności, może w każdej chwili zablokować dostęp do informacji z Dziennika aktywności w ustawieniach [Ustawienia – System – Informacje o telefonie – Dziennik aktywności]. Więcej informacji na temat tego, w jaki sposób LGE przetwarza dane użytkownika, w tym informacje z Dziennika aktywności, można znaleźć w treści Polityki prywatności dostępnej na stronie [Ustawienia – System – Informacje o telefonie – Informacje prawne – Dokumenty Prawne Oprogramowania LG – Zasady zachowania poufności informacji].
+
+Wszelkie przekłady niniejszego dokumentu Dziennik aktywności zostały sporządzone w celu zachowania zgodności z wymogami lokalnymi. W przypadku jakichkolwiek rozbieżności pomiędzy angielską wersją językową a innymi wersjami językowymi, decydujące znaczenie ma dokument w wersji angielskiej (o ile obowiązujące przepisy lokalne w jurysdykcji użytkownika nie stanowią inaczej).
+

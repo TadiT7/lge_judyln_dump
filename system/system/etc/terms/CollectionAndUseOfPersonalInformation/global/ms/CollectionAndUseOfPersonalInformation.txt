@@ -1,0 +1,109 @@
+﻿Polisi Peribadian
+
+Polisi Peribadian ini menerangkan cara LGE mendapat akses kepada dan menggunakan maklumat peribadi anda dalam konteks Perkhidmatan Kemaskini Perisian. Sila baca dengan teliti sebelum menggunakan Perkhidmatan Kemaskini Perisian.
+
+1.	Pengenalan
+LG Electronics Inc. (“LGE” atau “kami”) komited untuk melindungi maklumat individu dan kumpulan yang menggunakan telefon bimbit LGE. Polisi Peribadian ini menggariskan cara kami mengumpulkan, menggunakan dan berkongsi maklumat yang kami kumpulkan daripada telefon bimbit LGE dan terutamanya, menggariskan:
+-	Gambaran keseluruhan Kemaskini Perisian FOTA;
+-	Maklumat yang LGE boleh dapatkan daripada anda;
+-	Cara LGE menggunakan maklumat yang diperoleh;
+-	Masa LGE berkongsi maklumat dengan pihak lain; 
+-	Pemindahan data peribadi ke luar negara
+-	Berapa lamakah LGE akan menyimpan maklumat peribadi saya?
+-	Keselamatan
+-	Hak untuk Menolak atau menarik balik Persetujuan
+-	Melindungi Privasi Kanak-kanak
+-	Perubahan pada Polisi Peribadian LGE
+-	Mengakses Maklumat Anda
+-	Hak Membuat Aduan; dan
+-	Menghubungi LGE tentang Polisi Peribadian ini
+
+Polisi ini digunakan hanya pada maklumat yang dikumpulkan oleh LGE daripada telefon bimbit LGE anda untuk melaksanakan kemas kini perisian tegar melalui proses Firmware Over-the-Air (“FOTA”), (“Kemaskini Perisian”). Polisi ini tidak digunakan pada mana-mana produk atau perkhidmatan LGE yang lain, termasuk aplikasi mudah alih yang ditawarkan atau disediakan oleh LGE. Polisi ini juga tidak digunakan pada mana-mana produk atau perkhidmatan yang ditawarkan oleh pihak ketiga, termasuk pembekal sistem pengendalian, pembekal kandungan atau aplikasi yang lain atau penyedia rangkaian anda. Produk dan perkhidmatan di luar skop Polisi Peribadian ini mempunyai polisi sendiri yang digunakan untuk pengumpulan, penggunaan dan perkongsian maklumat, dan kami menggalakkan anda membaca polisi-polisi tersebut. LGE tidak bertanggungjawab terhadap amalan privasi pihak ketiga.
+
+Jika anda telah membeli telefon bimbit ini baru-baru ini, anda perlu melaksanakan Kemaskini Perisian seperti yang diterangkan dalam Polisi Peribadian ini sebelum menggunakan telefon bimbit ini, bagi memastikan telefon bimbit anda berfungsi dengan betul dan mempunyai ciri, fungsi dan tetapan keselamatan yang terkini. Jika anda ada soalan, sila hubungi kami seperti yang diberikan dalam Polisi ini.
+
+Polisi ini tersedia untuk semakan anda pada bila-bila masa di [Tetapan – Sistem – Mengenai telefon – Maklumat sah – Dokumen undang-undang untuk Perisian LG – Polisi Peribadian].
+
+Mana-mana terjemahan untuk Polisi Peribadian ini dilakukan bagi keperluan tempatan dan jika terdapat percanggahan antara versi Bahasa Inggeris dan mana-mana versi bukan Bahasa Inggeris, versi Bahasa Inggeris bagi Polisi ini akan mengawal, setakat yang dibenarkan oleh undang-undang berkenaan dalam bidang kuasa anda.
+
+2.	Gambaran Keseluruhan Kemaskini Perisian FOTA
+Dari semasa ke semasa, perisian tegar LGE pada telefon bimbit anda (“Perisian”) akan memerlukan kemas kini atau tambahan yang disediakan oleh LGE atau LGE mungkin memberikan komponen tambahan untuk Perisian. Tindakan melaksanakan Kemaskini Perisian akan memasang Perisian baharu pada telefon bimbit anda untuk memberikan kemas kini, tambahan atau komponen tambahan ini. Kemaskini Perisian mungkin menambah ciri atau fungsi baharu dan dalam kes yang terhad, mungkin mengalih keluar ciri dan fungsi sedia ada. Selepas melengkapkan Kemaskini Perisian, anda mungkin tidak boleh lagi menggunakan dan mungkin tidak dapat kembali kepada versi Perisian yang dipasang sebelumnya. 
+
+Oleh sebab Kemaskini Perisian dilakukan melalui proses FOTA, bayaran tambahan mungkin dikenakan jika anda memuat turun Perisian baharu melalui rangkaian selular, bergantung pada penyedia rangkaian dan pelan perkhidmatan anda. Jika anda mahu menghindari penggunaan data rangkaian selular bagi Kemaskini Perisian, sila pilih “Wi-Fi sahaja” di bawah Tetapan. 
+
+a.	Pilihan anda untuk mengurus Kemaskini Perisian pada masa depan
+Apabila anda bersetuju dengan Polisi Peribadian FOTA ini, telefon bimbit anda akan menyemak untuk Perisian baharu atau yang dikemas kini dari semasa ke semasa dan secara automatik memasang Perisian baharu atau yang dikemas kini apabila tersedia (fungsi “Semak secara automatik”). Selepas Perisian dipasang, kami akan memberitahu anda menggunakan notis timbul atau mesej pemberitahuan pada telefon bimbit anda. Anda akan diberikan pilihan untuk menerima atau menolak Kemaskini Perisian sebelum menggunakan Perisian tersebut. Telefon bimbit anda juga akan secara automatik menggunakan Perisian yang dipasang pada waktu tengah malam (fungsi “Kemas kini automatik”). Anda boleh menolak fungsi “Semak secara automatik” dan “Kemas kini automatik” di [Tetapan – Sistem – Pusat kemaskini – Kemaskini Perisian – Menu limpahan – Tetapan].  Jika anda menolak Semak secara automatik, anda secara berkesan menolak untuk melakukan Kemaskini Perisian pada masa depan.
+Jika telefon bimbit anda sudah digunakan dan anda menolak untuk melakukan Kemaskini Perisian, harap maklum bahawa kegagalan untuk memasang Perisian yang dikemas kini boleh menyebabkan [penurunan prestasi telefon bimbit anda, isu keserasian dengan aplikasi baharu atau sedia ada, serta isu lain berkaitan ciri atau keselamatan telefon bimbit anda].
+
+b.	Kemaskini Perisian Penting
+Jika keadaan memerlukan, kami mungkin melakukan Kemaskini Perisian menurut kepentingan kami yang sah, tanpa memberikan pemberitahuan individu atau mendapatkan persetujuan, dan tanpa mengambil kira tetapan peranti semasa (“Kemaskini Perisian Penting”). Contoh keadaan yang mungkin memerlukan Kemaskini Perisian Penting termasuk ancaman terhadap keselamatan pelanggan atau keselamatan data, atau isu pengendalian yang mungkin menyebabkan gangguan perkhidmatan yang signifikan, atau kemungkinan berlaku keadaan sedemikian.
+
+3.	Maklumat yang LGE boleh dapatkan daripada anda
+Dalam melakukan Kemaskini Perisian, LGE mungkin mengumpulkan maklumat berikut daripada telefon bimbit anda: Identiti Peralatan Mudah Alih Antarabangsa (IMEI), nombor siri, model telefon bimbit, versi perisian dan/atau perisian tegar, sistem pengendalian telefon, kod negara mudah alih (MCC), kod rangkaian mudah alih (MNC), pengecam Pemesejan Awan Google (GCM) dan bahasa yang dipilih. Maklumat ini dikumpulkan secara automatik sebagai sebahagian daripada proses melakukan Kemaskini Perisian.
+
+Sebagai sebahagian daripada peranan kami dalam menyediakan perkhidmatan selular untuk telefon bimbit anda, kami akan mengumpulkan maklumat pengendalian, termasuk log sistem dengan alamat IP. Maklumat ini dikumpulkan secara automatik dan adalah bahagian yang perlu bagi pengendalian telefon.
+
+4.	Bagaimanakah LGE menggunakan maklumat yang diperoleh?
+Kami menggunakan maklumat yang diperoleh daripada anda untuk pelbagai tujuan, termasuk:
+-	Melakukan Kemaskini Perisian (termasuk mana-mana Kemaskini Perisian Penting), termasuk menyemak sama ada Perisian adalah terkini, untuk mengesahkan telefon bimbit anda dan memberikan Perisian yang sewajarnya; 
+-	Untuk mengesahkan kewajipan kami di bawah [Jaminan Produk Terhad kami];
+-	Untuk memberikan pemberitahuan berkaitan dengan perkhidmatan keselamatan telefon bimbit dan pemberitahuan kecemasan sebagai respons kepada isu keselamatan;
+-	Untuk melindungi dan mempertahankan hak dan harta kami, termasuk dengan cara prosiding undang-undang;
+-	Untuk mematuhi keperluan pengawalseliaan; dan
+-	Untuk menganalisis, menyemak dan meningkatkan produk dan perkhidmatan yang kami tawarkan.
+
+Asas undang-undang yang LGE akan bergantung padanya untuk memproses maklumat peribadi anda biasanya adalah salah satu daripada perkara berikut;
+-	Kontrak: apabila terdapat keperluan untuk melaksanakan kontrak dengan anda;
+-	Kepentingan yang sah: apabila terdapat keperluan untuk tujuan kepentingan perniagaan yang sah bagi LGE atau pihak ketiga. Bagi LGE, ini akan termasuk kepentingannya sebagai pengeluar produk elektronik pengguna dan pembekal perkhidmatan;
+-	Persetujuan: apabila anda memilih untuk memberikannya. Anda berhak untuk menarik balik persetujuan anda pada bila-bila masa; atau
+-	Kewajipan undang-undang: apabila pemprosesan diperlukan untuk mematuhi kewajipan undang-undang kami
+
+Kami mungkin juga menggunakan data statistik agregat yang dikumpulkan semasa Kemaskini Perisian dan semasa operasi telefon bimbit untuk lebih memahami keperluan pelanggan kami, untuk meningkatkan khidmat pelanggan serta produk dan perkhidmatan yang kami tawarkan, dan untuk penyelidikan dan analisis pasaran. Data statistik agregat tersebut tidak mengandungi maklumat yang mengenal pasti atau boleh dikaitkan dengan seseorang.
+
+5.	Masa LGE berkongsi maklumat dengan pihak lain
+Kami secara umumnya tidak berkongsi dengan pihak ketiga maklumat yang kami kumpulkan semasa Kemaskini Perisian yang mengenal pasti atau boleh dikaitkan dengan seseorang. Namun begitu, harap maklum tentang keadaan berikut yang kami mungkin berkongsi maklumat tersebut dengan pihak ketiga:
+
+-	Sekutu dan Subsidiari. LGE mungkin berkongsi maklumat peribadi dan maklumat bukan peribadi (termasuk maklumat telefon bimbit) dengan sekutu dan subsidiari di seluruh dunia, hanya selagi diperlukan bagi tujuan maklumat itu dikumpulkan. Istilah ‘sekutu’ atau ‘subsidiari’ merujuk pada syarikat-syarikat kumpulan yang mungkin menggunakan nama LGE atau yang mempunyai pemilikan atau kawalan bersama seperti LG CNS atau LG Electronics U.S.A., Inc.;
+-	Pembekal Perkhidmatan Pihak Ketiga. Kepada vendor pihak ketiga yang LGE mungkin terlibat untuk menyediakan perkhidmatan bagi pihak mereka dari semasa ke semasa, seperti untuk memenuhi permintaan perkhidmatan pelanggan;
+-	Pihak Lain Apabila Dikehendaki oleh Undang-undang. Seperti yang diperlukan oleh perintah mahkamah atau pihak berkuasa kerajaan atau penguatkuasaan undang-undang bagi mematuhi proses undang-undang atau undang-undang;
+-	Pihak Lain Berhubung dengan Urus Niaga Korporat. Berhubung dengan peristiwa korporat, seperti penggabungan, penstrukturan semula, jualan atau pemindahan semua atau sebahagian daripada perniagaan LGE (termasuk bahagian atau subsidiari), yang LGE mungkin perlu mendedahkan maklumat kepada bakal pembeli atau penasihat profesional mereka;
+-	Pihak Lain Apabila Perlu untuk Melindungi Perkhidmatan Kami. Untuk menguatkuasakan hak kontraktual kami, mengambil langkah berjaga-jaga terhadap liabiliti, menyiasat aktiviti haram yang disyaki atau sebenar, atau untuk menyiasat atau mempertahankan kami daripada tuntutan atau dakwaan pihak ketiga; atau
+-	Pihak Lain Apabila Bertujuan Melindungi Keselamatan atau Harta Peribadi Pelanggan Kami. Untuk melindungi hak, keselamatan atau harta peribadi pelanggan kami atau orang awam.
+
+Dalam apa-apa jua keadaan, maklumat peribadi anda yang dikumpulkan semasa Kemaskini Perisian tidak akan diproses bagi tujuan pemasaran tanpa persetujuan anda, dan tidak akan dikongsi dengan pihak ketiga bagi tujuan pemasaran tanpa persetujuan anda.
+
+6.	Pemindahan data peribadi
+Kami, sekutu, subsidiari dan pembekal perkhidmatan kami mungkin menggunakan maklumat peribadi anda di negara selain negara telefon bimbit anda berada, bagi tujuan yang diterangkan dalam Polisi Peribadian ini. Undang-undang perlindungan data di sesetengah negara mungkin tidak memberikan tahap perlindungan yang sama seperti di negara anda berada. Walau bagaimanapun, sebelum memindahkan maklumat peribadi anda, kami akan mengambil langkah bagi memastikan maklumat tersebut akan diberikan tahap perlindungan yang sama di negara atau bidang kuasa penerima. Apabila bersetuju dengan Polisi Peribadian ini, anda menyatakan persetujuan terhadap pemprosesan maklumat peribadi anda di negara atau bidang kuasa yang undang-undang berkaitan mungkin tidak memberikan tahap perlindungan maklumat peribadi yang sama seperti undang-undang di negara atau bidang kuasa anda berada, termasuk, tanpa had, Republik Korea atau Amerika Syarikat, selaras dengan Polisi Peribadian ini. 
+
+7.	Berapa lamakah LGE akan menyimpan maklumat peribadi saya?
+Kami akan mengambil langkah-langkah yang sewajarnya untuk memastikan kami menyimpan maklumat peribadi anda selagi perlu bagi tujuan maklumat dikumpulkan, atau seperti yang diperlukan oleh undang-undang berkaitan. 
+Jika anda meminta penghapusan maklumat peribadi anda kerana tidak lagi diperlukan, atau berdasarkan bantahan terhadap pemprosesan atau dakwaan bahawa pemprosesan tersebut menyalahi undang-undang, anda berhak untuk mendapatkan sekatan terhadap pemprosesan sambil kami mengesahkan permintaan anda untuk penghapusan.
+
+8.	Keselamatan
+Kami menggunakan usaha yang sewajarnya secara komersial dan mengikuti amalan data industri yang diterima umum untuk melindungi maklumat peribadi anda daripada kehilangan tidak sengaja dan daripada akses, penggunaan, pengubahan dan pendedahan yang tidak dibenarkan. Walau bagaimanapun, disebabkan reka bentuk Internet, teknologi yang sentiasa berubah, dan faktor-faktor lain di luar kawalan kami, kami tidak dapat menjamin komunikasi antara anda dan pelayan kami akan bebas daripada akses pihak ketiga yang tidak dibenarkan dan kami tidak akan tertakluk pada pelanggaran keselamatan. Kami tidak menerima apa-apa tanggungjawab untuk pendedahan maklumat peribadi disebabkan kesilapan dalam penghantaran atau tindakan pihak ketiga yang tidak dibenarkan atau tidak sah.
+
+9.	Hak untuk Menolak atau Menarik Balik Persetujuan
+Di bawah undang-undang tempatan yang berkaitan, anda mungkin berhak untuk menolak Polisi Peribadian ini, menarik balik persetujuan atau sebaliknya membuat permintaan agar kami berhenti mengendalikan maklumat peribadi tentang anda. Untuk melaksanakan apa-apa hak yang mungkin anda miliki, sila hubungi kami seperti yang diberikan dalam Polisi ini dan kami akan memberikan respons terhadap permintaan anda secepat mungkin. 
+Di samping itu, anda boleh menarik balik kebenaran untuk mengumpul maklumat peribadi anda dengan menyahdayakan fungsi "Semak secara automatik" dan "Kemas kini automatik" pada telefon bimbit anda, seperti yang diterangkan di atas. Fungsi ini boleh diakses di [Tetapan – Sistem – Pusat kemaskini – Kemaskini Perisian – Menu limpahan – Tetapan]. 
+Walau bagaimanapun, harap maklum bahawa jika anda menyahdayakan fungsi Semak secara automatik dan Kemas kini automatik, ia mungkin menjejaskan atau menyekat operasi telefon bimbit anda atau perkhidmatan, sebahagiannya atau keseluruhannya. Pengumpulan dan penggunaan maklumat, seperti yang diterangkan di atas, adalah perlu untuk operasi telefon bimbit anda yang optimum. 
+
+Jika anda ada soalan tentang hak anda untuk menolak atau cara menarik balik persetujuan, sila hubungi kami di lgecsvc@lge.com
+
+10.	Melindungi Privasi Kanak-kanak
+Melindungi privasi kanak-kanak adalah penting bagi kami. Oleh sebab itu, telefon bimbit anda tidak dimaksudkan untuk kanak-kanak seperti yang ditakrifkan oleh undang-undang tempatan yang berkaitan, dan kami tidak dengan sengaja mengumpul atau menyimpan maklumat peribadi daripada kanak-kanak. Jika kami mengetahui atau dimaklumkan bahawa kami telah mengumpulkan maklumat daripada kanak-kanak tanpa pengesahan persetujuan ibu bapa, kami akan memadamkan maklumat peribadi tersebut dengan segera.
+
+11.	Perubahan pada Polisi Peribadian LGE
+Polisi Peribadian ini boleh dikemas kini oleh LGE dari semasa ke semasa. Jika kami membuat perubahan yang penting pada Polisi Peribadian kami, kami akan memberitahu anda dengan mengemas kini tarikh di bawah dan dengan menyediakan Polisi Peribadian yang diubah suai untuk semakan anda sebagai sebahagian daripada Kemaskini Perisian yang akan datang.
+
+12.	Mengakses Maklumat Anda 
+Anda berhak meminta butiran mengenai maklumat peribadi anda yang LGE kumpulkan untuk mengakses, membetulkan atau memadamkan maklumat peribadi anda. Walau bagaimanapun, harap maklum bahawa kami mungkin tidak dapat mengubah atau memadamkan maklumat peribadi anda jika kami dikehendaki di bawah undang-undang yang berkaitan untuk mengekalkan maklumat itu. Jika dibenarkan oleh undang-undang, bayaran yang kecil untuk memberi anda perkhidmatan sedemikian boleh dikenakan. Harap maklum bahawa kami mungkin menolak untuk memproses permintaan anda jika permintaan itu secara tidak wajar menyalah guna, menjejaskan privasi orang lain atau sangat tidak praktikal. Selain itu, mengemas kini atau memadamkan maklumat peribadi boleh menjejaskan atau mengehadkan operasi telefon bimbit atau perkhidmatan anda. 
+
+Jika anda ingin membuat permintaan untuk mengakses, membetulkan atau memadam maklumat peribadi anda, sila hubungi kami di lgecsvc@lge.com
+
+13.	Hak Membuat Aduan
+Di bawah undang-undang tempatan yang berkaitan di EU, anda berhak membuat aduan berhubung dengan pemprosesan data peribadi anda dengan pihak berkuasa penyeliaan yang berkaitan. Untuk maklumat lanjut mengenai hak anda untuk membuat aduan atau mengemukakan aduan dengan LGE, sila hubungi kami di lgecsvc@lge.com. 
+
+14.	Menghubungi LGE tentang Polisi Peribadian ini
+Jika anda ada soalan atau komen mengenai Polisi Peribadian ini, sila hubungi kami melalui e-mel di lgecsvc@lge.com.
+
+Kemas kini terakhir: 1 November 2017

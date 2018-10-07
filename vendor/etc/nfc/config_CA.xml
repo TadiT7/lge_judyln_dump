@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Configure>
+    <!-- Rogers / Canada -->
+    <!-- Telus / Canada -->
+    <!-- Bell / Canada -->
+    <Config operator="" country="CA" device="">
+    </Config>
+    <!-- Wind / Canada -->
+    <Config operator="WIN" country="CA" device="">
+        <DefaultOnOffType> offp2p </DefaultOnOffType>
+    </Config>
+    <!-- Videotron / Canada -->
+    <Config operator="VTR" country="CA" device="">
+        <DefaultOnOffType> offp2p </DefaultOnOffType>
+    </Config>
+    <Config operator="OPEN" country="CA" device="">
+        <DefaultOnOffType> open </DefaultOnOffType>
+    </Config>
+</Configure>

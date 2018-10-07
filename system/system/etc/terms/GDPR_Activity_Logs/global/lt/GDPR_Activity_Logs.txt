@@ -1,0 +1,27 @@
+﻿Veiklos žurnalai
+
+Siekiant pagerinti bendrus naudotojų potyrius ir patobulinti įrenginio trikčių šalinimą jūsų „LGE“ mobiliajame įrenginyje generuojami ir saugomi Veiklos žurnalai.
+
+Žurnaluose saugoma toliau nurodyta informacija: 
+- Mobiliojo įrenginio būsena: Modelis, programinės įrangos versija, IMEI, unikalus identifikavimo numeris, IMSI, maitinimo būsena, akumuliatoriaus būsena, CPU/RAM/vidinės saugyklos naudojimas, vidutinis naudojimo laikas, aparatinės įrangos savaiminės diagnostikos rezultatai („Wi-Fi“, „Bluetooth“, artumo jutiklio, apšvietimo jutiklio, pirštų atspaudų jutiklio, t. t.) 
+- Tinklo būsena
+- Programų informacija, programų naudojimo skaitiklis/statistika
+- Jūsų mobiliojo įrenginio ryšio būsena
+- Klaidų informacija: Užstrigusio ekrano, nenumatytų išsijungimų, atjungtų skambučių, programų klaidų
+- Mobiliojo įrenginio nustatymai
+
+Veiklos žurnalai saugomi tik jūsų įrenginyje ir nėra ryšiu perduodami „LGE“ ar bet kokiais trečiajai šaliai nebent atskira sutartimi susitariama kitaip.
+„LGE“ pasiekiami informacijos elementai gali būti naudojami individualiai arba sujungiami į bendrą formą. „LGE“ informaciją naudoja siekiant geriau suprasti klientų poreikius, gerinti mūsų klientų aptarnavimą ir mūsų siūlomus produktus ir paslaugas. Pavyzdžiui, Veiklos žurnalų informacija „LGE“ leidžia tirti ir taisyti tinklo klaidas, ryšių problemas ir akumuliatoriaus problemas. 
+
+„LGE“ gali dalintis Veiklos žurnalų informacija su toliau nurodytomis trečiosiomis šalimis:
+- filialais ir dukterinėmis įmonėmis (tai reiškia „LGE“ valdomas, valdančias ir bendrai valdomas ar priklausančias įmones); ir
+- atstovais ir paslaugų tiekėjais, kurie yra prisiėmę konfidencialumo įsipareigojimus ir informaciją naudoja tik „LGE“ vardu arba siekdami teikti prašomus produktus ir paslaugas ar kitką siekiant įvykdyti sutartinį įsipareigojimą jums.
+
+„LGE“ neatsako ir neprisiima atsakomybės už trečiųjų šalių privatumo praktiką.
+
+„LGE“ taip pat prašys rinkti Veiklos žurnalų informaciją kai naudojatės „LGE“ Paslaugomis po pardavimo („A/S“) ar Atnaujinimo paslauga. Naudojant tokias paslaugas jūsų bus prašoma atskirai.
+
+Nors Veiklos žurnalų informacija jūsų įrenginyje generuojama nepaisant jūsų sutikimo ar nesutikimo, „LG“ neturės prieigos prie tokios informacijos nebent spustelėsite „Gerai“, net jei vėliau sutiksite atskira sutartimi. Jei nenorite, kad „LGE“ turėtų prieigą prie Veiklos žurnalų informacijos, galite bet kada nustatymuose užblokuoti mūsų prieigą prie jūsų Veiklos žurnalų informacijos eidami [Nustatymai – Sistema – Apie telefoną – Veiklos žurnalai]. Norėdami suprasti kaip „LGE“ įprastai tvarko jūsų informaciją, įskaitant Veiklos žurnalų informaciją, skaitykite mūsų privatumo politiką [Nustatymai – Sistema – Apie telefoną – Teisinė informacija – Teisiniai „LG“ programinės įrangos dokumentai – Privatumo politika].
+
+Bet kokie šio Veiklos žurnalai dokumento vertimai atliekami dėl vietos reikalavimų ir esant neatitikimams tarp versijos anglų ir bet kokios versijos ne anglų kalba, viršesne laikoma šio Veiklos žurnalai dokumento versija anglų kalba, tiek, kiek to nedraudžia jurisdikcijos, kuriai priklausote, vietos įstatymai.
+

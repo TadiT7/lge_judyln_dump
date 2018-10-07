@@ -1,0 +1,3 @@
+﻿Informācijas par pašreizējo atrašanās vietu izmantošana
+
+„LGE” var izmantot ierīcē saglabāto informāciju par atrašanās vietu (izmantojot GPS, Wi-Fi un mobilo sakaru tīklus), lai iegūtu informāciju par ierīces „pašreizējo atrašanās vietu”. „LGE” saglabā „informāciju par pašreizējo atrašanās vietu” tikai lietotāja ierīcē, bet nevāc un nesaglabā šo informāciju savos serveros. Arī tad, ja piekrītat iepriekš minētajam, pakalpojums tiek sniegts tikai tad, ja lietotājs iespējo „Google” atrašanās vietas noteikšanas funkciju, turklāt pakalpojuma „informācija par pašreizējo atrašanās vietu” izmantošana var tikt mainīta jebkurā brīdī ikviena pakalpojuma, kas izmanto „informāciju par pašreizējo atrašanās vietu”, iestatījumu izvēlnē.

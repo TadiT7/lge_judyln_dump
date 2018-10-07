@@ -1,0 +1,26 @@
+﻿Activity Logs
+
+In order to improve the overall user experience and enhance device troubleshooting, Activity Logs are generated and stored on your LGE mobile device.
+
+The logs include the following information: 
+- Mobile device status: Model, software version, IMEI, unique identification number, IMSI, power status, battery status, CPU/RAM/internal storage usage, average usage time, hardware self-diagnosis result (Wi-Fi, BT, proximity sensor, illumination sensor, fingerprint sensor, etc.) 
+- Network status
+- Information on the application, application usage count/statistics
+- Connection status of your mobile device
+- Error information: Frozen screen, unintended power-offs, disconnected calls, application errors
+- Mobile device setting
+
+Activity logs are stored exclusively on your device and are not transferred over the air to LGE or any third party unless agreed otherwise by a separate agreement.
+The information items accessed by LGE may be used individually or combined in aggregate form. LGE uses the information to better understand our customers' needs, to improve our customer care and products and services that we offer. For example, the Activity Log information enables LGE to investigate and remedy network errors, connection problems and battery issues. 
+
+LGE may share the Activity Log information with the following third parties:
+- affiliates and subsidiaries (meaning companies that control, are controlled by or are under common ownership or control as LGE); and
+- agents and service providers who are bound by confidentiality obligations and who use the information only on LGE's behalf or to deliver requested products and services, or otherwise to fulfill a contractual obligation to you.
+LGE is not responsible or liable for the privacy practices of third parties.
+
+LGE will also request to collect the Activity Log information when you use the LGE After Service(A/S) or Refurbishment Service. You will be asked separately at the time of using these services.
+
+Although the Activity Log information is generated within your device whether you consent or not, LG will not access such information unless you have clicked “okay”, even you later agree in a separate agreement. If you do not wish LGE to access your Activity Log information, you may at any time block our access to your Activity Log information from the settings [Settings – System - About phone - Activity logs]. To understand how LGE generally handles your information, including the Activity Log information, please refer to our privacy policy in [Settings – System - About phone - Legal info - Legal Documents for LG Software - Privacy policy].
+
+Any translation of this Activity Logs document is done for local requirements and in the event of a discrepancy between the English and any non-English version, the English version of this Activity Logs document shall govern, to the maximum extent permitted by local law in your jurisdiction.
+

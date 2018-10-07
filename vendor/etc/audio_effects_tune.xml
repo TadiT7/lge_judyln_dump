@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<config>
+	<!-- Absolute value: default LL preset is Light mode 0, other values can be 1 for Medium and 2 for Aggressive -->
+	<DTS-GAIN Type="DTS_LL_PRESET" Gain="0"/>
+	<!-- Additive value: default LL target gain is -14dB, LL_TARGET_GAIN is additive so if we put -3.0 here final value will be -17.0 -->
+	<DTS-GAIN Type="DTS_LL_TARGET_GAIN_SPK" Gain="0.0"/>
+	<DTS-GAIN Type="DTS_LL_TARGET_GAIN_HEADSET" Gain="0.0"/>
+	<!-- Additive value: default VS gain is +1dB, VS_GAIN is additive so if we put -3.0 here final value will be -2.0-->
+	<DTS-GAIN Type="DTS_VS_GAIN_SPK" Gain="0.0"/>
+	<DTS-GAIN Type="DTS_VS_GAIN_HEADSET" Gain="0.0"/>
+</config>
+

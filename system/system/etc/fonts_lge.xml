@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Added System Default Fonts Family.
+-->
+<familyset version="22">
+
+    <family name="default_roboto">
+        <font weight="400" style="normal">Roboto-Regular.ttf</font>
+        <font weight="400" style="italic">Roboto-Italic.ttf</font>
+        <font weight="700" style="normal">Roboto-Bold.ttf</font>
+        <font weight="700" style="italic">Roboto-BoldItalic.ttf</font>
+    </family>
+
+    <family name="lgsm">
+        <font weight="400" style="normal">LGSmHa_Regular.ttf</font>
+        <font weight="700" style="normal">LGSmHa_Bold.ttf</font>
+    </family>
+    <family name="lgkindgothic">
+        <font weight="400" style="normal">HYKindGothic_Regular.ttf</font>
+        <font weight="700" style="normal">HYKindGothic_Bold.ttf</font>
+    </family>
+    <family name="lgfriend">
+        <font weight="400" style="normal">HYFriend_Regular.ttf</font>
+        <font weight="700" style="normal">HYFriend_Bold.ttf</font>
+    </family>
+    <family name="lgtravel">
+        <font weight="400" style="normal">HYTravel_Regular.ttf</font>
+        <font weight="700" style="normal">HYTravel_Bold.ttf</font>
+    </family>
+    <family name="lgyoyo">
+        <font weight="400" style="normal">HYYoyo_Regular.ttf</font>
+        <font weight="700" style="normal">HYYoyo_Bold.ttf</font>
+    </family>
+
+    <alias name="default_roboto-thin" to="lg-sans-serif" weight="100" />
+    <alias name="default_roboto-light" to="lg-sans-serif" weight="300" />
+    <alias name="default_roboto-medium" to="lg-sans-serif" weight="500" />
+    <alias name="default_roboto-black" to="lg-sans-serif" weight="900" />
+
+    <alias name="lgsm-light" to="lg-lgsm" weight="300" />
+    <alias name="lgkindgothic-light" to="lg-lgkindgothic" weight="300" />
+    <alias name="lgfriend-light" to="lg-lgfriend" weight="300" />
+    <alias name="lgtravel-light" to="lg-lgtravel" weight="300" />
+    <alias name="lgyoyo-light" to="lg-lgyoyo" weight="300" />
+</familyset>

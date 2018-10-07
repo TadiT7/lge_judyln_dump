@@ -1,0 +1,8 @@
+﻿Google Automatic Speech Recognition (“ASR”) uchun foydalanuvchi ovoz ma'lumotlariga rozilik 
+
+Ushbu Parking Assistant xizmati (bundan buyon - “Xizmat”) Google, Inc. (bundan buyon - “Google”) kompaniyasi tomonidan taqdim etilgan, foydalanuvchi ovozini matnga aylantirishimizga imkon beruvchi funksiya bo'lgan Google ASR dan foydalanadi.
+Sizning Xizmatdan foydalanishingiz uchun ovoz ma'lumotlari Google kompaniyasiga o'tkaziladi va ular u tomondan saqlanadi. Google bu ma'lumotlardan ovoz ma'lumotlaringizni matn ma'lumotlariga aylantirish va matn ma'lumotlarini LGE ga o'tkazish uchun foydalanadi.
+ASR tomonidan to'plangan har qanday ma'lumotlar Google kompaniyasining Maxfiylik siyosati bilan boshqariladi, uni (https://www.google.com/policies/privacy/) saytidan topish mumkin.
+Siz shuningdek, "Opsiyalar menyusi - Yuridik ma'lumot" xizmatidan voz kechib ASRni o'chirib qo'yishingiz mumkin.
+LGE hech qanday shaxsiy ma'lumotlarni, jumladan foydalanuvchining ovoz ma'lumotlarini to'plamaydi va Xizmat uchun faqat matnlar ma'lumotlari kabi shaxsni tanitmaydigan ma'lumotlardan foydalanadi.
+Bundan tashqari LGE tashrif buyuruvchilarning har qanday shaxsni tanituvchi ma'lumotlarini kuzatib borish yoki to'plash uchun matnlar ma'lumotlaridan foydalanmaydi (va boshqa har qanday uchinchi tomoga bunday qilishga ruxsat bermaydi) va bu Xizmatdan to'plangan har qanday ma'lumotlarni har qanday manbadan olingan har qanday shaxsni tanituvchi ma'lumotlar bilan bog'lamaydi.

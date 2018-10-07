@@ -1,0 +1,80 @@
+﻿Politika ochrany súkromia pre používanie denníkov činností
+
+Táto Politika ochrany súkromia opisuje, ako spoločnosť LGE získava prístup a používa vaše osobné údaje v prípade určitých služieb LG Device Diagnostics Report Services. Pred používaním služieb LG Device Diagnostics Report Services si ju pozorne prečítajte.
+
+1. Úvod
+Spoločnosť LG Electronics Inc. („LGE“ alebo „my“) sa zaväzuje chrániť údaje o jednotlivcoch a skupinách používajúcich softvér LG pre PC/zariadenia MAC. Táto služba LG Device Diagnostics Report Service zabezpečuje služby vzdialeného pripojenia („Služby“).
+Táto Politika ochrany súkromia ustanovuje, akým spôsobom zhromažďujeme, používame a zdieľame údaje zhromaždené počas vášho používania Služieb a konkrétne ustanovuje:
+
+– aké informácie od vás spoločnosť LGE získava;
+– ako bude spoločnosť LGE využívať údaje, ktoré získa;
+– kedy spoločnosť LGE zdieľa údaje s inými;
+– a ako môžete regulovať používanie a zdieľanie vašich údajov spoločnosťou LGE.
+
+Vaše zariadenie alebo služba LG Device Diagnostics Report Service môže poskytovať získanie prístupu k softvérovým aplikáciám a odkazom na iné služby vlastnené a prevádzkované tretími stranami vrátane poskytovateľov operačného systému a poskytovateľov iného obsahu a aplikácií. Na tieto služby mimo rozsahu tejto Politiky ochrany súkromia sa vzťahujú ich vlastné politiky vzťahujúce sa na zhromažďovanie, používanie a zdieľanie údajov v spojení s nimi poskytovanými službami. Nabádame vás, aby ste si tieto politiky prečítali. Spoločnosť LGE nie je zodpovedná ani viazaná politikami ochrany súkromia takýchto tretích strán.
+
+2. Ktoré údaje spoločnosť LGE získava?
+Údaje, ktoré môžeme získavať, keď budete používať Služby, patria do nasledujúcich kategórií:
+– Stav mobilného zariadenia: model, verzia softvéru, IMEI, sériové číslo, IMSI, stav napájania, stav batérie, používanie centrálnej procesorovej jednotky (CPU)/pamäte RAM/interného úložiska, priemerný čas používania, výsledky vlastnej diagnostiky hardvéru (Wi-Fi, Bluetooth, senzor vzdialenosti, senzor osvetlenia, senzor odtlačkov prstov atď.)
+– Stav siete: stav služby (volania, údaje), sila signálu, informácie o stanici, frekvencia/čas volaní
+– Informácie o aplikáciách: zoznam nainštalovaných a odstránených aplikácií, verzia aplikácie, nedávno spustené aplikácie, frekvencia/štatistky o používaní aplikácií 
+– Stav pripojenia mobilného telefónu: stavy pripojenia Wi-Fi, Bluetooth, GPS, konektora slúchadiel, nabíjačky batérie, USB a karty SD
+– Informácie o chybách: zamrznutá obrazovka, náhodné vypnutia, odpojené hovory, chyby aplikácií (fatálne, výnimky)
+
+3. Ako spoločnosť LGE získané údaje použije?
+Údaje získané pri vašom používaní Služieb využívame na rozličné účely, napríklad na účel:
+
+- identifikovania a diagnostikovania mobilného zariadenia;
+- vykonávania služieb pre zákazníkov a správu histórie služieb; 
+- zasielania správ bez vyžiadania; 
+- analýzu služieb/denníkov/histórie zariadenia na zlepšenie kvality a spokojnosti zákazníka.
+
+Na vyššie uvedené účely môžeme kombinovať informácie získané zo Služieb vrátane osobných údajov s informáciami, ktoré nám poskytnete iným spôsobom.
+
+Právny základ, na základe ktorého bude spoločnosť LGE spracovávať vaše osobné údaje, bude zvyčajne jeden z nasledovných:
+
+– zmluva: ak je potrebné uzavrieť s vami zmluvu;
+– oprávnené záujmy: ak je to potrebné na účely spoločnosti LGE alebo pre oprávnené firemné záujmy tretej strany. V prípade spoločnosti LGE to bude zahŕňať jej záujmy ako výrobcu produktov spotrebnej elektroniky a poskytovateľa služieb.
+– súhlas: ak sa rozhodnete udeliť ho. Máte právo svoj súhlas kedykoľvek odvolať; alebo
+– právna povinnosť: kedy je spracovanie potrebné na dodržanie našich právnych povinností.
+
+Informácie uvádzané v rôznych pododdieloch nižšie uvádzajú, ktorý z hore uvedených právnych základov sa používa vzhľadom na rôzne kategórie osobných údajov.
+
+4. Zdieľanie údajov
+Sesterské a dcérske spoločnosti. Spoločnosť LGE môže zdieľať osobné údaje a ďalšie nie osobné údaje so svojimi sesterskými a dcérskymi spoločnosťami po celom svete na účely, ktoré uvádza táto Politika ochrany súkromia. Výraz „sesterské spoločnosti“ alebo „dcérske spoločnosti“ uvádza skupinu spoločností, ktoré môžu používať názov LG, ktoré majú spoločného vlastníka, alebo ktoré kontroluje spoločná spoločnosť, napríklad spoločnosť LG CNS či LG Electronics France S.A.R.L.
+
+Upozorňujeme vás, že tieto údaje môžeme zdieľať aj s nasledujúcimi subjektmi:
+- Externí poskytovatelia služieb. Vaše osobné aj nie osobné údaje môžeme zdieľať s externými poskytovateľmi služieb s cieľom umožniť poskytovanie služieb LG Device Diagnostics Report Service.
+
+Aj ak vo všeobecnosti údaje nezdieľame so žiadnymi ďalšími tretími stranami, uvedomte si, že v nasledujúcich špecifických prípadoch môžeme údaje zdieľať s nasledujúcimi subjektmi:
+- Iné strany, ak to požaduje zákon. Podľa požiadaviek súdneho príkazu alebo iných vládnych či policajných orgánov s cieľom dodržať právny proces alebo zákon;
+- Iné strany v súvislosti s firemnými transakciami. V súvislosti s firemnou udalosťou, ako je zlúčenie alebo predaj všetkých alebo časti firemných aktivít spoločnosti LGE (vrátane aktivít divízie či dcérskej spoločnosti), kedy spoločnosť LGE musí zverejniť údaje potenciálnemu kupujúcemu a odborným poradcom;
+- Iné strany, ak to je potrebné na ochranu našich služieb. Aby sme mohli chrániť a brániť naše práva a majetok, vrátane využitia súdnych konaní;
+- Iné strany, ak ide o ochranu osobnej bezpečnosti alebo majetku ktoréhokoľvek z našich používateľov. S cieľom chrániť osobnú bezpečnosť alebo majetok našich používateľov alebo verejnosti.
+
+Vaše údaje nebudú za žiadnych okolností spracovávané na marketingové účely a nebudú na marketingové účely zdieľané s tretími stranami.
+
+5. Prenos osobných údajov
+Naša spoločnosť, sesterské spoločnosti, dcérske spoločnosti a dodávatelia môžu používať údaje (vrátane vašich osobných údajov) v krajinách iných, než kde sa vaše zariadenie nachádza, a to na poskytovanie služieb LG Device Diagnostics Report Services a na ďalšie účely uvedené v tejto Politike ochrany súkromia. Zákony o ochrane osobných údajov v týchto krajinách nemusia poskytovať rovnaký stupeň zabezpečenia ako v krajine, kde sa nachádzate. Avšak pred prenosom vašich osobných údajov podnikneme kroky, aby sa na tieto údaje vzťahoval rovnaký stupeň zabezpečenia. Ďalšie informácie o tom, ako spracovávame a chránime vaše osobné údaje, získate na adrese mc.customer-service@lge.com. 
+
+6. Ako bude spoločnosť LGE moje osobné údaje uchovávať?
+Vaše osobné údaje budeme uchovávať, kým to bude pre nás potrebné na poskytovanie Služby alebo na iné účely stanovené v tejto Politike ochrany súkromia.Používame kritériá na stanovenie vhodného odkladu pre rôzne kategórie vami poskytnutých osobných údajov. Môžeme napríklad uchovávať údaje potrebné na ochranu v prípade právnych nárokov, napr. údaje o zmluve, a to počas trvania zmluvy a maximálne jeden rok po jej skončení. Po tejto lehote budú odstránené a v niektorých prípadoch anonymizované. V prípadoch, kedy sme vaše údaje zhromažďovali na základe vášho súhlasu a neexistuje žiadny iný právny základ, aby sme v takom spracovávaní pokračovali, a ak následne svoj súhlas odvoláte, vaše osobné údaje odstránime.
+Ak požiadate o vymazanie svojich osobných údajov, pretože už to nie je viac potrebné, alebo na základe námietky na spracovávanie alebo vyhlásenia, že spracovávanie nie je zákonné, máte právo požiadať o obmedzenia spracúvania, kým overíme vašu požiadavku na vymazanie.
+
+7. Zabezpečenie
+Využívame komerčne primerané snahy na zaistenie dôvernosti a zabezpečenia vašich osobných údajov. Avšak kvôli štruktúre internetu, stále sa meniacim technológiám a iným faktorom mimo nášho dosahu nemôžeme zaručiť, že komunikácia medzi vami a našimi servermi bude bez neoprávneného prístupu tretích strán, alebo že sa nestaneme cieľom narušení bezpečnosti. Nepreberáme akúkoľvek zodpovednosť za zverejnenie osobných údajov kvôli chybám pri prenose alebo neoprávneným či nezákonným konaniam tretích strán.
+
+8. Ochrana súkromia detí
+Ochrana súkromia detí je pre nás dôležitá. Kvôli tomu nie je žiadna naša Služba smerovaná ani nie je štruktúrovaná tak, aby bola zaujímavá pre kohokoľvek do veku 16 rokov alebo do veku plnoletosti v príslušnej právomoci. Taktiež vedome nezhromažďujeme ani neuchovávame osobné údaje používateľov do veku 16 rokov alebo do veku plnoletosti v príslušnej právomoci. Ak sa dozvieme alebo budeme upozornení, že sme zhromažďovali údaje od používateľov do veku 16 rokov alebo do veku plnoletosti v príslušnej právomoci, takéto osobné údaje promptne odstránime.
+
+9. Zmeny v Politike ochrany súkromia spoločnosti LGE
+Spoločnosť LGE môže túto Politiku ochrany súkromia občas aktualizovať. Ak v rámci našej Politiky ochrany súkromia vykonáme závažné zmeny, aktualizáciu vykonáme prostredníctvom Služieb alebo iných prostriedkov. Môžeme od vás požadovať potvrdenie alebo súhlas s revidovanou Politikou ochrany súkromia, aby ste mohli Služby naďalej používať.
+
+10. Získanie prístupu k vašim údajom a vaše práva 
+Podľa zákonov niektorých právomocí môžete mať právo požiadať o získanie prístupu, opravu alebo vymazanie svojich osobných údajov, ktoré spoločnosť LGE o vás uchováva, môžete mať právo namietať alebo obmedziť určité typy spracovávania vašich osobných údajov (alebo odvolať váš súhlas so spracovávaním spoločnosťou LGE) alebo získať strojovo čitateľnú kópiu vašich osobných údajov. Ak to povoľuje zákon, za poskytnutie tejto služby môžeme účtovať malý poplatok. Uvedomte si, že môžeme odmietnuť spracovanie vašej požiadavky, ak je bezdôvodne hanlivá, poškodzuje ochranu súkromia iných alebo je extrémne nepraktická (ak to povoľuje platný zákon). Ďalšie informácie o uplatňovaní ktoréhokoľvek z týchto práv získate na adrese mc.customer-service@lge.com.
+
+11. Kontaktovanie spoločnosti LGE v súvislosti s Politika ochrany súkromia
+Ak máte akékoľvek otázky alebo pripomienky týkajúce sa Politika ochrany súkromia alebo spracovávania vašich osobných údajov spoločnosťou LGE, kontaktujte nášho úradníka pre ochranu osobných údajov na adrese dpo-eu@lge.com. Máte právo podať sťažnosť úradu pre ochranu údajov, avšak nabádame vás, aby ste nás najprv kontaktovali priamo, aby sme mohli akékoľvek obavy vyriešiť.
+
+Naposledy aktualizované: 1. marec 2018
+

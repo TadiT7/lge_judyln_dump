@@ -1,0 +1,66 @@
+#LAOP
+import init.laop_sub.rc
+
+on post-fs-data
+    # ntcode_symlinks
+    mkdir /data/local/etc 0755
+    chown system system /data/local/etc
+    restorecon /data/local/etc
+    # Smart-CA
+    mkdir /data/shared 0755
+    chown system system /data/shared
+    restorecon /data/shared
+
+#Customize booting resources
+on property:sbp.load_props_done=1
+    start ntcode_symlinks
+    start runtime_boot_res
+    start ntcode_listing
+
+#Application Manager NTCODE work
+service ntcode_listing /system/vendor/bin/ntcode_listing.sh
+    disabled
+    oneshot
+
+#Customize booting resources
+service runtime_boot_res /system/vendor/bin/runtime_boot_res.sh
+    disabled
+    oneshot
+
+# LAOP Set 3rd party app property files by NT-Code base
+service ntcode_symlinks /system/vendor/bin/ntcode_etc_symlinks.sh
+    disabled
+    oneshot
+
+on property:sbp.bootanim=1
+    start run_cache_res
+
+service run_cache_res /system/vendor/bin/runtime_boot_cache_res.sh
+    disabled
+    oneshot
+
+# LAOP Set 3rd party app property files by SIM-Auto-Profiling
+service sap_etc_symlinks /system/vendor/bin/sap_etc_symlinks.sh
+    disabled
+    oneshot
+
+on property:laop.start.sap_etc_symlinks=1
+    start sap_etc_symlinks
+
+on property:persist.sys.cota.changed=1
+    wait /dev/block/bootdevice/by-name/cust
+    mount ext4 /dev/block/bootdevice/by-name/cust /cust rw remount nosuid nodev barrier=1 noauto_da_alloc
+    restorecon_recursive /cust
+    mkdir /cust/_COTA_RES 0775 system system
+    start cota_update
+
+on property:persist.sys.cota.changed=2
+    wait /dev/block/bootdevice/by-name/cust
+    mount ext4 /dev/block/bootdevice/by-name/cust /cust ro remount nosuid nodev barrier=1 noauto_da_alloc
+    restorecon_recursive /cust
+    start cota_update
+
+service cota_update /system/vendor/bin/cota_update.sh
+    disabled
+    oneshot
+

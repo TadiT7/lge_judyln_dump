@@ -1,0 +1,23 @@
+﻿Faoliyat jurnallari
+
+Umumiy foydalanuvchi tajribasini va qurilmadagi nosozliklarni bartaraf qilishni yaxshilash uchun Faoliyat jurnallari hosil qilinadi va LGE mobil qurilmangizga saqlanadi. Faoliyat jurnallari faqat qurilmangizda saqlanadi va havo orqali boshqa hech qanday uchinchi tomonga o’tkazilmaydi, alohida kelishuv bo’yicha boshqacha kelishilgan hollar bundan mustasno. 
+
+Jurnallar quyidagi ma’lumotlarni o’z ichiga oladi: 
+- Mobil qurilma holati: Modeli, dasturiy ta’minot versiyasi, IMEI, o’ziga xos identifikatsion raqami, IMSI, quvvat ta’minoti holati, batareykasining holati, protsessor/tezkor xotira/ichki xotiradan foydalanilishi, o’rtacha foydalanish vaqti, apparat vositalarning o’z-o’zini tashxislash natijasi (Wi-Fi, BT, yaqinlik sensori, yoritilganlik sensori, barmoq izi sensori va hok.) 
+- Tarmoq holati
+- Ilova, ilovadan foydalanishlar soni/statistikasi bo’yicha ma’lumotlar
+- Mobil qurilmaning ulanish holati
+- Xatoliklar bo’yicha ma’lumotlar: Qotib qolgan ekran, kutilmaganda o’chib qolishlar, uzilib qolgan qo’ng’iroqlar, ilova xatolari
+- Mobil qurilma sozlamasi
+
+LGE tomonidan olinadigan ma’lumot elementlaridan alohida tarzda yoki umumlashtirilgan shaklda birlashtirilgan holda foydalanilishi mumkin. LGE ma’lumotlardan mijozlarimizning ehtiyojlarini yaxshiroq tushinish, mijozlarga xizmat ko’rsatishimiz sifatini hamda o’zimiz taklif qiladigan mahsulotlar va xizmatlarni yaxshilash uchun foydalanadi. Masalan, Harakatlarni qayd qilish jurnali ma’lumotlari LGE ga tarmoq xatolari, ulanish hamda batareyka bilan bog’liq muammolarni o’rganib chiqish va hal qilishga imkon beradi. 
+
+“Roziman” ni bosish orqali siz LGE hamda LGE nomidan harakat qiluvchi ma’lum uchinchi tomonlarga (quyida bayon qilingani kabi) qurilmangiz tomonidan hosil qilingan Harakatlarni qayd qilish jurnali ma’lumotlariga murojaat qilish va ulardan foydalanishga ruxsat berishga rozilik berasiz. LGE Harakatlarni qayd qilish jurnali ma’lumotlarini quyidagi uchinchi tomonlar bilan baham ko’rishi mumkin:
+- filiallar va sho’ba kompaniyalari (LGE boshqaruvidagi yoki LGE tomonidan boshqariluvchi yoki LGE bilan umumiy egalik yoki boshqaruv ostidagi kompaniyalar); va
+- sir tutish bo’yicha majburiyatlarga amal qiluvchi va ma’lumotlardan faqat LGE nomidan yoki talab qilingan mahsulotlar va xizmatlarni yetkazib berish yoki boshqa tarzda sizning oldingizdagi shartnomaviy majburiyatlarini bajarish uchun foydalanuvchi agentlar va xizmat ta’minotchilari.
+Uchinchi tomonlarning maxfiylik amaliyotlari uchun LGE javobgarlik yoki mas’uliyatni o’z zimmasiga olmaydi.
+Siz LGE ning Sotuvdan keyingi kafolat xizmati (SK/KX) yoki Ta’mirlash xizmatidan foydalanganingizda ham LGE Harakatlarni qayd qilish jurnali ma’lumotlarini talab qiladi. Sizdan bu xizmatlardan foydalanilayotgan vaqtda alohida tarzda bunga rozi ekanligingiz yoki rozi emasligingiz so’raladi.
+Garchi sizning rozi bo’lishingiz yoki bo’lmasligingizdan qat’iy nazar Harakatlarni qayd qilish jurnali ma’lumotlari qurilmangizda hosil qilinsa ham siz “roziman” ni bosmas ekansiz, LG bunday ma’lumotlarga murojaat qilmaydi. Agar siz LGE ning Harakatlarni qayd qilish jurnali ma’lumotlaringizga murojaat qilishini xohlamasangiz, istalgan vaqtda [Sozlamalari – Tizim – Telefon haqida – Faoliyat jurnallari] parametrlarida bizning Harakatlarni qayd qilish jurnali ma’lumotlaringizga murojaat qilishimizni blokirovka qilib qo’yishingiz mumkin. Umumiy holda LGE ning ma’lumotlaringiz, jumladan Harakatlarni qayd qilish jurnali ma’lumotlaridan qanday foydalanishini tushinish uchun [Sozlamalari – Tizim – Telefon haqida – Yuridik ma'lumot – LG Dasturiy ta'minoti uchun yuridik hujjatlar – Konfidensiallik siyosati] dagi maxfiylik siyosatimizga qarang.
+
+Ushbu Faoliyat jurnallari hujjatining har qanday tarjimasi mahalliy talablarga ko’ra amalga oshiriladi va uning ingliz tilidagi va boshqa tildagi versiyasi o’rtasida nomuvofiqliklar mavjud bo’lgan hollarda ushbu Faoliyat jurnallari hujjatining inglizcha versiyasi yurisdiksiyangizdagi mahalliy qonunchilik bo’yicha taqiqlanmagan darajada amal qiladi.
+

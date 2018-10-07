@@ -1,0 +1,23 @@
+﻿Tevékenység-naplózások
+
+A felhasználói élmény javítása és az eszköz hibaelhárításának megkönnyítése érdekében az LG mobileszköz naplófájlokat készít és tárol. Ezek a naplófájlok csak készülékén tárolódnak, és nem kerülnek továbbküldésre az LGE-hez vagy harmadik félhez, kivéve, ha erről egy külön megállapodásban rendelkeznek. 
+
+A naplók az alábbi információkat tartalmazzák: 
+- a mobileszköz állapota: a modell, a szoftververzió, az IMEI kód, az egyedi azonosítószámot, IMSI, a működési állapot, az akkumulátor állapota, a CPU/RAM/belső tárhely használata, az általános használati idő, hardver öndiagnosztizálás eredménye (Wi-Fi, BT, közelségérzékelő, fényérzékelő, ujjlenyomat érzékelő, stb.) 
+- a hálózat állapota
+- adatok az alkalmazásokról, az alkalmazások használatának gyakoriságára vonatkozó statisztika
+- a mobileszköz csatlakozásának állapota
+- hibaadatok lefagyott kijelző, véletlen kikapcsolások, megszakadt hívások, alkalmazáshibák
+- a mobileszköz beállításai
+
+Az LGE jogosult a gyűjtött adatok egyéni vagy csoportos felhasználására. Az LGE a gyűjtött adatokat ügyfelei elvárásainak megértésére, és termékeinek és szolgáltatásainak fejlesztésére használja. Például, a Tevékenységnaplóban tárolt adatok alapján  az LGE azonosítja és elhárítja a hálózati hibákat, a csatlakoztatási hibákat és az akkumulátornál jelentkezett problémákat. 
+
+Amennyiben az „Elfogadás” gombra kattint, Ön hozzájárul ahhoz hogy az LGE és az LGE partnereiként cselekvő harmadik felek (leírás a továbbiakban)  hozzáférjenek a Tevékenységnaplóban tárolt adatokhoz és felhasználják azokat. A Tevékenységnaplóban tárolt adatokat az LGE megoszthatja az alábbi harmadik felekkel:
+- partnerek és leányvállalatok (tehát azok a vállalatok, melyek részt vesznek az LGE vállalat vezetésében, illetve melyek vezetőségének az LGE is része) és
+- ügynökök és szolgáltatók, akiket kötelez a titoktartás és akim az adatokat kizárólag az LGE nevében használják, illetve termékeiket és szolgáltatásaikat az LGE nevében nyújtják és így szerződéses kapcsolatba lépnek önnel.
+A harmadik felek adatvédelmi nyilatkozatainak esetében az LGE-z nem terheli semmilyen felelősség vagy kötelezettség.
+Ugyanakkor, az LGE szorgalmazza a Tevékenységnaplóban tárolt adatok gyűjtését akkor is, amikor Ön az LGE After Service(A/S) vagy a Frissítés szolgáltatásokat veszi igénybe. Amikor az említett szolgáltatásokat használja, az LGE az Ön hozzájárulását külön igényli.
+A Tevékenységnaplóban tárolt adatokat készüléke generálja, az Ön hozzájárulásával vagy anélkül, Azonban ha Ön nem kattintott az „Elfogadás” gombra, az LG nem fér hozzá az említett adatokhoz. Amennyiben nem szeretné, hogy az LGE hozzáférjen a Tevékenységnaplóban tárolt adatokhoz, hozzáférésünket letilthatja a Beállítások menüben [Beállítások – Rendszer – A telefonról – Tevékenység-naplózások]. További információkért arról, hogy az LGE miként kezeli az Ön adatait és a Tevékenységnaplóban tárolt adatokat, kérjük tekintse meg Adatvédelmi nyilatkozatunkat: [Beállítások – Rendszer – A telefonról – Jogi információk – Az LG alkalmazások hivatalos dokumentumai – Adatvédelmi nyilatkozat].
+
+A jelen Tevékenységnapló dokumentum lefordítása a helyi követelmények teljesítésének céljából történt. Amennyiben különbségek merülnek fel az angol és a ,más nyelvű irt változatok között, az angol nyelvű változat kerül alkalmazásra, amennyiben országának törvénye ezt nem szabályozza másképp.
+

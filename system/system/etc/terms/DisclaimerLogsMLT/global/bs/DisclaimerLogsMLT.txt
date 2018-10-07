@@ -1,0 +1,24 @@
+﻿Zapisi aktivnosti
+
+Da bi se poboljšalo opšte korisničko iskustvo i rješavanje problema sa uređajem, zapisi aktivnosti su prikupljene i pohranjene na vašem LGE mobilnom uređaju. Zapisi aktivnosti su ekskluzivno pohranjene na vašem mobilnom uređaju i nisu vazdušno prebačene na LGE ili bilo kojoj trećoj strani osim ako drukčije nije dogovoreno odvojenim sporazumom. 
+
+Zapisi sadrže sljedeće informacije: 
+-	Stanje mobilnog uređaja: model, verzija softvera, IMEI, jedinstven identifikacioni broj,  IMSI, stanje napajanja, stanje baterije, korištenje CPU/RAM/interne memorije, prosječno vrijeme korištenja, rezultat samodijagnoze hardvera (Wi-Fi, BT, senzor za blizinu, senzor za osvjetljenje, senzor za otisak prsta, itd.) 
+-	Stanje mreže
+-	Informacije o aplikaciji, broju/statistici korištenja aplikacije
+-	Stanje veze vašeg mobilnog uređaja
+-	Informacija o pogrešci: zamrznut ekran, neadekvatno isključivanje, prekidanje poziva, pogreške u radu aplikacija
+-	Podešavanje mobilnog uređaja
+
+Stavke informacija kojima pristupa LGE se mogu koristiti pojedinačno ili kombinovano u zbirnom obliku. LGE koristi informacije kako bi bolje razumio potrebe svojih korisnika, poboljšao brigu o korisnicima i unaprjedio proizvode i usluge koje nudi. Na primjer, informacije o zapisu aktivnosti omogućavaju LGE-u istražiti i ispraviti mrežne pogreške, probleme sa vezom i baterijom. 
+
+Klikom na “Saglasan/na sam”, dozvoljavate LGE-u i bilo kojoj trećoj strani djelovati u ime LGE-a (kao što je opisano ispod), pristupanje i korištenje informacije o zapisu aktivnosti prekupljenim od strane vašeg uređaja. LGE te informacije može razmjeniti sa sljedećim trećim stranama:
+-	filijalama i podružnicama (to su kompanije koje kontroliraju, kontrolirane su ili su u zajedničkom vlasništvu ili kontroli kao LGE) i
+-	agentima i pružaocima usluga koji su pod obavezom “povjerljivo” i koji koriste informacije samo u ime LGE-a ili za isporučivanje traženih proizvoda i usluga ili pak imaju potpunu ugovornu obavezu prema Vama.
+LGE nije odgovoran za privatne prakse trećih strana.
+LGE će također zatražiti prikupljanje informacije o zapisu aktivnosti kada koristite LGE nakon usluge (A/S) ili uslugu obnove. Kada ih budete želeli koristiti bićete upitani odvojeno jeste li sa ovim saglasni ili niste.
+Iako se u okviru vašeg uređaja svakako prikupljaju informacije o zapisu aktivnosti, bez obzira jeste li  sa tim saglasni ili niste, LG svakako neće pristupiti tim informacijama osim ako niste kliknuli na “Saglasan/na sam”. Ako ne želite da LGE pristupa vašim informacijama o zapisu aktivnosti, u svakom trenutku pristup informacijama možete blokirati preko opcije [Postavke – Sustav – O telefonu – Zapisi aktivnosti]. Kako biste razumjeli način na koji LGE rukuje vašim informacijama, uključujući i informacije o zapisu aktivnosti, molimo Vas pogledajte naše smjernice privatnosti u meniju [Postavke – Sustav – O telefonu – Podaci o zakonu – Pravni dokumenti za LG softver – Smjernice o privatnosti].
+
+Svaki prijevod datoteka zapisi aktivnosti pravi se radi ispunjavanja lokalnih uslova i u slučaju neslaganja između engleske verzije i bilo koje verzije na nekom drugom jeziku mjerodavna će biti verzija ovih datoteka zapisa aktivnosti na engleskom jeziku, u mjeri u kojoj to nije zabranjeno lokalnim zakonom u vašem području pravne nadležnosti.
+
+

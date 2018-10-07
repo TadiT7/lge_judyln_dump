@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <permission name="android.permission.ACCESS_LGDRM" >
+        <group gid="oem_4002" />
+    </permission>
+
+    <assign-permission name="android.permission.ACCESS_LGDRM" uid="media" />
+
+    <feature name="com.lge.software.drm"/>
+</permissions>

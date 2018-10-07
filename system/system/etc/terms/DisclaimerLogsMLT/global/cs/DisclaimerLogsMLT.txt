@@ -1,0 +1,23 @@
+﻿Záznamy aktivit
+
+Aby se zlepšila celková zkušenost uživatelů a zlepšilo řešení závad zařízení, na vašem mobilním zařízení LG se generují a ukládají záznamy o závadách. Tyto záznamy jsou ukládány výlučně na vašem zařízení, a pokud není jinak stanoveno ve zvláštní dohodě, nejsou vzduchem přenášeny do společnosti LG ani jiné třetí straně. 
+
+Záznamy obsahují následující informace: 
+- Stav mobilního zařízení: Model, verze softwaru, IMEI, unikátní identifikační číslo, IMSI, stav napájení, stav baterie, využití CPU/ RAM/ vnitřního úložiště, průměrná doba využití, výsledky diagnózy hardwaru (Wi-Fi, BT, senzoru blízkosti, senzoru podsvícení, snímače otisků prstů, atd.) 
+- Stav sítě
+- Informace o aplikaci, statistiky/ historii použití aplikace
+- Stav připojení vašeho mobilního zařízení
+- Údaje o chybách: Zamrzlá obrazovka, nepožadované vypnutí, přerušené hovory, chyby aplikací
+- Nastavení mobilního zařízení
+
+Informace, ke kterým bude společnost LG přistupovat, mohou být využívány samostatně nebo v souhrnné formě pro zlepšování nebo vývoj výrobků a služeb LG. Například údaje ze záznamů aktivit umožňují společnosti LG vyšetřit a opravit chyby sítě, problémy s připojením a potíže s baterií. 
+
+Kliknutím na „souhlasím“ souhlasíte s tím, že společnosti LG a jakékoli třetí straně jednající jménem společnosti LG (popsáno níže) dovolujete přistupovat k informacím v záznamech aktivit generovaným vašim zařízením a používat je. Společnost LG může informace v záznamech aktivity sdílet s následujícími třetími stranami: 
+- pobočky a dceřiné společnosti (tedy společnosti, které řídí, jsou řízeny, nebo patří pod společné vlastnictví a řízení jako společnost LG); a 
+- agenti a poskytovatelé služby, kteří jsou vázáni povinností mlčenlivosti a používají informace pouze jménem společnosti LG nebo k dodání požadovaných produktů a služeb, nebo k jinému splnění smluvních povinností vůči vám. 
+Společnost LG není zodpovědná ani postihnutelná za zásady ochrany osobních údajů třetích stran. Společnost LG také požádá o shromažďování informací v záznamu aktivit, pokud používáte službu LGE After Service (A / S) nebo službu modernizace. V době používání těchto služeb budete dotázáni, zda s tím souhlasíte, či nikoli.
+
+Ačkoli se tyto informace v záznamu ve vašem zařízení generují, ať souhlasíte, či ne, pokud jste však neklikli na „souhlasím“, společnost LG nebude k těmto informacím přistupovat. Pokud nechcete, abychom přistupovali do vašich informací v záznamu, náš přístup k vašim záznamům můžete kdykoli zablokovat v nabídce [Nastavení - Systém – Info o telefonu – Záznamy aktivit]. Obecný způsob, jakým zacházíme s vašimi informacemi, je popsán v našich zásadách ochrany osobních údajů: [Nastavení – Systém – Info o telefonu – Právní informace – Právní dokumenty pro software LG – Zásady ochrany osobních údajů].
+
+Jakýkoli překlad těchto Záznamů aktivit se provádí pro místní požadavky a v případě rozdílnosti mezi anglickou a jakoukoli cizojazyčnou verzí bude mít anglická verze těchto Záznamů aktivit přednost, pokud to nezakazuje místní zákon ve vaší jurisdikci.
+

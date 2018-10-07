@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- default telephony.xml -->
+<profiles>
+    <profile>
+        <siminfo operator="OPEN" country="COM" mcc="" mnc="" default="true" />
+    </profile>
+</profiles>

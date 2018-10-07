@@ -1,0 +1,107 @@
+#################################################################
+# Self - D executable process
+
+service selfd_result /sbin/python /factory/minios/run.py apps.selfd.result.selfd_result
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_main /sbin/python /factory/minios/run.py apps.selfd.main.selfd_main
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_autodetect /sbin/python /factory/minios/run.py apps.selfd.test.selfd_auto_detect
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_touch /sbin/python /factory/minios/run.py apps.selfd.test.selfd_touch_draw
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_bluetooth /sbin/python /factory/minios/run.py apps.selfd.test.selfd_bluetooth
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_wifi /sbin/python /factory/minios/run.py apps.selfd.test.selfd_wifi
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_proximity /sbin/python /factory/minios/run.py apps.selfd.test.selfd_proximity
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_light /sbin/python /factory/minios/run.py apps.selfd.test.selfd_light
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_magnetic /sbin/python /factory/minios/run.py apps.selfd.test.selfd_magnetic
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_accel /sbin/python /factory/minios/run.py apps.selfd.test.selfd_accel
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_nfc /sbin/python /factory/minios/run.py apps.selfd.test.selfd_nfc
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_camera /sbin/python /factory/minios/run.py apps.selfd.test.selfd_camera
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_pen /sbin/python /factory/minios/run.py apps.selfd.test.selfd_pen
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_fp /sbin/python /factory/minios/run.py apps.selfd.test.selfd_fp
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+
+service selfd_mic /sbin/python /factory/minios/run.py apps.selfd.test.selfd_mic
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled

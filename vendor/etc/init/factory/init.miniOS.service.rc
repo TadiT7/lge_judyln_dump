@@ -1,0 +1,324 @@
+#################################################################
+# Service
+
+# Native service
+on property:ro.minios.bootcomplete=1
+    start qcom-post-boot
+    write /sys/class/i2c-dev/i2c-6/device/6-0072/enable_irq 1
+
+service appops /sbin/appops
+    class main
+    user root
+    group root
+    seclabel u:r:minios_services:s0
+
+service sensorservice /system/bin/sensorservice
+    class late_start
+    user system
+    group system input root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_isensorservice /sbin/minios_isensorservice
+    class late_start
+    user root
+    group system input root
+    disabled
+    seclabel u:r:minios_services:s0
+
+# LGE service
+service mtsd /vendor/bin/mtsd
+    class late_start
+    oneshot
+    socket mtsd.port stream 660 system system
+    seclabel u:r:minios_services:s0
+
+on property:sys.mts.forcemts=1
+    start mtsd
+
+on property:sys.mts.forcemts=0
+    stop mtsd
+
+
+# MiniOS service
+on init
+    chmod 0777 /vendor/bin/dhcpcd/dhcpcd-run-hooks
+    chmod 0777 /vendor/bin/dhcpcd/dhcpcd-hooks/20-dns.conf
+    chmod 0777 /vendor/bin/dhcpcd/dhcpcd-hooks/95-configured
+    chown dhcp dhcp /vendor/bin/dhcpcd/dhcpcd-run-hooks
+    chown dhcp dhcp /vendor/bin/dhcpcd/dhcpcd-hooks/20-dns.conf
+    chown dhcp dhcp /vendor/bin/dhcpcd/dhcpcd-hooks/95-configured
+
+service minios_per /sbin/minios_permissionservice
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_sch /sbin/minios_schedulingservice
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_battery /sbin/minios_batteryservice
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_pm /sbin/minios_powermanager
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_psinfo /sbin/minios_processinfoservice
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_thermal /sbin/python /factory/minios/run.py service.thermal.batterythermal
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_ril /sbin/minios_ril
+    class late_start
+    user root
+    group radio root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_display /sbin/minios_display
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service mfts_service /sbin/python /factory/minios/run.py service.mfts.mftsservice
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service aat_service /sbin/python /factory/minios/run.py service.aat.aatservice
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_sensor /sbin/minios_sensor_stup
+    class late_start
+    user root
+    group system input root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_irrc /sbin/minios_irrc
+    class late_start
+    user root
+    group media root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_touch /sbin/python /factory/minios/run.py service.touch.touchlocationservice
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_genesis /sbin/python /factory/minios/run.py service.genesis.genesisservice
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_wifid /sbin/python /factory/minios/run.py service.genesis.wifiminid.wifiminid
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_wcmdmgrd /sbin/python /factory/minios/run.py service.genesis.wireless_cmdmgrd.wcmdmgrd
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_input /sbin/minios_input_stup
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service selfd_mtk /sbin/selfd_mtk
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_bt_stup /sbin/python /factory/minios/run.py device.bluetooth.bluetooth_service
+    class late_start
+    user root
+    group bluetooth root system
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_hdmi /sbin/python /factory/minios/run.py device.hdmi.hdmieventmanager
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_haudio /sbin/python /factory/minios/run.py device.hdmi.hdmiaudiostatemachine
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_sdcard /sbin/python /factory/minios/run.py service.storage.sdcardservice
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_otg /sbin/python /factory/minios/run.py service.storage.otgservice
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service utm_socketd /sbin/python /factory/minios/run.py service.genesis.utm_socketd.utm_socketd
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_cputest /sbin/python /factory/minios/run.py service.cputest.cputest
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_ddrtest /sbin/python /factory/minios/run.py service.ddrtest.ddrtest
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+#################################################################
+# Default executable process
+# for python
+service minios_init /sbin/python /factory/minios/run.py service.init.init
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_htest /sbin/python /factory/minios/run.py device.hdmi.hdmitest
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+
+# for c / c++
+service minios_starter /sbin/minios_starter
+    class core
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_warning /sbin/minios_warning
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_blank /sbin/minios_blank
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+# this sniff daemon for minios4 python download
+service minios_sniff /sbin/minios_sniff
+    class late_start
+    user root
+    group root
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_ble /sbin/minios_ble
+    class main
+    user root
+    group root system
+    oneshot
+    disabled
+    seclabel u:r:minios_services:s0
+
+service minios_svc /sbin/minios_cmd_service
+    class late_start
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+# this sniff daemon for inline-download.
+service factory_sniff /sbin/factory_sniff
+    class core
+    user root
+    group root
+    disabled
+    seclabel u:r:minios_services:s0
+
+# use own dhcp daemon
+service ipr_wlan0 /sbin/dhcpcd_minios -k wlan0
+    class late_start
+    disabled
+    oneshot
+    seclabel u:r:minios_services:s0
+
+service dhc_wlan0 /sbin/dhcpcd_minios -ABKLG -f /vendor/bin/dhcpcd/dhcpcd.conf wlan0
+    class late_start
+    disabled
+    oneshot
+    seclabel u:r:minios_services:s0
+

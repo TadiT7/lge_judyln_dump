@@ -1,0 +1,63 @@
+﻿Smjernice privatnosti za korištenje zapisa aktivnosti
+
+Napomena: Izražavanjem saglasnosti s ovim Smjernicama privatnosti, dajete nam dopuštenje da koristimo vaše podatke na način opisan u ovom dokumentu. Vaša saglasnost je dobrovoljna. Međutim, ako ne date saglasnost, nećemo vam moći pružati usluge; u tom slučaju nećete moći koristiti određene usluge Izveštaja dijagnoze LG uređaja ("LG Usluga"). Uslove za davanje saglasnosti možete u svakom trenutku preuzeti u LG Usluga, a ujedno saglasnost možete uvijek povući slanjem poruke na: mc.customer-service@lge.com 
+
+1. Uvod
+Kompanija „LG Electronics Inc.“ („LGE“ ili „mi“) je posvećena zaštiti informacija osoba i grupa koje koriste ovdje sadržanu LG Uslugu. U ovim Smjernicama privatnosti se objašnjava na koji način prikupljamo, koristimo i dijelimo informacije do kojih dođemo na osnovu vašeg korištenja usluga, a posebno se definira:
+- Koje informacije LGE može pribaviti od vas LG Uslugu;
+- Kako će LGE koristiti informacije koje pribavi?
+- Kada kompanija LGE dijeli informacije s drugima; i
+- Kako možete kontrolirati način na koji kompanija LGE koristi i dijeli vaše informacije.
+
+LG Usluga omogućava pristup softverskoj aplikaciji i vezama za druge usluge koje su u vlasništvu i kojima rukuju treće strane, uključujući pružaoce operativnog sustava i drugog sadržaja, kao i pružaoce aplikacije. Te usluge trećih strana su izvan opsega ovih Pravila privatnosti i imaju vlastita pravila koja se odnose na prikupljanje, korištenje i dijeljenje informacije u vezi s njihovim uslugama. Preporučujemo vam da pročitate ta pravila. Kompanija LGE nije odgovorna i nema nikakve obaveze u pogledu postupaka takvih trećih strana za zaštitu privatnosti.
+
+2. Koje informacije pribavlja kompanija LGE?
+LGE će prikupiti sljedeću informaciju:
+① Status mobilnog uređaja: Model, verzija softvera, IMEI, serijski broj, IMSI, status napajanja, status baterije, korištenje CPU/RAM/interne memorije, prosječno vrijeme korištenja, rezultat samo dijagnoze hardvera (Wi-Fi, BT, senzor za blizinu, senzor za osvetljenje, senzor za otisak prsta, itd.)
+② Status mreže: Status usluge (poziv, podaci), jačina signala, stanična informacija, frekvencija poziva/vrijeme
+③ Informacija aplikacije: Lista instaliranih i obrisanih aplikacija, verzija aplikacije, skoro izvršene aplikacije, frekvencija/statistika korištenja aplikacije
+④ Status konekcije mobitela: Wi-Fi, Bluetooth, GPS, ušna utičnica, punjač baterije, USB i statusi konekcije SD Card
+⑤ Informacija o pogrešci: Zamrznut ekran, nenamjerno isključivanja napajanja, isključeni pozivi, aplikacijske pogreške (fatalne, izuzeci)
+
+3. Kako će LGE koristiti informacije koje pribavi?
+Koristimo informacije dobijene od vas u razne svrhe, uključujući:
+- Za identifikaciju i dijagnozu mobilnog uređaja
+- Za sprovođenje korisničkih usluga i upravljanje povjestom usluge
+- Za slanje puš poruka
+- Za analiziranje usluge/zapisa/povjesti uređaja radi poboljšanja kvaliteta i zadovoljstva korisnika
+
+Informacije koje pribavimo od vas, uključujući osobne informacije, možemo kombinirati s informacijama koje nam saopštavate na druge načine u svrhu dosljednosti s ovim Smjernicama privatnosti. 
+
+4. Dijeljenje informacija
+Informacije koje dobijemo kao rezultat vašeg korištenja LG Usluge po pravilu ne dijelimo s trećim stranama. Ipak, molimo da vodite računa o sljedećim okolnostima u kojima takve informacije možemo dijeliti sa sljedećim stranama:
+- Partneri i podružnice. LGE može razmjenjivati osobne i neosobne informacije (uključujući informacije uređaja) sa svojim filijalama i podružnicama širom svijeta jedino onoliko dugo koliko je potrebno da se to zašta su prikupljene završi. Termin „filijale“ ili „podružnice“ se odnosi na grupe kompanija koje mogu koristiti ime LG ili koje imaju zajedničko vlasništvo ili kontrolu kao što je LG CNS ili LG Electronics U.S.A.,INC.("LGEUS");
+- Treća strana kao pružaoci usluga. Prodavci treće strane koje LGE može angažirati s vremena na vrijeme za pružanje usluga u njeno ime, kao na primjer popunjavanje zahtjeva korisnika;
+- Ostale strane kada se to zahtijeva po zakonu. U slučaju da se to traži sudskim nalogom ili na osnovu zahtjeva državnih organa ili tijela za provođenje zakona radi poštivanja pravnog postupka ili zakona;
+- Ostale strane u vezi s korporativnim transakcijama. U vezi s nekim poslovnim događajem, npr. spajanjem ili prodajom kompanije LGE ili nekog njenog dijela (uključujući ogranke i podružnice), gdje LGE možda treba otkriti informacije potencijalnom kupcu i njegovim stručnim savjetnicima;
+- Ostale strane kada je neophodno da se zaštite naše usluge. Radi zaštite i odbrane naših prava i imovine, uključujući i pravnim postupcima;
+- Ostale strane kada se radi o zaštiti lične sigurnosti ili imovine bilo koga od naših korisnika. Radi zaštite lične sigurnosti ili imovine naših korisnika ili javnosti.
+
+Ni pod kojim okolnostima vaše lične informacije se neće obrađivati za marketinške svrhe, niti dijeliti s trećim stranama za marketinške svrhe.
+
+5. Inostrani transferi
+Mi, naša pridružena društva, podružnice i dobavljači možemo koristiti informacije (uključujući vaše osobne podatke) u zemljama koje se razlikuju od one u kojoj je lociran vaš uređaj kako bi vam omogućili našu LG Uslugu i bilo koje druge svrhe navedene u ovim Smjernicama privatnosti. Moguće je da zakoni o zaštiti podataka u mnogim od tih zemalja ne nude isti stepen zaštite kao zakoni u zemlji u kojoj boravite. Međutim, prije prenosa vaših ličnih podataka poduzet ćemo korake kako bismo bili sigurni da će takvi podaci imati jednak nivo zaštite. Izražavanjem saglasnosti s ovim Smjernicama privatnosti dajete izričiti pristanak nama i našim poslovnim saradnicima i dobavljačima da možemo obrađivati vaše podatke u svim područjima pravne nadležnosti, uključujući, bez ograničavanja, Republiku Koreju ili Sjedinjene Američke Države, u skladu s ovim Smjernicama privatnosti.
+
+6. Koliko dugo će LGE zadržati moje lične informacije?
+Poduzećemo razumne korake kako bi bili sigurni da ćemo zadržati vaše osobne informacije onoliko dugo koliko nam je potrebno za pružanje LG Usluge ili u svrhu za koju su prikupljeni, odnosno u skladu sa važećim zakonom.
+
+7. Sigurnost
+Ulažemo komercijalno razumne napore kako bismo očuvali povjerljivost vaših ličnih informacija. Međutim, uslijed dizajna interneta, tehnologije koja se stalno mijenja, i drugih faktora izvan naše kontrole, ne možemo garantirati da u komunikaciji između vas i naših servera neće biti neovlaštenog pristupa trećih strana ili da nećemo biti izloženi kršenjima sigurnosti. Mi ne prihvatamo odgovornost za otkrivanje ličnih podataka zbog grešaka u prenosu ili neovlaštenih ili nezakonitih aktivnosti trećih strana.
+
+8. Zaštita privatnosti djece
+Zaštita privatnosti djece nam je važna. Iz tog razloga, LG Usluga nije namjenjena osobama mlađim od 14 godina ili osobama ispod granice punoljetstva u odgovarajućoj jurisdikciji i nije struktuirana tako da privlači mlađe od 14 godina. Također mi svjesno ne prikupljamo osobne informacije od korisnika mlađih od 14 godina, niti svjesno čuvamo takve informacije. Ukoliko saznamo ili primimo obavještenje da smo prikupili informacije od korisnika mlađih od 14 godina ili ispod granice punoljetstva u odgovarajućoj jurisdikciji, odmah brišemo takve osobne informacije.
+
+9. Izmjene u Pravilima kompanije LGE o privatnosti
+Kompanija LGE može povremeno ažurirati ova Pravila privatnosti. Ako izvršimo materijalne izmjene u Smjernicama privatnosti, obavijestit ćemo vas o tome preko LG internet stranice ili drugim sredstvima. Ako se ne saglasite s ažuriranim smjernicama privatnosti, moguće je da će LG Usluga biti ograničena za korištenje.
+
+10. Pristup vašim informacijama 
+Prema zakonima u nekim jurisdikcijama, vi imate pravo da tražite detalje o vašim ličnim informacijama koje LGE prikuplja i da ispravite netačnosti u vašim ličnim informacijama ili se na drugi način suprotstavite, u legitimne svrhe, obradi vaših ličnih informacija. Ako je dopušteno po zakonu, mala naknada za pružanje takvih usluga se može naplatiti. Molimo vas imajte na umu da mi možemo odbiti da obradimo vaše zahtjeve ako su neopravdano uvredljivi, ako ugrožavaju privatnost drugih ljudi, ili su izuzetno nepraktični. Ako biste željeli napraviti zahtjev za pristup, za otklanjanje, otkazivanje ili suprotstavljanje obradi vaših osobnih podataka, molimo vas kontaktirajte nas na mc.customer-service@lge.com.
+
+11. Kontaktiranje kompanije LGE o ovim Pravilima privatnosti
+Ukoliko imate bilo kakvih pitanja ili komentara u vezi sa ovim Smjernicama privatnosti, kontaktirajte mc.customer-service@lge.com.
+
+Posljednje ažuriranje: 22.06.2017.

@@ -1,0 +1,3 @@
+﻿Utilizzo delle informazioni sulla posizione corrente
+
+LGE può utilizzare le informazioni sulla posizione salvate sul dispositivo (tramite GPS, Wi-Fi e reti di comunicazione mobili) per ottenere le "informazioni sulla posizione corrente" del dispositivo. LGE salva le "informazioni sulla posizione corrente" solo internamente sul dispositivo dell'utente e non raccoglie, salva o memorizza le informazioni sui suoi server. Anche se l'utente accetta quanto sopra, il servizio viene fornito solo quando l'utente abilita la funzione di localizzazione di Google, e l'utilizzo del servizio "informazioni sulla posizione corrente" può essere modificato in qualsiasi momento tramite il menù di impostazione di ciascun servizio che utilizza "informazioni sulla posizione corrente".

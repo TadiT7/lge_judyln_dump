@@ -1,0 +1,6 @@
+﻿Use of current location information for My Place
+
+This My Place service ("Service") uses the location information of the user’s device to analyze the pattern of the locations at which the user has remained for an extended time and to provide the function of automatically recognizing such location, or allowing the user to manually designate a location, as a "My place"(e.g. home, workplace). Continuing pattern analysis may automatically change the location of a previously designated location. 
+Though this Service uses location information (base transceiver station(BTS), GPS, Wi-Fi, network positions (NLP)) stored in the user device, LG Electronics Inc.(LGE) never collects or uses user location information and only uses and stores in the user device.
+This Service starts automatically recognizing the places where the user has remained for an extended time beginning with when the user agrees to the use of the current location information of the user device and continues unless the user stops the use of the Service by turning off the corresponding function option.
+However, LGE will only use the current location information of the user if the user turns on the option to use Google location service of the device.

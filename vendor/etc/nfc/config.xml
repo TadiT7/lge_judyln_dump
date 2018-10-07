@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Configure>
+    <Config operator="" country="" device="">
+        <!-- INITVALUE, two_toggleN, three_toggleV1N, two_toggleD -->
+        <IndicatorType> two_toggleN </IndicatorType>
+
+        <!-- INITVALUE, usevibrate, onlyndefdiscovered -->
+        <RingSoundScenarioType> INITVALUE </RingSoundScenarioType>
+
+        <!-- INITVALUE, stay, update -->
+        <WCScenarioEnable> INITVALUE </WCScenarioEnable>
+
+        <!-- INITVALUE, uicc, ese -->
+        <SecureElementType> uicc </SecureElementType>
+
+        <!--INITVALUE, googlenative, directbeam, directbeam_mtkbt, mtkbt, WPSHandover, autoapplaunch (overlap possible (divide "," sign)) -->
+        <!--HandoverSupportType> googlenative </HandoverSupportType-->
+
+        <!-- INITVALUE, off, offp2p, oncardrwp2p, oncard, oncardrw, oncardp2p, onrwp2p, open -->
+        <DefaultOnOffType> oncardrwp2p </DefaultOnOffType>
+
+        <!-- INITVALUE, vzw, gsma -->
+        <PopupDialogType> gsma </PopupDialogType>
+
+        <!-- INITVALUE, all, rwp2p -->
+        <!--<PowerSaveType> INITVALUE </PowerSaveType>-->
+
+        <!-- INITVALUE, egw, gw, st, egwst, gwst -->
+        <!--<SupportWalletType> INITVALUE </SupportWalletType>-->
+
+        <!--apply Access Control routine, verifying access right to the apk through Access Control Manager-->
+        <AccessControlEnable> true </AccessControlEnable> <!-- default value is true -->
+
+        <!--enable se-broadcasting only for NFC-permitted(NFC_PERM) applications
+         this feature came from ISIS requirement. so, the model requiring ISIS certi, should apply this feature-->
+        <!--PermittedSeBroadcastEnable> true </PermittedSeBroadcastEnable--> <!-- default value is true -->
+
+        <!--NFC Empty Tag popup Dialog Scenario for ORG when Positve/Negative Detection,
+         PopupDialog will be display and offer link to play store-->
+        <EmptyPopupSupport> true </EmptyPopupSupport>
+
+        <!--Lock Screen Polling Enable Feature.-->
+        <LockScreenPollingEnable> false </LockScreenPollingEnable>
+
+        <!--NotifyonlyValidTag> true </NotifyonlyValidTag--> <!-- default value is true -->
+
+        <!--<SePatchEnabled> false </SePatchEnabled>-->
+
+        <TagLongTimePopupSupport> true </TagLongTimePopupSupport>
+
+        <!--<MccMncSupport>false</MccMncSupport>-->
+
+        <!-- feature for Advenced HCE settings -->
+        <AdvancedHCEEnable> false </AdvancedHCEEnable>
+
+        <!-- feature for Gsma Multicast default for ISIS -->
+        <TransactionEventScenario> unicast </TransactionEventScenario>
+
+        <!-- feature for Remove Indicator Icon except Screen Unlock -->
+        <RemoveIconWhenLockScreen> false </RemoveIconWhenLockScreen>
+
+        <!-- feature for LG Sharing - Music Share -->
+        <LGSharingEnable> true </LGSharingEnable>
+
+        <!-- HCE Scenario (Screen Unlocked, Screen locked, Screen Off, Power Off) -->
+        <!-- Each scenario can use below config value -->
+        <!-- config : Tap and pay Setting routing, config_uicc : Add uicc default when HCE app does not install -->
+        <!-- uicc : uicc default routing         , host_uicc : Add uicc default when HCE app does not install -->
+        <!-- ese : Embedded default routing        , host_ese : Add eSE default when HCE app does not install -->
+        <!-- host : Host default routing -->
+        <!-- na : Disable Card Emulation -->
+        <HostCardEmulationScenario> config, config, config, config </HostCardEmulationScenario>
+
+        <!-- feature for Primary route destination when support automatic routing -->
+        <PrimaryRoute> uicc </PrimaryRoute>
+
+        <UseGpacResultValidTime> false </UseGpacResultValidTime>
+
+        <!-- Korea Operator Requirement to support Reader Mode APIs-->
+        <ReaderModeApiSupport> false </ReaderModeApiSupport>
+
+        <!-- feature for SIM Swap Enable -->
+        <SIMSwapEnable> true </SIMSwapEnable>
+
+        <!-- support AID automatic switching -->
+        <AutomaticSwitchingSupport> true </AutomaticSwitchingSupport>
+
+        <!-- support NFC Antenna position popup -->
+        <!-- put antenna position (ex) upper, center, upper_left, none -->
+        <NfcAntennaPopup> center </NfcAntennaPopup> <!-- default value is center -->
+        <NfcAntennaPopup targetdevice="mhn"> center_right </NfcAntennaPopup>
+        <NfcAntennaPopup targetdevice="h1|c100n|alicee|k5|k5n|k6b|mk6p|mk6pn|mk6m|mme0n|elsa|anna|cv3|cv3n"> upper </NfcAntennaPopup>
+        <NfcAntennaPopup targetdevice="ph1|ph1n|ph2|ph2n|msf3|sf340"> upper_left </NfcAntennaPopup>
+        <NfcAntennaPopup targetdevice="lv9|mlv7n|judyp"> upper_center </NfcAntennaPopup>
+
+        <!-- NfcCover Support -->
+        <NfcCoverSupport> false </NfcCoverSupport>
+        <NfcCoverSupport targetdevice="judyln|judyp"> true </NfcCoverSupport>
+
+        <!--==================================================================================-->
+        <!-- feature for nxp stack library -->
+        <!-- determine which HCI event type is supported INITVALUE, rffieldoff (EVT_FIELD_ON/OFF events not supported), rffield_EEevent_off -->
+        <NFCCEventConfig> INITVALUE </NFCCEventConfig>
+
+        <!-- Dynamic Config File Name -->
+        <ConfigFileName> INITVALUE </ConfigFileName>
+        <!-- For P1 Dual SIM Model -->
+        <ConfigFileName targetdevice="p1" targetmodel="LG-H818P"> libnfc-nxp-h818np.conf </ConfigFileName>
+
+        <!-- Dynamic Firmware File Name -->
+        <FirmwareFileName> INITVALUE </FirmwareFileName>
+        <FirmwareFileName targetdevice="judyln"> libpn553_fw_ed </FirmwareFileName>
+
+        <!-- NxP window Size adjust, default : 4 -->
+        <SwpWindowSize> 4 </SwpWindowSize>
+
+        <!-- NxP : SWP retry init -->
+        <SwpRetryInit> true </SwpRetryInit>
+
+        <!-- PN553 Block Route -->
+        <BlockRoute> true </BlockRoute>
+    </Config>
+</Configure>

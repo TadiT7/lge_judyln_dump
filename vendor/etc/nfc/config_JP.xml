@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Configure>
+    <!-- Japan Open / Japan -->
+    <Config operator="" country="JP" device="">
+        <SIMSwapEnable> false </SIMSwapEnable>
+        <SwpRetryInit> false </SwpRetryInit>
+        <NfcAntennaPopup> none </NfcAntennaPopup>
+    </Config>
+    <!-- NTT Docomo / Japan -->
+    <Config operator="DCM" country="JP" device="">
+        <DefaultOnOffType> oncardrwp2p </DefaultOnOffType>
+        <IndicatorType targetdevice="DM-01G"> two_toggleD </IndicatorType>
+        <PopupDialogType> INITVALUE </PopupDialogType>
+        <EmptyPopupSupport> false </EmptyPopupSupport>
+        <AutomaticSwitchingSupport> false </AutomaticSwitchingSupport>
+        <SIMSwapEnable> false </SIMSwapEnable>
+        <SwpRetryInit> false </SwpRetryInit>
+        <NfcAntennaPopup> none </NfcAntennaPopup>
+        <NfcAntennaPopup targetdevice="L-02K"> center </NfcAntennaPopup>
+    </Config>
+    <!-- KDDI / Japan -->
+    <Config operator="KDDI" country="JP" device="">
+        <DefaultOnOffType> oncardrwp2p </DefaultOnOffType>
+        <PopupDialogType> INITVALUE </PopupDialogType>
+        <EmptyPopupSupport> false </EmptyPopupSupport>
+        <AutomaticSwitchingSupport> false </AutomaticSwitchingSupport>
+        <SIMSwapEnable> false </SIMSwapEnable>
+        <SwpRetryInit> false </SwpRetryInit>
+        <NfcAntennaPopup> none </NfcAntennaPopup>
+    </Config>
+</Configure>

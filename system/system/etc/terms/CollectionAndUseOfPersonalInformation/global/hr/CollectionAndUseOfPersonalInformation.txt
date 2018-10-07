@@ -1,0 +1,109 @@
+﻿Smjernice o privatnosti
+
+Ova smjernice o privatnosti opisuje kako tvrtka LGE pristupa i koristi vaše osobne podatke u kontekstu usluge ažuriranja softvera. Molimo, pažljivo je pročitajte prije korištenja usluge ažuriranja softvera.
+
+1.	Uvod
+Tvrtka LG Electronics Inc. (“LGE” ili “mi”) obvezuje se štititi informacije o pojedincima i grupama koje koriste LGE mobilne telefone. Ova smjernice o privatnosti objašnjava kako prikupljamo, koristimo i dijelimo informacije prikupljene kao rezultat vašeg korištenja LGE mobilnog telefona, te posebno ističe:
+-	pregled FOTA ažuriranja softvera;
+-	informacije koje tvrtka LGE može pribaviti od vas;
+-	kako tvrtka LGE koristi prikupljene informacije;
+-	kada tvrtka LGE dijeli informacije s drugima; 
+-	inozemni prijenos osobnih podataka
+-	koliko dugo će tvrtka LGE čuvati moje osobne podatke?
+-	sigurnost
+-	pravo na odbijanje ili povlačenje pristanka
+-	zaštitu privatnosti djece
+-	promjene politike zaštite privatnosti tvrtke LGE
+-	pristup vašim informacijama
+-	pravo na podnošenje prigovora, i
+-	kontaktiranje tvrtke LGE vezano za ovu politiku zaštite privatnosti
+
+Ova politika odnosi se samo na informacije koje je prikupila tvrtka LGE sa svojih LGE mobilnih telefona radi obavljanja ažuriranja vatrozida putem FOTA (Firmware Over-the-Air) procesa („Ažuriranje softvera“). Ova politika ne odnosi se na niti jedan drugi proizvod ili uslugu tvrtke LGE uključujući mobilne aplikacije koje nudi ili omogućuje tvrtka LGE. Ova politika, također, se ne odnosi na niti jedan proizvod ili uslugu koje nude treće strane, uključujući tvrtke koje prodaju operativne sustave, tvrtke koje nude druge sadržaje ili aplikacije ili vašeg mrežnog operatera. Proizvodi i usluge koje ne obuhvaća ova smjernice o privatnosti imaju svoje vlastite politike koje se primjenjuju na prikupljanje, korištenje i dijeljenje informacija, preporučujemo vam da pročitate te politike. Tvrtka LGE nije odgovorna za politike zaštite privatnosti trećih strana.
+
+Ako ste nedavno kupili ovaj mobilni telefon nužno je prije korištenja obaviti ažuriranje softvera na način opisan u ovoj politici zaštite privatnosti kako bi se osigurao ispravan rad mobilnog telefona te pristup najmodernijim funkcijama, funkcionalnostima i postavkama sigurnosti. Ako imate bilo kakvih pitanja kontaktirajte nas na način opisan u ovoj politici.
+
+Ovu politiku možete pogledati u bilo kojem trenutku u opciji [Postavke – Sustav – O telefonu – Podaci o zakonu – Pravni dokumenti za LG softver – Smjernice o privatnosti].
+
+Svaki prijevod ove politike zaštite privatnosti služi za lokalne potreba, a u slučaju nesklada između verzije napisane na engleskom jeziku i na jeziku različitom od engleskog jezika važećom verzijom, u mjeri u kojoj to ne zabranjuje lokalni zakon vašeg pravnog sustava, smatra se ona napisana na engleskom jeziku
+
+2.	Pregled FOTA ažuriranja softvera
+S vremena na vrijeme, LGE vatrozid na vašem mobilnom uređaju („Softver“) može zahtjevi ažuriranja ili dodatke koje osigurava tvrtka LGE ili tvrtka LGE može osigurati dodatne komponente za softver. Obavljanjem ažuriranja softvera na vaš mobilni uređaj instalirat će se novi softver kako bi se omogućila ova ažuriranja, dodaci ili dodatne komponente. Ažuriranja softvera mogu dodati nove funkcije te, u izoliranim slučajevima, mogu ukloniti postojeće funkcije. Nakon dovršetka ažuriranja softvera možda nećete moći više koristiti ili vratiti prethodno instaliranu verziju softvera. 
+
+Kako je ažuriranje softvera izvršeno putem FOTA procesa mogu se zaračunati dodatni troškovi ako novi softver preuzimate preko celularne mreže, ovisno o vašem mrežnom operateru i tarifi. Ako želite izbjeći korištenje celularne podatkovne mreže za ažuriranje softvera tada u postavkama odaberite opciju „Samo Wi-Fi“. 
+
+a.	Opcije za upravljanje budućih ažuriranja softvera
+Kada prihvatite ovu FOTA politiku zaštite privatnosti vaš mobilni telefon automatski će povremeno provjeriti postoji li novi ili ažurirani softver, instalirat će novi ili ažurirani softver kada bude dostupan (funkcija „Provjerite automatski“)). Po dovršetku instalacije softvera upozorit ćemo vas na to pomoću skočne obavijesti ili poruke obavijesti na mobilnom uređaju. Nakon primjene softvera imat ćete priliku prihvatiti ili odbiti ažuriranje softvera. Vaš mobilni telefoni u ponoć će automatski primijeniti instalirani softver (funkcija „ Automatska ažuriranja”). Funkcije „Provjerite automatski” i „Automatska ažuriranja” možete odbiti putem opcije [Postavke – Sustav – Centar za ažuriranje – Nadogradnja softvera – Skrivenog navigacijskog izbornika – Postavke]. Ako odbacite Provjerite automatski u biti odbijate izvršiti buduća ažuriranja softvera.
+Ako već koristite svoj mobilni telefon te odbijete izvršiti ažuriranje softvera tada upamtite da ako ne instalirate ažurirani softver to može rezultirati [oslabljenim performansama mobilnog telefona, problemima s kompatibilnošću s novim ili postojećim aplikacijama i drugim problemima s funkcijama ili sigurnošću mobilnog telefona].
+
+b.	Hitno ažuriranje softvera
+Ako prilike to zahtijevaju obavit ćemo ažuriranje softvera u skladu s našim legitimnim interesima, bez pojedinačnih obavijesti ili traženja pristanka bez obzira na trenutne postavke uređaja („Hitno ažuriranje softvera“). Primjeri prilika koje mogu zahtijevati hitno ažuriranje softvera uključuju prijetnje sigurnosti korisnika ili sigurnosti podataka ili operativni problemi koji mogu rezultirati značajnim prekidom usluga ili velika vjerojatnost njihova nastanka.
+
+3.	Informacije koje tvrtka LGE može pribaviti od vas
+Prilikom obavljanja ažuriranja softvera tvrtka LGE može s vašeg mobilnog uređaja prikupiti sljedeće informacije: međunarodni identifikacijski broj mobilne opreme (IMEI - International Mobile Equipment Identity), serijski broj, model mobilnog telefona, verzije softvera i/ili vatrozida, operativni sustav telefona, mobilni pozivni broj države (MCC), kod mobilne mreže (MNC), identifikator razmjene poruka putem Google Cloud usluge (GCM) i odabrani jezik. Ove informacije se automatski prikupljaju kao dio procesa obavljanja ažuriranja softvera.
+
+Kao dio naše uloge u pružanju celularnih usluga vašem mobilnom telefonu prikupljat ćemo informacije o radu, uključujući prijave sustava s IP adresama. Ove informacije prikupljaju se automatski i nužni su dio rada telefona.
+
+4.	Kako će tvrtka LGE koristiti prikupljene podatke?
+Informacije koje smo prikupili od vas koristimo u različite svrhe, uključujući:
+-	za obavljanje ažuriranja softvera (uključujući i hitno ažuriranje softvera), uključujući provjeru koristi li uređaj najnoviju verziju softvera, autoriziranje mobilnog telefona i isporuku odgovarajućeg softvera. 
+-	za potvrdu naših obaveza pod [naše ograničeno jamstvo proizvoda]
+-	kako bismo omogućili obavijesti koje su povezan sa sigurnosnim uslugama mobilnog telefona i obavijestima u hitnom slučaju u vezi sa sigurnosnim problemima;
+-	za obranu i zaštitu naših prava i vlasništva uključujući i sudske postupke;
+-	za sukladnost sa zakonskim zahtjevima; i
+-	za analiziranje, ocjenjivanje i poboljšanje proizvoda i usluga koje nudimo.
+
+Zakonska osnova na koju se tvrtka LGE poziva prilikom obrade vaših osobnih podataka je obično jedna od sljedećih;
+-	ugovor: kada je potrebno s vama sklopiti ugovor;
+-	legitimni interesi: kada je nužno za ispunjavanje legitimnih interesa tvrtke LGE ili treće strane. Za tvrtku LGE ovo uključuje njene interese kao proizvođača proizvoda potrošačke elektronike i pružatelja usluga;
+-	pristanak: kada ste odabrali dati ga. Imate pravo povući svoj pristanak u svakom trenutku; ili
+-	zakonska obveza: kada je obrada nužna radi usklađenosti sa zakonskim obavezama
+
+Možemo koristiti i skupne statističke podatke prikupljene tijekom ažuriranja softvera i tijekom rada mobilnog telefona radi boljeg razumijevanja potreba naših korisnika, za unapređenje brige o korisnicima i unapređenje proizvoda i usluga koje nudimo te za istraživanje tržišta i analize. Takvi skupni statistički podaci ne sadrže informacije koje vas mogu identificirati i ne mogu se povezati ni s jednom fizičkom osobom.
+
+5.	Kada tvrtka LGE dijeli informacije s drugima
+Općenito s trećim stranama ne dijelimo informacije prikupljene tijekom ažuriranja softvera koje identificiraju ili se mogu povezati s fizičkim osobama. Ipak, molimo vodite računa o sljedećim situacijama, kada takve informacije možemo podijeliti sa sljedećim trećim stranama:
+
+-	poslovnim parterima i podružnicama. Tvrtka LGE može podijeliti osobne i neosobne podatke (uključujući informacije o mobilnom telefonu) sa svojim poslovnim parterima i podružnicama diljem svijeta samo ako je to potrebno u svrhu za koju su prikupljeni. Pojam „poslovni partneri“ i „podružnice“ odnosi se na grupu tvrtki koje mogu koristiti naziv LG ili koje imaju zajedničko vlasništvo ili kontrolu poput LG CNS ili LG Electronics U.S.A., Inc.;
+-	pružateljima usluga trećih strana. Dobavljačima trećih strana koje tvrtka LGE može s vremena na vrijeme angažirati za pružanje usluga u njeno ime; poput ispunjavanja zahtjeva korisničke službe.
+-	ostalim stranama kada je to zakonski potrebno Po nalogu suda ili druge zakonodavne vlasti te vojnih ili policijskih organa u cilju zadovoljavanja zakonskih procesa ili zakona;
+-	ostalim stranama u vezi s korporativnim transakcijama. U vezi s poslovnim događajima, poput udruživanja, reorganizacije, prodaje ili prijenosa cijelog ili dijela poslovanja tvrtke LGE (uključujući poslovnu jedinicu ili društvo kćer), kada tvrtka LGE mora otkriti informacije potencijalnom kupcu i njegovim profesionalnim savjetnicima;
+-	ostalim stranama kada moramo zaštititi našu uslugu. Za provedbu ugovornih prava, poduzimanja mjera opreza prilikom preuzimanja odgovornosti, istraživanje sumnjivih ili stvarnih ilegalnih aktivnosti ili kako bismo istražili ili se obranili od zahtjeva ili tvrdnji; ili
+-	ostalim stranama kada treba zaštititi osobnu sigurnost ili imovinu naših korisnika. U cilju zaštite osobne sigurnosti ili imovine naših korisnika ili javnosti.
+
+Ni u kojem slučaju vaši osobni podaci prikupljeni tijekom ažuriranja softvera neće se obraditi u marketinške svrhe bez vašeg pristanka niti će se podijeliti s trećim stranama u marketinške svrhe bez vašeg pristanka.
+
+6.	Prijenos osobnih podataka
+Mi, naši poslovni partneri, podružnice i pružatelji usluga možemo koristiti vaše osobne podatke u državama, osim one u kojoj je se nalazi vaš mobilni telefon, za svrhe opisane u politici zaštite privatnosti. Zakoni o zaštiti podataka u nekim državama možda ne nude istu razinu zaštite kao i oni u državi u kojoj se vi nalazite. Međutim, prije prijenosa vaših osobnih podataka poduzet ćemo korake kako bi smo bili sigurni da će te informacije imati istu razinu zaštite u državama ili zakonodavstvima primatelja. Prihvaćanjem ove politike zaštite privatnosti dajete izričiti pristanak za obradu vaših osobnih podataka u državama ili zakonodavstvima u kojima važeći zakoni možda ne osiguravaju istu razinu zaštite osobnih podataka kao zakoni u državi ili zakonodavstvu države u kojoj se vi nalazite, uključujući bez ograničenja Republiku Koreju ili Sjedinjene Američke Država, u skladu s ovom politikom zaštite privatnosti. 
+
+7.	Koliko dugo će tvrtka LGE čuvati moje osobne podatke?
+Poduzet ćemo odgovarajuće korake i voditi računa da se vaši osobni podaci čuvaju onoliko dugo koliko je to neophodno za svrhu za koju su prikupljeni ili koliko to zahtjeva važeći zakon. 
+Ako zatražite brisanje vaših osobnih podataka, jer više nisu potrebni, ili zato jer se protivite obradi ili na temelju prigovora kako obrada nije zakonita tada imate pravo tražiti ograničenje u obradi dok mi ne potvrdimo vaš zahtjev za brisanjem.
+
+8.	Sigurnost
+Koristimo komercijalno opravdane napore i pridržavamo se općenito prihvaćenih praksi vezanih za podatke u ovoj industriji kako bismo zaštitili vaše osobne podatke od slučajnog gubitka ili neovlaštenog pristupa, korištenja, izmjene ili razotkrivanja. Ipak, temeljeno na dizajnu interneta, tehnologije koja se neprekidno mijenja, te drugim čimbenicima izvan naše kontrole, ne možemo jamčiti kako će komunikacija između vas i naših poslužitelja biti sigurna od neautoriziranog pristupa trećih strana ili te da mi sami nećemo podleći povredama sigurnosti. Ne prihvaćamo nikakvu odgovornost za otkrivanje osobnih podataka uslijed grešaka u prijenosu ili neautoriziranih ili nezakonitih postupaka trećih strana.
+
+9.	Pravo na odbijanje ili povlačenje pristanka
+U skladu s važećim zakonom možete imati pravo odbiti dati pristanak za ovu politiku zaštite privatnosti ili povući pristanak ili na drugi način zatražiti da prestanemo koristiti vaše osobne podatke. Za ostvarivanje takvih prava, koje možda imate, kontaktirajte nas na način naveden u ovoj politici zaštite podataka i mi ćemo u najbržem mogućem roku odgovoriti na vaš zahtjev. 
+Uz to, možete povući pristanak za buduće prikupljanje vaših osobnih podataka deaktiviranjem funkcija „Provjerite automatski“ i „Automatska ažuriranja“ na vašem mobilnom telefonu na gore opisan način. Ovim funkcijama možete pristupiti kroz [Postavke – Sustav – Centar za ažuriranje – Nadogradnja softvera – Skrivenog navigacijskog izbornika – Postavke]. 
+Međutim, shvatite da ako deaktivirate funkcije Provjerite automatski i Automatska ažuriranja to može utjecati ili ograničiti rad mobilnog telefona ili usluga, u cijelosti ili djelomično. Prikupljanje i korištenje informacija, na gore opisan način, potrebno je za optimalan rad vašeg mobilnog telefona. 
+
+Ako imate bilo kakva pitanja o vašem pravu na odbijanje ili kako povući pristanak tada nas kontaktirajte na adresi lgecsvc@lge.com
+
+10.	Zaštita privatnosti djece
+Zaštita privatnosti djece jako nam je bitna. Iz tog razloga, vaš mobilni uređaj nije namijenjen djeci kako je to definirano u važećem lokalnom zakonu, i mi svjesno ne prikupljamo niti zadržavamo osobne podatke o djeci. Ako saznamo ili ako nas se obavijesti da smo prikupili podatke od djeteta bez potvrde pristanka roditelja odmah ćemo obrisati takve osobne podatke.
+
+11.	Promjene politike zaštite privatnosti tvrtke LGE
+Tvrtka LGE može s vremena na vrijeme ažurirati ovu politiku zaštite privatnosti. Ako izmijenimo našu politiku zaštite privatnosti o tome ćemo vas obavijestiti ažuriranjem donjeg datuma i dostavom izmijenjene politike zaštite privatnosti, kako biste je mogli pročitati, kao dio budućeg ažuriranja softvera.
+
+12.	Pristup vašim informacijama 
+Imate pravo zatražiti pojedinosti o vašim osobnim podacima koje tvrtka LGE prikuplja radi pristupa, ispravljanja ili brisanja vaših osobnih podataka. Međutim, shvatite kako možda nećemo moći izmijeniti ili obrisati vaše osobne podatke ako važeći zakon od nas traži zadržavanje takvih informacija. Ako zakon to dozvoljava, može vam se naplatiti mala naknada za obavljanje takve usluge. Molimo, upamtite kako možemo odbiti obraditi vaše zahtjeve ako su neopravdano uvredljivi, ugrožavaju privatnost drugih ili su jako nepraktični. Pored toga, ažuriranje ili brisanje osobnih podataka može utjecati ili ograničiti rad mobilnog telefona ili usluga. 
+
+Ako želite podnijeti zahtjev za pristup, ispravljanje ili brisanje vaših osobnih podataka, kontaktirajte nas na adresi lgecsvc@lge.com
+
+13.	Pravo na podnošenje prigovora
+U skladu sa važećim lokalnim zakonom u EU imate pravo podnijeti prigovor u vezi s obradom vaših osobnih podataka nadležnom nadzornom tijelu. Za više informacija o vašem pravu na podnošenje prigovora ili slanju prigovora tvrtki LGE kontaktirajte nas na adresi lgecsvc@lge.com. 
+
+14.	Kontaktiranje tvrtke LGE vezano za ovu politiku zaštite privatnosti
+Ako imate bilo kakva pitanja ili komentare vezane uz ovu politiku zaštite privatnosti, molimo kontaktirajte nas putem e-pošte na adresu lgecsvc@lge.com.
+
+Obnovljeno zadnji put: 1. studenog 2017.

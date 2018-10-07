@@ -1,0 +1,6 @@
+﻿Korištenje informacija o trenutnoj lokaciji za Moja mjesta
+
+Ova usluga Moja mjesta (u daljem tekstu: Usluga) koristi informaciju o lokaciji korisničkog uređaja kako bi analizirala obrazac lokacija na kojima je korisnik ostao duže vrijeme i da obezbedi funkciju automatskog prepoznavanja te lokacije ili omogućio korisniku da ručno odredi lokaciju kao “Moja mjesta“ (na primjer kuća, posao). Dalja analiza obrasca može automatski dovesti do promjene lokacije koja je prethodno određena.
+Iako ova Usluga koristi informacije o lokaciji (baza primopredajnika(BTS), GPS, Wi-Fi, mrežne pozicije (NLP)) sačuvane na korisničkom uređaju, LG Electronics Inc.(LGE) nikad ne prikuplja ili koristi informacije o korisničkoj lokaciji i koristi samo informacije koje su sačuvane na uređaju.
+Ova Usluga automatski prepoznaje lokacije na kojima je korisnik ostao duže vrijeme počevši od kada je korisnik saglasan sa korištenjem informacija o trenutnoj lokaciji korisničkog uređaja i nastavlja se, osim ako korisnik ne prekine s korištenjem Usluge tako što će isključiti odgovarajuću funkciju.
+Međutim, LGE će koristiti informaciju o trenutnoj lokaciji korisnika ako korisnik uključi opciju usluga Google lokacija na uređaju.

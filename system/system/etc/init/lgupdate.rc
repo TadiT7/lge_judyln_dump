@@ -1,0 +1,6 @@
+service lgupdate /system/bin/lgupdate --logtostderr --foreground
+    class late_start
+    user root
+    group root system wakelock dbus inet
+    writepid /dev/cpuset/system-background/tasks
+

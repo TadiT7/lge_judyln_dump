@@ -1,0 +1,13 @@
+/vendor/lib/modules/snd-soc-sdm845.ko: /vendor/lib/modules/snd-soc-wcd934x.ko /vendor/lib/modules/swr-wcd-ctrl.ko /vendor/lib/modules/snd-soc-wcd-mbhc.ko /vendor/lib/modules/snd-soc-wcd9xxx.ko /vendor/lib/modules/snd-soc-wsa881x.ko /vendor/lib/modules/wcd-core.ko
+/vendor/lib/modules/llcc_perfmon.ko:
+/vendor/lib/modules/snd-soc-wcd9xxx.ko: /vendor/lib/modules/wcd-core.ko
+/vendor/lib/modules/wcd-core.ko:
+/vendor/lib/modules/snd-soc-wcd-mbhc.ko: /vendor/lib/modules/wcd-core.ko
+/vendor/lib/modules/snd-soc-wcd934x.ko: /vendor/lib/modules/swr-wcd-ctrl.ko /vendor/lib/modules/snd-soc-wcd-mbhc.ko /vendor/lib/modules/snd-soc-wcd9xxx.ko /vendor/lib/modules/wcd-core.ko
+/vendor/lib/modules/vpnclient.ko:
+/vendor/lib/modules/snd-soc-wsa881x.ko: /vendor/lib/modules/wcd-core.ko
+/vendor/lib/modules/snd-soc-wcd-spi.ko:
+/vendor/lib/modules/swr-wcd-ctrl.ko:
+/vendor/lib/modules/texfat.ko:
+/vendor/lib/modules/pinctrl-wcd.ko:
+/vendor/lib/modules/wcd-dsp-glink.ko:

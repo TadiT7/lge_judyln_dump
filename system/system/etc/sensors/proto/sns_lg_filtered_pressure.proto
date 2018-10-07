@@ -1,0 +1,11 @@
+// @file sns_pressure.proto
+//
+// Defines standard message types for lg_filtered_pressure
+//
+// Copyright (c) 2016-2017 Qualcomm Technologies, Inc.
+// All Rights Reserved.
+// Confidential and Proprietary - Qualcomm Technologies, Inc.
+
+syntax = "proto2";
+import "nanopb.proto";
+import "sns_std_sensor.proto";

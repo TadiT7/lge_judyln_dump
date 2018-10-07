@@ -1,0 +1,23 @@
+﻿Aktiviteettien lokit
+
+Voidaksemme parantaa kokonaisvaltaista käyttäjäkokemusta sekä laitteen vianmääritystä, aktiviteettien lokit tuotetaan ja tallennetaan LGE-mobiililaitteellesi. Aktiviteettien lokit tallennetaan yksinomaisesti laitteellesi, eikä niitä siirretä langattomasti LGE:lle tai kenellekään kolmannelle osapuolelle, ellei muutoin sovita erillisellä sopimuksella. 
+
+Lokeihin sisältyvät seuraavat tiedot: 
+- Mobiililaitteen asetukset: Malli, ohjelmistoversio, IMEI, ainutlaatuinen numeerinen tunniste, IMSI, virtatila, akun tila, CPU/RAM/sisäisen tallennustilan käyttö, keskimääräinen käyttöaika, laitteiston itse-diagnoosin tulos (Wi-Fi, BT, läheisyystunnistin, valaisuanturi, sormenjälkianturi, jne.) 
+- Verkon tila
+- Tiedot sovelluksesta, sovelluskäytön laskuri/tilastot
+- Matkapuhelinlaitteesi yhteyden tila
+- Vian tiedot: Jumiutunut näyttö, tahattomat sammumiset, purkautuneet puheluyhteydet, sovellusvirheet
+- Mobiililaitteen asetukset
+
+LGE:n hyödyntämiä tietonimikkeitä voidaan käyttää yksilöllisesti tai yhdistää kerrytettyyn muotoon. LGE käyttää tietoja ymmärtääkseen paremmin asiakkaidemme tarpeita, parantaakseen asiakaspalvelua sekä tarjoamiamme tuotteita ja palveluita. Esim., Aktiviteettilokin tiedot mahdollistavat LGE:n tutkivan helpottavan verkkovirheitä, liitäntävirheitä ja akun ongelmia. 
+
+Napsauttamalla “hyväksyn”, annat suostumuksesi LGE:n sekä tiettyjen kolmansien osapuolten, jotka toimivat LGE:n puolesta (alla kuvatulla tavalla), siirtyvän ja käyttävän Aktiviteettilokin tietoja, jotka ovat laitteesi tuottamia. LGE saattaa jakaa Aktiviteettilokin tiedot seuraavien kolmansien osapuolten kanssa:
+- Kumppanit ja tytäryhtiöt (tarkoittaen yhtiöitä, jotka hallitsevat, ovat hallittuja tai yhteisen omistuksen hallinnan alla tai hallitaan LGE:n toimesta); ja
+- edustajat ja palveluntarjoajat, joita sitoo luottamuksellisuuden velvoitteet ja jotka käyttävät tietoja vain LGE:n puolesta tai toimittavat pyydettyjä tuotteita tai palveluita, tai muutoin täyttävät sopimuksellisia velvoitteita sinua kohtaan.
+LGE ei ole vastuussa tai vastuullinen koskien tietosuojamenettelyn käytäntöjä kolmansien osapuolten osalta.
+LGE pyytää myös Aktiviteettilokin tietojen keräystä käyttäessäsi LGE:n jälkipalvelua (A/S) tai kunnostuspalvelua. Sinulta pyydetään erillistä hyväksyntää näiden palveluiden käytön aikaan suostumustasi tähän.
+Vaikka Aktiviteettilokin tiedot ovat tuotettuja laitteellasi, hyväksyt sen tai et, mikäli et ole napsauttanut “hyväksyn” LG ei siirry sen kaltaiseen tietoon. Jos et halua LGE:n siirtyvän Aktiviteettilokisi tietoihin, voit milloin vain estää pääsymme Aktiviteettilokisi tietoihin asetuksesta [Asetukset – Järjestelmä – Tietoja puhelimesta – Aktiviteettien lokit]. Ymmärtääksesi kuinka LGE yleisesti ottaen käsittelee tietojasi, mukaan lukien Aktiviteettilokin tiedot, ks. tietosuojakäytäntömme kohdassa [Asetukset – Järjestelmä – Tietoja puhelimesta – Juridiset tiedot – LG-ohjelmistojen oikeudelliset asiakirjat – Tietosuojakäytäntö].
+
+Kaikki tämän Aktiviteettilokin asiakirjat ovat laadittuja paikallisia vaatimuksia varten ja mikäli tämän Aktiviteettilokin englannin kielisen ja ei-englannin kielisen version välillä on eroja, englannin kielinen versio toimii vallitsevana paikallisen lain sallimissa enimmäisrajoissa.
+

@@ -1,0 +1,3 @@
+﻿Temos de uso das informações sobre localização coletadas 
+
+A LGE pode usar informações de localização salvas no dispositivo (usando GPS, Wi-Fi e redes de comunicação móvel) para obter a "localização atual" do seu dispositivo. A LGE irá armazena internamente no dispositivo do usuário informações sobre a sua "localização atual" e não irá salvar ou armazenar tais informações em seus servidores. Mesmo se você concordar com os termos acima, o serviço será fornecido apenas quando o usuário ligar a função de localização do Google, e a utilização da informação "localização atual" pode ser alterado a qualquer momento no menu de configuração de cada serviço que utiliza a "localização atual".

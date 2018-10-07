@@ -1,0 +1,3 @@
+﻿Esamos vietos informacijos naudojimas
+
+„LGE“ gali naudoti įrenginyje (naudojant GPS, „Wi-Fi“ ir mobiliojo ryšio tinklus) išsaugotą vietos informaciją siekiant gauti įrenginio „esamos vietos informaciją“. „LGE“ „esamos vietos informaciją“ išsaugo tik naudotojo įrenginyje ir savo serveriuose tokios informacijos nerenka, neišsaugo ir nelaiko. Net suteikus pirmiau nurodytą sutikimą paslauga teikiama tik naudotojui įjungus „Google“ vietovės funkciją, o „esamos vietos informacijos“ paslaugos naudojimą galima bet kada pakeisti kiekvienos „esamos vietos informaciją“ naudojančios paslaugos nustatymų meniu.

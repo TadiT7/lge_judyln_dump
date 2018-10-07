@@ -1,0 +1,63 @@
+﻿Veiklos žurnalų naudojimo privatumo politika
+
+Pastaba: Sutikdami su šia privatumo politika suteikiate mums leidimą naudoti jūsų duomenis pagal šio dokumento nuostatas. Jūsų sutikimas yra savanoriškas. Vis dėl to, jei sutikimo nesuteiksite, negalėsime jums teikti paslaugų; šiuo atveju, negalėsite naudotis tam tikromis „LG“ Įrenginio diagnostikos ataskaitų paslaugomis (toliau – „LG“ Paslauga). Savo sutikimo sąlygas galite bet kada gauti „LG“ paslaugoje ir savo sutikimą galite panaikinti pranešdami el. pašto adresu: mc.customer-service@lge.com
+
+1. Įžanga
+„LG Electronics Inc.“ (toliau – „LGE“ arba „mes“) yra įsipareigojusi saugoti „LG“ Paslaugą naudojančių asmenų ir grupių paslaugoje laikomą informaciją. Šioje Privatumo politikoje nurodoma kaip mes renkame, naudojame ir dalinamės jums naudojantis paslaugomis gauta informacija ir joje konkrečiai išdėstyta:
+- Kokią informaciją „LGE“ gali gauti iš jūsų arba „LG“ Paslaugos;
+- Kaip „LGE“ naudoja gautą informaciją;
+- Kada „LGE“ dalinasi informacija su kitais; ir
+- Kaip galite valdyti „LGE“ jūsų informacijos naudojimą ir dalinimąsi ja.
+
+„LG“ Paslauga gali teikti prieigą prie programų ir nuorodų į kitas trečiosioms šalims, įskaitant operacinės sistemos tiekėjus ir kito turinio ir programų tiekėjus, priklausančias ar jų valdomas paslaugas. Tokioms trečiųjų šalių paslaugoms ši Privatumo politika netaikoma ir joms taikomos atskiros privatumo politikos, nurodančios su jų paslaugomis susijusios informacijos rinkimą, naudojimą ir dalinimąsi ją. Rekomenduojame tokias politikas perskaityti. „LGE“ neatsako ir neprisiima atsakomybės už tokių trečiųjų šalių privatumo praktiką.
+
+2. Kokią informaciją „LGE“ gauna?
+„LGE“ rinks toliau nurodytą informaciją:
+① Mobiliojo įrenginio būsena: Modelis, programinės įrangos versija, IMEI, serijos numeris, IMSI, maitinimo būsena, akumuliatoriaus būsena, CPU/RAM/vidinės saugyklos naudojimas, vidutinis naudojimo laikas, aparatinės įrangos savaiminės diagnostikos rezultatai („Wi-Fi“, „Bluetooth“, artumo jutiklio, apšvietimo jutiklio, pirštų atspaudų jutiklio, t. t.)
+② Tinklo būsena: Paslaugų būsena (skambučių, duomenų), signalo stiprumas, stoties informacija, skambučių dažnumas/laikas
+③ Programų informacija: Įdiegtų ir pašalintų programų sąrašas, programos versija, paskiausiai naudotos programos, programų naudojimo dažnumas/statistika 
+④ Mobiliojo telefono ryšio būsena: „Wi-Fi“, „Bluetooth“, GPS, ausinių lizdas, akumuliatoriaus įkroviklis, USB ir SD kortelės prijungimo būsenos
+⑤ Klaidų informacija: Užstrigęs ekranas, nenumatyti išsijungimai, atjungti skambučiai, programų klaidos (esminės, išimtys)
+
+3. Kaip „LGE“ naudos gautą informaciją?
+Gautą informaciją naudojame įvairiais tikslais, įskaitant:
+- Identifikuoti mobilųjį įrenginį ir atlikti jo diagnostiką
+- Teikti paslaugas klientams ir tvarkyti paslaugų istoriją 
+- Paraginimo pranešimams siųsti 
+- Analizuoti paslaugas/žurnalus/įrenginio istoriją siekiant gerinti kokybę ir klientų pasitenkinimą
+
+Iš jūsų gautą informaciją, įsk. asmeninę informaciją, mes galime sujungti su jūsų mums kitomis priemonėmis pateikta informacija šios Privatumo politikos nuostatas atitinkančiais tikslais. 
+
+4. Dalinimasis informacija
+Jums naudojantis „LG“ Paslauga mūsų gauta informacija įprastai su trečiosiomis šalimis nesidaliname. Nepaisant to, prašome atkreipti dėmesį, kad toliau nurodytais atvejais galime dalintis tokia informacija su tokiomis trečiosioms šalimis:
+- Filialai ir dukterinės įmonės. „LGE“ gali dalintis asmenine ir neasmenine informacija (įsk. įrenginio informaciją) su savo filialais ir dukterinėmis įmonėmis visame pasaulyje tik tiek, kiek reikia tikslais, kuriais ji buvo renkama. Terminai „filialai“ ir „dukterinės įmonės“ reiškia grupės įmones, kurios gali naudoti „LG“ pavadinimą arba gali būti bendrai valdomos (tokios kaip „LG CNS“ ar „LG Electronics U.S.A.,INC.“ („LGEUS“);
+- Trečiųjų šalių paslaugų tiekėjai. Trečiosios šalys, su kuriomis „LGE“ gali bendradarbiauti siekiant laikas nuo laiko teikti paslaugas jos vardu, pavyzdžiui, siekiant įvykdyti klientų aptarnavimo užklausas;
+- Kitos šalys kai reikalaujama pagal įstatymų nuostatas. Jei reikalaujama teismo įsakymu ar to reikalauja kitos vyriausybinės ar teisėsaugos institucijos siekiant laikytis teisminio proceso ar įstatymų;
+- Kitos su įmonių sandoriais susijusios šalys. Verslo sandorio, tokio kaip susijungimo ar viso ar dalies „LGE“ verslo (įskaitant padalinio ar dukterinės įmonės) pardavimo atveju, kai „LGE“ gali reikėti atskleisti informaciją potencialiam pirkėjui ar jo profesionaliems patarėjams;
+- Kitos šalys kai to reikia siekiant apsaugoti mūsų paslaugas. Siekiant apsaugoti ar apginti mūsų teises ir nuosavybę, įsk. teisminio proceso metu;
+- Kito šalys kai to reikia siekiant užtikrinti bet kokių mūsų naudotojų asmeninį saugumą ar turto apsaugą. Siekiant užtikrinti mūsų naudotojų ar visuomenės saugumą ar jų turto apsaugą.
+
+Jūsų informacija jokiais atvejais nebus apdorojama rinkodaros tikslais, ja taip pat nebus dalinamasi su trečiųjų šalių tiekėjais rinkodaros tikslais.
+
+5. Persiuntimas į kitas šalis
+Mes, mūsų filialai, dukterinės įmonės ir paslaugų tiekėjai galime naudoti jūsų informaciją (įskaitant asmeninę informaciją) kitose šalyse, nei yra jūsų mobilusis telefonas, siekdami jums teikti „LG“ Paslaugą ir kitais šioje Privatumo politikoje nurodytais tikslais. Daugelio šių šalių duomenų apsaugos įstatymai gali nesuteikti tokio apsaugos lygio, kaip galiojantys šalyje, kuriose esate. Vis dėl to, prieš perduodami jūsų asmeninę informaciją, imsimės priemonių siekdami užtikrinti, kad tokiai informacijai būtų taikomas toks pat apsaugos lygis. Sutikdami su šia Privatumo politika jūs aiškiai mums ir mūsų verslo partneriams ir teikėjams patvirtinate, duodate aiškų sutikimą apdoroti jūsų duomenis bet kokioje jurisdikcijoje, įskaitant, bet neapsiribojant, Korėjos Respublikoje ar Jungtinėse Amerikos Valstijose pagal šią Privatumo politiką. 
+
+6. Kaip ilgai „LGE“ saugos mano asmeninę informaciją?
+Mes imsimės pagrįstų priemonių siekdami užtikrinti, kad jūsų asmeninė informacija būtų laikoma tol, kol mums jos reikia siekiant teikti „LG“ Paslaugą arba tikslams, kuriais ji buvo renkama, arba tiek, kiek reikalaujama pagal taikomas įstatymų nuostatas.
+
+7. Apsauga
+Mes dedame komerciškai pagrįstas pastangas siekdami užtikrinti jūsų asmeninės informacijos konfidencialumą ir apsaugą. Vis dėl to, dėl interneto dizaino, nuolat besikeičiančių technologijų ir kitų veiksnių, kurių valdyti negalime, negalime garantuoti, kad komunikacija tarp jūsų ir mūsų serverių visada bus apsaugota nuo trečiųjų šalių prieigos ar kad nebus pažeistas mūsų sistemų saugumas. Neprisiimame jokios atsakomybės dėl asmeninės informacijos atskleidimo dėl klaidų perdavimo metu ar neįgaliotos ar neteisėtos trečiųjų šalių prieigos.
+
+8. Vaikų privatumo apsauga
+Mums svarbu vaikų privatumo apsauga. Dėl šios priežasties „LG“ Paslauga nėra skirta pritraukti jaunesnius, nei 14 metų amžiaus ar pilnametystės amžiaus atitinkamoje jurisdikcijoje nesulaukusiems asmenims ir ji nėra specialiai sukurta pritraukti jaunesnius, nei 14 metų amžiaus asmenis. Mes taip pat sąmoningai nerenkame ir nelaikome jaunesnių, nei 14 metų amžiaus asmenų asmeninės informacijos. Mums sužinojus, kad surinkome jaunesnių, nei 14 metų amžiaus ar pilnametystės amžiaus atitinkamoje jurisdikcijoje nesulaukusių naudotojų informaciją, mes nedelsdami tokią informaciją ištrinsime.
+
+9. „LGE“ Privatumo politikos pakeitimai
+„LGE“ gali laikas nuo laiko atnaujinti šią Privatumo politiką. Atlikus esminį Privatumo politikos pakeitimą, mes jus informuosime „LG“ interneto svetainėje ar kitomis priemonėmis. Su atnaujinta privatumo politika nesutikus, „LG“ Paslauga gali būti apribota.
+
+10. Prieiga prie jūsų informacijos 
+Pagal kai kuriose jurisdikcijose galiojančius įstatymus turite teisę prašyti prieigos prie „LGE“ renkamos jūsų asmeninės informacijos arba reikalauti ištaisyti jūsų asmeninės informacijos netikslumus ar kitaip dėl teisėtų priežasčių prieštarauti savo asmeninės informacijos apdorojimui. Jei leidžia įstatymas, tokių paslaugų teikimas gali būti apmokestinamas nedideliu mokesčiu. Prašome atkreipti dėmesį kad mes galime atsisakyti apdoroti jūsų užklausas jei jomis nepagrįstai piktnaudžiaujama, dėl jų kyla pavojus kitų asmenų privatumui, ar jos itin nepraktiškos. Norėdami pateikti prašymą dėl prieigos prie savo asmeninės informacijos, jos ištaisymo, pašalinimo, arba prieštaravimą asmeninės informacijos apdorojimui, susisiekite su mumis el. pašto adresu: mc.customer-service@lge.com.
+
+11. Susisiekimas su „LGE“ dėl šios Privatumo politikos
+Jei turite kokių nors su šia Privatumo politika susijusių klausimų ar komentarų, prašome susisiekti el. pašto adresu: mc.customer-service@lge.com.
+
+Paskutinis atnaujinimas: 2017 m. birželio 22 d.

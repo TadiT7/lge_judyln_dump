@@ -1,0 +1,6 @@
+﻿Uporaba informacije o trenutni lokaciji za Moja mesta
+
+Ta storitev Moja mesta (»storitev«) uporablja informacije o lokaciji uporabniške naprave za analizo vzorcev lokacij, na katerih je uporabnik ostal razširjeno dolgo časa in zagotavlja funkcijo samodejnega prepoznavanja takih lokacij ali omogoča uporabniku ročno določiti lokacijo kot »Moja mesta« (npr. dom, delovni prostor). Neprestana analiza vzorcev lahko samodejno spremeni lokacijo na prejšnjo določeno lokacijo. 
+Čeprav ta storitev uporablja informacijo o lokaciji (bazna oddajno-sprejemna postaja (BTS)), GPS, Wi-Fi, omrežni položaji (NLP)), shranjena v uporabniški napravi, LG Electronics Inc. (LGE) nikoli ne zbira ali uporablja informacij o lokaciji uporabnika in se uporablja ter shranjuje samo v napravi uporabnika.
+Ta storitev začne s samodejnim prepoznavanjem mest, kjer je uporabnik ostal dlje časa, ki se začne, ko se uporabnik strinja z uporabo informacij o trenutni lokaciji naprave uporabnika in se nadaljuje, razen če uporabnik zaustavi uporabo storitve, tako da izklopi ustrezno možnost funkcije.
+Vendar pa bo LGE uporabljal samo informacije o trenutni lokaciji uporabnika, če uporabnik vklopi možnost uporabe storitve lokacije Google na tej napravi.

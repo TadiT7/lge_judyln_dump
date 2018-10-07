@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<item name ="onlyEarAntenna" value="true"/>
+	<item name="speaker_mode" value="true"/>
+	<item name="oneseg_only" value="true"/>
+	<item name="recordable" value="true"/>
+</Settings>

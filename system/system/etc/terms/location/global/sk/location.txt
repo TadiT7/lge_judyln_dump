@@ -1,0 +1,3 @@
+﻿Používanie informácií o aktuálnej polohe
+
+Spoločnosť LGE môže používať informácie o polohe uložené v zariadení (s využitím GPS, siete Wi-Fi a sietí na mobilnú komunikáciu) na získavanie „informácií o aktuálnej polohe“ zariadenia. Spoločnosť LGE ukladá „informácie o aktuálnej polohe“ len interne, v zariadení používateľa, a nezhromažďuje, neukladá ani neuchováva tieto informácie na svojich serveroch. Ak budete súhlasiť s hore uvedeným, táto služba bude poskytovaná, len ak používateľ zapne funkciu stanovenia polohy Google, a používanie služby „informácie o aktuálnej polohe“ bude možné kedykoľvek zmeniť, a to v ponuke Nastavenia pre každú službu využívajúcu „informácie o aktuálnej polohe“.
